@@ -1,0 +1,1306 @@
+EFRAG SRB Meeting
+16 October 2024
+09-03
+This paper has been prepared by the EFRAG Secretariat for discussion at a public meeting of EFRAG SRB. The paper
+forms part of an early stage of the development of a potential EFRAG position. Consequently, the paper does not
+represent the official views of EFRAG or any individual member of EFRAG SRB or EFRAG SR TEG. The paper is made
+available to enable the public to follow the discussions in the meeting. Tentative decisions are made in public and
+reported in the EFRAG Update. EFRAG positions, as approved by EFRAG SRB, are published as comment letters,
+discussion or position papers, or in any other form considered appropriate in the circumstances.
+The content of each Explanation has been drafted to provide an answer to a specific technical question and cannot
+be directly extended by analogy to a different fact-pattern.
+Log of draft explanations
+Table of content
+Cross-Cutting ................................................................................................................................... 2
+ID 166 – Scope of consolidation timing of acquisitions and divestments ....................................... 2
+ID 438 – Treatment of non-material datapoints: e.g., radioactive waste - can it be a non-material
+datapoint? ....................................................................................................................................... 4
+ID 753– Financial materiality in the value chain and power purchase agreements ....................... 5
+ID 855 – Financial materiality and time horizon ............................................................................. 7
+ID 870 – Materiality threshold for group company ...................................................................... 11
+ID 923 – Phase-in entity specific disclosures ................................................................................. 12
+ID 952 – Metrics – rounding and decimals; materiality of information ........................................ 13
+ID 968 – Ecolabel ........................................................................................................................... 14
+ID 1013 - Variable remuneration potential discrepancy between ESRS 2 and ESRS E1? .............. 14
+Environmental ............................................................................................................................... 16
+ID 283 – Is waste incineration a disposal operation ..................................................................... 16
+ID 472 – Major incidents and deposits .......................................................................................... 18
+ID 531 – Base year ......................................................................................................................... 20
+ID 653 – Microplastics - tires wear ................................................................................................ 21
+ID 734 – Disclosure of progress in meeting climate-related targets ............................................. 23
+ID 815 – Substances of concern – in articles ................................................................................. 24
+ID 831 – Contractual instruments ................................................................................................. 26
+ID 832 – Pollutants emissions – changes over time ...................................................................... 27
+ID 873 – Transport of removed GHGs .......................................................................................... 28
+ID 882 – Data availability for biogenic emissions in Scope 3 ........................................................ 29
+ID 893– Conversion factor fossil fuels ........................................................................................... 30
+Governance ................................................................................................................................... 31
+ID 800 Corruption and Bribery ...................................................................................................... 31
+EFRAG SRB Meeting 16 October 2024 Page 1 of 32
+Log of explanations
+Cross-Cutting
+ID 166 – Scope of consolidation timing of acquisitions and divestments
+[For SRB to note: TEG and also SRB WG members agreed with the answer of this ID but some
+pointed out the practical difficulties that undertakings have following the current ESRS
+requirements for acquisitions close to year-end; also noting that pointing to estimates is not
+helpful especially if those estimates do not meet the requirements for quality of information
+(“badly estimated metrics”). An Amendment to ESRS was considered necessary by many.]
+Question asked
+In case an undertaking acquires / (divests from) one or more of its subsidiaries how should the
+undertaking report on them in the year of acquisition / (divestment)?
+ESRS reference
+ESRS 1 paragraphs 33, 62
+Key terms
+Acquisition and divestment of subsidiaries in the sustainability statement
+Background
+ESRS 1 paragraph 33 states: ‘When disclosing information on policies, actions and targets in
+relation to a sustainability matter that has been assessed to be material, the undertaking shall
+include the information prescribed by all the Disclosure Requirements and datapoints in the
+topical and sector-specific ESRS related to that matter and in the corresponding Minimum
+Disclosure Requirement on policies, actions, and targets required under ESRS 2. If the undertaking
+cannot disclose the information prescribed by either the Disclosure Requirements and datapoints
+in the topical or sector-specific ESRS, or the Minimum Disclosure Requirements in ESRS 2 on
+policies, actions and targets, because it has not adopted the respective policies, implemented the
+respective actions or set the respective targets, it shall disclose this to be the case and it may
+report a timeframe in which it aims to have these in place.’
+ESRS 1 paragraph 62 states: ‘The sustainability statements shall be for the same reporting
+undertaking as the financial statements. For example, if the reporting undertaking is a parent
+company required to prepare consolidated financial statements, the sustainability statement will
+be for the group. ...’
+ESRS 1 paragraph 102 states: ‘When the undertaking is reporting at a consolidated level, it shall
+perform its assessment of material impacts, risks and opportunities for the entire consolidated
+group regardless of its group legal structure. …’
+The consolidated group comprises the parent company and the subsidiaries financially controlled
+based on IFRS accounting standards or the applicable national GAAP. A parent company might
+acquire control / (or lose control) over a subsidiary during the reporting period. From an
+accounting point of view the subsidiary is consolidated for the first time on the day control is
+achieved / (or de-consolidated at the date control is lost) according to applicable accounting
+requirements. Under IFRS accounting standards the undertaking has one year of time to complete
+the full accounting procedure and at the year end, pending the completion of the procedure, a
+provisional accounting approach is taken. ESRS do not have a corresponding provisional reporting
+approach.
+SRB 16 October 2024 Page 2 of 32
+Log of explanations
+Answer
+The sustainability statement shall be for the same reporting undertaking as the financial
+statements. Therefore, in the approach of the first-time consolidation (deconsolidation) of newly
+acquired (disposed) entities, the perimeter for sustainability statement follows the scope and
+timing applied in the financial statements. This results in a pro-rata inclusion or exclusion of flux
+metrics (e.g. water consumption, GHG emissions) starting from the data of acquisition or ending
+to the data of divestment (i.e. date control is acquired or lost) and a consideration of point-in-
+time metrics at that specific point-in-time (e.g., balance-sheet date with the acquired respectively
+without the disposed-off entities).
+If regarding newly acquired subsidiaries the undertaking cannot disclose the information
+prescribed by either the Disclosure Requirements and datapoints in the topical or sector-specific
+ESRS, or the Minimum Disclosure Requirements in ESRS 2 on policies, actions and targets,
+because it has not adopted the respective policies yet, implemented the respective actions yet or
+set the respective targets yet, it shall – if they relate to a material matter- disclose this to be the
+case and it may report a timeframe in which it aims to have these in place (see ESRS 1 paragraph
+33). However, the reporting undertaking shall disclose the policies, actions and targets adopted
+by the acquired investee before the acquisition, when they were in place in the reporting period
+to manage material IROs.
+Material metrics of impacts, risks or opportunities of the acquired investee are to be reported,
+i.e. included in the relevant group metrics. If the metric cannot be determined through direct data
+collection, it shall be estimated; assumptions and limitations in this estimation shall be disclosed.
+Similarly to what happens in the preparation of consolidated financial statements, practical
+considerations might be applied when preparing the sustainability statement, such as not
+including the data of an entity acquired during the reporting period, when the difference in the
+relevant metrics would be immaterial, provided that the resulting information still allows to meet
+the qualitative characteristics of information, including relevance and faithful representation (see
+ESRS 1 paragraph 19).
+Sources of estimation and outcome uncertainty shall be disclosed in accordance with ESRS 2
+paragraph 11.
+See also:
+ID 148 Scope of consolidation – non-EU and unconsolidated subsidiaries;
+ID 337 Metrics calculation – same level of precision; and
+ID 504 Disclosure Requirements on material metrics when information is not available.
+SRB 16 October 2024 Page 3 of 32
+Log of explanations
+For the attention of the SRB:
+An SRB WG member objected and provided the following rational:
+‘Material metrics of impacts, risks or opportunities of the acquired investee are to be
+reported, i.e. included in the relevant group metrics. If the metric cannot be determined
+through direct data collection, it shall be estimated; assumptions and limitations in this
+estimation shall be disclosed.’
+The member thinks that the above is not always possible, nor sensible and would prefer to
+follow the process as described in the following paragraph:
+‘If regarding newly acquired subsidiaries the undertaking cannot disclose the information
+prescribed by either the Disclosure Requirements and datapoints in the topical or sector-
+specific ESRS, or the Minimum Disclosure Requirements in ESRS 2 on policies, actions and
+targets ... if they relate to material matter- disclose this to be the case and it may report a
+timeframe in which it aims to have these in place (see ESRS 1 paragraph 33).’
+As such, the member proposes this edit or rejects this explanation if changes cannot be made.
+Feedback from the secretariat: We note the concern and understand the difficulties. The same
+view has been raised by some in TEG as well. However, ESRS 1 paragraph 33 is only applicable
+to PAT, so cannot be extended by analogy to other situations. The concern might result in an
+amendment of ESRS going forward.
+ID 438 – Treatment of non-material datapoints: e.g., radioactive waste -
+can it be a non-material datapoint?
+Category
+Cross-cutting
+Question asked
+Is it necessary to report radioactive waste from analytical devices and tracer applications?
+ESRS Reference
+ESRS E5 paragraph 39; ESRS 1 paragraph 34, ESRS 2 paragraph 56
+Key terms
+Waste; radioactive waste; non-material datapoint
+Background
+The submitter provided the following background: ‘Reporting all radioactive waste according to
+2022/70/Euratom would include radioactive tracers and, analytical devices and sensors.
+Reporting of these wastes should be excluded because they are present in very small amounts
+and already locally reported under applicable legislation. Ex-EU, the definition of radioactive
+waste may also be different from 2022/70/Euratom.’
+ESRS E5 paragraph 39 states: ‘The undertaking shall also disclose the total amount of hazardous
+waste and radioactive waste generated by the undertaking, where radioactive waste is defined in
+Article 3(7) of Council Directive 2011/70/Euratom.
+ESRS 1 paragraph 34 states: ‘When disclosing information on metrics for a material sustainability
+matter according to the Metrics and Targets section of the relevant topical ESRS, the undertaking:
+SRB 16 October 2024 Page 4 of 32
+Log of explanations
+(a) shall include the information prescribed by a Disclosure Requirement if it assesses such
+information to be material; and
+(b) may omit the information prescribed by a datapoint of a Disclosure Requirement if it
+assesses such information to be not material and concludes that such information is not
+needed to meet the objective of the Disclosure Requirement.’
+ESRS 2 paragraph 56 states: ‘ … The undertaking shall also include a table of all the datapoints
+that derive from other EU legislation as listed in Appendix B of this standard, indicating where
+they can be found in the sustainability statement and including those that the undertaking has
+assessed as not material, in which case the undertaking shall indicate “Not material” in the table
+in accordance with ESRS 1 paragraph 35.’
+Answer
+It depends, whether it is necessary to report radioactive waste.
+The Disclosure Requirement of ESRS E5-5 - Resource outflow with the datapoints total amount of
+hazardous waste and radioactive waste (paragraph 39) is - as all the topical Disclosure
+Requirements - subject to double materiality and to materiality of information as stipulated in
+ESRS 1 chapter 3 – Double materiality as the basis for sustainability disclosures:
+(a) is the sub-topic ‘waste’ material? - the undertaking shall only disclose the datapoints of
+the sub-topic waste of ESRS E5, if considered material under double materiality (see ESRS
+1 chapter 3.3 Double materiality); and if so,
+(b) does the datapoint provide material information? - the metrics required to be disclosed
+by ESRS E5-5 Waste including ‘the total amount of hazardous waste and radioactive waste
+generated by the undertaking’ shall only be disclosed if such information is assessed to
+be material and may be omitted if not (ESRS 1 paragraph 34).
+Accordingly, it depends on materiality whether radioactive waste from analytical devices and
+tracer applications shall be reported. Reference is made to ESRS 1 paragraphs 36 and 42 on
+establishing appropriate thresholds when disclosing on metrics.
+It is noted that the datapoints of ESRS E5 paragraph 39 derive from other EU legislation as listed
+in Appendix B of ESRS 2 and that ESRS 2 paragraph 56 applies. This means that - if applicable (i.e.,
+the amount of radioactive waste is not material for reporting) - the enterprise shall flag that the
+amount of radioactive waste is not material in accordance with ESRS 1 paragraph 35.
+Reference is made to ID 952 –Metrics – rounding and decimals; materiality of information.
+ID 753– Financial materiality in the value chain and power purchase
+agreements
+Category
+Cross-cutting
+Question asked
+(1) Shall a matter included in the financial statements of the undertaking but being outside
+of its value chain be reported in the undertaking's financial materiality assessment?
+SRB 16 October 2024 Page 5 of 32
+Log of explanations
+(2) There is uncertainty whether a PPA (Power Purchase Agreement) would enter the scope
+of the value chain of the undertaking. More specifically, 1) in the case of a VPPA 2) in the
+case of a DPPA.
+ESRS Reference
+ESRS 1 chapter 3.5 Financial materiality, paragraphs 49 and 63
+Key terms
+Value chain; financial materiality; power purchase agreements
+Background
+[As part of the question the submitter also stated: ‘While Section 3.5 Financial materiality doesn't
+mention that the matter shall be part of the undertaking's value chain, the related risks and
+opportunities notions are used in the rest of the document as "in the undertaking's value chain".’]
+ESRS 1 paragraph 49 states: ‘A sustainability matter is material from a financial perspective if it
+triggers or could reasonably be expected to trigger material financial effects on the undertaking.
+This is the case when a sustainability matter generates risks or opportunities that have a material
+influence, or could reasonably be expected to have a material influence, on the undertaking’s
+development, financial position, financial performance, cash flows, access to finance or cost of
+capital over the short-, medium- or long-term. Risks and opportunities may derive from past
+events or future events. The financial materiality of a sustainability matter is not constrained to
+matters that are within the control of the undertaking but includes information on material risks
+and opportunities attributable to business relationships beyond the scope of consolidation used
+in the preparation of financial statements.’
+ESRS 1 paragraph 63 states: ‘The information about the reporting undertaking provided in the
+sustainability statement shall be extended to include information on the material impacts, risks
+and opportunities connected with the undertaking through its direct and indirect business
+relationships in the upstream and/or downstream value chain (“value chain information”). …’
+A power purchase agreement (PPA), or electricity power agreement, is a long-term contract
+between an electricity generator and a customer, usually a utility, government or company. The
+PPA defines the conditions of the agreement, such as the amount of electricity to be supplied,
+negotiated prices, accounting, and penalties for non-compliance. Since it is a bilateral agreement,
+a PPA can take many forms and is usually tailored to the specific application. The power generated
+might be renewable. Under a PPA, the customer is strictly speaking paying a provider for the
+energy received. Therefore, in the case of renewable energy the undertaking will not necessarily
+get the ancillary benefits of owning the renewable energy asset, such as the ability to get tax
+rebates or sell renewable energy credits.
+PPAs might be in the form of a physical-PPA (customer is receiving a fixed amount of energy at a
+fixed price) or virtual-PPA (customer is receiving / paying cash for a fixed amount of energy based
+on the difference between a fixed and a variable price per unit).
+Often those contracts result in parties involved receiving renewable energy certificates (‘RECs’).
+Answer
+(1) Shall a matter included in the financial statements of the undertaking but being outside
+of its value chain be reported in the undertaking's financial materiality assessment?
+SRB 16 October 2024 Page 6 of 32
+Log of explanations
+A transaction or contract included in the financial statements and the sustainability matter
+related to it cannot be considered outside the value chain. So, a PPA be it physical or virtual is
+considered as being in own operations (noting that: value chain comprises upstream and
+downstream value chain as well as own operations, see Annex II Acronyms and glossary of terms).
+Financial materiality in the sustainability statement includes items that arise from the
+undertaking’s own operations and items that arise in its value chain.
+A matter is material for inclusion in the sustainability statement from a financial materiality
+perspective, when it generates risks or opportunities that have a material influence or could
+reasonably be expected to have a material influence, on the undertaking’s development, financial
+position, financial performance, cash flows, access to finance or cost of capital over the short-,
+medium- or long-term (see ESRS 1 paragraph 49).
+(2) More specifically: There is uncertainty whether a PPA (Power Purchase Agreement)
+would enter the scope of the value chain of the undertaking. More specifically, 1) in the
+case of a VPPA 2) in the case of a DPPA
+A counterparty to the power purchase agreement is connected with the undertaking’s activities
+(see ESRS 1 paragraph 63).
+A physical-PPA results in the delivery of energy, and as it relates to indirect emissions, falls under
+Scope 2 emissions under the GHG Protocol.
+A virtual-PPA is a financial instrument resulting in the exchange of cash often combined with
+certificates to affect the energy mix of the undertaking. As this is part of the undertaking’s
+activities (to manage its energy costs or to obtain Guarantees of Origin (or Energy Attribute
+Certificates (EAC)), this is part of its own operations and not its value chain. The purchased
+Guarantees of Origin may ultimately form part of categorisation of Scope 2 disclosures under ESRS
+E1 whether surrendered or not. For answering this question please note that the answer does
+not relate to the relationship between the undertaking and the party delivering physical energy
+that often exists in the three-party relationship involving virtual-PPAs.
+As the substance of the contracts differ between a physical and a virtual PPA, the undertaking’s
+material impacts on people and environment and the material effects of sustainability matters
+on the undertaking’s development, performance and condition might also differ.
+IG 2 Value chain FAQ 2: Are financial assets (loans, equity and debt investments) considered
+business relationships that trigger VC information? states: ‘Business relationships and value chain
+as defined in Annex II Acronyms and Glossary of Terms do not exclude any types of activities and
+business relationships.’
+ID 855 – Financial materiality and time horizon
+Category
+Cross-cutting
+Question asked
+What is the role of time horizon (short, medium or long) in the materiality assessment of risks
+and opportunities?
+SRB 16 October 2024 Page 7 of 32
+Log of explanations
+ESRS Reference
+ESRS 1 chapter 3.5 Financial materiality; paragraphs AR 14 and AR 15; chapter 6.4 Definition of
+short-, medium- and long-term for reporting purposes; ESRS E1 paragraphs AR 67 and 68
+Key terms
+Time horizon; financial materiality
+Background
+The question received: ‘When assessing risks and opportunities from a financial perspective, how
+is it possible to integrate the variable of time horizon (e.g. short, medium or long) in the
+evaluation of magnitude/probability of that risk or opportunity?’ was rephrased to the above for
+clarity.
+ESRS 1 paragraph AR 14 states: ‘The identification of risks and opportunities that affect or could
+reasonably be expected to affect the undertaking’s financial position, financial performance, cash
+flows, access to finance or cost of capital over the short-, medium- or long-term is the starting
+point for financial materiality assessment. In this context, the undertaking shall consider:
+(a) the existence of dependencies on natural and social resources as sources of financial
+effects (see paragraph 50);
+(b) their classification as sources of:
+i. risks (contributing to negative deviation in future expected cash inflows or increase in
+deviation in future expected cash outflows and/or negative deviation from an
+expected change in capitals not recognised in the financial statements); or
+ii. opportunities (contributing to positive deviation in future expected cash inflows or
+decrease in deviation in future cash outflows and/or positive deviation from expected
+change in capitals not recognised in financial statements).
+ESRS 1 paragraph AR 15 states: ‘Once the undertaking has identified its risks and opportunities, it
+shall determine which of them are material for reporting. This shall be based on a combination
+of (i) the likelihood of occurrence and (ii) the potential magnitude of financial effects determined
+on the basis of appropriate thresholds. In this step it shall consider the contribution of those risks
+and opportunities to financial effects in the short-, medium- and long-term based on:
+(a) scenarios /forecasts that are deemed likely to materialise; and
+(b) potential financial effects related to sustainability matters deriving either from situations
+with a below the “more likely than not” threshold or assets/liabilities not, or not yet,
+reflected in financial statements. This includes:
+i. potential situations that following the occurrence of future events may affect cash
+flow generation potential;
+ii. capitals that are not recognised as assets from an accounting and financial reporting
+perspective but have a significant influence on financial performance, such as natural,
+intellectual (organisational), human, social and relationship capitals; and
+iii. possible future events that may have an influence on the evolution of such capitals.
+ESRS E1 paragraph AR 67 states: ’67. Material climate-related physical risks and transition
+risks may affect the undertaking’s financial position (e.g., owned assets, financially-controlled
+SRB 16 October 2024 Page 8 of 32
+Log of explanations
+leased assets, and liabilities), performance (e.g., potential future increase/decrease in net
+revenue and costs due to business interruptions, increased supply prices resulting in potential
+margin erosions), and cash flows. The low probability, high severity and long-term time horizons
+of some climate- related physical risk exposures and the uncertainty arising from the transition
+to a sustainable economy mean that there will be associated material anticipated financial
+effects that are outside the scope of the requirements of applicable accounting standards.
+ESRS E1 paragraph 68 states. “Currently, there is no commonly accepted methodology to assess
+or measure how material physical risks and transition risks may affect the undertaking’s future
+financial position, financial, performance and cash flows. Therefore, the disclosure of the financial
+effects (as required by paragraphs 64, 66 and 67) will depend on the undertaking’s internal
+methodology and the exercise of significant judgement in determining the inputs, and
+assumptions needed to quantify their anticipated financial effects.’
+Answer
+Note for the SRB
+An SRB member (in the context of the SRB WG) objected and commented that this ID should
+not be published as an Explanation but as an IG, in order to allow stakeholders to provide
+feedback.
+The EFRAG SR TEG discussed the necessity do develop an IG as well, but reached a consensus
+on the fact that the current text reflects the content of ESRS and IFRS AR on the matter as
+described in the background, as such it can be issued as an Explanation.
+A sustainability matter is material from a financial perspective if it generates risks or opportunities
+that have a material influence or could reasonably be expected to have a material influence, on
+the undertaking’s development, financial position, financial performance, cash flows, access to
+finance or cost of capital over the short-, medium- or long-term (ESRS 1 paragraph 49). When
+assessing a risk or opportunity for (financial) materiality the undertaking considers the
+perspective of the investors (ESRS 1 paragraph 48).
+The assessment ‘… shall be based on a combination of (i) the likelihood of occurrence and (ii) the
+potential magnitude of financial effects determined on the basis of appropriate thresholds.’ (see
+ESRS 1 paragraph AR 15).
+The time horizon may affect the magnitude of a financial effect via the discounting of financial
+effects expected to arise at a future date. Financial effects are generally assessed by investors for
+their magnitude in terms of net present value. The consideration of the time horizon is based on
+the time-value of money / the discounted cash-flow method in line with investors’ information
+needs: a cash-inflow / (cash-outflow) is worth more / (less) now, than the same cash-flow at a
+future date due to its earnings potential in the interim.
+However, there are cases when effects that are expected to arise in the long term and/or more
+uncertain financial effects, should be assessed based on the undiscounted expected amounts.
+The longer the time horizon, the more uncertain is its outcome. There might be situations when
+discounting might make figures irrelevant or the financial effects might be - due to their
+uncertainty of occurrence in either the short-, medium- or long-term -not accessible to
+discounting (e.g., a flooding in an area exposed to it) but the undiscounted financial effects would
+nevertheless be relevant for investors. This is also acknowledged in ESRS E1 Disclosure
+Requirement E1-9 paragraphs 67 and 68 for anticipated financial effects:
+’67. … The low probability, high severity and long-term time horizons of some climate-
+related physical risk exposures and the uncertainty arising from the transition to a
+SRB 16 October 2024 Page 9 of 32
+Log of explanations
+sustainable economy mean that there will be associated material anticipated financial
+effects that are outside the scope of the requirements of applicable accounting standards.
+68. Currently, there is no commonly accepted methodology to assess or measure how
+material physical risks and transition risks may affect the undertaking’s future financial
+position, financial, performance and cash flows.’
+See also IFRS S1 B 24 (cited below in the Supporting material): ‘For example, this might happen if
+information about a particular sustainability-related risk or opportunity is highly scrutinised by
+primary users of an entity’s general purpose financial reports’.
+Judgements, estimates and assumption made when considering time value of money shall
+consider connectivity of information (see ESRS 1 chapter 9.2 Connected information and
+connectivity with financial statements) noting that when measuring assets or liabilities in financial
+statements time value of money is often considered.
+Time horizon may also affect the assessment of likelihood of a financial effect. When looking at
+the likelihood of financial effects, factoring the time horizon may have conceptually
+different effects. There are instances where a higher likelihood is associated with a specific time
+horizon. Consider the risk of impairing an asset due to the end of its useful life for a potential ban
+of a specific technology starting from a given period in the future. The likelihood of a risk arising
+might be affected by whether the ban is expected in the near or in the further future. However,
+if the ban is already decided (there is no uncertainty), the financial effect is not affected by
+likelihood (probability of occurrence is 100%) and the time horizon only affects the magnitude
+(not the likelihood).
+In other instances, the longer the time horizon, the higher the likelihood of an event happening
+(the higher the likelihood of the associated risk or opportunity). For example, a flooding or a
+situation of water stress is less likely to occur during the short-term one-year time horizon as
+compared to the longer mid-term and long-term time horizons.
+Supporting material
+IFRS S1 General Requirements for Disclosure for Sustainability-related Financial Information B19
+– B24 states:
+Identifying material information
+B19 Materiality judgements are specific to an entity. Consequently, this Standard does not
+specify any thresholds for materiality or predetermine what would be material in a
+particular situation.
+B20 To identify material information about a sustainability-related risk or opportunity, an entity
+shall apply, as the starting point, the requirements of the IFRS Sustainability Disclosure
+Standard that specifically applies to that sustainability-related risk or opportunity. In the
+absence of an IFRS Sustainability Disclosure Standard that specifically applies to a
+sustainability-related risk or opportunity, the entity shall apply the requirements on
+sources of guidance specified in paragraphs 57⁠–⁠58. Those sources specify information,
+including metrics, that may be relevant to a particular sustainability-related risk or
+opportunity, to a particular industry or in specified circumstances.
+B21 An entity shall assess whether the information identified in applying paragraph B20, either
+individually or in combination with other information, is material in the context of the
+entity’s sustainability-related financial disclosures taken as a whole. In assessing whether
+information is material, an entity shall consider both quantitative and qualitative factors.
+For example, an entity might consider the magnitude and the nature of the effect of a
+sustainability-related risk or opportunity on the entity.
+SRB 16 October 2024 Page 10 of 32
+Log of explanations
+B22 In some cases, IFRS Sustainability Disclosure Standards require the disclosure of
+information about possible future events with uncertain outcomes. In judging whether
+information about such possible future events is material, an entity shall consider:
+(a) the potential effects of the events on the amount, timing and uncertainty of the
+entity’s future cash flows over the short, medium and long term (referred to as ‘the
+possible outcome’); and
+(b) the range of possible outcomes and the likelihood of the possible outcomes within
+that range.
+B23 When considering possible outcomes, an entity shall consider all pertinent facts and
+circumstances. Information about a possible future event is more likely to be judged as
+being material if the potential effects are significant and the event is likely to occur.
+However, an entity shall also consider whether information about low-probability and high-
+impact outcomes might be material either individually or in combination with information
+about other low-probability and high-impact outcomes. For example, an entity might be
+exposed to several sustainability-related risks, each of which could cause the same type of
+disruption—such as disruption to the entity’s supply chain. Information about an individual
+source of risk might not be material if disruption from that source is highly unlikely to occur.
+However, information about the aggregate risk—the risk of supply chain disruption from
+all sources—might be material.
+B24 If a possible future event is expected to affect an entity’s cash flows, but only many years
+in the future, information about that event is usually less likely to be judged material than
+information about a possible future event with similar effects that are expected to occur
+sooner. However, in some circumstances, an item of information could reasonably be
+expected to influence primary users’ decisions regardless of the magnitude of the potential
+effects of the future event or the timing of that event. For example, this might happen if
+information about a particular sustainability-related risk or opportunity is highly scrutinised
+by primary users of an entity’s general purpose financial reports.
+ID 870 – Materiality threshold for group company
+Category
+Cross-cutting
+Question asked
+Is it technically possible to identify consolidated issues and establish a "consolidated" materiality
+matrix for a group comprising several companies operating in various sectors of activity by
+averaging the issues?
+ESRS Reference
+ESRS 1 chapter 3 Double materiality as the basis for sustainability disclosures and paragraph 102
+Key terms
+Consolidated reporting
+Background
+ESRS 1 paragraph 102 states: ‘When the undertaking is reporting at a consolidated level, it shall
+perform its assessment of material impacts, risks and opportunities for the entire consolidated
+SRB 16 October 2024 Page 11 of 32
+Log of explanations
+group, regardless of its group legal structure. It shall ensure that all subsidiaries are covered in a
+way that allows for the unbiased identification of material impacts, risks and opportunities.
+Criteria and thresholds for assessing an impact, risk or opportunity as material shall be
+determined based on chapter 3 of this Standard.’
+Answer
+No, when assessing for materiality the impacts, risks and opportunities of different subsidiaries
+operating in different sectors, they should not be averaged but assessed in their own right. This
+is because the assessment of material impacts, risks and opportunities is agnostic whether the
+business activities are conducted in a group comprising several subsidiaries operating in various
+sectors of activity or whether those same business activities are all conducted by one legal entity
+being active in various sectors.
+As stated in ESRS 1 paragraph 102 ‘when the undertaking is reporting at a consolidated level, it
+shall perform its assessment of material impacts, risks and opportunities for the entire
+consolidated group, regardless of its group legal structure. …’.
+IG 1 Materiality assessment states in paragraph 125 in respect of thresholds for impacts, risk or
+opportunities of subsidiaries operating in various sectors: ‘When performing the materiality
+assessment at a group level , paragraph 103 [of ESRS 1] does not require the adoption for a given
+sustainability matter of a common threshold that is the same for the group in its entirety but
+rather to adopt an approach that is at the same time consistent across the whole group and
+unbiased, i.e., able to capture the specificities that may exist in a specific subsidiary.’
+IG 1 Materiality assessment states in paragraph 128 for matters assessed to be material for some
+subsidiaries in isolation but not for the group in its entirety: ‘Conversely, in addition to disclosing
+information about matters that are material for the group in its entirety, there may be situations
+where a matter is assessed to be material for some subsidiaries in isolation but, despite the
+aggregation of data of such subsidiaries, the matter is assessed as not material for the group in
+its entirety.’
+Reference is made to IG 1 Materiality assessment chapter 3.6.3 Consideration for groups and
+subsidiaries and FAQ 13: Performing the impact materiality assessment when the undertaking
+operates in different sectors mentioning a top-down, a bottom-up approach, or a combination of
+the two approaches for the materiality assessment in group situations.
+ID 923 – Phase-in entity specific disclosures
+Category
+Cross-cutting
+Question asked
+Do undertakings need to include entity-specific disclosures for the first three years of reporting?
+ESRS Reference
+ESRS 1 paragraph 131
+Key terms
+Phase-in provisions; entity-specific disclosures
+SRB 16 October 2024 Page 12 of 32
+Log of explanations
+Background
+ESRS 1 paragraph 131 states: ‘When defining its entity-specific disclosures, the undertaking may
+adopt transitional measures for their preparation in the first three annual sustainability
+statements under which it may as a priority:
+(a) introduce in its reporting those entity-specific disclosures that it reported in prior periods,
+if these disclosures meet or are adapted to meet the qualitative characteristics of
+information referred to under chapter 2 of this Standard; and
+(b) complement its disclosures prepared on the basis of the topical ESRS with an appropriate
+set of additional disclosures to cover sustainability matters that are material for the
+undertaking in its sector(s), using available best practice and/or available frameworks or
+reporting standards, such as IFRS industry-based guidance and GRI Sector Standards.
+Answer
+Yes, entity specific disclosures are required for the first three years of reporting the sustainability
+information.
+ESRS 1 paragraph 131 only gives a three-year transition period for the preparation of the entity-
+specific disclosures under which the undertaking may as a priority derive those measures from
+ESRS 1 paragraph (a) or (b). ESRS paragraph 131 does not provide a phase-in for entity-specific
+provisions in general.
+Reference is made to ESRS 1 chapter 10.2 Transitional provision related to chapter 5 value chain
+taking precedence.
+ID 952 – Metrics – rounding and decimals; materiality of information
+Category
+Cross-cutting
+Question asked
+To how many decimals should a percentage be rounded? And for other data points that ask for
+"decimal", how many decimals are expected?
+ESRS Reference
+All numerical datapoints required by ESRS
+Key terms
+Decimals, materiality
+Background
+ESRS 1 paragraph 34 states: ‘When disclosing information on metrics for a material sustainability
+matter according to the Metrics and Targets section of the relevant topical ESRS, the undertaking:
+(c) shall include the information prescribed by a Disclosure Requirement if it assesses such
+information to be material; and
+(d) may omit the information prescribed by a datapoint of a Disclosure Requirement if it
+assesses such information to be not material and concludes that such information is not
+needed to meet the objective of the Disclosure Requirement.’
+SRB 16 October 2024 Page 13 of 32
+Log of explanations
+Answer
+ESRS does not have specific rules for rounding or prescribe the number of decimals to be used for
+percentages.
+ESRS 1 paragraph 34 clarifies that materiality of information applies to metrics. Accordingly,
+materiality of information also applies to rounding and decimals to be used for a percentage-
+metric. The undertaking may omit decimals and use rounding if it considers the information not
+conveyed through omitting decimals and using rounding to be not material.
+Materiality of information needs to be decided on a case-by-case basis depending on the fact
+pattern such as, the size of the company, the metric to be disclosed and the materiality of the
+topic.
+ID 968 – Ecolabel
+Category
+Cross-cutting
+Question asked
+If a company's metric is verified by an Ecolabel, can the Ecolabel be mentioned as an external
+body?
+ESRS Reference
+ESRS 2 paragraph 77 (b)
+Key terms
+Ecolabel; external body
+Background
+For information on ‘Ecolabel’ please refer for example to Ecolabel.
+ESRS 2 paragraph 77 states: ‘For each metric, the undertaking shall: …
+(b) disclose whether the measurement of the metric is validated by an external body other than
+the assurance provider and, if so, which body
+Answer
+Yes, if a company's metric is verified by an Ecolabel, and assuming that the Ecolabel is not an
+internal body of the undertaking, the Ecolabel can be mentioned as an external body.
+According to ESRS 2 paragraph 77 (b), the undertaking is required to disclose whether the
+measurement of the metric is validated by an external body other than the assurance provider
+and to specify which body.
+ID 1013 - Variable remuneration potential discrepancy between ESRS 2 and
+ESRS E1?
+Category
+x-cutting
+SRB 16 October 2024 Page 14 of 32
+Log of explanations
+Question asked
+(1) Is the ESRS 1 Disclosure Requirement GOV-3 on ‘the proportion of variable remuneration
+dependent on sustainability-related targets and/or impacts’ (ESRS 2 paragraph (d))
+calculated as a percentage of:
+(a) variable remuneration;
+(b) fixed remuneration; or
+(c) total remuneration (fixed and variable)?
+(2) Is the percentage to be disclosed under ESRS E1 Disclosure requirement related to ESRS 2
+GOV-3 Integration of sustainability-related performance in incentive schemes calculated on
+the same denominator as under question 1) above?
+ESRS Reference
+ESRS 2 paragraph 29 (d) and ESRS E1 paragraph 13
+Key terms
+remuneration; remuneration, fixed and variable; annual total remuneration
+Background
+The question received: ‘in E1.GOV-3_02 requirement, could you please precise whether the
+required % of current remuneration related to sustainability shall be calculated: (i) as a % of
+variable remuneration, (ii) as a % of fixed remuneration, (iii) as a % of total remuneration (fixed +
+variable)’ has been modified to the above for clarity. The submitter provided the following answer
+to the question: ‘Drawing a parallel between ESRS E1.GOV-3_02 and the ESRS 2 GOV-3_05, I
+would assume the % of current remuneration related to sustainability asked shall be calculated
+as a % of variable remuneration.’
+ESRS 2 paragraph 29 states: ‘The undertaking shall disclose …: …
+(d) the proportion of variable remuneration dependent on sustainability-related targets
+and/or impacts; …’
+ESRS E1 paragraph 13 states: ‘The undertaking shall disclose … the percentage of remuneration
+recognised in the current period that is linked to climate-related considerations and …’
+Annual total remuneration is defined in the Annex II Acronyms and glossary of terms: ‘Annual
+total remuneration to own workforce includes salary, bonus, stock awards, option awards, non-
+equity incentive plan compensation, change in pension value, and nonqualified deferred
+compensation earnings provided over the course of a year.’
+Answer
+(1) Is the ESRS 1 Disclosure Requirement GOV-3 on ‘the proportion of variable remuneration
+dependent on sustainability-related targets and/or impacts’ (ESRS 2 paragraph 29 (d))
+calculated:
+(d) as a percentage of variable remuneration;
+(e) as a percentage of fixed remuneration; or
+(f) as a percentage of total remuneration (fixed and variable)?
+The ESRS 2 paragraph 29 (d) metric shall be calculated as (a) a percentage of variable
+remuneration.
+SRB 16 October 2024 Page 15 of 32
+Log of explanations
+ESRS 2 paragraph 29 (d) requires the ‘proportion of variable remuneration dependent on
+sustainability-related targets and/or impacts’ to be disclosed. According to this wording the
+nominator is the proportion of the variable remuneration dependent on sustainability-related
+targets and/or impacts, and the denominator is the variable remuneration.
+Though not explicitly stated in ESRS 2 Disclosure Requirement GOV-3 (paragraph 29 (d)) it shall
+be assumed that remuneration is the amount recognized in the current period, i.e., the amount
+recognized as expense (i.e., independent on whether paid out or not) under the applicable
+accounting GAAP in the financial statements considering connectivity with financial statements,
+in line with the elements listed in the definition of ‘annual total remuneration’ in Annex II, and
+consistent with ESRS E1 paragraph 13 which explicitly refers to the ‘remuneration recognized’.
+(2) Is the percentage to be disclosed under ESRS E1 Disclosure requirement related to ESRS 2
+GOV-3 Integration of sustainability-related performance in incentive schemes calculated
+on the same denominator as under question 1) above?
+No, it is not. The ESRS E1 paragraph 13 metric shall be calculated as a percentage of total
+remuneration.
+ESRS E1 paragraph 13 requires the ‘percentage of remuneration recognised’ to be disclosed. The
+phrase used requires that the denominator is the remuneration recognised, accordingly the total
+of fixed and variable remuneration recognised, and the nominator is the ‘remuneration
+recognised … that is linked to climate-related considerations’.
+To note: There is no reason that the term ‘remuneration’ as used in both ESRS 1 paragraph 29
+and ESRS E1 paragraph 13 in respect of the administrative, management, and supervisory bodies
+is not to be read as being consistent with the definition of ‘annual total remuneration’ as defined
+in the Annex II Acronyms and glossary of terms in respect of own workforce.
+For the attention of SRB:
+The ESRS E1 requirement is in line with the IFRS S2 equivalent ESRS E1 para 13 is a specification
+of ESRS 2 para 29 therefore the expectation would be (and the intent of the authors of ESRS
+E1 also was) that the percentage is based on variable remuneration alone.
+TEG considered that it would be best to align ESRS 2 and ESRS E1, unless this would create an
+issue of interoperability.
+Environmental
+ID 283 – Is waste incineration a disposal operation
+Category
+Environment
+Question asked
+Is incineration with energy recovery considered waste diverted or waste disposed?
+ESRS reference
+ESRS E5 paragraph 37
+Key terms
+Waste; waste incineration; waste recovery; waste disposal
+SRB 16 October 2024 Page 16 of 32
+Log of explanations
+Background
+ESRS E5 paragraph 37 states: ‘The undertaking shall disclose the following information on
+its total amount of waste from its own operations, in tonnes or kilogrammes:
+(a) the total amount of waste generated;
+(b) the total amount by weight diverted from disposal, with a breakdown between
+hazardous waste and non-hazardous waste and a breakdown by the following
+recovery operation types:
+i. preparation for reuse;
+ii. recycling; and
+iii. other energy recovery;
+(c) the amount by weight directed to disposal by waste treatment type and the total
+amount summing all three types, with a breakdown between hazardous waste and
+non-hazardous waste. The waste treatment types to be disclosed are:
+i. incineration;
+ii. landfill; and
+iii. other disposal operations;
+(a) the total amount and percentage of non-recycled waste.’
+Waste is defined in Annex II Glossary of acronyms and terms as: ‘Any substance or object which
+the holder discards or intends or is required to discard.’ This definition refers to Article 3(1) of the
+Directive 2008/98/EC of the European Parliament and of the Council of 19 November 2008 on
+waste and repealing certain Directives (Waste Framework Directive or WFD) the WFD.
+Incineration is defined in Annex II Glossary of acronyms and terms as: ‘The controlled burning of
+waste at high temperature with or without energy recovery.’
+Recovery is defined in Annex II Glossary of acronyms and terms as: ‘Any operation the principal
+result of which is waste serving a useful purpose by replacing other materials which would
+otherwise have been used to fulfil a particular function, or waste being prepared to fulfil that
+function, in the plant or in the wider economy.’ This definition refers to article 3(15) of the WFD.
+Likewise, article 3(15a) of the WFD on the definition of material recovery states that ‘”material
+recovery” means any recovery operation, other than energy recovery and the reprocessing into
+materials that are to be used as fuels or other means to generate energy’.
+In addition, ESRS E5 Disclosure Requirement 5-1 requires an undertaking to consider whether and
+how its policies address the waste hierarchy (as per Art. 4(1) of the WFD: (a) prevention; (b)
+preparing for re-use; (c) recycling; (d) other recovery, e.g., energy recovery; and (e) disposal.
+The WFD also provides a list of Disposal and Recovery Operations in its Annex I and Annex II,
+respectively. While incineration is included in Annex I of disposal operations (“D10 Incineration
+on land”), Annex II on recovery includes operation “R1 Use principally as fuel or other means to
+generate energy”. This category potentially includes co-incineration where wastes are burned for
+their fuel content and a note is also included allowing the inclusion of Municipal Solid Waste
+(MSW) incineration provided that a certain level of energy efficiency is achieved.
+SRB 16 October 2024 Page 17 of 32
+Log of explanations
+Answer
+Incineration is to be treated as a recovery operation, if it meets the conditions to be considered
+as an ‘R1 Use principally as fuel or other means to generate energy’ operation, according to Annex
+II of the Waste Framework Directive. In this case, it shall be considered as an ‘other energy
+recovery’ under ESRS E5 paragraph 37 (b) (iii).
+If the conditions in which incineration occurs are conducive to its classification as a ‘D10
+incineration on land’ operation (Annex II of the Waste Framework Directive), then it shall be
+classified as a disposal operation.
+Supporting material
+Please see also Directive 2008/98/EC of the European Parliament and of the Council of 19
+November 2008 on waste and repealing certain Directives (Waste Framework Directive or WFD).
+ID 472 – Major incidents and deposits
+Question asked
+When are incidents and deposits considered to be ‘major’? Is there a qualitative or quantitative
+threshold to consider?
+ESRS reference
+Disclosure Requirement E2-6 paragraph 40 (b)
+Key terms
+Anticipated financial effect; major incident; deposit
+Background
+ESRS E2 paragraph 38 states: 'The objective of this Disclosure Requirement is to provide an
+understanding of: (a) anticipated financial effects due to material risks arising from pollution -
+related impacts and dependencies and how those risks have (or could reasonably be expected to
+have) a material influence on the undertaking’s financial position, financial performance, and cash
+flows, over the short, medium and long term. …’
+ESRS E2 paragraph 39 states: 'The disclosure shall include: (a) a quantification of the anticipated
+financial effects in monetary terms before considering pollution-related actions, or where not
+possible without undue cost or effort, qualitative information. …’
+ESRS E2 paragraph 40 states: ‘The information provided under paragraph 39 (a) shall include: …
+(b) operating and capital expenditures incurred in the reporting period in conjunction with
+major incidents and deposits’.
+ESRS E2 paragraph 15 states: ‘The undertaking shall indicate, with regard to its own operations
+and its upstream and downstream value chain, whether and how its policies address the following
+areas where material: . . .(c) avoiding incidents and emergency situations’.
+ESRS E2 paragraph 41 states: ‘The undertaking shall disclose any relevant contextual information
+including a description of material incidents and deposits whereby pollution had negative impacts
+on the environment and/or is expected to have negative effects on the undertaking’s financial
+cash flows, financial position and financial performance with short-, medium- and long-term time
+horizons’.
+SRB 16 October 2024 Page 18 of 32
+Log of explanations
+The Industrial Emissions Directive, recital 16 stipulates that: ‘The impact of pollution, including
+when caused by incidents or accidents, can extend beyond the territory of a Member State. In
+such cases, without prejudice to Directive 2012/18/EU of the European Parliament and of the
+Council (9), limiting the consequences for human health and the environment of incidents or
+accidents and preventing further possible incidents or accidents requires prompt exchange of
+information and close coordination between the competent authorities of the Member States
+which are or could be affected by such events. Therefore, in the event of any incident or accident
+significantly affecting the environment or human health in another Member State, exchange of
+information and transboundary and multidisciplinary cooperation between the affected Member
+States should be fostered to limit the consequences for the environment and human health and
+to prevent further possible incidents or accidents’.
+The Industrial Emissions Directive, Art. 7 (b) adds that ‘in the event of any incident or accident
+significantly affecting the environment”, “the operator immediately takes the measures to limit
+the consequences for human health or the environment and to prevent further possible incidents
+or accidents’.
+The Seveso-III Directive, Art. 3 paragraph 13 defines a major accident as ‘an occurrence such as a
+major emission, fire, or explosion resulting from uncontrolled developments in the course of the
+operation of any establishment covered by this Directive, and leading to serious danger to human
+health or the environment, immediate or delayed, inside or outside the establishment, and
+involving one or more dangerous substances’.
+Answer
+ESR do not provide a threshold for distinguishing major incidents and deposits from regular
+occurrences. The evaluation of incidents should, in all cases, be based on the undertaking’s
+materiality assessment and incidents identified as major are likely connected to material impacts
+and risks and, therefore, likely to be identified as material. At the same time, incidents of lower
+scale can carry material impacts or financial risks and, therefore, be assessed by the undertaking
+as material, too.
+It is also to be noted that based on the provisions of materiality of information of ESRS 1
+paragraph 34 the disclosure of operating and capital expenditures incurred in the reporting
+period in conjunction with major incidents and deposits as required by ESRS E2 paragraph 40 (b)
+depends more on whether the expenditures are financially material and not on what kind of
+major incidents or deposits caused them.
+The undertaking may also need to consider the provisions in the Seveso-III Directive on major
+accidents, as well as those in the IED 2.0 on incidents and accidents that significantly affect the
+environment. The IED, in particular, stipulates that incidents or accident may significantly affect
+the environment, and may become a national matter or even extend beyond national borders.
+The Seveso-III Directive (used in the development of ESRS E2) explicitly defines major accident
+and includes examples that can be considered for reporting. In the cases in which an undertaking's
+incidents or accidents fall within the scope of major or significant incidents or accidents according
+to existing law (i.e. IED 2.0 and Seveso-III Directive), such incidents and accidents would also be
+considered as major incidents according to ESRS. Should any of the undertaking's facilities or
+installations not be covered by the IED 2.0 or the Seveso-III Directive, the undertaking can,
+nonetheless, consider the definitions provided in those Directives when applying its materiality
+assessment.
+Supporting material
+Directive (EU) 2024/1785 of the European Parliament and of the Council of 24 April 2024
+amending Directive 2010/75/EU of the European Parliament and of the Council on industrial
+SRB 16 October 2024 Page 19 of 32
+Log of explanations
+emissions (integrated pollution prevention and control) and Council Directive 1999/31/EC on the
+landfill of waste (IED 2.0).
+Directive 2012/18/EU of the European Parliament and of the Council of 4 July 2012 on the control
+of major-accident hazards involving dangerous substances (Seveso-III Directive).
+Best Available Techniques (BAT) Reference Document for Waste Treatment, EC (2018).
+ID 531 – Base year
+Category
+Environment
+Question asked
+If the company has an intensity emission reduction target already set with a different base year
+than ESRS recommends (e.g.: 2021), but no absolute target yet, is it ok to use the same base year
+as for the intensity target, although it does not follow the ESRS recommendation?
+Reference
+ESRS E1 paragraphs 34 (c) and (d), and AR 25
+Key terms
+Base year, intensity emission target
+Background
+ESRS E1 paragraph 34 states: ‘If the undertaking has set GHG emission reduction targets, ESRS 2
+MDR-T and the following requirements shall apply: …
+(c) the undertaking shall disclose its current base year and baseline value, and from 2030
+onwards, update the base year for its GHG emission reduction targets after every five-
+year period thereafter. The undertaking may disclose the past progress made in meeting
+its targets before its current base year provided that this information is consistent with
+the requirements of this Standard;
+(d) GHG emission reduction targets shall at least include target values for the year 2030
+and, if available, for the year 2050. From 2030, target values shall be set after every
+5year period thereafter; …’
+ESRS E1 paragraph AR 25 states: ‘When disclosing the information required under paragraph 34(c)
+on base year and baseline value: …
+(d) the baseline value and base year shall not be changed unless significant changes in
+either the target or reporting boundary occur. In such a case, the undertaking shall
+explain how the new baseline value affects the new target, its achievement and
+presentation of progress over time. To foster comparability, when setting new targets,
+the undertaking shall select a recent base year that does not precede the first reporting
+year of the new target period by longer than 3 years. For example, for 2030 as the target
+year and a target period between 2025 and 2030, the base year shall be selected from
+the period between 2022 and 2025; …’
+Answer
+The following situations might arise:
+The undertaking has no target
+SRB 16 October 2024 Page 20 of 32
+Log of explanations
+ESRS E1 paragraph AR 25 (b) does not set a recommendation but a methodological (application)
+requirement to set a new target base year, ‘… that does not precede the first reporting year of
+the new target period by longer than 3 years. …’. In other words, the base year must be one of
+the last three years in which the undertaking has reliably measured its GHG emissions, while
+undertaking decarbonization actions. If an undertaking has a GHG emission reduction target, it
+shall disclose in absolute value the GHG emission reduction target and its current target base year
+and target baseline value.
+GHG emission reduction targets shall at least include target values for the year 2030 (ESRS E1
+paragraph 34 (d)). For example, for 2030 as the target year and a target period between 2025 and
+2030, the base year shall be selected from the period between 2022 and 2025. In accordance with
+ESRS E1 paragraph AR 25, to set a target with a baseline figure in 2021, the target would have to
+cover the period 2024 to 2030, with 2024 being the first year for reporting on the new target.
+For undertakings with a reduction plan in progress at the time the CSRD comes into force, there
+is no need to modify the targets if they meet the requirement of ESRS E1. The plans will be revised
+and aligned with 2023 (reporting year) once the reduction period is over.
+The undertaking already has a target
+If an undertaking already has GHG emission reduction targets in place which have been publicly
+disclosed, these should not be updated for the purposes of CSRD requirements. The target level
+and base year can remain unchanged, until the target is required to be updated, e.g. due to
+significant changes in scope or after 2030. Information on these targets should be reported in line
+with CSRD requirements. If an undertaking’s pre-existing targets are intensity targets, the CSRD
+requirements do not require a new absolute target to be set. Rather, they require, for each
+intensity target, an associated absolute target value to be disclosed. This associated absolute
+value would be based on the intensity target reduction specified for the pre-existing target.
+Case of early achievement:
+If an undertaking achieves its target (past target period) earlier than expected, the base year may
+be older, provided that this old base year meets the ESRS E1-4 requirements.
+Linkage to the implementation guidance on transition plan:
+This question will also be covered in the transition plan implementation guidance being
+developed by EFRAG.
+ID 653 – Microplastics - tires wear
+Category
+Environment
+Question asked
+Shall the amount of microplastic that is generated due to tires wear be reported?
+ESRS Reference
+ESRS E2 (Disclosure Requirement E2-4) paragraphs 28 (b) and AR 20
+Key terms
+Microplastics; tires wear
+Background
+ESRS 1 paragraph 11 states: 'In addition to the disclosure requirements laid down in the three
+categories of ESRS, when an undertaking concludes that an impact, risk or opportunity is not
+covered or not covered with sufficient granularity by an ESRS but is material due to its specific
+SRB 16 October 2024 Page 21 of 32
+Log of explanations
+facts and circumstances, it shall provide additional entity-specific disclosures to enable users to
+understand the undertaking’s sustainability-related impacts, risks or opportunities. Application
+requirements AR 1 to AR 5 provide further guidance regarding entity-specific disclosures'.
+ESRS 1 paragraph 25 states: ‘Performing a materiality assessment (see sections 3.4 Impact
+materiality and 3.5 Financial materiality) is necessary for the undertaking to identify the material
+impacts, risks and opportunities to be reported’.
+EFRAG IG 1 ‘Materiality assessment’ paragraph 27 states: ‘ESRS 1 sets criteria for the materiality
+assessment, but not specific thresholds to determine when a matter or information is material or
+not. Therefore, the assessment requires the exercise of judgement. The undertaking needs to set
+thresholds based on the ESRS 1 criteria, as well as its own specific facts and circumstances . . .’.
+ESRS E2-4 paragraph 28 states: ‘The undertaking shall disclose the amounts of . . . (b)
+microplastics generated or used by the undertaking’.
+ESRS E2-4 paragraph AR 20 states: ‘The information to be provided on microplastics under
+paragraph 28 (b) shall include microplastics that have been generated or used during production
+processes or that are procured, and that leave the undertaking’s facilities as emissions, as
+products, or as part of products or services. Microplastics may be unintentionally produced when
+larger pieces of plastics like car tires or synthetic textiles wear and tear or may be deliberately
+manufactured and added to products for specific purposes (e.g., exfoliating beads in facial or body
+scrubs).’
+IG 2 ‘Value chain’ paragraph 185 states for ESRS E2-4: 'AR 20 refers to procurement of
+microplastics'.
+Answer
+It depends on the outcome of the undertaking’s materiality assessment including how it applies
+appropriate thresholds to determine the information it discloses on metrics (see ESRS 1
+paragraph 34).
+The materiality assessment of microplastics should cover the whole value chain, including but not
+limited to own operations (see also ESRS E2 AR 20), and cover both primary microplastics
+(designed to be used in products or manufacturing) and secondary microplastics (generated from
+the breakdown of larger plastics, e.g. tires).
+If the undertaking identifies microplastics as a material topic in its value chain, e.g. the
+downstream value chain, it shall provide, if needed (see ESRS 1 paragraph 11 and AR 1 to 5),
+additional disclosures on an entity-specific basis to enable users to understand its impacts, risks
+and opportunities (see also IG Value Chain paragraph 185).
+If material, then according to ESRS E2-4 undertakings are to report on the amounts of
+microplastics that are unintentionally generated when larger pieces of plastics, such as car tires,
+wear and tear.
+Please refer to ID 411 Microplastics for further clarifications on the value chain coverage.
+Supporting material
+EFRAG IG 1: Materiality assessment implementation guidance (2024).
+EFRAG IG 2: Value chain implementation guidance (2024).
+SRB 16 October 2024 Page 22 of 32
+Log of explanations
+ID 734 – Disclosure of progress in meeting climate-related targets
+Category
+Environment
+Question asked
+Is the understanding correct that undertakings can add the amount of emissions reduced before
+their new base year to the actual emissions of the new base year and therefore suggest that the
+past emissions haven't been realized?
+ESRS reference
+ESRS E1 paragraphs 34 (c) and AR 25 (d)
+Key terms
+Progress, climate-related targets
+Background
+ESRS E1 paragraph 34 (c) states: ‘If the undertaking has set GHG emission reduction targets, ESRS
+2 MDR-T and the following requirements shall apply: …
+(c) the undertaking shall disclose its current base year and baseline value, and from 2030
+onwards, update the base year for its GHG emission reduction targets after every five-
+year period thereafter. The undertaking may disclose the past progress made in meeting
+its targets before its current base year provided that this information is consistent with
+the requirements of this Standard; …’.
+ESRS E1 paragraph AR 25 (d) states: ‘When disclosing the information required under paragraph
+34 (c) on base year and baseline value: …
+(g) when presenting climate-related targets, the undertaking may disclose the progress in
+meeting these targets made before its current base year. In doing so, the undertaking
+shall, to the greatest extent possible, ensure that the information on past progress is
+consistent with the requirements of this Standard. In the case of methodological
+differences, for example, regarding target boundaries, the undertaking shall provide a
+brief explanation for these differences.’
+Answer
+No, an undertaking cannot add the amount of emissions reduced before its new base year to the
+actual emissions of the new base year, and therefore suggest that the past emissions haven't
+been realized.
+While undertakings may disclose the progress done in meeting these targets before its current
+base year, when doing it, undertakings may disclose quantitative and qualitative information,
+e.g.: disclosure of the amount of the emissions reduced, explanation in case of methodological
+differences, explanation of alignment with the requirements of the E1 Standard. However, it is
+not allowed to add previous emission reductions achieved to the new base year emissions, which
+shall be the ones effectively disclosed under the ESRS for the new base year (with no additions or
+subtractions).
+It is important to note that, even if an undertaking cannot add the amount of emissions reduced
+before its new base year, this reduction might have an impact on the future targets set by the
+undertaking as it is linked to the sector emission reduction path.
+As an example, assuming that the current (new) base year is 2025, the amount of reductions in
+Y-1 (i.e., 2024) cannot be added to the 2025 base year as displayed in the following table:
+SRB 16 October 2024 Page 23 of 32
+Log of explanations
+ID 815 – Substances of concern – in articles
+Category
+Environment
+Question asked
+The current EU legislation requires to monitor substances of concern in chemicals, but not in
+articles. If no (or only partial) information (including due to supplier non responsiveness) is
+available on substances of concern contained in the manufactured articles, what should the
+company disclose?
+ESRS Reference
+Disclosure Requirement E2-5 paragraph 34;
+Disclosure Requirement E2-5 paragraph AR 28
+Key terms
+Substances of concern; SoC; procurement; articles
+Background
+E2 paragraph 15 states: ‘The undertaking shall indicate, with regard to its own operations and its
+upstream and downstream value chain, whether and how its policies address the following areas
+where material . . .
+(b) substituting and minimising the use of substances of concern; and …’
+ESRS E2 paragraph AR 13 states: ‘Where actions extend to upstream or downstream value chain
+engagements, the undertaking shall provide information on the types of actions reflecting these
+engagements.’
+ESRS E2 paragraph AR 19 states: ‘The targets may cover the undertaking’s own operations and/or
+the value chain.’
+ESRS E2 paragraph 34 states: ‘The disclosure required by paragraph 32 shall include the total
+amounts of substances of concern that are generated or used during the production or that are
+procured, and the total amounts of substances of concern that leave its facilities as emissions, as
+products, or as part of products or services split into main hazard classes of substances of
+concern.’
+SRB 16 October 2024 Page 24 of 32
+Log of explanations
+ESRS E2 paragraph AR 28 states: ‘In order for the information to be complete, substances in the
+undertaking’s own operations and those procured shall be included (e.g., embedded in
+ingredients, semi- finished products, or the final product).’
+ESRS 1 paragraph 71 states: ‘With reference to policies, actions and targets, the undertaking’s
+reporting shall include upstream and/or downstream value chain information to the extent that
+those policies, actions and targets involve actors in the value chain. With reference to metrics, in
+many cases, in particular for environmental matters for which proxies are available, the
+undertaking may be able to comply with the reporting requirements without collecting data from
+the actors in its upstream and downstream value chain, especially from SMEs, for example, when
+calculating the undertaking’s GHG Scope 3 emissions’.
+ESRS 1 paragraph 34 states: ‘When disclosing information on metrics for a material sustainability
+matter according to the Metrics and Targets section of the relevant topical ESRS, the
+undertaking: …
+(b) may omit the information prescribed by a datapoint of a Disclosure Requirement if it
+assesses such information to be not material and concludes that such information is not
+needed to meet the objective of the Disclosure Requirement.’
+Regulation (EC) No 1907/2006 (REACH), Article 3 defines ‘article’ as 'an object which during
+production is given a special shape, surface or design which determines its function to a greater
+degree than does its chemical composition'. Regulation (EC) No 1907/2006 (REACH), Article 33 on
+the 'Duty to communicate information on substances in articles' states: '1. Any supplier of an
+article containing a substance meeting the criteria in Article 57 and identified in accordance with
+Article 59(1) in a concentration above 0,1 % weight by weight (w/w) shall provide the recipient of
+the article with sufficient information, available to the supplier, to allow safe use of the article
+including, as a minimum, the name of that substance. 2. On request by a consumer any supplier
+of an article containing a substance meeting the criteria in Article 57 and identified in accordance
+with Article 59(1) in a concentration above 0,1 % weight by weight (w/w) shall provide the
+consumer with sufficient information, available to the supplier, to allow safe use of the article
+including, as a minimum, the name of that substance'.
+Answer
+Concerning substances of very high concern (SVHC) in articles, Regulation (EC) No 1907/2006
+(REACH) requires communicating SVHC content where specific thresholds are exceeded.
+If substances of concern in articles represent a material topic for the undertaking:
+(b) for the metrics disclosure of ESRS E2 paragraph 34, the undertaking shall consider both
+those within its production processes as well as the ones entering its own operations
+through procurement as ingredient, semi-finished products, or final products. If the
+metric cannot be determined through direct data collection, e.g. by obtaining it from
+suppliers, after making a reasonable effort to do so, it shall be estimated by using proxies.
+Reference is made to ‘ID 504 – Disclosure Requirements on material metrics when
+information is not available; and
+(c) the undertaking shall, in any case, report on the related policies, actions, and targets
+(PAT) it has in place in relation to the material topic. ESRS E2 in particular provides specific
+indications on the extension of the reporting under the PAT to the value chain.
+Concerning policies, the undertaking must disclose how (and if) its policies support the
+substitution and minimisation of the use of substances of concern. This information is to
+be provided also for its upstream and downstream value chain. With regards to actions,
+undertakings shall report on upstream and downstream value chain engagements when
+present. The extension of targets to value chain entities is, however, optional.
+SRB 16 October 2024 Page 25 of 32
+Log of explanations
+To note: Information to be collected from value chain entities can be omitted during a 3 year
+phase-in period in accordance with ESRS 1 chapter 10.2 Transitional provision related to chapter
+5 Value chain, unless it is prescribed under EU legislation.
+Reference is made to [Draft] Question 29 ESRS require undertakings to use estimates if they
+cannot obtain all necessary value chain information after having made reasonable efforts to do
+so (ESRS 1, General requirements, paragraph 69). What constitutes “reasonable effort”? from the
+European Commission O n the interpretation of certain legal provisions in Directive 2013/34/EU
+(Accounting Directive).
+Supporting material
+Regulation (EC) No 1907/2006 of the European Parliament and of the Council of 18 December
+2006 concerning the Registration, Evaluation, Authorisation and Restriction of Chemicals
+(REACH).
+ID 831 – Contractual instruments
+Category
+Environment
+Question asked
+Should percentage of contractual instruments be calculated in terms of electricity consumption,
+not in terms of Scope 2 GHG emissions?
+ESRS reference
+ESRS E1-6, Application requirement 45 (d)
+Key terms
+Contractual instruments, Scope 2
+Background
+ESRS E1 AR paragraph 45 (d) states ‘When preparing the information on gross Scope 2 GHG
+emissions required under paragraph 49, the undertaking shall: …
+(d) apply the location-based and market-based methods to calculate Scope 2 GHG emissions
+and provide information on the share and types of contractual instruments. Location
+based method quantifies Scope 2 GHG emissions based on average energy generation
+emission factors for defined locations, including local, subnational, or national
+boundaries (GHG Protocol, “Scope 2 Guidance”, Glossary, 2015).Market-based method
+quantifies Scope 2 GHG emissions based on GHG emissions emitted by the generators
+from which the reporting entity contractually purchases electricity bundled with
+instruments, or unbundled instruments on their own (GHG Protocol, “Scope 2 Guidance”,
+Glossary, 2015); in this case, the undertaking may disclose the share of market-based
+scope 2 GHG emissions linked to purchased electricity bundled with instruments such as
+Guarantee of Origins or Renewable Energy Certificates. The undertaking shall provide
+information about the share and types of contractual instruments used for the sale and
+purchase of energy bundled with attributes about the energy generation or for
+unbundled energy attribute claims. …’
+SRB 16 October 2024 Page 26 of 32
+Log of explanations
+Answer
+The percentage of contractual instruments is calculated in terms of the Scope 2 activity data –
+this is the consumption of purchased or acquired electricity. The general expression is:
+Electricity consumption backed by contractual instruments
+% 𝑜𝑓 𝑐𝑜𝑛𝑡𝑟𝑎𝑐𝑢𝑎𝑙 𝑖𝑛𝑠𝑡𝑟𝑢𝑚𝑒𝑛𝑡𝑠 =
+Total electricity consumption
+Electricity is used in this context as a shorthand for purchased or acquired electricity, heat, steam,
+and cooling (as per GHG Protocol). There are different types of contractual instruments such
+Guarantees of Origin, Renewable Energy Certificates, direct contracts, etc.
+ID 832 – Pollutants emissions – changes over time
+Category
+Environment
+Question asked
+How can preparers take "the changes over time" into account when disclosing the amounts of
+pollutants?
+ESRS Reference
+Disclosure Requirement E2-4 paragraph 30 (a)
+Key terms
+Pollution of air, water and soil; microplastics; time; change
+Background
+ESRS E2 paragraph 30 states: ‘The undertaking shall put its disclosure into context and describe:
+(a) the changes over time, …’.
+ESRS E2 paragraph AR 25 states: ‘Where the undertaking’s activities are subject to Directive
+2010/75/EU of the European Parliament and of the Council on industrial emissions (IED) (67) and
+relevant Best Available Techniques Reference Documents (BREFs), irrespective of whether the
+activity takes place within the European Union or not, the undertaking may disclose the following
+additional information’.
+ESRS E4 paragraph 38 states: ‘The undertaking may disclose metrics that measure: …
+(b) changes over time (e.g. 1 or 5 years) in the management of the ecosystem . . .’.
+ESRS 1 paragraph 77 provides definitions of three main time intervals for the undertaking to
+adopt: short-term, corresponding to the ‘reporting period in its financial statements’; medium-
+term, lasting ‘from the end of the short-term reporting period . . . up to 5 years’; and long-term
+for periods of ‘more than 5 years’.
+ESRS 1 paragraph 74 states: ‘The undertaking shall establish appropriate linkages in its
+sustainability statement between retrospective and forward-looking information, when relevant,
+to foster a clear understanding of how historical information relates to future-oriented
+information’.
+ESRS 2 Disclosure Requirement SBM-3 paragraph 48 (c) (iii) states the undertaking shall disclose:
+‘the reasonably expected time horizons of the impacts’.
+Answer
+When disclosing the amounts of pollutants, preparers need to always give due consideration to
+the ESRS 1 paragraph 77 provision on establishing appropriate linkages with their sustainability
+SRB 16 October 2024 Page 27 of 32
+Log of explanations
+statements between past, present and future information when relevant, to allow for a better
+understandability of how its historical information relates to current and to future-oriented
+information.
+It is to be noted that the implementation of pollution prevention and pollution control measures,
+and the adoption of BATs can lead to significant changes over time of the amounts, types and
+form of pollutant releases which provide relevant contextual information to the disclosure of
+metrics. As no specific indication is provided on the type of changes that undertakings need to
+report in regard to pollutants emissions, an approach shall be selected that supports
+understandability and comparability over time (see ESRS 1 chapter 2 Qualitative characteristics
+of information) and that considers the materiality of the pollution (materiality concept).
+Additionally, although no specific example is provided for ESRS Disclosure Requirement E2-4,
+preparers may consider the one given under ESRS Disclosure Requirement E4-5 for metrics on
+biodiversity, which suggests looking into changes expressed as a variation from one year to the
+next (short-term) or in 5-year intervals (medium-term).
+ID 873 – Transport of removed GHGs
+Category
+Environment
+Question asked
+What is the meaning and what to report in "transport of removed GHGs"?
+ESRS Reference
+ESRS E1 Disclosure Requirement E1-7 paragraph AR 57 (b)
+Key terms
+GHG removals and storage; transport
+Background
+ESRS E1 paragraph AR 57 states: ‘When disclosing the information on GHG removals and storage
+from the undertaking’s own operations and its upstream and downstream value chain required
+under paragraphs 56 (a) and 58, for each removal and storage activity, the undertaking shall
+describe: …
+(b) whether removal and storage are biogenic or from land-use change (e.g., afforestation,
+reforestation, forest restoration, urban tree planting, agroforestry, building soil carbon,
+etc.), technological (e.g., direct air capture), or hybrid (e.g., bioenergy with CO2 capture
+and storage), and technological details about the removal, the type of storage and, if
+applicable, the transport of removed GHGs; …’
+Answer
+ESRS E1 paragraph AR 57 requires a description of ‘technological details about the removal, the
+type of storage and, if applicable, the transport of removed GHGs.’ For some removal
+technologies (BECS, DACS), transport of the captured to the storage is necessary. The technical
+details of both storage and transportation are included in the technological details relevant to the
+GHG removals in this example and shall therefore be reported if applicable. For an explanation of
+GHG removals and storage, please see explanation ID 432 Net zero target and GHG removals.
+SRB 16 October 2024 Page 28 of 32
+Log of explanations
+ID 882 – Data availability for biogenic emissions in Scope 3
+Category
+Environment
+Question asked
+Can a preparer state that data for biogenic emissions in Scope 3 is ‘not available’ as it is specifically
+possible for Scope 2 biogenic emissions?
+ESRS Reference
+Disclosure Requirement E1-6 AR45 (e) and E1-6 AR46 (j); ESRS 2 Chapter 5.2 Estimation using
+sector averages and proxies
+Key terms
+Biogenic emissions; Scope 2; Scope 3; data availability; proxies; value chain
+Background
+According to ESRS E1 AR 45 (e), the undertaking shall ‘disclose biogenic emissions of CO2 carbon
+from the combustion or biodegradation of biomass separately from the Scope 2 GHG emissions
+but include emissions of other types of GHG (in particular CH4 and N2O). In case the emission
+factors applied do not separate the percentage of biomass or biogenic CO2, the undertaking shall
+disclose this. In case GHG emissions other than CO2 (particularly CH4 and N2O) are not available
+for, or excluded from, location-based grid average emissions factors or with the market-based
+method information, the undertaking shall disclose this.’
+In addition to scope 2 emissions, ESRS E1 AR 46 (j), requires the undertaking to report biogenic
+Scope 3 Emissions separately. ESRS E1 paragraph AR 46 (j) states that the undertaking shall
+‘disclose biogenic emissions of CO2 from the combustion or biodegradation of biomass that occur
+in its upstream and downstream value chain separately from the gross Scope 3 GHG emissions,
+and include emissions of other types of GHG (such as CH4 and N2O), and emissions of CO2 that
+occur in the life cycle of biomass other than from combustion or biodegradation (such as GHG
+emissions from processing or transporting biomass) in the calculation of Scope 3 GHG
+emissions;’.
+On emissions in the value chain, ESRS 1 paragraphs 69 and 71 states that:
+‘69. There are circumstances where the undertaking cannot collect the information about its
+upstream and downstream value chain as required by paragraph 63 after making reasonable
+efforts to do so. In these circumstances, the undertaking shall estimate the information to be
+reported about its upstream and downstream value chain, by using all reasonable and supportable
+information, such as sector-average data and other proxies.’ [and]
+’71. […] With reference to metrics, in many cases, in particular for environmental matters for
+which proxies are available, the undertaking may be able to comply with the reporting
+requirements without collecting data from the actors in its upstream and downstream value
+chain, especially from SMEs, for example, when calculating the undertaking’s GHG Scope 3
+emissions.’
+Answer
+For scope 3 emissions, the undertaking cannot choose to omit the data if no suitable emission
+factors are available.
+However, ESRS 1 paragraphs 69 and 71 state that the undertaking may be allowed to use sector
+averages or proxies to estimate value chain information. This also applies to biogenic emissions
+SRB 16 October 2024 Page 29 of 32
+Log of explanations
+in scope 3. Conversely, a statement of omittance can be used to report biogenic emissions in
+scope 2 if this data is unavailable.
+Therefore, if deemed material information, preparers are required to estimate the Scope 3
+biogenic emissions using sector averages and other proxies. However, it is likely that in many
+cases, biogenic Scope 3 emissions may be deemed non-material information as per paragraph 31
+of ESRS 1.
+[NOTE: The secretariat considers it is relevant to cover such case, as it is likely that all value-chains
+will have some biogenic scope 3 emissions, however, it is unlikely that these will be material
+information for a large majority of companies. To our knowledge, Scope 3 biogenic emissions is a
+considerably under-reported category at the moment]. Conversely, a statement of omittance can
+be used to report biogenic emissions in scope 2 if this data is unavailable.
+ID 893– Conversion factor fossil fuels
+Category
+Environment
+Question asked
+Which indicators are to be used to convert fossil fuels to kWh (gasoline, diesel, natural gas)?
+ESRS reference
+ESRS E1 paragraph AR 32
+Key terms
+Conversion factors, fossil fuels
+Background
+The submitter also asked about the ‘conversion of air conditioning refrigerants to kWh.’ As there
+is no need to convert air conditioning refrigerants into energy units, this question is not
+addressed.
+ESRS E1 paragraph AR 32 states: ‘When preparing the information on energy consumption
+required under paragraph 35, the undertaking shall: …
+(c) ensure all quantitative energy-related information is reported in either Mega-Watthours
+(MWh) in Lower Heating Value or net calorific value. If raw data of energy related
+information is only available in energy units other than MWh (such as Giga Joules (GJ) or
+eritish Thermal Units (etu)), in volume units (such as cubic feet or gallons) or in mass units
+(such as kilograms or pounds), they shall be converted to MWh using suitable conversion
+factors (see for example Annex II of the Fifth Assessment IPCC report). Conversion factors
+for fuels shall be made transparent and applied in a consistent manner;’.
+Answer
+Conversion factors for the energy content of fuels (so-called heating or calorific values) need to
+be used when preparing information on energy consumption. Heating values can be direct or
+indirect data, originate from multiple sources, and be expressed in different ways (e.g., energy
+per weight or energy per volume).
+Direct data on heating values will result from the analysis of the heat content of fuels used and
+from which a conversation factor is derived. This is typically done by very large energy consumers
+(and emitters) who need to know well the fuels they use, for example, power production from
+fossil fuels.
+SRB 16 October 2024 Page 30 of 32
+Log of explanations
+Indirect data on heating values can comprise, for example, data from fuel suppliers, national
+statistics data or engineering/technical factors representing usually accepted average figures for
+each fuel type, often reported as ranges (e.g. biodiesel 39–41 MJ/kg).
+Common sources of indirect data for heating values are:
+(a) 2006 IPCC Guidelines for National Greenhouse Gas Inventories (Table 1.2, page 1.18), also
+used as a reference for Annex VI of the EU ETS Monitoring and reporting regulation;
+(b) The UN Energy Statistics Yearbook, which provides statistical series of Heating values for
+different fuels and countries (see the supplement to the 2021 Energy Statistics
+Database);
+(c) GHG national inventories reports (NIR) submitted to the UNFCCC; and
+(d) Publications from energy statistics by the national statistics or energy authorities.
+(e) It is important to note that calorific value changes accross juridictions.
+Governance
+ID 800 Corruption and Bribery
+Category
+Governance
+Question asked
+Does an undertaking need to disclose the total number of incidents of corruption, and the total
+number of incidents of bribery? Or is there some additional data needed around "nature" of each
+of those types?
+ESRS Reference
+ESRS G1-4 paragraphs 24 and 25
+Key terms
+Corruption/bribery
+Background
+ESRS G1 paragraph 24 states: ‘The undertaking shall disclose:
+(a) the number of convictions and the amount of fines for violation of anti-corruption and
+anti- bribery laws; and
+(b) any actions taken to address breaches in procedures and standards of anti-corruption and
+anti-bribery.’
+ESRS G1 paragraph 25 states the following: ‘The undertaking may disclose: (a) the total number
+and nature of confirmed incidents of corruption or bribery; …’
+Answer
+There is no requirement to distinguish between convictions or fines for corruption and those for
+bribery in paragraph 24 of ESRS G1. Additional information about the nature of the conviction or
+fine is voluntary.
+SRB 16 October 2024 Page 31 of 32
+Log of explanations
+‘Confirmed incidents of corruption/bribery’ is the subject of voluntary disclosures per paragraph
+25 of ESRS G1 which requires disclosure of the nature. There is no concept of ‘incidents of
+corruption or bribery’ in ESRS.
+SRB 16 October 2024 Page 32 of 32

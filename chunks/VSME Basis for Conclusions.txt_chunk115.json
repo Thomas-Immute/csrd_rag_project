@@ -1,0 +1,5 @@
+{
+    "id": "VSME Basis for Conclusions.txt_chunk115",
+    "text": "geolocation tools and platforms handle coordinates with up to eight decimal\nplaces. The more decimal places, the more accurate and specific the location\nis, which is the objective of geolocation. Google Maps, for example, at its most\nbasic form, handles coordinates with six decimal places (and 14 decimal\nplaces at its most advanced form). Therefore, for the VSME it has been\ndecided to ask for coordinates with five decimal places, which will give",
+    "source": "VSME Basis for Conclusions.txt"
+}

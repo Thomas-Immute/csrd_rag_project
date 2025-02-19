@@ -1,0 +1,425 @@
+EFRAG IG 3: List of ESRS datapoints – Explanatory note
+Disclaimer
+This implementation guidance is non-authoritative and accompanies the European
+Sustainability Reporting Standards (ESRS), as stipulated in Articles 19a and 29a of Directive
+2013/34/EU (the Accounting Directive), but does not form part of them. This means that if
+anything in this guidance appears to contradict any requirement or explanation in ESRS,
+ESRS take precedence. This implementation guidance is issued following EFRAG’s due
+process for such non-authoritative documents and under the sole responsibility of EFRAG.
+EFRAG assumes no responsibility or liability whatsoever for the content or any
+consequences or damages directly, indirectly or incidentally arising from following the
+advice or guidance contained in this document. Users of this document are advised to
+exercise their own judgment in applying ESRS. Information contained in this document
+should not be substituted for the services of an appropriately qualified professional.
+This implementation guidance has been developed for use by large listed and unlisted
+companies that are subject to CSRD. It is therefore not intended for use by listed small and
+medium-sized enterprises which adopt future LSME standards and other (not listed) SMEs
+voluntarily reporting based on the future VSME standards.
+This implementation guidance relates to the sector-agnostic ESRS as adopted by the
+European Commission on 31 July 2023, and published in the Official Journal on 22
+December 2023. Sector-specific standards may add sector specifications to be followed by
+specific sectors.
+About EFRAG
+EFRAG’s mission is to serve the European public interest in both financial and sustainability
+reporting by developing and promoting European views in the field of corporate reporting.
+EFRAG builds on and contributes to progress in corporate reporting. In its sustainability
+reporting activities, EFRAG provides technical advice to the European Commission in the
+form of draft European Sustainability Reporting Standards (ESRS) elaborated under a
+robust due process and supports the effective implementation of ESRS. EFRAG seeks input
+from all stakeholders and obtains evidence about specific European circumstances
+throughout the standard-setting process. Its legitimacy is built on excellence, transparency,
+governance, due process, public accountability and thought leadership. This enables
+EFRAG to speak convincingly, clearly, and consistently and to be recognised as the
+European voice in corporate reporting and a contributor to global progress in corporate
+reporting.
+EFRAG is funded by the European Union through the Single Market Programme in which
+the EEA-EFTA countries (Norway, Iceland and Liechtenstein) as well as Kosovo participate.
+Any views and opinions expressed here are, however, those of the author(s) only and do
+not necessarily reflect those of the European Union, the European Commission or of
+countries that participate in the Single Market Programme. Neither the European Union,
+the European Commission nor the countries participating in the Single Market Programme
+can be held responsible for them.
+May 2024 Page 2 of 15
+EFRAG IG 3: List of ESRS datapoints – Explanatory note
+Table of contents
+1. Content and objective of this implementation guidance ............................................. 4
+2. Relationship between the list of datapoints and ESRS XBRL taxonomy..................... 5
+3. How to read the Excel workbook ....................................................................................... 6
+4. Explanation of data types presented in column G (based on the XBRL Data
+Type Registry) ........................................................................................................................ 7
+Appendix A: Differences between EFRAG IG 3 and the future digital ESRS XBRL
+taxonomy ................................................................................................................................ 9
+Appendix B: Statistics on the number of datapoints ........................................................ 11
+General overview ........................................................................................................................... 11
+Datapoints by type......................................................................................................................... 13
+Datapoints subject to phasing-in provisions applicable to all undertakings............. 14
+Datapoints subject to phasing-in provisions applicable to undertakings with
+less than 750 employees ........................................................................................................ 15
+May 2024 Page 3 of 15
+EFRAG IG 3: List of ESRS datapoints – Explanatory note
+1. Content and objective of this implementation
+guidance
+1. EFRAG releases EFRAG IG 3: List of ESRS datapoints as part of its implementation
+supporting activities, which consist of issuing non-authoritative implementation
+guidance and other material to support the application of sector-agnostic ESRS ‘Set 1’
+adopted by the European Commission via a delegated act on 31 July 2023 and
+published in the Official Journal of the European Union on 22 December 2023
+(‘ESRS’).
+2. EFRAG IG 3 presents in Excel format the complete list of all disclosure requirements
+in sector-agnostic standards. The Excel file covers all the standards except for ESRS 1
+General Requirements, as it does not set disclosure requirements. EFRAG IG 3: List of
+ESRS datapoints is aimed at supporting undertakings in their preparation of the first
+sustainability statement according to the ESRS.
+3. Appendix A in this document explains the differences between this list in Excel format
+and the ESRS Set 1 Draft XBRL Taxonomy.
+4. Appendix B provides statistics on the datapoints: 161 datapoints are mandatory
+irrespective of the materiality assessment; a further 622 datapoints1 are subject to the
+materiality assessment2.
+5. The first group of undertakings in the scope of the CSRD will prepare their
+sustainability statement under ESRS starting from 1 January 2024. Others will follow
+from 1 January 2025. For the undertakings that already report their ESG data, this list
+can be used as a basis to perform a data gap analysis. For them and for the other
+preparers, this list provides a structure to organise the data requirements in in order
+to comply with the ESRS.
+6. EFRAG IG 3 lists the detailed requirements contained in each Disclosure Requirement
+and the related Application Requirements, with additional information (columns)
+useful to navigate and filter the content (i.e., the corresponding paragraph and
+subparagraphs of each item).
+7. The list follows the structure of the detailed requirements in ESRS and as such reflects
+the architecture of the content corresponding to a given disclosure objective (or
+Disclosure Requirement – ‘DR’): each separable datapoint is presented as a separate
+item in this list. The goal of the standard setter in drafting ESRS has been to promote
+comparability on sustainability data across undertakings. Qualitative disclosures
+within a DR that are conceptually separable, i.e., usable independently from the rest
+of the narrative text, have been presented separately as different items in the list.
+8. A datapoint encompasses a clearly separable and specific piece of information
+required by the ESRS Disclosure Requirements (DRs), generally at the level of each
+paragraph, subparagraph and sub-subparagraph. Paragraphs mandating the
+disclosure of information that is also completely covered in more detail by subsequent
+subparagraphs are not included as datapoints3.
+1 Excluding the number of datapoints in ESRS 2 related to the Minimum Disclosure Requirements on Policies,
+Actions and Targets, which are to be reported on top of the topical disclosures when the undertaking has adopted
+PAT related to a given material sustainability matter.
+2 In addition, ESRS contain 269 voluntary datapoints marked as ‘may disclose’.
+3 The same applies to paragraphs whose only function is that of introducing subsequent ones, which are often
+identifiable in legal texts with the wording ‘… shall include the following: …’. Paragraphs providing
+methodological instructions for the disclosure of other datapoints, identifiable with the wording ‘… shall consider
+…’ or ‘… shall take into account …’, are also not considered as datapoints.
+May 2024 Page 4 of 15
+EFRAG IG 3: List of ESRS datapoints – Explanatory note
+9. ESRS 1 paragraph 16 remarks that ‘each Disclosure Requirement consists of one or
+more distinct datapoints’ and that ‘the term “datapoint” can also refer to a narrative
+sub-element of a Disclosure Requirement.’
+10. Application Requirements (ARs) are considered as separate datapoints mainly when
+they require the disclosure of quantitative information. If they only give instructions for
+the disclosure of other datapoints, they are only provided as corresponding
+references.
+11. This list covers the full universe of possible datapoints under sector-agnostic ESRS
+irrespective of the outcome of the materiality assessment to be performed by each
+undertaking to prepare its sustainability statement, considering EFRAG IG 1:
+Materiality Assessment Implementation Guidance and EFRAG IG 2: Value Chain
+Implementation Guidance. Furthermore, Appendix C of ESRS 1 as well as ESRS 2
+General requirements BP-2 paragraph 17 define phase-ins for individual datapoints,
+disclosure requirements or standards based on the number of employees or specific
+financial years. These phase-ins are also illustrated in the list.
+12. Finally, this list does not cover the preparation of entity-specific disclosures (see
+paragraph 11 of ESRS 1).
+2. Relationship between the list of datapoints and
+ESRS XBRL taxonomy
+13. EFRAG has received the mandate to develop a digital taxonomy reflecting the ESRS
+(and Article 8 disclosures, per the EU environmental Taxonomy Regulation 2020/85)
+in XBRL format. The digital ESRS XBRL Taxonomy is designed for undertakings to tag
+their sustainable statements in a structured, machine-readable format. This enables
+users of ESRS disclosures to analyse the information, avoiding manual and error-prone
+transformation from a PDF or printed document. The intention is for undertakings to
+digitally tag (or mark up) sustainability information within their current human-
+readable reporting format, reflecting the content of the relevant requirements in ESRS.
+14. EFRAG launched the public consultation on 8 February 2024 on the ESRS Set 1 Draft
+XBRL taxonomy. The final ESRS XBRL Taxonomy will then be handed over to the EC
+and ESMA. The digital tagging will have to be performed in the European Single
+Electronic Format (ESEF) according to an adjusted Regulatory Technical Standard
+(RTS) that will be developed by ESMA on the basis of the technical advice on the ESRS
+Set 1 Draft XBRL Taxonomy that will be released by EFRAG in 2024.
+15. This list does not represent the digital ESRS XBRL taxonomy and cannot be used as a
+basis for the preparation of the machine-readable sustainability reporting (see below).
+EFRAG IG 3 contains the line items only for tables as a whole, which will be used to
+further disaggregate datapoints. The structure of the data in EFRAG IG 3 and of the
+future ESRS XBRL Taxonomy may differ for technical reasons. In particular, the digital
+modelling of the datapoints requires technical implementation that is not suitable for
+use with a human-readable tool like the List of ESRS datapoints (e.g., avoiding multiple
+tagging, technical details and attributes for dimensions and tables – see Appendix A).
+However, beyond technical differences, the two deliverables are based on full
+consistency.
+16. While the list does not represent the ESRS XBRL Taxonomy and cannot be used as a
+basis for the preparation of the machine-readable sustainability reporting, it may
+support the preparation of human-readable reports that will be easier to digitalise. In
+particular, it can be used to organise the reporting in a more structured way to assist
+the machine-readable format of the reporting, as required by the CSRD.
+May 2024 Page 5 of 15
+EFRAG IG 3: List of ESRS datapoints – Explanatory note
+17. As such, EFRAG IG 3 may be considered an intermediate step on the way to delivering
+the ESRS XBRL Taxonomy. It may also be used as a useful tool to advance the
+preparation of the machine-readable sustainability statement. Separating the single
+disclosure items in the narrative text as illustrated in EFRAG IG 3 may help to
+streamline the future digital tagging and avoid overlapping and extensive use of so-
+called ‘continuations’4. Therefore, EFRAG encourages preparers to use the list of
+detailed disclosure requirements to prepare the structure of the human-readable
+ESRS sustainability statements.
+3. How to read the Excel workbook
+18. The list has been prepared for the detailed requirements embedded in 11 out of 12
+standards released in Set 1, which are provided in separate worksheets. ESRS 1 does
+not include any dedicated DR but only general requirements and therefore has not
+been included in this list. Nevertheless, some requirements deriving from ESRS 1 will
+be included in the ESRS Digital Taxonomy (i.e., comparative data). The Excel
+workbook contains a separate worksheet for each topical standard. It is important to
+note the corresponding disclaimer and the instructions provided on each worksheet.
+19. The short description of each datapoint provided in column F is linked to the
+respective paragraph in the ESRS text via a hyperlink; by clicking on the name of the
+datapoint, a browser window will open up with the relevant paragraph highlighted in
+red.5
+20. The Minimum Disclosure Requirements (MDRs) of ESRS 2 are presented only once6,
+in a separate worksheet, as they have to be disclosed for each sustainability matter.
+Each topical standard referencing the MDR has a dedicated hyperlink. Hyperlinks
+allow to navigate from each topical standard to the corresponding MDR worksheet
+datapoints. If the undertaking does not provide disclosure on policies, targets or
+actions, it still needs to disclose the reasons for that, as indicated via hyperlinks to the
+MDR worksheet and the corresponding datapoints of ESRS 2 paragraphs 62 and 81.
+21. The following table describes the content of each column provided in the Excel
+worksheets of EFRAG IG 3: List of ESRS datapoints.
+• Column A Unique identifier for each DP, with reference to the
+corresponding Disclosure Requirement (DR)
+• Column B Reference to the corresponding ESRS (i.e., ESRS 2, E1)
+• Column C Reference to the corresponding Disclosure Requirement (DR)
+• Column D Reference to the corresponding paragraph under each DR
+• Column E Reference to the related Application Requirement
+• Column F Short description of the detailed requirement and the
+corresponding disclosure (Name), including a hyperlink to the corresponding
+paragraph of column D in an online version of the ESRS text
+4 ‘Continuations’ are required when the narrative disclosure referring to an XBRL tag is disseminated in different
+sections of the Inline XBRL report.
+5 The online version of the ESRS provided through the hyperlinks is a reproduction of the version published in the
+Official Journal on 22 December 2023. It is made available for use only in conjunction with this implementation
+guidance.
+6 They are applicable whenever the undertaking discloses on policies, actions and targets in relation to a material
+sustainability matter following topical standards or on an entity-specific basis.
+May 2024 Page 6 of 15
+EFRAG IG 3: List of ESRS datapoints – Explanatory note
+• Column G Data type classification (Narrative, Semi-Narrative and Numerical
+Elements)
+• Column H Separate identification of the conditional and alternative
+datapoints (‘if applicable’, ’where relevant’)
+• Column I Separate identification of the voluntary datapoints (‘may
+disclose’), additionally highlighted in orange
+• Column J Reference to the data reported under Appendix B-ESRS 2 (SFDR,
+Benchmark and Pillar 3)
+• Column K Indicates the years of phase-in for the respective datapoint
+according to Appendix C of ESRS 1 for undertakings with less than 750
+employees
+• Column L Indicates the years of phase-in for the respective datapoint
+according to Appendix C of ESRS 1
+4. Explanation of data types presented in column G
+(based on the XBRL Data Type Registry)
+22. Corresponding units per data type can be found in the XBRL Unit Type Registry:
+• Table – dimensional table where dimensions are used as breakdowns or as
+disaggregation of the line items in the list.
+• Narrative – used for narrative-formatted disclosures (textblocks) not restricted
+in any way in formatting, length or content (can contain images or tables; can
+span over one sentence, one paragraph, five pages or 100 pages; can be
+‘continued’ in the human-readable report).
+• MDR-A, MDR-P, MDR-M, MDR-T– references the corresponding datapoints
+from the ESRS 2 Minimum Disclosure Requirements on Actions, Policies,
+Metrics and Targets.
+• Boolean – Yes or No disclosure (True or False, 1 or 0), subject to paragraph 23.
+• Enumeration – Selection menu (multiple selection if appropriate), subject to
+paragraph 23.
+• Integer – integral data type, only non-decimal positive numbers.
+• Monetary – decimal number representing currency.
+• Percent – percentage.
+• Gyear – date (year only).
+• Date – date (day, month, year).
+• Mass – the mass item type represents the mass of an object that can be
+measured.
+• Area – the area item type is used to indicate that an element represents an area
+(e.g., hectare).
+• Decimal – numbers; might also include intensity rates, which require the
+disclosure of the corresponding numerator and denominator.
+• Intensity – represents a ratio with a numerator and a denominator.
+May 2024 Page 7 of 15
+EFRAG IG 3: List of ESRS datapoints – Explanatory note
+• Volume – the Volume item type is used to indicate that an element represents
+a volume and can be used to express the volume of any substance, be it solid,
+liquid or gas.
+• Energy – the energy item type represents a unit of energy.
+23. When referring to ‘numerical’ data types, all quantitative types are considered. The
+term ‘semi-narrative’ is used to describe data types that can be used to enrich narrative
+disclosures (textblocks), i.e., Booleans and enumeration.
+24. Boolean datapoints relate to disclosures that are either True or False, e.g., ‘The
+undertaking shall disclose … whether it has operations that affect threatened species’
+(ESRS E4.16 c).
+25. Enumeration datapoints relate to disclosures that the undertaking can select from a
+pre-defined list, e.g., ‘The undertaking shall explain for each material climate-related
+risk it has identified whether the entity considers the risk to be a climate-related
+physical risk or climate-related transition risk’ (ESRS E1.18). In this case, the
+undertaking has to disclose one of the two provided options (climate-related physical
+risk or climate-related transition risk).
+26. Datapoints are identified with the data type ‘table’ when the ESRS require a
+disaggregation or breakdown of datapoints into different categories. The
+presentation in an ESRS statement does not necessarily require it to be in tabular
+format unless a specific ESRS requires it.
+27. When the ESRS require the inclusion of quantitative information within narrative
+disclosures (e.g., ‘The undertaking shall … relate significant monetary amounts of
+CapEx and OpEx required to implement the actions taken or planned to relevant line
+items in the financial statements’ – ESRS E1.29(c)(i)), the respective datapoint is
+identified with a mixed data type (in this case, narrative/monetary).
+May 2024 Page 8 of 15
+EFRAG IG 3: List of ESRS datapoints – Explanatory note
+Appendix A: Differences between EFRAG IG 3 and the
+future digital ESRS XBRL taxonomy
+1. EFRAG IG 3: List of ESRS datapoints has been prepared by adopting the same
+methodology as the one used for the development of the draft ESRS Digital taxonomy
+(see the approved Methodology and Architecture paper – 26 April 2023) in order to
+ensure consistency. However, given its nature as a tool that supports a human-
+readable exercise, there are some differences in detailed approaches that are applied
+when creating this list in contrast to the digital ESRS XBRL taxonomy. These differences
+are illustrated in this appendix.
+2. The term ‘item’ is used to represent a row in the list of detailed requirements, while
+the term ‘XBRL element’ is used to represent a tag in the digital ESRS XBRL taxonomy.
+Methodology for ESRS XBRL
+Comparison Methodology to create EFRAG IG 3
+Taxonomy
+Data Type Categories A. Numerical, quantitative datapoints Idem
+(percentage, monetary);
+B. Non-numerical but comparable
+types (date, year, semi-narrative
+elements);
+C. Narrative types (textblocks).
+Data type A 1 entry for each individual detail Idem
+[Numerical] requirement (irrespective of location)
+Data Type B 1 item for each semi-narrative data point 1 element for each semi-narrative data
+[Semi-narrative – / (e.g., Yes/No, or dropdown for list of point (e.g., Yes/No, or dropdown for
+Dropdowns and ESRS sectors) list of ESRS sectors)
+Booleans]
+Data Type C No item for each Level 1 (representing a 1 element for each Level 1 (DR as a
+[Narrative] DR as a whole) whole)
+1 item for each Level 2 (a, b, c) 1 element for each Level 2 (a, b, c)
+1 item for each Level 3 (i., ii, iii) 1 element for each Level 3 (i., ii, iii)
+Granularity Level 2 + Level 3 of the human-readable Level 1 + Level 2 + Level 3 of the
+version of the ESRS. human-readable version of the ESRS.
+Level of Separability Idem Idem
+‘Whether and how’ Not included as a separate item in case 1 Boolean element related to
+the content has already captured by ‘whether’ (Y/N), and 1 item related to
+other elements covering the same ‘how’ (textblock)
+paragraph.
+Tables representing Line items without dimensions (e.g., Line items with all possible
+multidimensional Countries or ESRS Sectors). dimensions separately implemented
+breakdowns of Comparative information and (e.g., Countries /ESRS Sectors/GHG
+(mainly quantitative) breakdown by time horizon (short-, categories, etc.).
+datapoints (e.g., GHG medium- and long-term), where The dimensions include the
+breakdown by required by ESRS, are not included in comparative information in terms of
+country or gender the list. time horizons and targets, where
+breakdowns in the required by ESRS.
+social standards)
+Entity-specific aspects Not included Implemented as ‘typed dimensions’
+enabling undertakings to digitally tag
+entity specific aspects of the
+disclosures (e.g., targets, actions,
+policies, subsidiaries, operating
+segments, etc.)
+Appendix C (SFDR, Yes Yes, including the reference to the
+Benchmark, Pillar 3) corresponding regulation.
+reference
+May 2024 Page 9 of 15
+EFRAG IG 3: List of ESRS datapoints – Explanatory note
+3. Finally, the digital XBRL taxonomy reuses XBRL elements whenever possible in the
+presentation link base. This reduces the total number of XBRL elements compared to
+EFRAG IG 3: List of ESRS datapoints, which includes one entry for each distinct
+paragraph of the ESRS. For instance, the item ‘Disclosure of decarbonisation levers
+and key action’ corresponding to paragraph 16(b) of ESRS E1-1 can be implemented
+in the XBRL taxonomy by reusing the XBRL elements from ESRS 2, paragraph 68(a)
+(Disclosure of key actions) and from ESRS E1-4, paragraph 34(f) ‘Explanation of
+decarbonisation levers identified’. Another example is the social standards, which
+repeat various disclosure requirements for different groups of employees, non-
+employees, workers in the value chain, affected communities and consumers and end
+users. While the ESRS XBRL taxonomy reuses single XBRL elements across those
+standards and uses dimensions to differentiate the topics, the list of datapoints
+provides one item per standard.
+May 2024 Page 10 of 15
+EFRAG IG 3: List of ESRS datapoints – Explanatory note
+Appendix B: Statistics on the number of datapoints
+1. The following statistics provide an overview of the number of datapoints provided in
+the Excel spreadsheet. It is important to note that the number of datapoints is not
+equal to the number of disclosed facts in a human-readable and digital report. There
+are a number of factors that will lead to individual numbers of disclosures of
+undertakings, such as: comparative information, usage of optional breakdowns for an
+individual required datapoint, number and structure of individual policies, actions and
+targets (e.g., one per topic, per matter, per material IRO), entity-specific disclosures
+and individual circumstances in terms of phase-in provisions and the materiality
+assessment.
+General overview
+2. The following table includes a presentation on the number of ‘Shall’ datapoints and
+‘May’ datapoints for each ESRS that are set out in the application requirements and
+disclosure requirements. The number of ‘Shall’ datapoints are separately distributed
+according to (i) datapoints to be reported irrespective of the materiality assessment
+and (ii) datapoints subject to the materiality assessment.
+3. Datapoints that have to be reported irrespective of the materiality assessment (in
+short, ‘always to be reported’) are those in ESRS 2 and those relating to IRO-1 in each
+topical standard.
+4. Minimum Disclosure Requirements (MDR) datapoints are presented in a separate
+table as they have to be considered for disclosure purposes when the undertaking
+identifies a sustainability matter as material and when the undertaking discloses
+policies, actions and/or targets on an entity-specific basis. According to ESRS 1
+paragraph 13, the undertaking shall apply the minimum disclosure requirements
+regarding policies, actions, metrics and targets together with the corresponding
+Disclosure Requirements in topical and sector-specific ESRS.
+5. MDR datapoints are therefore counted separately and excluded from the count of the
+datapoints in the topical ESRS. Tables’ datapoints are also excluded from the count as
+the line items of such table have been considered instead.
+May 2024 Page 11 of 15
+EFRAG IG 3: List of ESRS datapoints – Explanatory note
+6. The following table presents the total number of conditional and alternative
+datapoints7. Conditional datapoints are those that only have to be disclosed in certain
+cases (‘if applicable’, ‘where relevant’) while alternative datapoints are instead only
+alternative to each other and, therefore, only one has to be disclosed (e.g., when
+disclosing the number of employees in ESRS S1.50 a, undertakings may choose to
+report it at the end of the reporting period or as an average over the reporting period).
+7 60 DPs (29%) identified as conditional or alternative are also voluntary.
+May 2024 Page 12 of 15
+EFRAG IG 3: List of ESRS datapoints – Explanatory note
+Datapoints by type
+7. The following tables set out the number of datapoints by standard and type: seven
+datapoints have been excluded as they are subject to phase-in (ESRS 2 BP2,
+paragraph 17).
+8. There are specific Minimum Disclosure Requirements (MDR) on Policies, Actions,
+Targets and Metrics (PAT&M) in ESRS 2 Chapter 4.2 and 5. They have to be considered
+for disclosure purposes when the undertaking has adopted PAT or reported Metrics
+related to material sustainability matters.
+9. The tables indicate the classification of the ‘Shall,’ ‘MDR’ and ‘May’ datapoints by data
+type. The category of numerical datapoints includes different types of data (i.e.,
+monetary, volume, percentage, decimal).
+10. Only the ‘Shall’ datapoints in ESRS 2 and DR IRO 1 datapoints in topical standards are
+always to be reported; all other ‘Shall’ datapoints are (i) applicable only when the
+undertaking concludes that the relevant topic is material and (ii) subject to materiality
+under the provisions of ESRS 1 paragraphs 31 to 35. All MDR datapoints are to be
+reported only for material matters, per each policy/action/target that the undertaking
+discloses.
+11. The following table provides the required datapoints per standard per data type:
+12. The following table provides the required datapoints per MDR-PAT&M per
+sustainability matter per data type:
+May 2024 Page 13 of 15
+EFRAG IG 3: List of ESRS datapoints – Explanatory note
+13. The following table shows voluntary (‘may’) datapoints per standard per data type.
+Datapoints subject to phasing-in provisions applicable to all
+undertakings
+14. The following table indicates the number of datapoints that are subject to phasing-in
+provisions applicable to all undertakings, as defined in ESRS 1, Appendix C. The table
+presents different columns corresponding, respectively, to 1, 2 and 3 years of phasing-
+in.
+May 2024 Page 14 of 15
+EFRAG IG 3: List of ESRS datapoints – Explanatory note
+Datapoints subject to phasing-in provisions applicable to
+undertakings with less than 750 employees
+15. The following table indicates the number of datapoints that are subject to phasing-in
+provisions applicable to undertakings or groups not exceeding on its balance sheet
+date the average number of 750 employees during the financial year, according to BP
+2 paragraph 17 of ESRS 2.
+May 2024 Page 15 of 15

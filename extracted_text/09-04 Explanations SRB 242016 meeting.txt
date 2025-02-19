@@ -1,0 +1,1207 @@
+EFRAG SRB Meeting
+16 October 2024
+Paper 09-04
+This paper has been prepared by the EFRAG Secretariat for discussion at a public meeting of EFRAG SRB. The paper
+forms part of an early stage of the development of a potential EFRAG position. Consequently, the paper does not
+represent the official views of EFRAG or any individual member of the EFRAG SRB or EFRAG SR TEG. The paper is
+made available to enable the public to follow the discussions in the meeting. Tentative decisions are made in public
+and reported in the EFRAG Update. EFRAG positions, as approved by the EFRAG SRB, are published as comment
+letters, discussion or position papers, or in any other form considered appropriate in the circumstances.
+The content of each Explanation has been drafted to provide an answer to a specific technical question and cannot
+be directly extended by analogy to a different fact-pattern.
+This draft has not yet been subject to the English editorial review, which will be performed in the version approved by EFRAG SR
+TEG when submitted to EFRAG SRB.
+Log of draft explanations
+Table of content
+Cross-Cutting ......................................................................................................................... 2
+ID 787 – Sustainability reporting rules for consolidation? ........................................................ 2
+ID 803 – Own operations vs operational control ..................................................................... 6
+ID 905 – Manufacture of chemicals / pesticides and other agrochemical products ................... 8
+ID 935 – Financial effects - current vs anticipated ................................................................... 9
+ID 1039 – Time horizon - only long-term material ................................................................. 11
+ID 1047 – Conditions for incorporation by reference and content index ................................ 12
+ID 1054 – Short-term time horizon ....................................................................................... 14
+ID 1056 – MDR-Actions, resources allocated ......................................................................... 14
+ID 1057 – Targets, only qualitative? ...................................................................................... 16
+ID 1072 – DR GOV-1 - ESG expertise of governance bodies .................................................... 18
+ID 1090 – Length of transitional provisions for early adopters ............................................... 19
+ID 1136 – Targets without policy .......................................................................................... 20
+ID 1144 – Phase-in 750 employees: Calculation of average number ....................................... 22
+Environment ........................................................................................................................ 23
+ID 648 – Substances of (very high) concern – including entity-specific disclosures .................. 23
+Social .................................................................................................................................. 24
+ID 339 - Use of secondary data, social protection .................................................................. 24
+ID 430 - Definition of Gender ............................................................................................... 25
+ID 434 – Difference non-employees, value chain workers ..................................................... 26
+ID 473 – Restrictions due to national regulations .................................................................. 27
+ID 549 – Gender pay gap; collective wage agreements .......................................................... 28
+ID 550 - Disclosure of discrimination/harassment cases found inconclusive ........................... 29
+EFRAG SRB Meeting 16 October 2024 Page 1 of 29
+Log of explanations
+Cross-Cutting
+ID 787 – Sustainability reporting rules for consolidation?
+Information for the SRB
+The EFRAG SR TEG approved this version, however after the approval we received a written
+dissent by a TEG member.
+Based upon discussions with SRB WG I, EFRAG Secretariat propose to change the
+categorisation of this question into 'rejected already answered' and refer to 'IG VC section 2.3
+From own operations to value chain'. While the text agreed upon by the EFRAG SR TEG is
+educational, the concepts are already covered in IG 2.
+Category
+Cross-cutting
+Question asked
+Are there sustainability reporting rules for consolidation and if so, what are they? When does
+financial control apply, when does operational control apply?
+ESRS Reference
+ESRS 1 paragraphs 62 and 67; ESRS E1 paragraphs 46, 50 (a), 50 (b), AR 40; ESRS E2 paragraph 29;
+ESRS E4 paragraph 16
+Key terms
+Sustainability rules for consolidation; operational control; joint arrangements (joint operations
+and joint ventures (JV) and associates)
+Background
+The following question was received and amended as stated above:
+Are there precise criteria on how companies should consolidate? Is it financial or operational
+consolidation?
+The relevant background provided with that question was: Four companies owned by the same
+stakeholders, same type of activities. They consolidate financially two of the four companies. But
+the same people operate them. Do they need to consolidate the rest?
+Reporting group as a starting point
+ESRS 1 paragraph 62 states: ‘The sustainability statement shall be for the same reporting
+undertaking as the financial statements. For example, if the reporting undertaking is a parent
+company required to prepare consolidated financial statements the sustainability statement will
+be for the group. This requirement does not apply where the reporting undertaking is not
+required to draw-up financial statements or where the reporting undertaking is preparing
+consolidated sustainability reporting pursuant to Article 48i of Directive 2013/34/EU.’
+ESRS 1 paragraph 67 states: ‘When associates or joint ventures accounted for under the equity
+method or proportionally consolidated in the financial statements are part of the undertaking’s
+value chain for example as suppliers the undertaking shall include information related to those
+SRB 16 October 2024 Page 2 of 29
+Log of explanations
+associates or joint ventures in accordance with paragraph 63 consistent with the approach
+adopted for the other business relationships in the value chain. In this case when determining
+impact metrics the data of the associate or joint venture are not limited to the share of equity
+held but shall be taken into account on the basis of the impacts that are connected with the
+undertaking’s products and services through its business relationships.’
+Operational control
+Annex II Acronyms and Glossary of terms defines operational control: ‘Operational control (over
+an entity, site, operation or asset) is the situation where the undertaking has the ability to direct
+the operational activities and relationships of the entity, site, operation or asset.’
+Throughout ESRS, the term ‘operational control’ is referenced to in ESRS E1 paragraph 46, ESRS
+E1 paragraph 50, ESRS E2 paragraph 29, and ESRS E4 paragraph 16 as laid out below.
+ESRS E1 paragraph 46 states (Disclosure Requirement E1-6 – Gross Scopes 1, 2, 3 and Total GHG
+emissions): ‘When disclosing the information on GHG emissions required under paragraph 44,
+the undertaking shall refer to ESRS 1 paragraphs from 62 to 67. In principle, the data on GHG
+emissions of its associates or joint ventures that are part of the undertaking’s upstream and
+downstream value chain (ESRS 1 Paragraph 67) are not limited to the share of equity held. For its
+associates, joint ventures, unconsolidated subsidiaries (investment entities) and contractual
+arrangements that are joint arrangements not structured through an entity (i.e., jointly controlled
+operations and assets), the undertaking shall include the GHG emissions in accordance with the
+extent of the undertaking’s operational control over them.’
+ESRS E1 paragraph 50 states: ‘For Scope 1 and Scope 2 emissions disclosed as required by
+paragraphs 44 (a) and (b) the undertaking shall disaggregate the information, separately
+disclosing emissions from:
+(a) the consolidated accounting group (the parent and subsidiaries); and
+(b) investees such as associates, joint ventures, or unconsolidated subsidiaries that are
+not fully consolidated in the financial statements of the consolidated accounting
+group, as well as contractual arrangements that are joint arrangements not
+structured through an entity (i.e., jointly controlled operations and assets), for which
+it has operational control.’
+ESRS E2 paragraph 29 states (Disclosure Requirement E2-4 Pollution of air, water and soil): ‘The
+amounts referred in paragraph 28 shall be consolidated amounts including the emissions from
+those facilities over which the undertaking has financial control and those over which it has
+operational control. The consolidation shall include only the emissions from facilities for which
+the applicable threshold value specified in Annex II of Regulation (EC) No 166/2006 is exceeded.’
+ESRS E4 paragraph 16 states (Disclosure Requirement SBM 3 – Material impacts, risks and
+opportunities and their interaction with strategy and business model): ‘The undertaking shall
+disclose:
+(a) a list of material sites in its own operations, including sites under its operational
+control, based on the results of paragraph 17(a). The undertaking shall disclose these
+locations by: …’
+Joint operations and joint ventures
+IFRS 11 Joint arrangements defines ‘Joint operations’ as: ‘A joint arrangement whereby the
+parties that have joint control of the arrangement have rights to the assets, and obligations for
+the liabilities, relating to the arrangement.’
+IFRS 11 paragraph 20 defines: ‘A joint operator shall recognise in relation to its interest in a joint
+operation:
+SRB 16 October 2024 Page 3 of 29
+Log of explanations
+(a) its assets, including its share of any assets held jointly;
+(b) its liabilities, including its share of any liabilities incurred jointly;
+(c) its revenue from the sale of its share of the output arising from the joint operation;
+(d) its share of the revenue from the sale of the output by the joint operation; and
+(e) its expenses, including its share of any expense incurred jointly.
+IFRS 11 Joint arrangements defines ‘Joint ventures’ as: ‘A joint venture is a joint arrangement
+whereby the parties that have joint control of the arrangement have rights to the net assets of
+the arrangement.’
+IFRS 11 paragraph 24 defines: ‘A joint venturer shall recognise its interest in a joint venture as
+an investment and shall account for that investment using the equity method […].’
+Answer
+There are no ‘sustainability reporting rules for consolidation’ besides those used for financial
+reporting. The sustainability statement is prepared for the same reporting undertaking as defined
+for the financial statements, based on financial accounting guidance adopted for consolidated
+financial statements (IFRS or national GAAP as the case might be). Especially, there is no such
+thing as an ‘operational consolidation’-concept (the term used in the question of the submitter)
+to determine the scope of consolidation for sustainability reporting.
+However, the concept of ‘operational control’ is used in ESRS E1 and ESRS E2 for certain
+environmental metrics and in ESRS E4 for a narrative disclosure, as further described below;
+therefore it deserves special attention.
+Reporting group as a starting point
+The sustainability statement shall be for the same reporting undertaking as the financial
+statements (ESRS 1 paragraph 62, also noting the situations when these requirements do not
+apply as per the last sentence of paragraph 62).
+For example, in financial reporting the concept of ‘control’ implies that all assets, liabilities,
+income and expenses of a 51 percent owned subsidiary (for which ‘control’ exists according to
+IFRS 10 or applicable national GAAP) are recognized in their entirety, independent of the share
+that the reporting parent company holds. The subsidiary fully consolidated is reflected in metrics
+calculation for the group in its entirety (i.e. with 100 percent). See also the examples in IG 2
+paragraph 144 for the metric GHG emissions in ESRS E1.
+As stated in IG 2: Value chain implementation guidance ‘sometimes subsidiaries are not included
+in the financial reporting consolidation on the basis of materiality, for practical reasons. Such
+subsidiaries may still have material sustainability matters that need to be reported in the
+consolidated sustainability statement. Therefore, the materiality of their impacts, risks or
+opportunities needs to be evaluated as well.’
+Please refer to EFRAG IG 2: Value chain implementation guidance chapter 2.3 From own
+operations to value chain for ‘internal or intragroup transactions’.
+Beyond the entities included in the accounting consolidation perimeter, investments such as joint
+ventures and associates recognized in the consolidated financial statements as a single asset (i.e.
+accounted for under the equity method) are a source of material IROs to be reported, as
+connected with the undertaking through its business relationships. When, in addition to the
+investment relationship, joint ventures (JV) and associates are also actors in the value chain (e.g.
+SRB 16 October 2024 Page 4 of 29
+Log of explanations
+suppliers or customers) and therefore not own operations, the relevant supply chain transactions
+are treated as any other counterpart in the value chain (ESRS 1 paragraph 67). This means that
+the undertaking shall report the proportion of impacts arising from the goods or services that it
+buys from the JV or associate. In addition, the undertaking must consider the impacts that arise
+from its relationship with the JV or associate as investor (e.g. reporting GHG emissions category
+15 in addition to the emissions due to the supply relationship).
+The treatment of joint operations under IFRS differs to that of joint ventures or associates, in
+that the relevant assets, liabilities, revenues, expenses or share of such are accounted for in the
+financial statements of the joint operator per IFRS 11 par 26 and 20 to 22. Therefore, joint
+operations under IFRS form part of the reporting entity. Under local GAAP, the treatment may be
+the same as described for joint ventures/associates in the previous paragraph.
+Operational control
+For limited environmental disclosures the information to be reported also includes the
+information of sites, assets and entities not included in the consolidated financial statements, if
+the undertaking exercises operational control over them. This is the case only for the following
+disclosures:
+(a) GHG emissions (ESRS E1 paragraph 50 (b)) - metric;
+(b) the amounts of pollutants (ESRS E2, paragraph 29) - metric; and
+(c) for the disclosure of the list of material sites in (ESRS E4 paragraph 16 (a)).
+Further requirements may be added in sector specific standards.
+Operational control (over an entity, site, operation or asset) is defined in the glossary as ‘the
+situation where the undertaking has the ability to direct the operational activities and
+relationships of the entity, site, operation or asset.’ ESRS E1 paragraph AR 40 further details that
+‘In practice, this happens when the undertaking holds the license - or permit - to operate the
+assets from these associates, joint ventures, unconsolidated subsidiaries (investment entities)
+and contractual arrangements.’
+To note: Operational control does not apply to ESRS S1-S4 (see IG 2 Value chain paragraphs 60
+and 61).
+Financial control without operational control
+Consistent with the basic principle being to report impacts, risks or opportunities of the reporting
+undertaking as reflected in the (consolidated) financial statements, if the reporting undertaking
+does not have operational control over a subsidiary, a site or an asset included in the consolidated
+financial statements, the relevant amounts of GHG emissions and pollutants are nevertheless
+included in the sustainability statement.
+Reference is made to further guidance on operational control in the IG 2 chapter 2.3 From value
+own operations to value chain.
+Please also refer to ID 284 - How should joint venture (or associates) employees be considered in
+the sustainability statement?
+SRB 16 October 2024 Page 5 of 29
+Log of explanations
+ID 803 – Own operations vs operational control
+Category
+Cross-cutting
+Question asked
+What is the distinction between ‘own operations’ and ‘operational control’ in ESRS?
+ESRS Reference
+ESRS E1 paragraphs 62 and 63; ESRS E1 paragraphs 46 and 50; ESRS E2 paragraph 29; ESRS E4
+paragraph 16
+ESRS E3 paragraph 28 (water consumption)
+Key terms
+Own operations; water consumption and leased property
+Background
+The submitter provided the following background information together with the question: ‘We
+believe these own operations and operational control are separate: operational control is about
+the authority to implement operating policies, while own operations are about ownership and
+financial control. To confirm, in ESRS E3, if a company is leasing from landlord and landlord is
+paying the utility bills, does the company report on that water consumption?’
+The submitter asked a second question: ‘In ESRS E3, if a company is leasing from landlord and
+landlord is paying the utility bills, does the company report on that water consumption?’ This
+question will be addressed in a [forthcoming] Implementation Guidance on leasing.
+The Glossary of terms defines operational control: ‘Operational control (over an entity, site,
+operation or asset) is the situation where the undertaking has the ability to direct the operational
+activities and relationships of the entity, site, operation or asset.’
+ESRS 1 paragraph 62 states: ‘The sustainability statement shall be for the same reporting
+undertaking as the financial statements. For example, if the reporting undertaking is a parent
+company required to prepare consolidated financial statements the sustainability statement will
+be for the group. This requirement does not apply where the reporting undertaking is not
+required to draw-up financial statements or where the reporting undertaking is preparing
+consolidated sustainability reporting pursuant to Article 48i of Directive 2013/34/EU.’
+ESRS 1 paragraph 63 states: ‘The information about the reporting undertaking provided in the
+sustainability statement shall be extended to include information on the material impacts, risks
+and opportunities connected with the undertaking through its direct and indirect business
+relationships in the upstream and/or downstream value chain (‘value chain information’). In
+extending the information about the reporting undertaking, the undertaking shall include
+material impacts, risks and opportunities connected with its upstream and downstream value
+chain:
+(a) following the outcome of its due diligence process and of its materiality assessment; and
+(b) in accordance with any specific requirements related to the value chain in other ESRS.’
+ESRS E1 paragraph 46 states (Disclosure Requirement E1-6 – Gross Scopes 1, 2, 3 and Total GHG
+emissions): ‘When disclosing the information on GHG emissions required under paragraph 44,
+the undertaking shall refer to ESRS 1 paragraphs from 62 to 67. In principle, the data on GHG
+emissions of its associates or joint ventures that are part of the undertaking’s upstream and
+SRB 16 October 2024 Page 6 of 29
+Log of explanations
+downstream value chain (ESRS 1 Paragraph 67) are not limited to the share of equity held. For its
+associates, joint ventures, unconsolidated subsidiaries (investment entities) and contractual
+arrangements that are joint arrangements not structured through an entity (i.e., jointly controlled
+operations and assets), the undertaking shall include the GHG emissions in accordance with the
+extent of the undertaking’s operational control over them.’
+ESRS E1 paragraph 50 states: ‘For Scope 1 and Scope 2 emissions disclosed as required by
+paragraphs 44 (a) and (b) the undertaking shall disaggregate the information, separately
+disclosing emissions from:
+(a) the consolidated accounting group (the parent and subsidiaries); and
+(b) investees such as associates, joint ventures, or unconsolidated subsidiaries that are not
+fully consolidated in the financial statements of the consolidated accounting group, as
+well as contractual arrangements that are joint arrangements not structured through
+an entity (i.e., jointly controlled operations and assets), for which it has operational
+control.’
+ESRS E2 paragraph 29 states (Disclosure Requirement E2-4 Pollution of air, water and soil): The
+amounts referred in paragraph 28 shall be consolidated amounts including the emissions from
+those facilities over which the undertaking has financial control and those over which it has
+operational control. The consolidation shall include only the emissions from facilities for which
+the applicable threshold value specified in Annex II of Regulation (EC) No 166/2006 is exceeded.’
+ESRS E4 paragraph 16 states (Disclosure Requirement SBM 3 – Material impacts, risks and
+opportunities and their interaction with strategy and business model): ‘The undertaking shall
+disclose:
+(a) a list of material sites in its own operations, including sites under its operational control,
+based on the results of paragraph 17(a). The undertaking shall disclose these locations
+by: …’
+ESRS E3 paragraph 28 states (water consumption): ‘The disclosure required by paragraph 26
+relates to own operations and shall include:
+(a) total water consumption in m3; …’
+Note to SRB members
+The present draft has been approved by the SR TEG members that attended the meeting in
+which it was discussed, with the dissent of Julia Kolzer (Allianz). She thinks that the following
+addition is not strong enough to stress the need for industry specific principles (e.g. financial
+institutions): ‘Own operations are usually understood to correspond to the assets and liabilities
+included in the consolidated financial statements, unless they are not included but there is
+operational control (limited to E1-6, E2-X, E4-X). Sector standards may define specific
+provisions to define own operations and upstream and downstream value chain considering
+the peculiarity of transactions in that sector. For financial institutions see ID 41 Financial
+institutions – scope of reporting boundary.’
+Answer
+Own operations
+Own operations is not a defined term in ESRS, other than not being upstream or downstream
+value chain (see ESRS 1 paragraphs 62 and 63). Own operations are usually understood to
+SRB 16 October 2024 Page 7 of 29
+Log of explanations
+correspond to the assets and liabilities included in the consolidated financial statements, unless
+they are not included, but there is operational control (limited to E1-6, E2-4, E4 Disclosure
+Requirement SBM 3). Sector standards may define specific provisions to define own operations
+and upstream and downstream value chain considering the peculiarity of transactions in that
+sector. For financial institutions see ID 41 Financial institutions – scope of reporting boundary.
+See also ID 787 – Sustainability reporting rules for consolidation?
+Operational control
+In the Glossary of ESRS ‘operational control’ is defined and its application is further explained in
+EFRAG IG 2 Value Chain Chapter 2.3 as well as FAQ’s 5 to 7.
+Operational control is used in ESRS to include in the measurement of metrics (in ESRS E1 for GHG
+emissions and in ESRS E2 for pollution) and in the list of material sites in ESRS E4 the information
+of sites, assets and entities that are under operational control of the undertaking but not
+recognised in its financial statements. Operational control does not apply to ESRS S1-S4 (see IG 2
+Value chain paragraphs 60 and 61).
+For the measurement of GHG emissions (ESRS E1 paragraphs 46 and 50 b), the measurement of
+the amounts of pollutants (ESRS E2 paragraph 29); and for the disclosure of the list of material
+sites in (ESRS E4 paragraph 16 (a)), the information to be reported includes in addition to that
+coming from own operations the information on sites, assets and entities not included in the
+consolidated financial statements, if the undertaking exercises operational control over them.
+Looking at the treatment of GHG emissions from entities, sites and assets not financially
+controlled but ‘only’ under operational control, which include ‘unconsolidated subsidiaries that
+are not fully consolidated in the financial statements of the consolidated accounting group’ when
+the reporting entity has operational control, ESRS E1 clarifies that they are classified as scope 1
+and 2 (refer to ESRS E1 paragraph 50 (b)). In this sense, despite not belonging to the consolidated
+group (as they are not included in ESRS E1 paragraph 50 (a)), still they are not considered as
+belonging to the upstream or downstream value chain (as they are not in Scope 3), as the
+undertaking has, the ability to direct the operational activities and relationships of the
+asset/site/undertaking concerned, as if they were part of own operations.
+Reference is made to IG 2 Value chain paragraph 51. Operational control in the case of ESRS E1
+does not only relate to investees (associates, joint arrangements and unconsolidated subsidiaries,
+etc.) under operational control, but also to GHG emissions of entities, assets and sites under
+operational control which are not included in the consolidated financial statements (e.g. when no
+investment relationship exists between the reporting entity and the asset or site under
+operational control).
+ID 905 – Manufacture of chemicals / pesticides and other agrochemical
+products
+Category
+Cross-cutting
+Question asked
+There is a reference to Division 20.2 of Annex I to Regulation (EC) No 1893/2006 and I wonder if
+you mean Division 20 Group 20.2 which is ‘Manufacture of pesticides and other agrochemical
+products’?
+SRB 16 October 2024 Page 8 of 29
+Log of explanations
+ESRS Reference
+ESRS 2 paragraph 40 (d) (ii)
+Key terms
+Pesticides; agrochemical products
+Background
+ESRS 2 paragraph 40 states: ’The undertaking shall disclose the following information about the
+key elements of its general strategy that relate to or affect sustainability matters: …
+(a) where applicable, a statement indicating, together with the related revenues, that the
+undertaking is active in: …
+(i) chemicals production, i.e., activities that fall under the Division 20.2 of Annex I to
+Regulation (EC) No 1893/2006; …’
+Answer
+Yes, the correct reference is to Division 20 Group 20.2 of Annex I to Regulation (EC) No 1893/2006
+which is ‘Manufacture of pesticides and other agrochemical products’.
+Supporting material
+Regulation (EC) No 1893/2006
+ID 935 – Financial effects - current vs anticipated
+Category
+Crosscutting
+Question asked
+What is the difference between current financial effects in ESRS 2 paragraph 48 (d) and
+anticipated short-term effects ESRS 2 paragraph 48 (e)?
+ESRS Reference
+ESRS 2 paragraph 48
+Key terms
+Financial effects, current; financial effects, anticipated
+Background
+The submitter provided the following background to the question: ‘According to ESRS 1 section
+6.4 paragraph 77, the short-term time horizon is defined as the reporting period (which we
+interpret as the current reporting period), and the medium-term horizon starts after that
+reporting period up to 5 years. Is the next annual reporting period included in the short-term
+horizon as defined by ESRS 1.77.b, and is that then the definition of anticipated short-term effects,
+or is it included in the medium-term horizon - but what would be the short term anticipated in
+that case? (In the French translation, the short-term time horizon is defined as the ‘période de
+référence’ which in paragraph 75 is the equivalent of the ‘base year’ - this adds to the confusion.)’
+ESRS 2 paragraph 48 states: ‘The undertaking shall disclose: …
+SRB 16 October 2024 Page 9 of 29
+Log of explanations
+(d) the current financial effects of the undertaking’s material risks and opportunities on its
+financial position, financial performance and cash flows and the material risks and
+opportunities for which there is a significant risk of a material adjustment within the next
+annual reporting period to the carrying amounts of assets and liabilities reported in the
+related financial statements; and
+(e) the anticipated financial effects of the undertaking’s material risks and opportunities on
+its financial position, financial performance and cash flows over the short-, medium- and
+long-term, including the reasonably expected time horizons for those effects. This shall
+include how the undertaking expects its financial position, financial performance and cash
+flows to change over the short, medium- and long-term, given its strategy to manage risks
+and opportunities, taking into consideration:
+(i) its investment and disposal plans (for example, capital expenditure, major
+acquisitions and divestments, joint ventures, business transformation,
+innovation, new business areas and asset retirements), including plans the
+undertaking is not contractually committed to; and
+(ii) its planned sources of funding to implement its strategy.
+Annex II Acronyms and Glossary of terms defines:
+(a) financial effects: ‘Effects from risks and opportunities that affect the undertaking’s
+financial position, financial performance and cash flows over the short, medium or long
+term’;
+(b) current financial effects: ‘Financial effects for the current reporting period that are
+recognised in the primary financial statements’; and
+(c) anticipated financial effects: ‘Financial effects that do not meet the recognition criteria
+for inclusion in the financial statement line items in the reporting period and that are not
+captured by the current financial effects’.
+ESRS 1 Appendix C states in its phase-in provisions regarding ESRS 2 paragraph 48 (e): ‘The
+undertaking may omit the information prescribed by ESRS 2 SBM-3 paragraph 48(e) (anticipated
+financial effects) for the first year of preparation of its sustainability statement. The undertaking
+may comply with ESRS 2 SBM-3 paragraph 48(e) by reporting only qualitative disclosures for the
+first 3 years of preparation of its sustainability statement, if it is impracticable to prepare
+quantitative disclosures.’
+Answer
+Current financial effects and anticipated financial effects are two different concepts.
+Current financial effects are defined as ‘financial effects for the current reporting period that are
+recognised in the primary financial statements’. Anticipated financial effects are defined as
+‘financial effects that do not meet the recognition criteria for inclusion in the financial statement
+line items in the reporting period and that are not captured by the current financial effects’.
+Anticipated financial effects includes the financial effects that are not ‘current financial effects’.
+The distinguishing characteristic is whether the financial effect has already been recognised in the
+financial statements based on the recognition criteria for inclusion in the primary financial
+statements or not. Accordingly, the current financial effect has already been recognized at or
+before the reporting date, whereas the anticipated effect might occur thereafter be it in the short-
+(within the reporting period after the balance-sheet date), medium- or long-term.
+SRB 16 October 2024 Page 10 of 29
+Log of explanations
+As an example, an impairment charge recognized in the current reporting period in accordance
+with IAS 36 Impairment of assets is a current financial effect whereas a disclosure in accordance
+with IAS 36 paragraph 134 (f) requiring the disclosure of a potential impairment based on
+‘reasonable possible change in key assumptions’ is an anticipated financial effect.
+The second part of ESRS 2 paragraph 48 (d) (second datapoint) requires the disclosure of ‘… and
+the material risks and opportunities for which there is a significant risk of a material adjustment
+within the next annual reporting period to the carrying amounts of assets and liabilities reported
+in the related financial statements’. This datapoint does not qualify as current financial effects
+but as anticipated financial effects for which there is a significant risk of a material adjustment
+within the next annual reporting period.
+In this sense, there is an overlap as the datapoint “adjustment within the next annual reporting
+period” is also part of the anticipated financial effects to be reported under ESRS 2 paragraph
+48 (e).
+The undertaking may incorporate disclosures using cross-references to the respective part in the
+financial statements to avoid repetitions. As a reminder in the context of financial effects,
+undertakings shall include in their sustainability statement based on thresholds of materiality
+references to the financial statements for monetary amounts or other quantitative data (see ESRS
+1 paragraphs 124 and 125), respectively for significant data, assumptions, and qualitative
+information (see ESRS 1 paragraphs 126 – 128) (reference to ESRS 1 chapter 9.2 Connected
+information and connectivity with financial statements). Incorporation by reference may be
+considered (reference to ESRS 1 chapter 9.1 Incorporation by reference).
+ID 1039 – Time horizon - only long-term material
+Category
+Cross-cutting
+Question asked
+We are trying to understand how changing materiality of a sustainability matter over the three
+timeframes influences Disclosure Requirements. E.g. if the matter water is deemed not material
+for the short and medium impact materiality but material in the long-term. Does that mean the
+matter is deemed material and disclosure is required even though it only becomes material in the
+long-term?
+ESRS Reference
+ESRS 1 paragraphs 43 and 49
+Key terms
+Time horizon, only long-term material
+Background
+ESRS 1 paragraph 43 states:’ A sustainability matter is material from an impact perspective when
+it pertains to the undertaking’s material actual or potential, positive or negative impacts on people
+or the environment over the short-, medium- or long-term. …’
+ESRS 1 paragraph 49 states: ‘A sustainability matter is material from a financial perspective if it
+triggers or could reasonably be expected to trigger material financial effects on the undertaking.
+This is the case when a sustainability matter generates risks or opportunities that have a material
+SRB 16 October 2024 Page 11 of 29
+Log of explanations
+influence or could reasonably be expected to have a material influence, on the undertaking’s
+development, financial position, financial performance, cash flows, access to finance or cost of
+capital over the short-, medium- or long-term. …’
+Answer
+Yes.ESRS 1 paragraph 43 states for impact materiality and paragraph 49 for financial materiality:
+‘A sustainability matter is material … when it pertains to / if it triggers … over the short-, medium-
+or long-term.’ The time horizons are connected with an ‘or’ meaning that the impact / financial
+materiality must not occur during all three time horizons. It is sufficient that materiality occurs
+during any of the time horizons.
+If a matter is assessed as material in the long-term the matter is considered material and the
+related Disclosure Requirements are applicable. Attention should be paid to the possible omission
+of metrics when following paragraph 43 of ESRS 1.
+Reference is made to ID 1019 – Sustainability matter expected to become material in the future.
+ID 1047 – Conditions for incorporation by reference and content index
+Category
+Cross-cutting
+Question asked
+Is it mandatory to make an explicit reference to the specific Disclosure Requirement when
+incorporating by reference or is referring to Disclosure Requirements to other parts of the annual
+report in the IRO-2 table sufficient?
+ESRS Reference
+ESRS 1 paragraphs 119 – 120; ESRS 2 paragraph 56 (content index requirement)
+Key terms
+Incorporation by reference; references to ESRS Disclosure Requirements in other parts of
+corporate reporting; content index
+Background
+ESRS 1 paragraphs 119 and 120 state:
+‘119. Provided that the conditions in paragraph 120 are met, information prescribed by a
+Disclosure Requirement of an ESRS, including a specific datapoint prescribed by a
+Disclosure Requirement, may be incorporated in the sustainability statement by reference
+to:
+(a) another section of the management report;
+(b) the financial statements;
+(c) the corporate governance statement (if not part of the management report);
+(d) the remuneration report required by Directive 2007/36/EC of the European
+Parliament and of the Council ( 9 );
+(e) the universal registration document, as referred to in Article 9 of Regulation (EU)
+2017/1129 ( 10 ); and
+SRB 16 October 2024 Page 12 of 29
+Log of explanations
+(f) public disclosures under Regulation (EU) No 575/2013 of the European Parliament
+and of the Council (Pillar 3 disclosures) ( 11 ). If the undertaking incorporates by
+reference information from Pillar 3 disclosures, it shall ensure that the information
+matches the scope of consolidation used for the sustainability statement by
+complementing the incorporated information with additional elements as necessary.
+120. The undertaking may incorporate information by reference to the documents, or part of
+the documents, listed in paragraph 119, provided that the disclosures incorporated by
+reference:
+(a) constitute a separate element of information and are clearly identified in the
+document concerned as addressing the relevant Disclosure Requirement, or the
+relevant specific datapoint prescribed by a Disclosure Requirement;
+(b) are published before or at the same time as the management;
+(c) are in the same language as the sustainability statement;
+(d) are subject to at least the same level of assurance as the sustainability statement;
+and
+(e) meet the same technical digitalisation requirements as the sustainability statement.’
+ESRS 1 paragraph 56 states: ‘The undertaking shall include a list of the Disclosure Requirements
+complied with in preparing the sustainability statement , following the outcome of
+the materiality assessment (see ESRS 1 chapter 3), including the page numbers and/or paragraphs
+where the related disclosures are located in the sustainability statement. This may be presented
+as a content index. The undertaking shall also include a table of all the datapoints that derive from
+other EU legislation as listed in Appendix B of this standard, indicating where they can be found
+in the sustainability statement and including those that the undertaking has assessed as not
+material, in which case the undertaking shall indicate ‘Not material’ in the table in accordance
+with ESRS 1 paragraph 35.’
+Answer
+Yes, it is mandatory to make an explicit reference in the sustainability statement to the specific
+Disclosure Requirement (and when applicable datapoint of a Disclosure Requirement) when
+incorporating by reference. At the same time, it is also necessary to clearly identify in the source
+document (i.e., the document that the sustainability statement refers to) the content that the
+undertaking intends to incorporate by reference, as the information that correspond to the
+relevant ESRS Disclosure Requirement (or the relevant specific datapoint) prescribed by a ESRS
+Disclosure Requirement.
+Incorporation by reference according to ESRS 1 paragraph 119 requires that all the conditions of
+ESRS 1 paragraph 120 are met. One of those conditions is that the disclosure incorporated by
+reference ‘constitute a separate element of information and are clearly identified in the
+document concerned as addressing the relevant Disclosure Requirement, or the relevant specific
+datapoint prescribed by a Disclosure Requirement’ (see ESRS 1 paragraph 120 (a)). A reference in
+the sustainability statement only – for example, as part of the ‘content index’ as required by
+ESRS 1 paragraph 56 - to the sections that are incorporated by reference is not sufficient to meet
+the ESRS 1 paragraph 120 (a) requirement. A statement in the document incorporated by
+reference (i.e., for example in another section of the management report or the financial
+statements) addressing the relevant Disclosure Requirement or the datapoint is also needed.
+SRB 16 October 2024 Page 13 of 29
+Log of explanations
+ID 1054 – Short-term time horizon
+Category
+Cross-cutting
+Question asked
+Could you please specify the short-term time horizon?
+ESRS Reference
+ESRS 1 paragraph 77 (a)
+Key terms
+Time horizon, short-term
+Background
+The following background to the question was provided by the submitter: ‘Since the short-term
+time horizon is defined as ‘the period adopted by the undertaking as the reporting period in its
+financial statements’, the question is whether short-term refers to the reporting period itself or
+the year after the reporting period and the reference does only clarify the length of the period. ‘
+ESRS 1 paragraph 77 states: ‘When preparing its sustainability statement, the undertaking shall
+adopt the following time intervals as of the end of the reporting period:
+(a) for the short-term horizon: the period adopted by the undertaking as the reporting period
+in its financial statements; …’.
+Answer
+The short-term time horizon normally lasts for one year from the end of the reporting period.
+The length of the short-term time horizon is defined as: the period adopted by the undertaking
+in its financial statement as reporting period; this period lasts as of the end of the reporting period
+into the future (ESRS 1 paragraph 77 (a)).
+The reporting period adopted by the undertaking in its financial statements is in nearly all cases
+one year (and in rare cases longer if the operating cycle is longer than one year (e.g., might be the
+case for producers of whisky, or cigars based on the definition of operating cycle in IFRS (IAS 1)).
+This short-term period lasts as of the end of the reporting period (also often called balance-sheet
+date) as stated in ESRS 1 paragraph 77 (‘… as of the end of the reporting period: …’) for one year.
+ID 1056 – MDR-Actions, resources allocated
+Category
+Cross-cutting
+Question asked
+What does ‘resources allocated’ refer to specifically in each ESRS? Does it require, at a minimum,
+the disclosure of which departments or specific teams are in charge and/or the total budget
+allocated for that specific topic?
+SRB 16 October 2024 Page 14 of 29
+Log of explanations
+ESRS Reference
+ESRS 2 paragraphs 66, 69, and AR 23; ESRS E1 paragraphs 26, 28, 29 and AR 20 to 22; ESRS E2
+paragraphs 16, 18, 19 and AR 14; ESRS E3 paragraphs 15, 17 to 19 and AR 21; ESRS E4 paragraphs
+25, 27 and AR 18; ESRS E5 paragraphs 17 and 19; ESRS S1 paragraphs 37, 43 and AR 48; ESRS S2
+paragraphs 31, 38 and AR 44; ESRS S3 paragraphs 31, 38 and AR 43; ESRS S4 paragraphs 30, 37
+and AR 41
+Key terms
+MDR-A; resources allocated
+Background
+ESRS 2 paragraph 66 states: ‘The undertaking shall apply the requirements for the content of
+disclosures in this provision when it describes the actions through which it manages each material
+sustainability matter including action plans and resources allocated and/or planned.’
+ESRS 2 paragraph 69 states: ‘Where the implementation of an action plan requires significant
+operational expenditures (Opex) and/or capital expenditures (Capex) the undertaking shall:
+(c) describe the type of current and future financial and other resources allocated to the
+action plan, including if applicable, the relevant terms of sustainable finance instruments,
+such as green bonds, social bonds and green loans, the environmental or social
+objectives, and whether the ability to implement the actions or action plan depends on
+specific preconditions, e.g., granting of financial support or public policy and market
+developments;
+(d) provide the amount of current financial resources and explain how they relate to the
+most relevant amounts presented in the financial statements; and
+(e) provide the amount of future financial resources.’
+ESRS 2 paragraph AR 23 states: ‘Information on resource allocation may be presented in the form
+of a table and broken down between capital expenditure and operating expenditure, and across
+the relevant time horizons, and between resources applied in the current reporting year and the
+planned allocation of resources over specific time horizons.’
+ESRS S1-S4 state (e.g. ESRS S1 paragraph AR 48): ‘When disclosing the resources allocated to the
+management of material impacts, the undertaking may explain which internal functions are
+involved in managing the impacts and what types of action they take to address negative and
+advance positive impacts.’
+Because ESRS E1-E5, S1-S4 have numerous other references to ‘resources allocated’ when
+requiring disclosures, they are not replicated in this background section (see ESRS reference
+section).
+The Annex II Acronyms and Glossary of terms defines ‘marine resources’ and ‘natural resources’.
+Answer
+The amount of current and future financial resources shall be disclosed, where the
+implementation of an action plan requires significant operational expenditures (Opex) and/or
+capital expenditures (Capex). The ‘departments or specific teams in charge’, on the other hand,
+may be disclosed.
+SRB 16 October 2024 Page 15 of 29
+Log of explanations
+The ESRS 2 Minimum Disclosure Requirements (MDR) on actions and resources (ESRS 2
+paragraphs 66 to 69) are to be applied together with the Disclosure Requirements, including the
+Application Requirements, provided in the relevant topical ESRS.
+The term ‘resources allocated’ is not specifically defined in ESRS. Based on ESRS 2 paragraph 69
+‘resources allocated’ relates to significant Opex and Capex in terms of ‘financial and other
+resources’. Where again ‘other resources’ is not defined, however, it can be assumed that human
+resources are one major element of ‘other resources’.
+The term ‘total budget allocated’ is not used in ESRS. However, the amount of current and future
+financial resources shall be disclosed by the undertaking in accordance with ESRS 2 paragraph 69
+(b) and (c), when the implementation of an action plan requires significant Opex and/or Capex.
+The undertaking may disclose the internal functions involved in managing material impacts in
+accordance with ESRS S1-S4 (e.g. ESRS S1 paragraph AR 48); this might include the ‘departments
+or specific teams in charge’ when disclosing resources allocated to the management of material
+impacts. There is no equivalent voluntary Disclosure Requirement in ESRS E1-E5. To note
+regarding Minimum Disclosure Requirements on policies (ESRS 2 paragraph 65): ‘The undertaking
+shall disclose information about policies adopted to manage material sustainability matters. This
+information shall include: …
+(a) the most senior level in the undertaking’s organisation that is accountable for the
+implementation of a policy; …’
+ID 1057 – Targets, only qualitative?
+Category
+Cross-cutting
+Question asked
+Can targets be also qualitative, if specific enough?
+ESRS Reference
+ESRS 1 paragraph 33; ESRS 2 paragraphs 80-81; and definitions of ‘target’ and ‘metrics’ in Annex
+II Acronyms and Glossary of terms
+Key terms
+Targets, only qualitative; targets; metrics
+Background
+The submitter has provided the following background to the question asked: ‘In all topical ESRS,
+it is required to disclose the targets that the company has set. While in certain cases targets must
+be quantitative (e.g., ESRS E1), when in others it is not defined, could a qualitative target still be
+compliant? Example: • ESRS E4: Could ‘align in the next 2 years with EU Biodiversity 2030 Strategy’
+be considered a target? • ESRS S2: Could ‘engage with value chain workers through annual
+surveys’ be considered a target?’
+Annex II Acronyms and Glossary of terms defines targets as: ‘Measurable, outcome-oriented and
+time-bound goals that the undertaking aims to achieve in relation to material impacts , risks or
+opportunities . They may be set voluntarily by the undertaking or derive from legal requirements
+on the undertaking.’
+SRB 16 October 2024 Page 16 of 29
+Log of explanations
+Annex II Acronyms and Glossary of terms defines metrics as: ‘Qualitative and quantitative
+indicators that the undertaking uses to measure and report on the effectiveness of the delivery
+of its sustainability-related policies and against its targets over time. Metrics also support the
+measurement of the undertaking’s results in respect of affected people, the environment and the
+undertaking.’
+ESRS 1 paragraph 33 states: ‘When disclosing information on policies, actions and targets in
+relation to a sustainability matter that has been assessed to be material, the undertaking shall
+include the information prescribed by all the Disclosure Requirements and datapoints in the
+topical and sector-specific ESRS related to that matter and in the corresponding Minimum
+Disclosure Requirement on policies, actions, and targets required under ESRS 2. If the undertaking
+cannot disclose the information prescribed by either the Disclosure Requirements and datapoints
+in the topical or sector-specific ESRS, or the Minimum Disclosure Requirements in ESRS 2 on
+policies, actions and targets, because it has not adopted the respective policies, implemented the
+respective actions or set the respective targets, it shall disclose this to be the case and it may
+report a timeframe in which it aims to have these in place.’
+ESRS 2 paragraph 80 states: ‘The undertaking shall disclose the measurable, outcome-oriented
+and time-bound targets on material sustainability matters it has set to assess progress. For each
+target, the disclosure shall include the following information:
+(a) a description of the relationship of the target to the policy objectives;
+(b) the defined target level to be achieved, including, where applicable, whether the target
+is absolute or relative and in which unit it is measured;
+(c) the scope of the target, including the undertaking’s activities and/or its upstream and/or
+downstream value chain where applicable and geographical boundaries;
+(d) the baseline value and base year from which progress is measured;
+(e) the period to which the target applies and if applicable, any milestones or interim targets;
+(f) the methodologies and significant assumptions used to define targets, including where
+applicable, the selected scenario, data sources, alignment with national, EU or
+international policy goals and how the targets consider the wider context of sustainable
+development and/or local situation in which impacts take place;
+(g) whether the undertaking’s targets related to environmental matters are based on
+conclusive scientific evidence;
+(h) whether and how stakeholders have been involved in target setting for each material
+sustainability;
+(i) any changes in targets and corresponding metrics or underlying measurement
+methodologies, significant assumptions, limitations, sources and processes to collect data
+adopted within the defined time horizon. This includes an explanation of the rationale for
+those changes and their effect on comparability (see Disclosure Requirement BP-2
+Disclosures in relation to specific circumstances of this Standard); and
+(j) the performance against its disclosed targets, including information on how the target is
+monitored and reviewed and the metrics used, whether the progress is in line with what
+had been initially planned, and an analysis of trends or significant changes in the
+performance of the undertaking towards achieving the target.’
+ESRS 2 paragraph 81 states: ‘If the undertaking has not set any measurable outcome-oriented
+targets:
+SRB 16 October 2024 Page 17 of 29
+Log of explanations
+(b) it may disclose whether such targets will be set and the timeframe for setting them, or
+the reasons why the undertaking does not plan to set such targets;
+(c) it shall disclose whether it nevertheless tracks the effectiveness of its policies and actions
+in relation to the material sustainability-related impact, risk and opportunity , and if so:
+(i) any processes through which it does so;
+(ii) the defined level of ambition to be achieved and any qualitative or quantitative
+indicators it uses to evaluate progress, including the base period from which progress
+is measured.’
+Answer
+Yes, targets can be qualitative only, if specific enough.
+Targets as defined in ESRS (see background section) are ‘measurable, outcome-oriented time-
+bound goals that the undertaking aims to achieve in relation to material impacts, risks or
+opportunities.’ Metrics are used to measure results against targets. As metrics per the metrics
+definition can be ‘qualitative and quantitative indicators that the undertaking uses to measure
+and report on the effectiveness of the delivery of its sustainability-related policies and against its
+targets over time’, targets can be quantitative or qualitative.
+ESRS do not require undertakings to set targets only on a quantitative basis, except when
+explicitly specified (see e.g., ESRS E1 Disclosure Requirement E1-4).
+If the undertaking sets qualitative targets, they shall be specific enough to meet the Disclosure
+Requirements of the Minimum Disclosure Requirements - Targets MDR-T – Tracking effectiveness
+of policies and actions through targets and of the datapoints in the respective topical or sector-
+specific ESRS. Reference is made to ESRS 2 paragraph 80.
+As such, the examples provided by the submitter ‘alignment in the next 2 years with EU
+Biodiversity 2030 Strategy’ can be considered as a target in the context of ESRS E4 as well as
+‘engage with value chain workers through annual surveys’ in the context of ESRS S2.
+If the qualitative target cannot be considered a measurable and outcome-oriented target,
+disclosures under ESRS 2 paragraph 81 and not under paragraph 80 are applicable (see also ESRS 1
+paragraph 33).
+ID 1072 – DR GOV-1 - ESG expertise of governance bodies
+Category
+Cross-cutting
+Question asked
+How to document ESG knowledge and competences of the management board and supervisory
+board? Should it be one person from the Management Board or the Supervisory Board who has
+these features or the entire Management Board and the entire Supervisory Board? Can it be an
+attorney? Should it be a course, training or, for example, studies?
+ESRS Reference
+ESRS 2 paragraphs 19, 20, 23 and AR 5
+SRB 16 October 2024 Page 18 of 29
+Log of explanations
+Key terms
+Sustainability-related expertise and skills; administrative, management and supervisory bodies
+Background
+ESRS 2 paragraph 19 states: ‘The undertaking shall disclose the composition of the administrative,
+management and supervisory bodies, their roles and responsibilities and access to expertise and
+skills with regard to sustainability matters.’
+ESRS 2 paragraph 20 states: ‘The objective of this Disclosure Requirement is to provide an
+understanding of: …
+(c) the expertise and skills of its administrative, management and supervisory bodies on
+sustainability matters or access to such expertise and skills.’
+ESRS 2 paragraph 23 states: ‘The disclosure shall include a description of how the administrative,
+management and supervisory bodies determine whether appropriate skills and expertise are
+available or will be developed to oversee sustainability matters, including:
+(a) the sustainability-related expertise that the bodies, as a whole, either directly possess or
+can leverage, for example through access to experts or training; and
+(b) how those skills and expertise relate to the undertaking's material impacts, risks and
+opportunities.’
+ESRS 2 paragraph 20 states: ‘The description of the level of expertise or access to expertise of the
+administrative, management and supervisory bodies may be substantiated by illustrating the
+composition of the bodies, including members on whom these bodies rely for expertise to oversee
+sustainability matters, and how they leverage that expertise as a body. In the description, the
+undertaking shall consider how the expertise and skills are relevant to the undertaking’s material
+impacts, risks and opportunities and whether the bodies and/or its members have access to other
+sources of expertise, such as specific experts and training and other educational initiatives to
+update and develop sustainability-related expertise within these bodies.’
+ESRS 2 paragraph AR 5 states: ‘The description of the level of expertise or access to expertise of
+the administrative, management and supervisory bodies may be substantiated by illustrating the
+composition of the bodies, including members on whom these bodies rely for expertise to
+oversee sustainability matters, and how they leverage that expertise as a body. In the description,
+the undertaking shall consider how the expertise and skills are relevant to the undertaking’s
+material impacts, risks and opportunities and whether the bodies and/or its members have access
+to other sources of expertise, such as specific experts and training and other educational
+initiatives to update and develop sustainability-related expertise within these bodies.’
+Answer
+ESRS do not prescribe behaviour but require disclosure.
+The sustainability-related expertise and skills could be with one person or with more than that
+from the administrative, management and supervisory bodies or substantiated in another kind of
+form. ESRS 2 paragraph AR 5 provides further guidance in that respect.
+ID 1090 – Length of transitional provisions for early adopters
+Category
+Cross-cutting
+SRB 16 October 2024 Page 19 of 29
+Log of explanations
+Question asked
+Which year does the phase-in apply for a company that voluntarily publishes a CSRD-report one
+year prior to being required? What about comparative information?
+ESRS Reference
+ESRS 1 paragraph 136 and 137; ESRS 1 Appendix C: List of phased-in Disclosure Requirements
+Key terms
+Phase-in requirements; comparative information; early adopters
+Background
+ESRS 1 paragraph 136 states: ‘To ease the first-time application of this Standard, the undertaking
+is not required to disclose the comparative information required by section 7.1 Presenting
+comparative information in the first year of preparation of the sustainability statement under
+the ESRS.’
+ESRS 1 paragraph 137 states: ‘Appendix C List of phased-in Disclosure Requirements in this
+Standard sets phase-in provisions for the Disclosure Requirements or datapoints of Disclosure
+Requirements in ESRS that may be omitted or that are not applicable in the first year(s) of
+preparation of the sustainability statement under the ESRS.’
+Answer
+The voluntarily publication of sustainability statements one year earlier than required under CSRD
+does not affect the phase-in requirement periods granted by ESRS 1.
+Voluntary early application of ESRS sustainability statement by an undertaking does not count in
+respect of the years of preparation under ESRS, is not recognised legally, and therefore does not
+affect the date from when the phase-ins should be calculated. Accordingly, in the year of
+mandatory application of ESRS the undertaking may present its sustainability statement without
+comparative information in accordance with ESRS 1 paragraph 136 even if it has prepared a
+voluntary sustainability statement in the preceding year.
+Information for the SRB
+An additional question has been raised by an SRB member regarding voluntary consolidated
+reporting due to late transposition by a member state (i.e. undertakings have one additional
+year to apply CSRD requirements compared to timetable stipulated in the CSRD) and the
+potential impact on phase-in requirements. We will inquire with the EC, and keep you duly
+posted.
+ID 1136 – Targets without policy
+Category
+Cross-cutting
+Question asked
+Is MDR-Policy a prerequisite to MDR-Target?
+SRB 16 October 2024 Page 20 of 29
+Log of explanations
+ESRS Reference
+Definition of ‘targets’ and ‘policies’ in Annex II Acronyms and glossary of terms; ESRS 2 paragraphs
+78 – 80
+Key terms
+Targets; policies
+Background
+Annex II Acronyms and glossary of terms defines ‘targets’ as: ‘Measurable, outcome-oriented and
+time-bound goals that the undertaking aims to achieve in relation to material impacts, risks or
+opportunities. They may be set voluntarily by the undertaking or derive from legal requirements
+on the undertaking.’
+Annex II Acronyms and glossary of terms defines ‘policies’ as: ‘A set or framework of general
+objectives and management principles that the undertaking uses for decision-making. A policy
+implements the undertaking’s strategy or management decisions related to a material
+sustainability matter. Each policy is under the responsibility of defined person(s), specifies its
+perimeter of application, and includes one or more objectives (linked when applicable to
+measurable targets). A policy is validated and reviewed following the undertakings’ applicable
+governance rules. A policy is implemented through actions or action plans.’
+ESRS 2 paragraphs 78 – 80 state:
+’78. The undertaking shall apply the requirements for the content of disclosures in this provision
+when it discloses information about the targets it has set with regard to each material
+sustainability matter.
+79. The objective of this Minimum Disclosure Requirement is to provide for each material
+sustainability matter an understanding of:
+(a) whether and how the undertaking tracks the effectiveness of its actions to address
+material impacts, risks and opportunities, including the metrics it uses to do so;
+(b) measurable time-bound outcome-oriented targets set by the undertaking to meet the
+policy’s objectives, defined in terms of expected results for people, the environment or
+the undertaking regarding material impacts, risks and opportunities;
+(c) the overall progress towards the adopted targets over time;
+(d) in the case that the undertaking has not set measurable time-bound outcome-oriented
+targets, whether and how it nevertheless tracks the effectiveness of its actions to
+address material impacts, risks and opportunities and measures the progress in
+achieving its policy objectives; and
+(e) whether and how stakeholders have been involved in target setting for each material
+sustainability matter.
+80. The undertaking shall disclose the measurable, outcome-oriented and time-bound targets
+on material sustainability matters it has set to assess progress. For each target, the disclosure
+shall include the following information: …
+Answer
+The Minimum Disclosure Requirement – Policies MDR-P of ESRS 2 chapter 4.2 is not a prerequisite
+for the Minimum Disclosure Requirement – Targets of ESRS 2 chapter 5.
+SRB 16 October 2024 Page 21 of 29
+Log of explanations
+ESRS stipulate disclosures but do not prescribe behaviour. Therefore, it does not prescribe for
+each target set, that the undertaking also has a policy in place how to reach the target.
+Accordingly, an undertaking might have a target without establishing a policy on how to get there.
+However, this may not be efficient: While a target can be set, without a policy, there is no clear
+management principle, rule or guidance on how to achieve it, making it unlikely it will be met.
+If the undertaking has a target without a related policy, the description of the relationship of the
+target to the policy objectives as required by ESRS 2 paragraph 80 (a) shall make that clear.
+To note: Minimum Disclosure Requirements - Actions MDR-A – Actions and resources in relation
+to material sustainability matters also mentions the situation when actions are implemented
+without a specific policy (see ESRS 2 paragraph 68).
+ID 1144 – Phase-in 750 employees: Calculation of average number
+Category
+Cross-cutting
+Question asked
+In the phase-in section, companies with 750 or more employees shall start reporting from the
+first year. The question is how to calculate the number of employees for this, on a headcount or
+a full-time-equivalent basis?
+ESRS Reference
+ESRS 1 Appendix C
+Key terms
+Phase-in less than 750 employees; phase-in requirements
+Background
+The question received: ‘In the phase-in section, companies with 750 or more employees have to
+start reporting from the first year. The question is how to calculate the number of employees for
+this? For e.g., if I count in headcount a company has 800 employees. So, the company must
+comply with ESRS standards and start reporting from the 1st year. But, if I count employees with
+FTEs, it is 700. So, the company can opt for phase-out.’ was modified to be more precise to the
+above.
+ESRS 1 Appendix C: List of phased-in Disclosure Requirements has six phase-in provisions
+applicable for ‘undertakings or groups not exceeding on their balance sheet dates the average
+number of 750 employees during the financial year (on a consolidated basis where applicable)’.
+Answer
+The ‘average number of employees’ shall be calculated in line with the size criteria as stipulated
+in the Accounting Directive (Directive 2013/34/EU) Article 3.
+The Accounting Directive in Article 3 used the term ‘average number of employees during the
+financial year’. This is exactly the term also used in ESRS 1 Appendix C aligning ESRS to the wording
+and requirement used in the Accounting Directive. The Accounting Directive has been transposed
+in national laws in the member countries and it is expected that based on this transposition each
+country has a well-established practice how to calculate the average number of employees during
+SRB 16 October 2024 Page 22 of 29
+Log of explanations
+the financial year. The requirements transposed in national law shall be applied to determine the
+number of employees for the ‘750 employee phase-in’ provision.
+Accordingly, also considering connectivity with financial statements, the number calculated for
+and reported in financial statements shall be consistent with that used for ESRS 1 Appendix C ‘750
+employee criteria’.
+Reference is made to ESRS 2 paragraph 17 relating to the use of ‘750 employee’ phase-in
+provision’ and the applicable Disclosure Requirements when making use of that provision.
+Environment
+ID 648 – Substances of (very high) concern – including entity-specific
+disclosures
+Category
+Environment
+Question asked
+If a company sells articles containing substances of (very high) concern, shall the total amounts
+of products containing those substances or the total amounts of substances within those products
+be reported?
+ESRS Reference
+Disclosure Requirement E2-5 paragraph 34
+Key terms
+Substances of concern; substances of very high concern; SoC; SVHC; PAT; metrics
+Background
+To better address the issue addressed by the submitter it was agreed to change the question
+received from: ‘If a company sells articles containing substances of concern and substances of
+very high concern shall the total amount of the products containing those substances be reported
+or the total amount of the substances within those products?’ to the question above.
+Disclosure Requirement E2-5 paragraph 34 concerns the production and procurement of
+substances of concern, including when these leave the facilities of the manufacturing undertaking
+as products: ‘[...] total amounts of substances of concern that are generated or used during the
+production or that are procured, and the total amounts of substances of concern that leave its
+facilities as emissions, as products, or as part of products or services split into main hazard
+classes of substances of concern’.
+Disclosure Requirement E2-5 paragraph 32 adds that: ‘The undertaking shall disclose information
+on the production, use, distribution, commercialisation and import/export of substances of
+concern and substances of very high concern, on their own, in mixtures or in articles’.
+ESRS 1 paragraph 11 states: ‘In addition to the disclosure requirements laid down in the three
+categories of ESRS, when an undertaking concludes that an impact, risk or opportunity is not
+covered or not covered with sufficient granularity by an ESRS but is material due to its specific
+facts and circumstances, it shall provide additional entity-specific disclosures to enable users to
+understand the undertaking’s sustainability-related impacts, risks or opportunities . Application
+requirements AR 1 to AR 5 provide further guidance regarding entity-specific disclosures’.
+SRB 16 October 2024 Page 23 of 29
+Log of explanations
+Answer
+The undertaking is in any case required to provide information on the total amounts of substances
+of concern within those products, if it concludes that pollution is material. In addition, depending
+on its specific circumstances, the undertaking may conclude that it is also material to disclose the
+amounts of products containing such substances .
+Under E2-5, paragraph 34, the undertaking that produces, uses, distributes, commercialises and
+imports/exports substances of concern and substances of very high concern, on their own, in
+mixtures or in articles, shall disclose ‘the total amounts of substances of concern that are
+generated or used during the production or that are procured, and the total amounts of
+substances of concern that leave its facilities as emissions, as products, or as part of products or
+services split into main hazard classes of substances of concern.’
+Nonetheless, if the undertaking in question concludes that additional entity-specific metrics
+(including in connection to its value chain) are needed due to the related impacts, risks or
+opportunities not being covered or not being covered with sufficient granularity, by the required
+metric in E2-5, and that these entity-specific metrics are related to the total amount of products
+containing substances of concern and substances of very high concern, then it has to include also
+that information in its reporting.
+Social
+ID 339 - Use of secondary data, social protection
+Category
+Social
+Question asked
+May estimates or secondary data also be used for social topics if they concern social protection
+on own workforce?
+ESRS Reference
+ESRS S1 paragraph 74, ESRS S1 paragraph 75
+Key terms
+Social protection, Secondary data, Estimates
+Background
+ESRS S1 paragraph 74 states: ‘The undertaking shall disclose whether all its employees are
+covered by social protection, through public programs or through benefits offered by the
+undertaking, against loss of income due to any of the following major life events: (a) sickness, (b)
+unemployment starting from when the own worker is working for the undertaking; (c)
+employment injury and acquired disability, (d) parental leave; and (e) retirement. If so, stating
+this is sufficient to fulfil this disclosure requirement and no further information is needed.’
+ESRS S1 paragraph 75 states: ‘If not all of its employees are covered by social protection in
+accordance with paragraph 72, the undertaking shall in addition disclose the countries where
+employees do not have social protection with regard to one or more of the types of events listed
+SRB 16 October 2024 Page 24 of 29
+Log of explanations
+in paragraph 72 and for each of those countries the types of employees who do not have social
+protection with regard to each applicable major life event.’
+Answer
+No, estimates or secondary data may not be used to determine whether an undertaking’s
+employees are covered by social protection for this non-quantitative datapoint. Whether
+employees are covered by social protection depends on public programmes or benefits offered
+by the undertaking (ESRS S1 paragraph 74). This information arises from the legal frameworks of
+the various countries as well as contractual benefits provided by the undertaking to its
+employees. Therefore, this information does not relate to quantitative metrics or value chain
+data, for which the use of estimates may be appropriate (refer to ESRS 1 chapter 5.2 and chapter
+7.2). However, this does not rule out that some interpretation by the reporting undertaking may
+be needed when compiling the information, for example when laws about health insurance in a
+country in which the undertaking operates are not perfectly clear about the kinds of illness that
+are covered.
+ID 430 - Definition of Gender
+Category
+Social
+Question asked
+Many data points in the S1 have to be broken down by gender. Which definition of ‘gender’ is
+used in the ESRS? Only the female/male categories or should answers contain a third ‘diverse’ or
+more categories when breaking down information by gender?
+ESRS Reference
+ESRS S1 paragraph 50(a), ESRS S1 paragraph AR55
+Key terms
+Breakdown sex; male; female; other
+Background
+ESRS S1 paragraph 50(a) requires a disclosure of ‘the total number of employees by head count,
+and breakdowns by gender (…).’ ESRS S1 paragraph AR55 provides a template for presenting
+information on employee head count by gender (Table 1) and explains: ‘In some Member States
+it is possible for persons to legally register themselves as having a third, often neutral, gender,
+which is categorised as ‘other’ in the table above. However, if the undertaking is disclosing data
+about employees where this is not possible, it may explain this and indicate that the ‘other’
+category is not applicable.’
+Answer
+ESRS do not define gender, but they acknowledge the legal existence of three: female, male and
+other. The disclosure templates in ESRS S1 AR 55 correspond to Disclosure Requirement S1-6
+therefore contain these three categories, as well as a provision for reporting about countries that
+do not legally recognise a third gender category. Unless otherwise stated, these three categories
+must be used whenever Disclosure Requirements in ESRS S1 require, or give the option of, the
+SRB 16 October 2024 Page 25 of 29
+Log of explanations
+disaggregation of a quantitative indicator by gender, provided that the reporting undertaking
+reports the three categories already under Disclosure Requirement S1-6.
+ID 434 – Difference non-employees, value chain workers
+Category
+Social
+Question asked
+Regarding the differentiation between non-employees and employees of the value chain
+(standards S1-7 and S2), could it be considered that the main difference is that non-employees
+carry out core activities of the company and employees of the value chain only accessory or supply
+activities?
+ESRS Reference
+ESRS S1 paragraph 4, AR 3, AR 62; ESRS S2 paragraph 4, AR 3
+Key terms
+Value chain workers; non-employees
+Background
+The Glossary provides the following definition of non-employees: ‘Non-employees in an
+undertaking’s own workforce include both individual contractors supplying labour to the
+undertaking (‘self-employed people’) and people provided by undertakings primarily engaged in
+‘employment activities’ (NACE Code N78).’
+Value chain worker is defined as ‘An individual performing work in the value chain of the
+undertaking, regardless of the existence or nature of any contractual relationship with the
+undertaking. In the ESRS, the scope of workers in the value chain include all workers in the
+undertaking’s upstream and downstream value chain who are or can be materially impacted by
+the undertaking. This includes impacts that are connected to the undertaking’s own operations,
+and value chain, including through its products or services, as well as through its business
+relationships. This includes all workers who are not in the scope of ‘Own Workforce’ (‘Own
+Workforce’ includes people who are in an employment relationship with the undertaking
+(‘employees’) and non-employees who are either individual contractors supplying labour to the
+undertaking (‘self-employed people’) or people provided by undertakings primarily engaged in
+employment activities. (NACE Code N78).’
+ESRS S1 paragraph AR 62 provides the following examples: ‘Examples of contractors (self-
+employed people) in the undertaking’s own workforce include: contractors hired by the
+undertaking to perform work that would otherwise be carried out by an employee; contractors
+hired by the undertaking to perform work in a public area (for example, on a road, on the street);
+and contractors hired by the undertaking to deliver the work/service directly at the workplace of
+a client of the organization. Examples of people employed by a third party engaged in
+‘employment activities’ whose work is under the direction of the undertaking include: people who
+perform the same work that employees carry out, such as people who fill in for employees who
+are temporarily absent (due to illness, holiday, parental leave, etc.); people performing regular
+work at the same site as employees; and workers who are dispatched temporarily from another
+EU member state to work for the undertaking (‘posted workers’). Examples of value chain workers
+(and thus of workers not in the undertaking’s own workforce and reported under the scope of
+ESRS S2) include: workers for a supplier contracted by the undertaking who work on the supplier’s
+premises using the supplier’s work methods; workers for a ‘downstream’ entity which purchases
+SRB 16 October 2024 Page 26 of 29
+Log of explanations
+goods or services from the undertaking; and workers of an equipment supplier to the undertaking
+who, at one or more of the undertaking’s workplaces, perform regular maintenance on the
+supplier’s equipment (for example, photocopier) as stipulated in the contract between the
+equipment supplier and the undertaking.’
+Answer
+The ESRS definition is not based on the type of activities performed by employees (i.e., ‘core’ or
+‘non-core’) and as such this terminology is not used in the ESRS. The definition is based on the
+type of contract or labour relation. Non-employees include two types of workers, self-employed
+workers and persons provided by undertakings primarily engaged in ‘employment activities’ for
+whom the undertaking should have direct access to data on these types of workers (ESRS S1
+paragraph 119, see also ID 33 on ‘Definitions of non-employees’). Value chain workers include all
+workers who are not in the scope of ‘Own Workforce’ and do not have a contractual relationship
+with the undertaking. Examples of workers in the value chain may be found in ESRS S2 paragraph
+AR 3, which include for example ‘workers of a supplier contracted by the undertaking.’ ESRS S1
+paragraph AR 62 also provides examples of both non-employees and value chain workers.
+ID 473 – Restrictions due to national regulations
+Category
+Social
+Question asked
+We think that disclosing (e) the number of days lost to work-related injuries and fatalities from
+work-related accidents, work-related ill health and fatalities from ill health of non-employees
+would be non-compliant and against the law in Japan. Is it not against the law under European
+law? How should we deal with such disclosure?
+ESRS Reference
+ESRS S1 paragraph 79, 88(d), (e)
+Key terms
+Data collection; data protection; national law
+Background
+ESRS S1 paragraph 79 states: ‘The undertaking shall disclose the percentage of persons with
+disabilities amongst its employees subject to legal restrictions on the collection of data.’
+ESRS S1 paragraph 88(d), (e) states: ‘The disclosure required by paragraph 86 shall include the
+following information, where applicable broken down between employees and non-employees
+in the undertaking’s own workforce: (d) with regard to the undertaking’s employees, the number
+of cases of recordable work-related ill health, subject to legal restrictions on the collection of
+data, (e) with regard to the undertaking’s employees, the number of days lost to work-related
+injuries and fatalities from work-related accidents, work-related ill health and fatalities from ill
+health.’
+Answer
+The datapoints mentioned by the submitter relate to the SFDR principal adverse impacts.1
+1 The applicable datapoint relates to SFDR Indicator number 3 Table #3 of Annex I.
+SRB 16 October 2024 Page 27 of 29
+Log of explanations
+In some countries (especially outside the EEA), there may be restrictions on data collection of
+employees. ESRS S1 acknowledges such restrictions for two specific datapoints but not as a
+general principle; in particular, such provision is in ESRS S1 Disclosure Requirement S1-12, on
+persons with disabilities as well as ESRS S1 Disclosure Requirement S1-14 d) on work-related ill
+health and e) on the days lost to work-related ill health and fatalities from ill health. For these
+datapoints, where there is a conflict with national data protection law, it is not necessary to report
+on the relevant datapoints Contextual information as described in ESRS 1 AR76 can be added for
+more transparency.
+ID 549 – Gender pay gap; collective wage agreements
+Category
+Social
+Question asked
+May non-exempt employees of an employer who are bound by a collective wage agreement be
+omitted when calculating the gender pay gap (at least when broken down by employee
+category)?
+ESRS Reference
+ESRS S1 paragraph 97(a), (c), paragraph 98; ESRS S1 paragraph AR 98, AR 99
+Key terms
+Gender pay gap; collective wage agreements
+Background
+ESRS S1 paragraph 97 states: ‘The disclosure required by paragraph 95 shall include: (a) the
+gender pay gap, defined as the difference of average pay levels between female and male
+employees, expressed as percentage of the average pay level of male employees; (c) where
+applicable, any contextual information necessary to understand the data and how the data has
+been compiled and other changes to the underlying data that are to be considered.’
+ESRS S1 paragraph 98 states: ‘The undertaking may disclose a breakdown of the gender pay gap
+as defined in paragraph 97(a) by employee category and/or by country/segment. The undertaking
+may also disclose the gender pay gap between employees by categories of employees broken
+down by ordinary basic salary and complementary or variable components.’
+Answer
+No. All male and female employees have to be included in the calculation of the gender pay gap,
+regardless of whether they are covered by collective agreements. Collective agreements can set
+equal levels of wages and benefits for both male and female employees (provided that all
+components of the definition of 'pay' are included in the calculation, the gender pay gap broken
+down by employee categories would be negligible). The undertaking may explain this, when
+providing relevant contextual information under ESRS S1 paragraph 97(c).
+SRB 16 October 2024 Page 28 of 29
+Log of explanations
+ID 550 - Disclosure of discrimination/harassment cases found inconclusive
+Category
+Social
+Question asked
+Is a company obliged to disclose a discrimination/harassment case that, upon investigation, was
+found to lack conclusive evidence supporting the allegations (and hence was considered closed
+without any supporting evidence)?
+ESRS Reference
+ESRS S1 paragraph 103(a), ESRS S1 paragraph AR 103
+Key terms
+Incidents, discrimination
+Background
+ESRS S1 paragraph 103 states: ‘The undertaking shall disclose: (a) the total number of incidents
+of discrimination, including harassment, reported in the reporting period.’
+ESRS S1 paragraph AR 103 states: ‘In addition to the information required by paragraphs 103 and
+104, the undertaking may disclose the status of incidents and/or complaints and actions (a)
+incidents reviewed by the undertaking; (b) remediation plans being implemented; (c) remediation
+plans that have been implemented, with results reviewed through routine internal management
+review processes; and (d) incidents no longer subject to action.’
+According to the ESRS Glossary, we talk about an ‘incident’ when there is ‘a legal action or
+complaint registered with the undertaking or competent authorities through a formal process, or
+an instance of non-compliance identified by the undertaking through established procedures.
+Established procedures to identify instances of non-compliance can include management system
+audits, formal monitoring programs, or grievance mechanisms.’
+Answer
+Yes, the total number of incidents of discrimination include all legal actions or complaints
+registered through a formal process or instances of non-compliance identified through
+established procedures (for example grievance mechanisms). ESRS S1 paragraph AR 103 provides
+the option to disclose the status of incidents and/or complaints and the actions the undertaking
+has taken. To note, that if the incident has been reported in the previous year, it shall not be
+reported again in the current year.
+SRB 16 October 2024 Page 29 of 29

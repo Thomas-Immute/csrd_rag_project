@@ -1,0 +1,1916 @@
+EFRAG IG 2: Value Chain Implementation Guidance
+Disclaimer
+This implementation guidance is non-authoritative and accompanies the European
+Sustainability Reporting Standards (ESRS), as stipulated in Articles 19a and 29a of Directive
+2013/34/EU (the Accounting Directive) but does not form part of them. This means that if
+anything in this guidance appears to contradict any requirement or explanation in ESRS,
+ESRS take precedence. This implementation guidance is issued following EFRAG’s due
+process for such non-authoritative documents and under the sole responsibility of EFRAG.
+EFRAG assumes no responsibility or liability whatsoever for the content or any
+consequences or damages directly, indirectly, or incidentally arising from following the
+advice or guidance contained in this document. Users of this document are advised to
+exercise their own judgment in applying ESRS. Information contained in this document
+should not be substituted for the services of an appropriately qualified professional.
+This implementation guidance has been developed for use by large listed and unlisted
+companies that are subject to CSRD. It is therefore not intended for use by listed small and
+medium-sized enterprises which adopt future LSME standards and other (not listed) SMEs
+voluntarily reporting based on the future VSME standards.
+This implementation guidance relates to the sector-agnostic ESRS as adopted by the
+European Commission on 31 July 2023, and published in the Official Journal on 22
+December 2023. Sector-specific standards may add sector specifications to be followed by
+specific sectors.
+About EFRAG
+EFRAG’s mission is to serve the European public interest in both financial and sustainability
+reporting by developing and promoting European views in the field of corporate reporting.
+EFRAG builds on and contributes to progress in corporate reporting. In its sustainability
+reporting activities, EFRAG provides technical advice to the European Commission in the
+form of draft European Sustainability Reporting Standards (ESRS) elaborated under a robust
+due process and supports the effective implementation of ESRS. EFRAG seeks input from all
+stakeholders and obtains evidence about specific European circumstances throughout the
+standard setting process. Its legitimacy is built on excellence, transparency, governance,
+due process, public accountability and thought leadership. This enables EFRAG to speak
+convincingly, clearly, and consistently, and be recognised as the European voice in
+corporate reporting and a contributor to global progress in corporate reporting.
+EFRAG is funded by the European Union through the Single Market Programme in which
+the EEA-EFTA countries (Norway, Iceland and Liechtenstein), as well as Kosovo participate.
+Any views and opinions expressed are however those of the author(s) only and do not
+necessarily reflect those of the European Union, the European Commission or of countries
+that participate in the Single Market Programme. Neither the European Union, the European
+Commission nor countries participating in the Single market Programme can be held
+responsible for them.
+May 2024 Page 2 of 48
+EFRAG IG 2: Value Chain Implementation Guidance
+Table of contents
+Summary in seven key points ............................................................................... 5
+1. Introduction ...................................................................................................... 6
+Structure of the guidance ........................................................................................................................................ 6
+Cross references to IG 1 ......................................................................................................................................... 7
+Acronyms and abbreviations used ........................................................................................................................ 7
+2. Navigating value chain under CSRD and ESRS ................................................ 7
+General requirements .............................................................................................................................................. 8
+Detailed requirements ............................................................................................................................................. 8
+Value chain coverage map .................................................................................................................................... 9
+2.1 What is the VC? .................................................................................................. 10
+Should IROs linked to all actors in the VC be considered? ............................................................................ 11
+How does leverage or influence over the VC impact reporting? ................................................................. 11
+2.2 Why does VC matter? ........................................................................................ 11
+2.3 From own operations to value chain ................................................................ 12
+The reporting group as a starting point ............................................................................................................ 12
+Including value chain information ........................................................................................................................ 18
+Specific group situations: associates and joint arrangements ....................................................................... 19
+Entity-specific disclosures ...................................................................................................................................... 20
+2.4 Which IROs in the VC are to be disclosed? ..................................................... 20
+2.5 Coverage of the VC for Policies, Actions and/or Targets (PATs) .................. 20
+2.6 Coverage of the VC for Metrics Disclosure Requirements ............................. 21
+2.7 How do the transitional requirements work? .................................................. 22
+Transitional provision with respect to entity-specific disclosures ................................................................... 23
+2.8 What is the LSME cap and does it impact one’s disclosures? ...................... 24
+3. Frequently asked questions (FAQ) .................................................................. 24
+FAQ 1: Where does the VC begin and end? .......................................................... 24
+FAQ 2: Are financial assets (loans, equity and debt investments) considered
+business relationships that trigger VC information? ........................................... 25
+FAQ 3: How should the MA process be organised to properly capture material
+IROs in the VC? ........................................................................................................ 26
+1. Basic principles ................................................................................................................................................... 26
+2. Materiality assessment steps ........................................................................................................................... 26
+FAQ 4: How should information about the VC be disclosed in the context of the
+materiality assessment? ......................................................................................... 28
+BP-1 – General basis for preparation of the sustainability statement ....................................................... 28
+SBM-1 – Market position, strategy, business model(s) and VC – ‘VC mapping’ ...................................... 28
+IRO-1 – VC considerations in MA ....................................................................................................................... 29
+IRO-1 – MA methods and assumptions .............................................................................................................. 30
+SBM-3 – Disclosing the outcome of the MA ...................................................................................................... 30
+FAQ 5: How are investees treated under ESRS E1? ............................................. 31
+FAQ 6: Reporting perimeter for ESRS E1 in practice ........................................... 33
+FAQ 7: Numerical example of GHG emissions under ESRS E1 reporting .......... 38
+FAQ 8: How should the impacts resulting from business relationships be
+assessed and quantified? ....................................................................................... 39
+May 2024 Page 3 of 48
+EFRAG IG 2: Value Chain Implementation Guidance
+FAQ 9: What is ‘reasonable effort’ to collect VC data? ........................................ 40
+FAQ 10: How can estimates about the VC be developed? ................................... 41
+FAQ 11: Is a case of bribery not involving an employee relevant for the
+reporting entity? ...................................................................................................... 43
+4. VC coverage map ............................................................................................ 43
+VC coverage map of ESRS Set 1 ............................................................................ 44
+Appendix A: Names of disclosure requirements ................................................ 46
+May 2024 Page 4 of 48
+EFRAG IG 2: Value Chain Implementation Guidance
+Summary in seven key points
+This implementation guidance covers the upstream and downstream value chain (VC) of the
+undertaking and not its own operations; it should be read with IG 1 Materiality Assessment.
+1. The undertaking’s sustainability statement shall include information about all material
+impacts, risks and opportunities (IROs) including those that arise or may arise in the
+context of its business relationships in the upstream and downstream value chain.
+Business relationships are not limited to direct contractual relationships.
+2. The undertaking is not required to include value chain information in all disclosures,
+but only when it is connected to material IROs beyond its own operations, due to its
+business relationships, and when specifically required by the disclosure requirement.
+3. Therefore, the materiality assessment shall cover the identification of material IROs in
+the VC, with a focus on where (geographies, activities/sectors, operations, suppliers,
+customers, other relationships, etc.) in the VC they are likely to materialise. Key
+disclosures about the undertaking’s materiality assessment are SBM-1, SBM-3 and IRO-
+1 (ESRS 2). They are not limited to but should cover the assessment of IROs in the VC.
+4. Topical standards require disclosures about policies, targets and actions (PATs) for
+material matters. In particular, they require either the disclosure of such PATs or a
+statement about their absence. Limited to the extent that those policies, actions and
+targets involve actors in the value chain, when describing the PATs for material matters,
+the disclosure shall include information about how these address material upstream
+and/or downstream VC IROs.
+5. Topical standards require to include VC data only for a few metrics. However, when
+the undertaking considers that a material IRO in the VC is not sufficiently covered by
+the requirements in ESRS, it shall include additional entity-specific disclosures,
+including metrics on when such information is necessary in order to enable users to
+understand the undertaking’s material impacts, risks or opportunities.
+6. When, after making reasonable efforts, it cannot collect primary VC information from
+actors in its value chain for the materiality assessment or in order to prepare its
+disclosures of material IROs, the undertaking shall estimate the missing information.
+When estimating the missing information, it shall use all reasonable and supportable
+information available without undue cost and effort, including proxies and sector data
+and other information from indirect sources. The undertaking shall describe in the
+basis for preparation for the metrics reported using value chain estimation and the
+resulting level of accuracy. Depending on the circumstances, the materiality
+assessment may be validly conducted without primary information being collected
+from actors in the value chain.
+7. The inclusion of VC information in the sustainability statement does not affect the
+reporting boundaries, which correspond to the boundaries of the entities included in
+the perimeter of its consolidated financial statements. The inclusion of VC information
+correspond to the extent to which the sustainability statement covers the relationships
+that all the undertakings in the consolidation perimeter have with their respective VC
+counterparts, including beyond the first tier. Associates and other investees which are
+not consolidated in the financial statements are treated as the other business
+relationships, i.e., as actors in the value chain when this is the case. Refer also to
+Chapter 2.3 below on operational control which is relevant to ESRS E1 Climate change,
+ESRS E2 Pollution and ESRS E4 Biodiversity and Ecosystems.
+May 2024 Page 5 of 48
+EFRAG IG 2: Value Chain Implementation Guidance
+1. Introduction
+8. The objective of this guidance is to support the implementation activities of preparers
+and others using or analysing ESRS reports, specifically on value chain information, in
+accordance with the requirements of Articles 19a or 29a of the Directive 2013/34/EU
+(referred to as the ‘Accounting Directive’) as amended following the Directive (EU)
+2022/2464, as regards Corporate Sustainability Reporting (referred to as ‘the CSRD’).
+9. The content of this document has been developed on the basis of the Commission
+Delegated Regulation (EU) 2023/2772 of 31 July 2023, supplementing Directive
+2013/34/EU of the European Parliament and of the Council as regards sustainability
+reporting standards.
+10. In its implementation supporting function, EFRAG cannot develop concepts and
+reporting requirements that go
+beyond the content of the July A note on Corporate Sustainability Due
+2023 Delegated Act or interpret Diligence Directive (CSDDD)
+Union law. The purpose of the
+As stated in ESRS 1 paragraph 58: ‘ESRS do not impose
+implementation support
+any conduct requirements in relation to due diligence;
+material is to illustrate how the
+nor do they extend or modify the role of the
+provisions of the Delegated Act
+administrative management or supervisory bodies of
+(in this document ‘Delegated
+the undertaking with regard to the conduct of due
+Act’ or ‘Set 1 ESRS’) may be
+diligence.’
+implemented without
+introducing new provisions. ESRS requires transparency around the reporting
+New provisions can only result undertaking’s due diligence processes but do not
+from future standard setting assume any compliance with the CSDDD or other
+activities (e.g. future behavioural frameworks.
+amendments to draft ESRS), if
+Consistent with the ESRS text in the Delegated Act, this
+and when applicable, in
+guidance does not reflect the text of the CSDDD,
+accordance with the EFRAG due
+because the disclosure obligations of the CSRD are
+process.
+independent of the CSDDD obligations.
+11. As an example, when the
+implementation supporting In practice, the CSDDD compliance may be conducive
+documents point to a specific to better CSRD/ESRS reporting. However, even if value
+approach or methodology that chain due diligence obligations do not exist for certain
+companies under the CSDDD, this does not modify the
+is not detailed in the delegated
+definition of the value chain for reporting purposes, i.e.
+act, this has to be framed as one
+the transparency obligations under ESRS.
+of the possible implementation
+approaches without excluding
+other possibilities.
+Structure of the guidance
+12. The document is organised in three chapters as follows.
+(a) The next chapter covers how to navigate VC requirements in ESRS, which is the
+basis for the rest of the document.
+(b) The chapter following it covers how an undertaking may implement VC under ESRS
+by using frequently asked questions with the aim of providing practical guidance.
+May 2024 Page 6 of 48
+EFRAG IG 2: Value Chain Implementation Guidance
+(c) The last chapter includes the VC coverage map for Set 1 ESRS explaining the
+coverage of the upstream and downstream VC as required by ESRS (excluding
+considerations of entity-specific disclosures and SFDR indicators).
+Cross references to IG 1
+13. To avoid duplication and reduce the length of this document, there is significant
+reference to the Materiality Assessment Implementation Guidance (IG 1) developed
+by EFRAG. For example, the due diligence aspects related to the materiality
+assessment (and VC aspects) are covered in that guidance rather than here.
+14. Please note that references to the IG 1 are made in this blue colour, whereas references
+in green designate this document.
+Acronyms and abbreviations used
+15. The acronyms in this document are used as follows.
+CSDDD – Corporate Sustainability Due Diligence Directive
+CSRD – Corporate Sustainability Reporting Directive
+Delegated Act – Commission Delegated Regulation supplementing Directive
+2013/34/EU as regards sustainability reporting standards
+DR – Disclosure Requirement
+ESRS – European Sustainability Reporting
+Annexes to the Delegated Act:
+Standards
+GHG – greenhouse gases or the GHG Annex II: Acronyms and glossary of
+terms
+Protocol
+GRI – Global Reporting Initiative
+IG 1 – Materiality Assessment
+Implementation Guidance issued by EFRAG
+IG – Implementation guidance issued by EFRAG
+IROs – impacts, risks and opportunities
+ISSB – International Sustainability Standards Board
+LSME – ESRS for Listed Small and Medium Enterprises (SMEs)
+MA – materiality assessment; and
+PAT – policies, actions and targets
+VC – value chain
+2. Navigating value chain under CSRD and ESRS
+16. CSRD Art 19(a)(3) and 29(a)(3) require that reported information relates to an
+undertaking’s own operations and its upstream and downstream VC, including its
+products and services, its business relationships and its supply chain.
+17. ESRS have been developed according to this legal requirement. The CSRD does not
+provide any additional definitions or guidance on VC. However, with reference to
+May 2024 Page 7 of 48
+EFRAG IG 2: Value Chain Implementation Guidance
+impacts, the CSRD refers to international instruments of sustainability due diligence
+which specify how the undertakings are expected to identify, address and report on
+impacts across their VC.
+18. The definitions of ‘value chain’, ‘actors in the value chain’ and ‘business relationships’
+are defined in Annex 2 of the July 2023 Delegated Act.
+19. Not all Disclosure Requirements (DRs) and datapoints in sector agnostic ESRS require
+the inclusion of information about the undertaking’s upstream and downstream VC. In
+many cases the undertaking is expected to focus on its own operations.
+General requirements
+20. The general requirements relating to all disclosures on VC can be found in ESRS 1
+General requirements:
+(a) the general requirements for reporting on VC are in chapter 5;
+(b) Application Requirements AR 17 set out guidance on ‘Estimation using sector
+averages and proxies’;
+(c) ESRS 1 requires the inclusion of material VC information when this is necessary to
+allow users to understand the undertaking’s material IROs and to produce
+information that meets the qualitative characteristics of information stipulated in
+Appendix C of ESRS 1 (ESRS 1 paragraph 65). This is a principles-based approach
+that works on top of the specific datapoints in ESRS that require to include specific
+VC information. This means that where necessary (i.e. reflecting the outcome of the
+materiality assessment), the undertaking shall cover the VC; and
+(d) lastly, but importantly, ESRS 1 contains specific transitional provisions with respect
+to VC in Chapter 10.2.
+Detailed requirements
+21. Other detailed requirements about value chain can be found in ESRS as follows.
+(a) ESRS requires disclosures concerning the process and outcomes of the materiality
+assessment which are covered in ESRS 2 General disclosures (IRO-1 and SBM-3),
+accompanied by SBM-1. For more on this, see below FAQ 4 How should
+information about the VC be disclosed in the context of the MA as well as rows 1
+through 3 of the VC coverage map of ESRS. For details about the materiality
+assessment process, please refer to IG 1 and for the related VC aspects, please see
+below FAQ 3 How should the MA process be organised to properly capture
+material IROs in the VC. Please also refer to IG 1 FAQ 10 Should the assessment of
+IROs rely on quantitative information?
+(b) All topical standards require undertakings to
+disclose their policies, actions and targets for Alignment with the ISSB and
+material IROs. To the extent that such policies, GRI
+actions and targets address material IROs in the The definitions of value chain
+VC, this will be reflected in the disclosures. The under ISSB and GRI frameworks
+minimum disclosure requirements with respect are aligned with ESRS.
+to policies, actions and targets require
+information on scope such as whether it relates
+to the VC per ESRS 2 paragraphs 65(b), 68(b) and80(c). (See Chapter 2.5 Coverage
+May 2024 Page 8 of 48
+EFRAG IG 2: Value Chain Implementation Guidance
+of the VC for Policies, Actions or Targets). Within the disclosures about policies,
+actions and targets, the Social topical standards ESRS S2 Workers in the value
+chain, ESRS S3 Affected communities and ESRS S4 Consumers and end-users
+provide a framework for reporting on material IROs related to these groups of
+people in the VC and their management. As a reminder, the undertaking can
+comply by disclosing that it has not adopted policies, actions and targets with
+reference to the relevant material sustainability matter and provide reasons for this.
+It may also report a timeframe in which it aims to adopt them (ESRS 2 paragraphs
+62 and 72). Please refer to rows 4 and 5 of the VC coverage map of ESRS.
+(c) There are only few sector-agnostic metrics in topical ESRS that require VC
+information (see Chapter 2.6 Coverage of the VC for metrics). ESRS S2 to S4 for
+instance do not include metrics per se. The other metrics do not refer to the value
+chain. However, this includes some information about procured materials, please
+refer to rows 6 and 7 of the VC coverage map of ESRS.
+(d) Finally, when an undertaking
+What is the difference between value chain and
+concludes that a material IRO is
+supply chain?
+not sufficiently covered by a ESRS
+to produce a sustainability In short, the VC includes the supply chain. The supply
+statement that meets the chain is the actors in the VC upstream from the
+qualitative characteristics of reporting entity. However, VC also includes
+information, it shall provide downstream entities along with the supply chain.
+additional disclosures on an
+The supply chain provides products, including raw
+entity-specific basis to enable
+material, components or services, that are used in the
+users to understand its IROs
+development of the undertaking’s products or
+(ESRS 1 paragraph 63 and 65 as
+services. Depending on the position in the VC, an
+well as paragraph 11 and AR 1 to
+undertaking’s supply chain can be part of the
+5). These disclosures shall
+downstream VC of another undertaking.
+include, where necessary,
+appropriate metrics covering the In some industries, upstream or downstream refers to
+relevant parts of the VC related to specific points in the chain rather to the reporting
+the relevant material IRO as undertaking’s position in the chain.
+selected by the undertaking (i.e.
+However, there are other entities and individuals that
+there is no standardisation of
+are connected to the undertaking’s operations,
+these metrics in the sector-
+products or services without being ‘suppliers’, e.g.,
+agnostic standards). While
+local police protecting the undertaking’s assets, as
+judgement is required in
+they may cause an impact by e.g., using excessive
+determining whether and what
+force on people trespassing. In this case, there is no
+disclosures are required, the
+business relationship, but there is a value chain
+entity-specific disclosures
+impact. It may meet the materiality threshold if it is
+dimension is not voluntary but a
+considered severe enough.
+mandatory requirement.
+Value chain coverage map
+22. Chapter 4 of this document presents the VC coverage map illustrating the type of
+coverage of VC information that is required by each specific Disclosure Requirement
+in sector-agnostic ESRS. This also includes which metrics require inclusion of VC data
+in the actual calculation.
+May 2024 Page 9 of 48
+EFRAG IG 2: Value Chain Implementation Guidance
+2.1 What is the VC?
+23. While the focus of this Implementation Guidance is on upstream and downstream VC,
+the definition of value chain in Annex 2 of the Delegated Act is broader than the
+upstream and downstream VC, as it also includes own operations. VC is defined as ‘the
+full range of activities, resources and relationships related to the undertaking’s
+business model and the external environment in which it operates. A value chain
+encompasses the activities, resources and relationships the undertaking uses and
+relies on to create its products or services from conception to delivery, consumption
+and end-of-life. Relevant activities, resources and relationships include: related to the
+undertaking’s business model and the external environment in which it operates. A
+value chain encompasses the activities, resources and relationships the undertaking
+uses and relies on to create its products or services from conception to delivery,
+consumption and end-of-life. Relevant activities, resources and relationships include:
+(a) those in the undertaking’s own operations, such as human resources;
+(b) those along its supply, marketing and distribution channels, such as materials and
+service sourcing and product and service sale and delivery; and
+(c) the financing, geographical, geopolitical and regulatory environments in which the
+undertaking operates.’
+24. ESRS use the term ‘value chain’ in the singular, although it is recognised that
+undertakings may have multiple value chains.
+25. According to this definition, the VC issues addressed in this implementation guidance
+include both upstream and downstream actors and their activities. Actors or
+undertakings upstream from the reporting undertaking (e.g., suppliers) provide
+products or services that are used in the development of the undertaking’s own
+products or services. Actors downstream from the reporting undertaking (e.g.,
+distributors, customers, waste management) receive or use products or services of the
+reporting undertaking or waste stream by the customers or end-users.
+26. Annex 2 defines ‘business relationships’ as ‘The relationships the undertaking has with
+business partners, entities in its value chain, and any other non-State or State entity
+directly linked to its business operations, products or services. Business relationships
+are not limited to direct contractual relationships. They include indirect business
+relationships in the undertaking’s value chain beyond the first tier, and shareholding
+positions in joint ventures or investments. ’as ‘[t]he relationships the undertaking has
+with business partners, entities in its value chain, and any other non-State or State entity
+directly linked to its business operations, products or services. Business relationships
+are not limited to direct contractual relationships. They include indirect business
+relationships in the undertaking’s value chain beyond the first tier, and shareholding
+positions in joint ventures or investments.’
+27. Setting out the VC activities may help identify the VC actors1.
+1 EFRAG has consulted from 21 January to 21 May 2024 on an Exposure Draft of ESRS for listed SMEs
+(LSME ED). Differently from the sector-agnostic standards that support the preparation of consolidated
+sustainability statement for the group, consistent with the CSRD, LSME ED has been developed to
+support the preparation of the individual (i.e., not consolidated) sustainability statement. In the LSME
+ED material IROs of the subsidiaries are included in the sustainability statement as IROs arising from the
+parent’s business relationship with them, i.e., as part of the value chain.
+May 2024 Page 10 of 48
+EFRAG IG 2: Value Chain Implementation Guidance
+Should IROs linked to all actors in the VC be considered?
+28. ESRS do not require information on each and every actor in the VC, but rather the
+inclusion of material VC information, i.e., when material IROs arise in the VC (ESRS 1
+paragraph 64). When assessing material IROs, all relevant actors (both in direct and
+indirect relationships) are to be considered. However, the assessment should focus on
+relationships that are likely to be associated with material IROs, for example
+relationships with:
+(a) those actors who are associated with ‘hot spots’ and who likely expose to the
+likelihood of actual and potential impacts (therefore generating impacts on people
+and/or environment, which can in turn be sources of risks and opportunities); or
+(b) those actors with respect to whom the business model of the undertaking shows
+key dependencies in terms of products or services (therefore generating risks and
+opportunities for the undertaking).
+How does leverage or influence over the VC impact reporting?
+29. In some cases, an undertaking may have leverage or be able to exert influence over
+actors in its VC. Examples include cases where the undertaking is a large supplier or
+customer and thereby exerts influence on its business relationships to manage its
+impacts.
+30. In other cases, its ability to obtain the necessary VC information as well as its capacity
+to contribute to or influence the management of IROs arising in the VC, may be limited
+given the nature or the absence of direct contractual arrangements, the level of control
+that it exercises on the operations outside the consolidation scope and its buying
+power. Other factors may include customs in the industry, the behaviour of the
+reporting entity's competitors, and the willingness or ability of suppliers and customers
+to provide such information.
+31. However, leverage is not a factor when it comes to determining whether IROs that arise
+in the VC are material or not. Leverage may affect the ability of the company to obtain
+data and/or information from its counterparties in the VC. This may be relevant for the
+reporting of material impacts as well as for reporting metrics, including entity-specific
+information (See ESRS 1 AR 1 to AR 5) and may lead the undertaking to use estimates
+and proxies.
+2.2 Why does VC matter?
+32. The CSRD and ESRS require that the sustainability statement include material
+information about the upstream and downstream VC.
+33. The reason for this is that the impacts, risks and/or opportunities deriving from impacts
+or dependencies, of a reporting undertaking often occur in its upstream or
+downstream VC rather than in its own operations. Therefore, focusing on own
+operations would provide only a partial picture of the impacts on people and the
+environment connected to the undertaking’s activities, products and services.
+Furthermore, this would not allow for an appropriate identification of risks and
+opportunities. Consider the following examples.
+May 2024 Page 11 of 48
+EFRAG IG 2: Value Chain Implementation Guidance
+(a) A EU garment and apparel company sells basic T-shirts produced in a country
+outside the EU by an external supplier and reports under ESRS. The company may
+pay its employees an adequate wage under collective bargaining agreements for
+its operations in the EU. However, assuming that the external supplier is based in a
+country outside the EU where the remuneration paid to the supplier’s employees
+is below the adequate wage benchmark for the country and freedom of association
+in that country may not be allowed, the reporting undertaking would not provide
+a relevant depiction of its impacts if it was to consider only its own employees when
+determining the scope of its actual and potential material negative impacts. In
+other terms, material impacts on working conditions may be identified within the
+workforce in its upstream VC (for this particular supplier).
+(b) With a supplier of wood, a European retailer makes toys in a factory outside the
+EU, where legal requirements are less stringent. The toy-making process has
+several environmental and health and safety risks, due to dust and chemicals. There
+is therefore a significant risk that the workers and the local communities are
+exposed to severe occupational hazard exposures and health risks – important
+when considering impact materiality. From a financial materiality perspective, if the
+officials in that location start upholding laws rather than accepting bribes as is
+currently the case, it could result in significant fines, possibly even closure for the
+manufacturer. This could have a direct and significant financial impact on the
+European retailer.
+(c) An electronics producer may have processes in place to control and minimise the
+packaging and other waste from its own operations, but its products may create
+electronic waste which may in turn be hazardous to animals and wildlife when
+discarded. This aspect is connected to the undertaking’s downstream value chain,
+i.e. to impacts deriving from the end use of its products.
+(d) As highlighted by Carbon Disclosure Project (CDP), Scope 3 GHG emissions are
+expected to be material for many or most undertakings.
+2.3 From own operations to value chain
+The reporting group as a starting point
+34. ESRS 1 paragraph 62 states: ‘The sustainability statement shall be for the same
+reporting undertaking as the financial statements.’ In the Accounting Directive, a
+group is defined as ‘a parent undertaking and all its subsidiary undertakings’. As this is
+derived from financial reporting, sustainability professionals should obtain assistance
+from the financial reporting function to understand the implications that this has for
+the ESRS sustainability statement.
+35. Sometimes subsidiaries are not included in the financial reporting consolidation on
+the basis of materiality, for practical reasons. Such subsidiaries may still have material
+sustainability matters that need to be reported in the consolidated sustainability
+statement. Therefore, the materiality of their IROs need to be evaluated as well. Please
+refer to IG 1 Chapter 5.2 FAQs on financial materiality for insights into these for the
+purpose of the sustainability statement.
+Internal or intragroup transactions
+36. For sustainability reporting purposes, groups must include information about material
+IROs of the subsidiaries. The elimination of internal transactions in the preparation of
+May 2024 Page 12 of 48
+EFRAG IG 2: Value Chain Implementation Guidance
+consolidated financial statements has no implications for the identification of IROs. The
+underlying impacts that occur in the group’s operations are in scope of the reporting,
+when material, as well as the ones identified in the VC. For example, the impacts from
+the emissions from transport, even if not for external sales, do not disappear merely
+because they relate to an internal/intragroup transaction. Therefore, groups should
+consider IROs related to internal transactions where appropriate.
+Joint arrangements
+37. For undertakings that apply IFRS, effective since 2013, IFRS 11 Joint Arrangements
+changed the financial reporting treatment under IAS 31 Interests in Joint Ventures as
+follows:
+38. This means that rather than proportional consolidation, for joint operations, a joint
+operator with joint control will recognise in relation to its interest in a joint operation:
+(a) its assets, including its share of any assets held jointly;
+(b) its liabilities, including its share of any liabilities incurred jointly;
+(c) its revenue from the sale of its share of the output arising from the joint
+operation;
+(d) its share of the revenue from the sale of the output by the joint operation; and
+(e) its expenses, including its share of any expenses incurred jointly.
+39. This means that its assets and liabilities forming part of the financial perimeter are own
+operations rather than value chain.
+Operational control
+40. For certain environmental matters, ESRS refer to the concept of ‘operational control’
+to identify situations where information about IROs of a site, an asset or an entity under
+operational control but outside the financial control perimeter have to be reported.
+May 2024 Page 13 of 48
+EFRAG IG 2: Value Chain Implementation Guidance
+Operational control – definition
+41. In alignment with the GHG Protocol, ESRS include the concept of operational control,
+which is defined in Annex 2 of the Delegated Act as the situation where ‘the
+undertaking has the ability to direct the operational activities and relationships of the
+entity, site, operation or asset’. The GHG Protocol adds that this is where the
+undertaking has the full authority to introduce and implement the operating policies,
+which often implies also executing such operations.
+42. AR 40 of ESRS E1 also explains, in the context of GHG emissions, that this happens
+‘when the undertaking holds the license - or permit - to operate the assets from these
+associates, joint ventures, unconsolidated subsidiaries (investment entities) and
+contractual arrangements.’
+43. Operational control may also apply where the undertaking is legally recognised under
+certain regulations (for example the EU Emissions Trading system) as an ‘operator’2 of
+a facility. This implies specific legal rights and obligations.
+44. The GHG Protocol (page 18) also emphasises that operational control does not mean
+that an undertaking necessarily has authority to make all the decisions concerning an
+operation. For example, large capital investments may require approval of all partners
+that have joint financial control. Not having the authority to make all decisions
+concerning an operation does not affect the determination of operational control.
+45. There is no definition of ‘operations’ in the CSRD or the ESRS. On Page 23 of the GHG
+Protocol reads, as follows: ‘The term “operations” is used here as a generic term to
+denote any kind of business activity, irrespective of its organizational, governance, or
+legal structures.’
+46. Assessing whether operational control exists depends on the undertaking’s specific
+facts and circumstances, including the sector(s) where it operates, and on the types of
+contractual relationships prevailing in that sector(s).
+Operational control – ESRS E1, GHG emissions
+47. Under ESRS E1, Scope 1 and 2 GHG emissions shall include, in addition to the
+emissions of the parent and its subsidiaries, also the GHG emissions of sites, assets and
+entities under operational control, as a separate line item.
+48. Supplementing the definition in Annex 2 of the Delegated Act, ESRS E1 paragraph 46
+focusses on the treatment of entities related to the reporting group (such as associates,
+joint ventures and joint arrangements not structured through an entity) under
+operational control. The treatment means that the reporting is accountable for 100%
+of the relevant emissions rather than the relevant equity holding.
+2 As explained in the GHG Protocol on page 21: ‘Since compliance responsibility generally falls to the operator
+(not equity holders or the group company that has financial control), governments will usually require reporting on
+the basis of operational control, either through a facility level-based system or involving the consolidation of data
+within certain geographical boundaries (e.g. the EU ETS will allocate emission permits to the operators of certain
+installations).’
+May 2024 Page 14 of 48
+EFRAG IG 2: Value Chain Implementation Guidance
+49. ESRS E1 AR 40 clarifies the definition in Annex 2 whereby the undertaking shall include
+100% of the GHG emissions of the entities it operationally controls in its disclosures. It
+provides an example whereby, when an undertaking has a contractually defined part-
+time operational control, it shall consolidate
+100% the GHG emissions emitted during the
+Targets and operational control
+time of its operational control.
+ESRS E1-4 requires transparency about
+50. This means that the reported GHG emissions
+the reporting undertaking’s targets for its
+will reflect the terms and conditions of the
+emissions. If the undertaking does not
+relevant agreements. For example, when the
+set targets for assets, sites or entities
+reporting undertaking is the operator of the
+under its operational control (as it does
+activities during a certain phase of the
+not have control over the investment
+production process and its partner is the
+budget to reduce emissions), the
+operator in another phase, the reporting
+disclosure will reflect the target(s) as
+undertaking would report in its scope 1 and 2
+defined, i.e. only for the consolidated
+the GHG emissions that pertain to the phase
+group. However, the disclosure should
+that it operationally controls.
+be clear about the scope of the target(s).
+51. ESRS E1 (paragraph 50 (b)) requires disclosing
+the Scope 1 and 2 emissions of undertakings
+under operational control separately from the ones related to the consolidated group
+(presented following ESRS E1 paragraph 50 (a)). The latter correspond to the outcome
+of the financial control approach in the GHG Protocol. Please note that a literal reading
+of paragraph 50(b) may make it seem as if this is only applicable to investees
+(associates, joint arrangements and unconsolidated subsidiaries, etc.) under
+operational control but this is not the intention. GHG emissions of entities, assets and
+sites under operational control but without financial control (or without investment
+relationship) will also be included in the disclosure under paragraph 50(b).
+Furthermore, for IFRS preparers, any assets, including the undertaking’s share of any
+assets held jointly in joint operations (defined in IFRS11) or its liabilities, including its
+share of any liabilities incurred jointly in joint operations (defined in IFRS 11) will be
+part of the balance sheet for financial reporting purposes, i.e., included in disclosures
+under paragraph 50(a). In addition, where the reporting undertaking has operational
+control over its joint operators’ (defined in IFRS 11) assets, the GHG emissions arising
+from this will be included in scope 1 and 2 under ESRS E1 paragraph 50(b).
+Operational control – Other environmental standards
+52. ESRS E2-4 Pollution of air, water and soil also specifically includes those emissions from
+facilities under the operational control of the undertaking. Similarly, ESRS E4
+Biodiversity and ecosystems in paragraph 16(a) also includes sites under the
+operational control of the undertaking.
+Operational control – ESRS 2, Basis for preparation
+53. ESRS 2 BP 1 (paragraph 5) requires that the undertaking discloses to what extent the
+sustainability statement covers the undertaking’s upstream and downstream value
+chain. When appropriate, the undertaking should describe whether operational
+control was considered or not.
+May 2024 Page 15 of 48
+EFRAG IG 2: Value Chain Implementation Guidance
+Compatibility of ESRS E1 and the GHG Protocol
+54. As described in paragraph 34 above, ESRS use a financial control approach while the
+GHG Protocol allows for three possible reporting approaches. The disclosure of scope
+1 and 2 under ESRS E1 paragraph 50(a) is aligned with the financial control approach
+under the GHG Protocol. However, in order to provide further information, ESRS
+requires separate disclosures about the emissions from items under operational
+control (ESRS E1 paragraph 50(b)).
+55. The intention of this step was to reduce the options under the GHG Protocol and to
+thus improve comparability, while maintaining compatibility with the GHG Protocol, at
+level of ESRS E1 paragraph 50 (a). The requirement to disclose emissions separately
+from items that are not financially controlled but that are under the operational control
+of the reporting undertaking provides a full picture of the impacts of the undertaking.
+This additional disclosure requirement also recognises that the environmental
+regulations often apply to the operator rather than the owner of assets.
+56. ESRS E1 does not aim at requiring the full implementation of the operational control
+approach under the GHG Protocol, as it maintains financial control as the primary
+selected approach.
+57. An undertaking is able to reconcile ESRS reporting with that under a GHG Protocol
+operational control approach, by deducting the GHG emissions from those assets,
+sites etc., that are under financial but not operational control from its total Scope 1 and
+2 emissions under ESRS E1.
+May 2024 Page 16 of 48
+EFRAG IG 2: Value Chain Implementation Guidance
+Environmental reporting value chain decision tree
+59. The following decision tree summarises some of the important aspects related to the
+measurement of emissions of GHG in ESRS E1 and of pollutants in ESRS E2. The same
+approach is also applicable in the preparation of the disclosure of the list of material
+sites in ESRS E4 paragraph16:
+Reporting undertaking
+Parent plus subsidiaries (including all assets
+recognised in the consolidated financial statements) and
+the entity’s share of assets and liabilities in joint
+operations.
+ESRS 1 par. 62
++
+Any other sites, assets, or undertakings (including associates or joint
+ventures) under operational control?
+Yes, I have operational control.
+No, I do not have operational control.
+Are these actors
+Distinguish between emissions from own
+in the value
+operations (parent plus subsidiaries) disclosed
+chain such as
+per ESRS E1 par. 50(a) and include 100% of
+suppliers or
+GHG emissions it operationally controls per
+customers?
+ESRS E1 AR 40 as a separate row per ESRS E1
+par. 50(b).
+Operational control mentioned in ESRS E2 and
+E4.
+For ESRS E1 and E2 metrics, include Yes.
+them as VC metrics for the share of
+impacts attributable to the reporting
+undertaking’s products and services as
+for other actors in the VC (ESRS 1
+paragraphs 63 and 67 and ESRS E1 No, they are not actors in
+paragraph 46) the value chain such as
+suppliers or customers.
+and
+For ESRS E1 metrics: include as GHG Scope 3
+For ESRS E1 metrics: include GHG emissions category 15 ‘Investments’ if
+Scope 3 emissions category 15 significant (ESRS E1 paragraph 44(c), AR
+‘Investments’ if significant (ESRS E1 39(a), AR 46 and AR 48).
+par. 44(c), AR 39(a), AR 46 and AR 48).
+May 2024 Page 17 of 48
+EFRAG IG 2: Value Chain Implementation Guidance
+Operational control does not apply to Social standards
+60. Definitions used in ESRS S1 Own workforce and S2 Workers in the value chain focus on
+the contractual arrangements between the workers and the undertaking. Similarly, the
+basis for ESRS S3 Affected communities and S4 Consumers and end-users is the
+relationship of these stakeholders with the reporting entity.
+61. Operational control is not relevant to these standards.
+Including value chain information
+62. The information about material IROs of the parent and subsidiaries is ‘extended’ in
+order to cover VC information. This is defined in ESRS 1 paragraph 63 as information
+on the material IROs connected to the undertaking through its direct and indirect
+business relationships in the upstream and/or downstream value chain. This may
+include associates and joint arrangements where they are also actors in the value chain
+of the reporting undertaking, such as when they are customers or suppliers as
+described below.
+63. Value chain information is part of the sustainability statement in the following three
+aspects:
+(a) the materiality assessment – please refer to Chapter 3 FAQ 3 How should the MA
+process be organised to properly capture material IROs in the VC?
+(b) the description of whether (and if so, the extent to which) the reporting
+undertaking’s policies, actions and targets cover its VC - please refer to Chapter
+2.5 Coverage of the VC for PAT.
+(c) metrics related to the VC - please refer to Chapter 2.6 Coverage of the VC for
+Metrics.
+May 2024 Page 18 of 48
+EFRAG IG 2: Value Chain Implementation Guidance
+Specific group situations: associates and
+joint arrangements
+Purchase transactions with an
+associate
+64. Accounting frameworks generally have
+specific treatments for certain investees, such An undertaking, P, produces chairs
+as associates and joint ventures, to signify a with wood sourced from another
+difference in relationship compared to when undertaking that is classified as an
+one has control from a financial reporting associate (A) for its financial reporting.
+perspective resulting in a parent/subsidiary P holds an equity share in A of 30%. P
+relationship. However, the starting point for buys 10 tons of wood from A to
+ESRS reporting is not equity accounting or produce its chairs. P will treat A in the
+proportional consolidation, as one may find same way as any other supplier when
+under financial reporting. considering the impacts connected
+with the wood purchased from A.
+65. ESRS 1 paragraph 67 states that when
+Therefore, in this case, the impacts
+associates or joint ventures are part of the
+related to the 10 tons of wood
+undertaking’s VC, for example as suppliers or
+purchased (i.e. impacts that are directly
+customers, the undertaking shall include
+linked to the undertaking’s products
+information required by ESRS 1 paragraph 63
+and services through its business
+consistent with the approach adopted for the
+relationships) rather than limiting its
+other business relationships in the VC3.
+impacts to its equity share in A as a
+Furthermore, when determining impact
+basis for estimating.
+metrics, the data in relation to the associates
+or joint ventures are not limited to the share
+of equity held but shall be considered on the basis of the impacts that are directly
+linked to the undertaking’s products and/or services through its business relationships
+(ESRS 1 paragraph 67).
+66. Where associates and joint ventures do not form part of the value chain as suppliers or
+customers (also referred to as actors in the value chain), they are treated as
+investments. Investments form part of the undertaking’s business relationships (as
+defined). As such, they may give rise to impacts that are connected to the undertaking
+and that are to be considered in the materiality assessment and reported when
+material. However, topical ESRS do not have specific reporting requirements that
+indicate how to measure these impacts, apart from GHG Scope 3 Category 15
+disclosures where significant, in accordance with ESRS E1 paragraph 44(c), AR 39(a) as
+explained in AR 46 and AR 48.
+Other investments, no further transactions.
+67. Business relationships with the investees may give rise to impacts that are connected
+to the undertaking and that are to be considered in the materiality assessment and
+reported when material. There are no specific requirements in topical standards on
+how to measure impacts that are connected to the undertaking through its investments
+without joint control and/or significant influence, meaning generally below 20%, apart
+from GHG Scope 3 Category 15 disclosures as explained in paragraph 66.
+3 This is not the case when operational control applies.
+May 2024 Page 19 of 48
+EFRAG IG 2: Value Chain Implementation Guidance
+Entity-specific disclosures
+68. As explained in paragraph 69 below, in the cases above, apart from the materiality
+assessment process, the undertaking may also have to provide entity-specific
+information, i.e. more than the specified requirements in ESRS relating to the VC.
+2.4 Which IROs in the VC are to be disclosed?
+69. The two overarching requirements in ESRS 1 that are applicable here are:
+(a) paragraph 63 requiring information on material IROs connected to the
+undertaking’s upstream and downstream VC; and
+(b) paragraph 11 requiring entity-specific information when a reporting undertaking
+concludes that a material IRO is not covered sufficiently by an ESRS, to enable users
+to understand such IRO. Such entity-specific information is expected to cover both
+IROs in own operations and IROs in the upstream and downstream VC, when they
+are material.
+70. An impact may be material to the reporting undertaking if it arises in any part of the
+VC, including at any tier of its upstream VC or supply chain. In this regard, in the IRO
+assessment in the VC, the undertaking has to consider IROs that it may be connected
+to through its own operations, products or services via business relationships (see also
+IG 1 FAQ 2 What is meant by the undertaking being “connected” with an impact?).
+71. The identification of IROs in the upstream and downstream VC is embedded in the
+materiality assessment (ESRS 1, Chapter 3 – Double materiality) as the basis for
+sustainability disclosure. For further information about materiality, please consult IG 1.
+2.5 Coverage of the VC for Policies, Actions and/or Targets
+(PATs)
+72. To the extent that the undertaking has PAT in place that address VC actors, for material
+IROs (including those in the VC), it should disclose this (ESRS 2 paragraphs 64(b), 67(b)
+and 70(b)). Examples could include:
+(a) policies to prevent and control pollution by its VC actors;
+(b) policies against bribery and corruption for VC actors and training for them;
+(c) actions and resources related to pollution as well as targets to reduce pollution
+generated by a supplier (ESRS E2 Pollution AR 13 and 19);
+(d) clauses regarding the respect of fundamental human rights in contracts with VC
+actors;
+(e) audits conducted on high-risk suppliers;
+(f) selection criteria for new suppliers such as the existence of effective grievance
+mechanisms or freedom of association; and
+(g) targets for suppliers on sustainable material use for example X% recycled content
+or X% less waste.
+73. VC information coverage is also important for ESRS E1-1 paragraph 16(b), which
+requires disclosing the decarbonisation levers identified by the undertaking in setting
+its targets and defining its actions, including levers in the VC. This type of information
+May 2024 Page 20 of 48
+EFRAG IG 2: Value Chain Implementation Guidance
+is expected to be primarily needed in order to set and manage the targets and
+implement the actions. Reporting is expected to use data existing for such purposes.
+74. As a reminder, the undertaking can comply by disclosing that it has not adopted
+policies and/or actions with reference to the relevant sustainability matter and provide
+reasons for this. It may also report a timeframe in which it aims to adopt them (ESRS 2
+paragraph 62). The same applies to targets (ESRS 2 paragraph 72).
+75. In addition, the undertaking should always consider the need to provide entity-specific
+information. Please refer to paragraph 69 (b) above.
+76. In ESRS 4 Biodiversity and ecosystems, there are specific requirements dealing with
+value chain information: ESRS 4-1 Transition plan and consideration of biodiversity and
+ecosystems in strategy and business model, the topical specification ESRS 2 IRO-1
+Description of processes to identify and assess material biodiversity and ecosystem-
+related impacts, risks, dependencies and opportunities as well as ESRS E4-4 Targets
+related to biodiversity and ecosystems (paragraph 32(c)). These do not necessarily
+result in the need to collect VC data from actors in the VC solely for the purpose of
+reporting. The undertaking is expected to leverage on information that is collected for
+business purposes, e.g., E4-1 paragraph 13, E4 ESRS 2 IRO 1 paragraph 17(a), and E4-
+4 paragraph 32(c).
+2.6 Coverage of the VC for Metrics Disclosure Requirements
+77. All ESRS DRs related to metrics cover only own operations except for:
+(a) Disclosure Requirement ESRS E1-6 Gross Scopes 1, 2, 3 and total GHG emissions;
+(b) Disclosure Requirement ESRS E1-7 GHG removals and GHG mitigation projects
+financed through carbon credits; and
+(c) entity-specific disclosures where the undertaking determines whether and, if so,
+what VC information is required (see paragraph 79 below).
+78. As described in the VC coverage map in Chapter 4 below, there may be qualitative
+disclosures required under ESRS. A few examples are listed below:
+(a) Disclosure Requirement ESRS E5-4 Resource inflows requires a description of
+resource inflows where material which may include a description of the IROs in the
+value chain (ESRS E5 paragraph 30). However, when disclosing the quantification
+of materials used in the production of the undertaking’s products and services, this
+relates only to own operations (ESRS E5 paragraph 31). The undertaking
+determines whether additional information on the VC is needed on an entity-
+specific basis.
+(b) ESRS E5-4 paragraph 30 requires a qualitative description of the undertaking’s
+resource inflows along the upstream value chain. ESRS E2-5 and ESRS E5-5 refer to
+materials procured and used within the undertaking. While they do not explicitly
+refer to value chain information, the impacts that arise from the upstream value
+chain are indirectly covered by the description of the procured material.
+May 2024 Page 21 of 48
+EFRAG IG 2: Value Chain Implementation Guidance
+(c) With reference to the social standards, ESRS S2
+Affected communities suffer the
+Workers in the value chain and S4 Consumers
+consequences of the undertaking or
+and end users cover the VC by definition. ESRS
+its VC’s operations. However, they
+S3 Affected communities addresses impacts on
+are not necessarily an actor in the
+communities affected directly by the
+VC. For example, an affected
+undertaking as well as by actors in the VC.
+community is an actor in the VC
+These standards do not specify any metrics, but
+where it provides the land on which
+the ESRS require the undertaking to consider
+the mining takes place.
+entity-specific metrics, as explained below.
+79. Beyond the specific provisions on metrics in the sector-agnostic ESRS, the undertaking
+shall provide additional VC metrics information or integrate VC data into its metrics,
+when according to the outcome of its materiality assessment, this is necessary from an
+entity-specific perspective (ESRS 1 paragraph 11 and AR 1 to 5 read in conjunction
+with ESRS 1 paragraph 65). In particular, ESRS require the undertaking to consider
+appropriate entity-specific metrics needed for understanding of the impacts or
+tracking the effectiveness of companies’ actions. Possible examples are the following:
+(a) impact data of suppliers should be included in the reported metrics, when the
+undertaking depends in its upstream VC or supply chain on activities that have a
+high impact on the environment;
+(b) the percentage of workers in value chains in high-risk areas covered by social
+security schemes; and
+(c) the percentage reduction in health and safety incidents compared to incidents in
+the prior period or as compared to a base period where the quality of the
+information can be assured.
+80. It is important to note that this is relevant only for those activities of VC actors that are
+associated with material IROs and not for all VC actors. Also, these disclosures are not
+standardised, and the selection of the appropriate metric is in the purview of the
+reporting undertaking while considering the needs of users and the qualitative
+characteristics of information.
+81. Sector-specific ESRS will cover the inclusion of VC data in the undertaking’s impact
+metrics when relevant. In the transition period until the ESRS sector standards are
+available, the undertaking as part of its entity-specific disclosures shall consider this
+aspect and draw inspiration from the available best reporting practices (see ESRS 1
+paragraph 131(b)).
+2.7 How do the transitional requirements work?
+82. The general transitional provisions in ESRS 1 from paragraph 130 onwards allow for a
+temporary limit for the information on the VC to be reported during the first three years
+of reporting under ESRS. Specifically, preparers are required to consider VC in their
+materiality assessment, but the data gathering aspects, both for qualitative and
+quantitative information, are limited in their first three years of reporting.
+83. The transitional provisions are intended to provide reporting undertakings with more
+time to prepare for the new reporting regime in case that not all the necessary
+information regarding VC is available. The transitional requirements are optional, i.e.,
+the undertaking can decide whether it wants to use them or not and they apply
+regardless of whether the VC actor is an SME.
+May 2024 Page 22 of 48
+EFRAG IG 2: Value Chain Implementation Guidance
+84. The steps an undertaking can consider during this time may include:
+(a) updating contracts with actors in the VC to reflect the status of new implemented
+policies or target tracking, such as foreseeing the provision of periodic information;
+(b) Stakeholder engagement and other enhancements to the materiality assessment;
+(c) preparing technological infrastructure as well as other types of infrastructure
+required for reporting; and
+(d) improving knowledge about the structure of the VC, specific actors involved and
+associated impacts and dependencies.
+85. The transitional requirements (ESRS 1 paragraph 132) foresee that if not all the
+necessary VC information is available during the first three years of the reporting
+undertaking’s sustainability reporting under ESRS, the undertaking shall explain:
+(a) the efforts it made to obtain the necessary information;
+(b) the reason(s) why it could not obtain the necessary information; and
+(c) its plans to obtain the necessary information in the future.
+86. In addition, during the transitional period, reporting undertakings may limit
+information to in-house data (such as data available to the undertaking and publicly
+available information) to disclose information on policies, actions and targets for the
+VC (ESRS 1 paragraph 133 (a)).
+87. In addition, with reference to metrics, the undertaking is not required to include
+upstream and downstream VC information, except for datapoints derived from other
+EU legislation, as listed in ESRS 2 Appendix B (see ESRS 1 paragraph 133 b)) during
+the transitional period.
+88. Starting from its fourth year of reporting under ESRS, the undertaking shall comply with
+ESRS 1 paragraph 63 (ESRS 1 paragraph 135) as explained in this document.
+89. In addition to the transitional provisions described above, Appendix C of ESRS 1
+specifies that for ESRS E1-6 Gross Scopes 1, 2, 3 and Total GHG emissions,
+undertakings or groups with less than an average of 750 employees at balance sheet
+dates, may omit datapoints on Scope 3 emissions and the total GHG emissions for the
+first year of preparation of their sustainability statement. Similarly, the disclosure
+requirements for ESRS S2 Workers in the value chain, ESRS S3 Affected communities
+and ESRS S4 Consumers and end-users may be omitted for the first two years by
+undertakings that have 750 or less employees during the financial year.
+Transitional provision with respect to entity-specific disclosures
+90. The provision of entity-specific disclosure under ESRS 1 paragraph 11 is not optional
+in the first three annual sustainability statements. It is mandatory. In the first three
+annual sustainability statements, when the reporting undertaking is defining its entity-
+specific disclosures, it may as a priority:
+(a) include disclosures it previously reported (where these meet the qualitative
+characteristics of information per Chapter 2 of ESRS 1); and
+(b) add disclosures to cover those material sustainability matters in its sector(s) using
+the available best practice and/or available frameworks (such as IFRS or GRI sector-
+specific requirements).
+May 2024 Page 23 of 48
+EFRAG IG 2: Value Chain Implementation Guidance
+91. The transitional provision related to value chain (paragraphs 132 to 135 of ESRS 1)
+covers also the VC information to be covered by entity-specific disclosures. There is no
+three-year transition with respect to entity-specific disclosures that do not include the
+VC. Given that entity-specific disclosures may trigger the inclusion of VC information,
+the transitional provision applying to entity-specific disclosures (ESRS 1 paragraph
+131) is also relevant here.
+2.8 What is the LSME cap and does it impact one’s disclosures?
+92. Article 29b (4) of the CSRD limits the VC information that the ESRS shall require
+undertakings in the scope of the CSRD to obtain from small- and medium-sized
+enterprises (SMEs) for their reporting under ESRS. ESRS may not require disclosures
+which will result in reporting undertakings having to request information from the
+SMEs in their VC (either listed or not listed) if such information goes beyond the
+disclosures required in the listed SME (LSME) ESRS.
+93. This limitation is often referred to as the ‘LSME cap’ and it aims at limiting the burden
+for SMEs and to embed proportionality in the ESRS.
+94. The LSME ESRS are still under development and are expected to be finalized by
+EFRAG in December 2024.
+3. Frequently asked questions (FAQ)
+95. This chapter provides further practical guidance on the VC principles described in the
+previous chapter.
+FAQ 1: Where does the VC begin and end?
+96. ESRS requires the undertaking to identify and assess material IROs across its entire VC
+from a double materiality perspective. In this regard:
+(a) relevant impacts are defined as those that are connected to the undertaking, which
+includes when they are either caused by or contributed to or that are directly linked
+to the undertaking’s operations, products or services through a business
+relationship. The relevant impacts are not ringfenced by proximity or contractual
+relationship, but by the fact that they occur in connection to the processes at any
+stage of the VC that contribute to the undertaking’s operations, products or
+services, or that result from the use or end-use of those products or services.
+Conversely, the impacts of actors in the value chain not connected to the
+undertaking’s operations, products and services are outside of the scope of impact
+materiality (see also IG 1 FAQ 2 What is meant by the undertaking being
+‘connected’ to an impact?); and
+(b) relevant risks and opportunities are those attributable to business relationships, in
+particularly with actors in the VC that are beyond the scope of consolidation used
+for the preparation of financial statements for financial materiality (ESRS 1
+paragraph 49).
+97. To assess potential and actual impacts, it is important that the undertaking identify in
+particular:
+(a) the location and characteristics of suppliers including beyond the first tier of their
+upstream VC or supply chain;
+May 2024 Page 24 of 48
+EFRAG IG 2: Value Chain Implementation Guidance
+(b) the users of their services and goods;
+(c) how the goods are treated in terms of waste at the end of their life; and
+(d) who may be affected by their services and goods.
+98. See FAQ 7 How to assess and quantify the impacts of the VC resulting from business
+relationships? below for recommendations on how to organise the processes to
+identify and assess material impacts across the VC.
+99. To assess risks and opportunities, the undertaking considers its own dependencies on
+natural, human and social resources. The undertaking identifies potential changes in
+the availability, price and quality of such resources, which are sources of risks and
+opportunities, including those stemming from its upstream and downstream VC. The
+following three examples illustrate this concept.
+(a) A company has a tier-1 supplier, that provides it with the main components of its
+final products, in a region with water scarcity. To provide the components, the
+supplier needs minerals from a mining company which is heavily dependent on a
+supply of water. As such, this supplier would be at risk if one of the mines was no
+longer able to access sufficient water from its existing sources. Consequently, the
+supplier may face physical risks in the future due to the water scarcity in the region,
+which could lead to operational disruptions and increased costs. This situation
+could lead to discontinuities in the supply of steel with disruptions in production;
+(b) If the buying price does not cover the cost of a product bought, it may increase the
+pressure on the working conditions for the suppliers. If the purchasing department
+of the reporting entity does not understand lead times or ignores lead times when
+ordering this, could have a negative effect on the workforce of their contractual
+partners in terms of overtime, accidents or use of forced labour;
+(c) A company active in the food sector needs to be constantly supplied with natural
+key inputs (such as flours). One of its main suppliers is active in a region at high risk
+of biodiversity loss and following the request by local authorities to restore
+damaged habitats it has a more variable production of key natural inputs and
+higher production costs. This situation could lead to disruptions in the supply of
+key natural inputs, creating consequences for the production of the company
+active in the food sector. Active spot markets with delivery close to the company
+may alleviate the risk of disruption but may have implications for pricing.
+FAQ 2: Are financial assets (loans, equity and debt investments)
+considered business relationships that trigger VC information?
+100. Yes- business relationships and VC, as defined in Annex 2 of the July 2023 Delegated
+Act does not exclude any types of activities or business relationships.
+101. ESRS 1 AR 12(b) explains that where the reporting undertaking provides financial loans
+to another enterprise that ultimately results in the contamination of water and land
+surrounding the operations of such enterprise, this negative impact is connected to
+the reporting undertaking by way of the relationship created by the loan agreement.
+102. Per paragraph 66, for investments there is currently only a specific disclosure provision
+under Category 15 of GHG emissions where significant under ESRS E1.
+May 2024 Page 25 of 48
+EFRAG IG 2: Value Chain Implementation Guidance
+103. EFRAG plans to work on the development of further draft standards or guidelines for
+financial institutions, and on that occasion, specific solutions will be consulted on for
+comments.
+FAQ 3: How should the MA process be organised to properly
+capture material IROs in the VC?
+1. Basic principles
+104. The materiality process is the process by which the undertaking determines material
+information on sustainability impacts, risks and opportunities and this includes
+information related to the VC, but not information on each and every actor in the VC.
+Therefore, for the identification of impacts, risks and opportunities within the
+materiality assessment, the undertaking should focus on the parts of its value chains
+where material impacts are most likely to occur. In general, the starting point is the
+assessment of impacts, although there may also be material risks and opportunities
+that are not related to the undertaking’s impacts. As outlined in IG 1 Chapter 3 How is
+the materiality assessment performed?, the undertaking should design a process that
+is fit for this purpose, as required by ESRS 1 Chapter 3 and disclose it, per the
+requirements set out in ESRS 2 IRO-1. An undertaking, shall design a process that is
+fit for this purpose based on its specific facts and circumstances, factoring in
+consideration of the depth of the assessment. This principle also applies to the value
+chain.
+105. The ESRS clarify that the materiality assessment process is informed by the due
+diligence process (where relevant).
+2. Materiality assessment steps
+106. Guidance on the organisation of the materiality assessment process can be found in
+IG 1 Chapter 3 How is the materiality assessment performed? As explained there
+(emphasis added): ‘ESRS do not mandate how the materiality assessment shall be
+conducted by an undertaking, or how the process should be designed. No one
+process would suit all types of economic activities, location(s), business relationships
+or value chains (upstream and/or downstream) of all the undertakings applying ESRS.
+An undertaking, based on its specific facts and circumstances, shall design a process
+that is fit for purpose considering the requirements of ESRS 1 Chapter 3, and what
+needs to be disclosed regarding the materiality assessment and its outcome (see ESRS
+2 IRO-1, IRO-2 and SBM-3). Therefore, the ESRS provide several aspects that an
+undertaking takes account of when designing the materiality assessment process.’
+107. With this caveat, IG 1 provides guidance for the general organisation of the MA
+process. The guidance included below reflects how VC aspects can be considered in
+the possible process.
+Step A. Understanding the context
+108. As explained in IG 1, the first step in the MA process is understanding the context in
+which the undertaking operates. Therefore, the undertaking needs to understand its
+VC in terms of the business actors involved, their size, the sectors or nature of their
+activities, geographical locations, and processes. This is a starting point for the
+identification of where IROs are likely to arise.
+May 2024 Page 26 of 48
+EFRAG IG 2: Value Chain Implementation Guidance
+109. The context also includes understanding the undertaking’s strategy and business
+model and how they are connected to possible material IROs.
+110. The strategy of the undertaking will influence its business model, which will focus on
+its own operations but also include aspects around its upstream and downstream value
+chain. All of this will be considered in its materiality assessment.
+111. The undertaking can consider tracing or mapping its VC activities and actors to identify
+whether and which parts of its value chains are in areas of heightened risks. In some
+cases, if the undertaking does not have reliable information on the geographical
+location of its VC (for example beyond the first tier), it may map the IROs associated
+with global value chains for materials, products and services it uses or produces, to the
+extent that they are relevant to its VC. For example, a chair manufacturer may use
+products such as steel, wood, foam and fabric in its business. These raise questions
+around the origin of their components (e.g. oil used to produce foam and cotton for
+the fabric) and the transportation used to deliver them to the undertaking. Are there
+any environmental (deforestation, biodiversity, water usage) or social issues (working
+conditions, impact on communities) in the countries of origin of the components?
+What are the sustainability matters pertaining to the consumers? Here the sales
+channels may be relevant as well as the ability to re-use, re-cycle or up-cycle the
+furniture at the end of its life.
+112. As explained in the general instructions in IG 1, engagement with affected
+stakeholders can support the assessment and validation of the impacts. The
+undertaking should also identify (likely) affected stakeholders and consider engaging
+with them. See also IG 1 FAQ 17 What is the role of silent stakeholders and how should
+they be considered?
+Step B. and Step C: Identification of actual and potential IROs as well as assessment
+and determination of the material IROs
+113. Identification and assessment of impacts can be challenging for those parts of the VC
+where the undertaking is not able to trace materials and products. ESRS 2 paragraph
+5 c) requires a description of the extent to which the disclosures cover the
+undertaking’s upstream and downstream VC.
+114. The undertaking should aim to gather reliable data from actors in its VC, when
+inclusion of VC information is needed according to ESRS 1.65. If this is not possible
+after having made reasonable efforts, it may rely as appropriate on sources of
+secondary data. Secondary data include information such as publicly available reports
+and studies, sector proxies, data from local, regional and national authorities,
+newspaper articles, databases, etc. used to estimate the IROs where this provides
+relevant and faithfully representative information.
+Assessment of the involvement of the undertaking with the VC
+115. The undertaking is required to provide a description of the material impacts, risks and
+opportunities connected to it, as well as those that are directly linked to its operations
+and services in its upstream or downstream value chain (ESRS 2 SBM-3 paragraph 48
+(a)).
+116. As explained in IG 1, FAQ 2 What is meant by the undertaking being ‘connected’ with
+an impact? the undertaking may for instance be involved in a breach of labour
+standards through its procurement and payment policies and practices, or even by
+sourcing from suppliers with cases of labour rights abuse.
+May 2024 Page 27 of 48
+EFRAG IG 2: Value Chain Implementation Guidance
+117. The contribution to the impacts in the VC may concern direct business relationships.
+However, the undertaking may find itself contributing to impacts that occur in more
+distant parts of the VC. This may, for instance, be the case when the undertaking or its
+direct suppliers are using commodities or components whose production is
+associated with severe systemic impacts, such as palm oil or coltan. Similarly, the
+undertaking may be contributing to impacts that result from the use of its products,
+such as oil and gas derived from fossil fuels, plastics contributing to microplastics
+pollution, cigarettes, or pesticides.
+118. An undertaking can cause, contribute or be directly linked to an impact in the value
+chain. Distinguishing the type of involvement is important given that it could lead to a
+different assessment or categorisation of the negative impact.
+Environmental topical standards on the materiality assessment
+119. Environmental standards use the concept of life cycle or life cycle assessment, which
+also covers value chain, in the context of the materiality assessment. In particular:
+(a) ESRS E2 AR 18: ‘In order to assess materiality, the undertaking may consider
+Commission Recommendation (EU) 2021/2279 on the use of the Environmental
+Footprint methods to measure and communicate the life cycle environmental
+performance of products and organisations’;
+(b) ESRS E3 AR 14: ‘The undertaking may rely on primary, secondary or modelled data
+collection or other relevant approaches to assess material impacts, dependencies,
+risks and opportunities, including Commission Recommendation 2021/2279 on
+the use of the Environmental Footprint methods to measure and communicate the
+life cycle environmental performance of products and organisations (Annex I –
+Product Environmental Footprint; Annex III – Organisation Environmental
+Footprint)’;
+(c) ESRS E5: the concept of 'life cycle’ is so important that it is part of the objective in
+paragraph 3 and AR 6, which explain its use in assessing IROs in own operations
+and the VC.
+FAQ 4: How should information about the VC be disclosed in
+the context of the materiality assessment?
+120. The disclosure of information about the VC is required in two steps: as a component
+of (i) the materiality assessment process and of (ii) the outcome of the materiality
+assessment.
+BP-1 – General basis for preparation of the sustainability statement
+121. ESRS 2 paragraph 5(c) requires disclosing to which extent the sustainability statement
+covers the undertaking’s upstream and downstream VC. Therefore, in addition to
+metrics, this applies to all the steps listed below to the extent that material IROs arise
+in the upstream and downstream VC.
+SBM-1 – Market position, strategy, business model(s) and VC – ‘VC
+mapping’
+122. To provide an understanding of where in the undertaking’s VC material IROs may arise,
+ESRS 2 paragraph 42(c) in SBM-1 requires the following in the description of its VC:
+May 2024 Page 28 of 48
+EFRAG IG 2: Value Chain Implementation Guidance
+(a) the main features of its upstream and downstream VC;
+(b) the undertaking’s position in its VC; and
+(c) the description of the main business actors and their relationship to the
+undertaking, including:
+(i) key suppliers,
+(ii) key distribution channels, and
+(iii) key customers and/or end users.
+123. Identifying the key actors requires judgement to reflect the specific circumstances of
+the undertaking’s VC and should involve consideration of both impact and financial
+materiality criteria.
+124. The mapping of the VC for material impacts is expected to use the sustainability due
+diligence process when it is in place. However, the due diligence process may go
+beyond such mapping per se as explained below, looking at the impacts throughout
+the VC and identifying potential ‘hot spots’ by cross-referencing countries where
+materials are produced to social and environmental risk databases (i.e., Type of impact
+by Country by Actor in the VC). These hotspots may then be further investigated.
+IRO-1 – VC considerations in MA
+125. Subsequently, the undertaking shall describe its materiality assessment process,
+including in relation to the VC, and the extent to which it may be informed by the due
+diligence process.
+126. ESRS 2 IRO-1 paragraph 53 (b)(ii) requires an overview of the process to identify, assess
+and prioritise the impacts that the undertaking is involved in through its own
+operations or because of its business relationships. Similarly, paragraph 53 requires
+disclosing an overview of the process used to identify, assess, prioritise and monitor
+risks and opportunities that have or may have financial effects, which may arise due to
+the undertaking’s business relationships in the VC. In fact, the business relationships in
+the upstream and downstream VC shall also be considered in the context of assessing
+the materiality of risks and opportunities and not just for impacts (ESRS 1 paragraph
+66).
+127. A disclosure that meets these requirements could be structured as follows:
+(a) the types of VC relationships that were considered in the materiality assessment;
+(b) the methods that the undertaking used; and
+(c) the sustainability topics that were evaluated.
+128. For impacts, based on the initial mapping the undertaking may focus on areas where
+actual or potential impacts could arise, which in turn reflect areas where negative
+impacts are or could be severe. The undertaking will reasonably focus:
+(a) on different types of business relationships and VC segments for different
+sustainability matters; and
+(b) on areas of heightened risk of adverse impacts, affected stakeholder engagement
+and prioritisation based on criteria of severity and likelihood.
+May 2024 Page 29 of 48
+EFRAG IG 2: Value Chain Implementation Guidance
+129. For risks and opportunities, this should include how the process considered any other
+factors in the VC that are sources of IROs, including dependencies on natural and
+social resources.
+IRO-1 – MA methods and assumptions
+130. ESRS 2 IRO-1 requires information on methods and assumptions applied in the
+materiality assessment (ESRS 2 paragraph 53(a)), including thresholds, to assess
+materiality (paragraph 53(b)(iv)). This should account for any specifics related to the
+VC. As per ESRS 2 BP-1, the undertaking should describe the extent of any limitations
+on the materiality assessment process with respect to the VC.
+SBM-3 – Disclosing the outcome of the MA
+131. As a result of the materiality assessment, the undertaking shall disclose the material
+IROs originating in its VC. ESRS 2 SBM-3 paragraph 48(a) requires disclosing ‘where in
+its business model, its own operations and its upstream and downstream value chain
+these material impacts, risks and opportunities are concentrated’.
+132. The preparation of this disclosure may use evidence of impacts from the due diligence
+process, such as the concentration of types of impacts by country or operational step.
+133. ESRS 2 SBM-3 also requires describing the material impacts identified following the
+materiality assessment process disclosed under IRO-1, specifying ‘whether the
+undertaking is involved with the material impacts through its activities or because of
+its business relationships, describing the nature of the activities or business
+relationships concerned’ (ESRS 2 paragraph 48 (c)(iv)).
+134. ESRS 2 paragraph 48(b) requires as well disclosure of ‘the current and anticipated
+effects of [the undertaking’s] material impacts, risks and opportunities on its business
+model, value chain, strategy and decision-making, and how it has responded or plans
+to respond to these effects, including any changes it has made or plans to make to its
+strategy or business model as part of its actions to address particular material impacts
+or risks, or to pursue particular material opportunities’.
+135. This implies that when strategically important hotspots for VC IROs have been
+identified, ESRS 2 SBM-3 requires information about discussions of the impacts at the
+relevant managerial level or governance bodies in charge (paragraph 48(b)).
+136. The disclosures should be consistent with the corresponding information on whether
+and how the VC was considered in the materiality assessment.
+137. The information required by ESRS 2 SBM-3 paragraph 48(a)(b) (such as the effects on
+and changes in the VC, the undertaking’s business strategy and how it responds or
+plans to respond to those effects) should enable an understanding of the
+undertaking’s basic ability to influence those IROs and any potential effects on the
+undertaking.
+138. When providing information required by ESRS SBM-3 on material IROs or PAT,
+qualitative information may be sufficient (for instance, for human rights policies with
+respect to the VC). However, quantitative information may be required to help users
+understand impacts, their severity and their likelihood and/or to track the effectiveness
+of actions to manage them.
+May 2024 Page 30 of 48
+EFRAG IG 2: Value Chain Implementation Guidance
+FAQ 5: How are investees treated under ESRS E1?
+139. IG 2 refers to the terms associates, joint arrangements, joint operations, control, joint
+control, investment entity, significant influence and joint ventures, having as a
+reference the definitions per IFRS Accounting standards. Similar concepts exist in local
+GAAP in EU countries, but the specifics may differ.
+140. The table below illustrates the treatment of impacts arising from investments of the
+undertaking depending on their accounting treatment in the financial statements.
+Common Accounting treatment4 Measuring impacts by
+characteristic(s) metrics in E1 standard
+Subsidiaries Control (as defined in Include 100% of assets, Fully included (scope of
+IFRS 10) – also referred liabilities, equity, consolidation is the
+to in this document as income, expenses and same as financial
+‘financial control’ cash flows5 reporting)
+Associates Significant influence (as The investment is • operational control:
+defined in IAS 28) recognised as a single GHG emissions to the
+line item on balance extent of operational
+sheet (cost adjusted for control (ESRS 1
+post-acquisition changes paragraph 67).
+in the investor’s share of • associates that are
+net assets). The actors in the value
+investor’s profit or loss chain
+and other (purchases/sales with
+comprehensive income the investing
+include its share of the undertaking): impacts
+investee’s profit or loss connected to the
+and other undertaking’s
+comprehensive income products and services
+through transactions;
+and / or
+• associates with other
+business relationships
+(i.e., investees) as for
+investments below.
+Joint ventures Joint control (as defined
+in IFRS 11) with rights to Same scenario as for
+Same as for associates
+the net assets of the associates6
+arrangement
+Joint operations Joint control (as defined Recognise its assets, The assets/liabilities of
+in IFRS 11) with rights to liabilities, revenue, the joint arrangement
+the assets and expenses, including any recognised on balance
+4 Please note that this is a very simplified description of the financial reporting requirements (and may differ
+between IFRS and local GAAP standards used in European countries) and thus does not capture the nuances
+involved in classifying investments. For the actual definitions and accountant principles, please refer to the legal
+texts.
+5 Except for an investment entity (as defined in IFRS 10) which shall measure an investment in a subsidiary at fair
+value through profit or loss.
+6 Operational control can also apply to assets under joint control. The related GHG emissions then reflects the terms
+and conditions of the arrangement.
+May 2024 Page 31 of 48
+EFRAG IG 2: Value Chain Implementation Guidance
+Common Accounting treatment4 Measuring impacts by
+characteristic(s) metrics in E1 standard
+obligations for the share from items held sheet by the reporting
+liabilities relating to the jointly undertaking form part of
+arrangement own operations. In
+addition, where the
+reporting undertaking
+has operational control
+over its joint operators’
+assets, these will be
+included under E1
+paragraph 50(b)
+Investments All other investments (in Recognised at fair value; No specific indications in
+the scope of IFRS 9) dividends in profit or ESRS E1 metrics on how
+loss; changes in fair to measure impacts
+value are recognised in connected with the
+profit or loss or in other undertaking through its
+comprehensive income investments (except for
+category 15 of GHG
+Protocol)
+May 2024 Page 32 of 48
+EFRAG IG 2: Value Chain Implementation Guidance
+FAQ 6: Reporting perimeter for ESRS E1 in practice
+141. The following example of the corporate reporting of a fictional group, Seren, has been inspired in the GHG Protocol reporting
+standard, pages 22 and 23.
+142. Seren Group has a number of subsidiaries, joint arrangements and associates who are active in the production and marketing of
+chemicals. Its group structure and investments are as follows:
+(a) A wholly owned subsidiary, Seren UK. As Seren is the parent of Seren UK for financial reporting purposes, it also controls its
+operational policies.
+(b) A subsidiary called Seren US, which has 17% held by outside shareholders. Seren holds 83% of the shares.
+(c) Seren US has a 75% stake in Pulsar, its subsidiary for financial reporting purposes. Ultimately, its operational policies are
+determined by Seren (Seren has operational control).
+(d) Galactica, a 50-50 joint arrangement between Seren US and Estrella classified as a joint venture under IFRS 11 Joint Arrangements.
+Seren’s share of Galactica’s emissions are regarded as significant for the purposes of the GHG protocol. (Seren does not have
+operational control).
+(e) Seren holds a 43% stake in Sol, which it calls a joint venture with Alexa. However, Sol is classified as a subsidiary of Seren for
+financial reporting purposes.
+(f) Seren has joint control of Comet (33.3% stake) with two other parties. It is classified as a joint operation under IFRS 11. One of the
+other joint operators has operational control. Seren’s share of emissions are regarded as significant. (Seren does not have
+operational control).
+(g) Seren has a 60% stake in Oril but share joint control with its partner. Oril is classified as a joint operation under IFRS 11, and Seren
+is an operator of Oril. (Seren has operational control).
+(h) Seren also has joint control of Cosmos with three other parties. Cosmos is classified as a joint venture under IFRS 11, with Seren
+sharing the net assets of Cosmos. The emissions are regarded as significant. (Seren does not have operational control).
+(i) Seren has joint control of Atom with another party. Atom is classified as a joint venture under IFRS 11, with Seren sharing the net
+assets of Atom. In this case, Seren has operational control over Atom. (Seren has operational control).
+(j) Nebu, an associate for financial reporting (IAS 28 Investments in Associates and Joint Ventures) where Seren has operational
+control. Seren holds 29% stake. (Seren has operational control).
+May 2024 Page 33 of 48
+EFRAG IG 2: Value Chain Implementation Guidance
+(k) Seren holds 36% of Nova’s shares and has classified it as an associate for financial reporting purposes. Nova has control over its
+own operations. (Seren does not have operational control).
+(l) Seren holds 1% of Lumen’s shares. Seren’s share of emissions are regarded as insignificant (Seren does not have operational
+control).
+(m) Seren is the operator of Company X’s subsidiary, Asteri, in which Seren also holds 2.4%. (Seren has operational control.)
+(n) Finally, Seren operates the Stea site owned by Company X. (Seren has operational control.)
+143. The figure below depicts Seren Group, whereas the table following it sets out the reporting under ESRS and the GHG Protocol as well
+as how these entities impact Seren’s profit before taxation.
+May 2024 Page 34 of 48
+EFRAG IG 2: Value Chain Implementation Guidance
+May 2024 Page 35 of 48
+EFRAG IG 2: Value Chain Implementation Guidance
+144. The GHG emissions reporting under the GHG Protocol and ESRS would be as follows.
+GHG Protocol emission reporting6
+Control of Operating profit under Equity
+Interest Financial Operational
+Entity operational Other details IFRS (financial share ESRS Comment
+held control control
+policies statements) approach
+Wholly owned
+a Seren UK 100% Seren 100% included 100% 100% 100% 100%
+subsidiary Scope 1 or 2
+b Seren US 83% Seren Subsidiary 100% included 83% 100% 100% 100% (E1 par.
+Subsidiary of Seren 50(a))
+c Pulsar 75% Seren 100% included 62.25% 1 100% 100% 100%
+US
+JV of Seren US with 50% included as income Scope 3
+d Galactica 50% Estrella 41.5% 2 0 0 50% 3, 9
+Estrella from JV Investment
+e Sol 43% Seren Subsidiary 100% included 43% 100% 100% 100% Scope 1 or 2
+Joint operation under Share of revenue/expenses (E1 par. 50
+f Comet 33.3% Rain 33.3% 0 0 33.3%4
+joint control from its assets/liabilities (a))
+Joint operation under Share of revenue/expenses Scope 1 or
+g Oril 60% Seren 60% 0 100% 100%
+joint control from its assets/liabilities 25
+Joint venture under Scope 3
+h Cosmos 25% Other 25% as income from JV 25% 0 0 25% 9
+joint control Investment
+Joint venture under Scope 1 or 2
+i Atom 50% Seren 50% as income from JV 50% 0 100% 100%
+joint control (E1 par 50 b)
+Associate, Seren’s 29% as income from Scope 1 or 2
+i Nebu 29% Seren 29% 0 100% 100%
+OC associate (E1 par 50 b)
+Associate under IAS 36% as income from Scope 3
+k Nova 36% Nova 36% 0 0 36% 9
+28 associate Investment
+Dividends and fair value
+l Lumen 1% Quasar Subsidiary of X 0 0 0 0%7
+changes
+Revenues from activities as
+Subsidiary of X, Seren
+m Asteri 2.4% Seren operator and dividends 08 0 100% 100%
+is operator (i.e. OC) Scope 1 or 2
+etc.
+(E1 par 50 b)
+Site where Seren has Revenues from activities as
+n Stea site - Seren 0 0 100% 100%
+operational control operator
+May 2024 Page 36 of 48
+EFRAG IG 2: Value Chain Implementation Guidance
+Legend:
+1: 83% x 75.
+2: 83% x 50.
+3: Without transactions between Galactica and Seren, reported as Scope 3 category 15: 100% (reflecting control over Seren US) x 50.
+4: Seren will reflect the emissions from its own assets and operations used in the joint operation.
+5: Seren will reflect 60% of Oril’s emissions as own operations under paragraph 50(a) and 40% under paragraph 50(b) (operational control).
+6: Grey cells come from GHG Protocol or are derived from it. For other colours, please refer to paragraph 146 below.
+7: Regarded as not significant.
+8: Accounted for as Scope 3 (Investment) proportionate to the stake in the company (2.4%).
+9: Share of equity of Scope 1 and 2 of the GHG emissions of the investee.
+145. On the previous page under ‘Comment’, where the cells are white, this reflects Scope 1 and Scope 2 emissions as per paragraph
+50(a) of ESRS E1. Where the cells are yellow, these are Scope 1 and Scope 2 emissions as per paragraph 50(b) of ESRS E1, i.e., those
+items not under financial control but under operational control. Lastly, the green cells reflect Scope 3 emissions.
+146. On the previous page under ‘Comment’, where the cells are white, this reflects Scope 1 and Scope 2 emissions as per paragraph
+50(a) of ESRS E1. Where the cells are yellow, these are Scope 1 and Scope 2 emissions as per paragraph 50(b) of ESRS E1, i.e., those
+items not under financial control but under operational control. Lastly, the green cells reflect Scope 3 emissions.
+147. With the yellow cells, the emissions will be reported by the owner under paragraph 50(a) of ESRS E1 as well as by the operator or
+person with operational control under paragraph 50(b) of ESRS E1. Preparers may provide additional context about these emissions,
+especially in the context of policies, actions and targets.
+May 2024 Page 37 of 48
+EFRAG IG 2: Value Chain Implementation Guidance
+FAQ 7: Numerical example of GHG emissions under ESRS E1
+reporting
+148. Company A is a global fashion company.
+149. Company B is a producer of fabrics and has a GHG emissions total of 100,000 metric
+tons (scope 1,2 and 3). How should GHG emissions be accounted for in Company A’s
+consolidated sustainability statement in each of the following circumstances?
+(a) A has operational control over B, and for financial reporting purposes Company B
+is a subsidiary of Company A. Scope 1 and Scope 2 emissions of B amount to
+90,000 metric tons7;
+(b) A does has no investment in B and does not exercise operational control over B.
+Company B is a supplier of fabrics, and 80% of the fabrics produced by Company
+B are supplied to Company A. Therefore, A and B have sales/transactions with each
+other. It is assumed that category 1 (emissions from purchased goods and services)
+is significant for company A;
+(c) Company A holds a 30% ownership share in Company B, and for financial
+reporting purposes, is an associate of Company A. Company A does not have
+operational control or transactions with B (i.e., only the investment in equity). The
+Scope 1 and Scope 2 emissions amount to 90,000 metric tons, and it is assumed
+scope 3 emissions category 15 (emissions from investments) is significant for
+company A.
+150. Company A would report the following in its consolidated sustainability statement with
+respect to Company B in each of the above scenarios. Note that the scenarios are
+independent from each other.
+GHG emissions
+Scenario Scope/Category ESRS reference
+under ESRS E1
+90, 000 metric tons Scope 1 or Scope 2 ESRS E1 par. 50(a)
+a) Operational
+Scope 3 per category
+control
+10, 000 metric tons reflecting Company B ESRS E1
+operations
+Scope 3 Category 1:
+b) Transactions ESRS 1 par. 67, E1 par.
+80,000 metric tons emissions from purchased
+(VC) 51
+goods
+c) Only Scope 3 Category 15:
+27,000 metric tons ESRS E1 par. 51
+investments emissions from investments
+151. Please note that under any of the other environmental standards (e.g. E2 Pollution),
+ESRS do not describe how to report under the third scenario.
+7 The outcome would be the same even if Company A did not have operational control over Company B, as in
+ESRS E1 the emissions of the subsidiaries are included irrespective of having operational control over them.
+May 2024 Page 38 of 48
+EFRAG IG 2: Value Chain Implementation Guidance
+FAQ 8: How should the impacts resulting from business
+relationships be assessed and quantified?
+152. As set out in IG 1 FAQ 10 Should the assessment of IROs rely on quantitative
+information? where qualitative analysis is sufficient for the undertaking to reasonably
+conclude that a matter is ‘not material’, adding quantitative information to the analysis
+would not bring much value to the materiality assessment, where the undertaking has
+this data due to its sustainability and management practices as well as its engagement
+with suppliers.
+153. The materiality assessment regarding the upstream value chain may be validly
+conducted by large undertakings without direct information from specific suppliers.
+Undertakings reporting under the sector-agnostic standards may typically conduct the
+assessment using average regional or sector data to characterise the areas of potential
+impacts and risks associated with their value chain.
+154. As mentioned above, the materiality assessment process evolves over time, and the
+undertaking may be redefining the balance between qualitative and quantitative
+information. Please refer to IG 1 Chapter 3.6 Deep dive into impact materiality – Setting
+thresholds.
+155. For the materiality assessment and for the inclusion of VC data required by metrics
+(such as for Scope 3 GHG emissions and other entity-specific disclosures when
+appropriate), the undertaking may either obtain information directly from actors in its
+VC, use estimates or proxies, or combine both approaches.
+156. Obtaining information directly is the most appropriate approach in certain cases, for
+instance, for major tier 1 suppliers (the direct and substantial contractual relationship
+is a good basis for organising appropriate flows of data) or for customers of products
+and services, in particular when they are end users (the undertaking knows the
+parameters of its products and services). When this is the case, the undertaking may
+need to ask its suppliers and other relationships for information enabling the
+quantification of the impacts. The undertaking may use questionnaires, surveys and
+audits to obtain the information. Its buying power and overall contractual influence
+may help in this regard.
+157. It should be noted that the more severe the impact, the stronger the incentive to omit
+such sensitive information, and this could impact the reliability of the information
+provided by such supplier. This may be particularly relevant for incidents of child or
+forced labour in the VC.
+158. Apart from this issue, the reliability of information directly obtained from the VC may
+improve over time since VC actors may not be able to quantify their impacts yet but
+may be in the position to do so in the future, given the evolution of sustainability
+reporting. Therefore, supporting such actors to set up effective systems may be
+important. It may also be advisable to engage with them and, where relevant, to also
+encourage them to do the same with their value chains.
+159. Generally, the effort placed on actors in the VC should be proportionate and, as
+mentioned above, undertakings do not have to report on each and all value chain
+actors.
+160. As set out in ESRS 1 paragraph 69 and further explained under FAQ 9 How can
+estimates about the VC be developed? the undertaking shall estimate the impact when
+it cannot collect the necessary data with the required reliability after reasonable effort
+May 2024 Page 39 of 48
+EFRAG IG 2: Value Chain Implementation Guidance
+when necessary. Estimates and proxies may be used in combination with information
+obtained directly as well as when quantification is required. Using estimates, like in
+financial reporting, is acceptable if organised under a process designed to comply
+with the qualitative characteristics of information expected from sustainability
+information. Estimates and proxies may currently be the only available solution to
+quantify impacts in certain cases due to the unreasonable efforts required to collect
+data. Examples include tier 2 or tier N suppliers; tier 1 suppliers when they are
+excessively high in number; and customers when they are not end users (e.g., when
+the undertaking delivers products or services that are further transformed before
+contributing to the delivery of products and services to the end users).
+161. An example where obtaining primary data may not be possible and estimates may be
+used is a beverage company that advises its drinks to be served cold, i.e., by using
+refrigeration capacity, and it has determined energy use as a material matter. This
+undertaking would find it impossible to precisely measure its impact with each and
+every customer. However, from its materiality assessment, it assesses that electricity
+use is a significant part of its impact in the downstream VC. In this case, estimating its
+impact would involve considering variables such as volumes sold, the average time in
+which the inventory will be cooled before consumption and an estimate of the average
+electricity used to cool its products on a unit basis. This may need to also consider the
+location and related prices. Depending on its assessment of the materiality of
+electricity use, the undertaking may want to provide a sensitivity analysis of its
+electricity use depending on reasonably possible changes in the important variables
+in its calculations. Proxies are often available at sector or product level. In all cases, the
+undertaking shall clearly explain the basis for its estimates and the proxies used as well
+as any factor affecting their consistency over time.
+162. ESRS 2 paragraph 10 requires the undertaking to disclose the metrics that include VC
+data estimated using indirect sources, including the basis for preparation, the resulting
+level of accuracy and the planned actions to improve accuracy in the future.
+FAQ 9: What is ‘reasonable effort’ to collect VC data?
+163. When inclusion of VC information is necessary under ESRS 1 paragraph 63 or on an
+entity-specific basis, a reporting entity collects information about its upstream and
+downstream VC only to the extent that this is compatible with a reasonable effort
+(ESRS 1 paragraph 69) for use in its sustainability statement. In all other circumstances,
+it shall estimate the missing information based on ‘all reasonable and supportable
+information that is available to the undertaking at the reporting date without undue
+cost or effort’ (ESRS 1 paragraph AR 17). This includes estimates, sector-average data
+and other proxies. For example, an undertaking could use country and/or sector-
+statistic-based risk assessment data. If more details are known, such as the specific
+location of farming and manufacturing processes, more specific data may be made
+available. Also refer to paragraph 160 on the need to comply with the quality of
+characteristics requirement.
+164. The undertaking should determine the best available way to prepare meaningful VC
+information and dedicate proportionate resources once the degree of difficulty has
+been properly assessed.
+165. As explained above, the undertaking should report on material IROs in its own
+operations and in its upstream and downstream VC. In this context, putting the
+appropriate processes in place is a matter of management decision, internal
+organisation and allocation of resources. ‘Reasonable effort’ and ‘undue cost or effort’
+May 2024 Page 40 of 48
+EFRAG IG 2: Value Chain Implementation Guidance
+relate to the processes put in place by the undertaking to collect VC information and
+the amount of resources dedicated to these processes. ‘Reasonable effort’ cannot be
+an excuse for not disclosing. ‘Reasonable effort’ and ‘undue cost and effort’ depend
+on facts and circumstances specific to the undertaking. On the basis of FAQ 7 above,
+using free and publicly available information may in some cases be considered a
+reasonable effort. In determining whether an action is beyond ‘reasonable effort’
+and/or beyond ‘undue cost and effort’, the undertaking shall balance the reporting
+burden of obtaining direct data and the potential lower quality of the information
+resulting from not undertaking that action. The estimation procedures adopted by the
+undertaking when direct data are not used are subject to ESRS 2 paragraph 10.
+166. For VC data, a good starting point is a deep understanding of what, where and how
+inputs for its products and/or services are sourced upstream and/or what, where and
+how its products and services are brought to market downstream.
+167. ESRS 1 paragraph 68 indicates that the undertaking’s ability to obtain VC information
+may vary depending on factors such as its contractual arrangements, the level of
+control it may exercise beyond the consolidation perimeter and its buying power.
+Therefore, there are cases where obtaining the information may be more challenging.
+In such cases, the undertaking may use other sources of information. For example, an
+undertaking may have a major exposure to forced labour because it is getting
+significant volumes of agricultural commodities and products from jurisdictions where
+forced labour in agriculture has been documented by the ILO (the International Labour
+Organisation) and the FAO (the Food and Agriculture Organization of the UN). For the
+materiality assessment, it is not necessary for the undertaking to change practices and
+estimate the number of cases of child or forced labour in its value chain. What is
+important is that it has enough information to conclude that the impacts are severe
+(based on scale, severity and irremediability).
+168. Similarly, undertakings calculating their full environmental footprint may use estimates
+not only because it would be unreasonable to get primary data but also because such
+data would not be reliable.
+169. In the context of materiality assessment, the focus on the VC and VC information
+should be where the undertaking is expected to have a severe negative impact (on
+people and the environment). This means that general impact assessments could be
+useful for the initial work on collecting VC information. Examples include general
+information about the undertaking’s region or sectors of sourcing. For example, where
+an undertaking is sourcing its products mostly indirectly from Country A and Country
+B, it may look at available general information about the minimum wage in those
+countries when considering its social impacts. In Country A, the minimum wage is
+generally 100% to 120% of the living wage, but in Country B the minimum wage is less
+than 80% of the living wage. Therefore, the exposure to significant impacts is more
+likely in Country B, all else being equal.
+170. For its own governance as well as for purposes of an audit trail for its assurance
+provider, it would be good for the undertaking to document its efforts, the outcomes
+of these and how the information has been incorporated in its reporting process. (Refer
+also to IG 1 FAQ 12 Should the materiality assessment be documented/evidenced?)
+FAQ 10: How can estimates about the VC be developed?
+171. As discussed in paragraph 28 above, primary VC information is not required for all
+disclosures in the sustainability statement. Where the undertaking determines that VC
+May 2024 Page 41 of 48
+EFRAG IG 2: Value Chain Implementation Guidance
+information is required and primary data (i.e., directly collected from the actor in the
+VC) is not available after making reasonable efforts, estimated data can be used.
+172. In estimating the missing information, ESRS require using internal and external
+information. Such estimates can be used either for assessing material IROs or for
+disclosing metrics in the VC, as outlined in ESRS 1 Chapter 5.2. When assessing
+material IROs in the VC, a combination of primary data (i.e., directly collected from the
+actor in the VC) and estimated data (using secondary data as input) can be employed.
+173. Secondary data include data from indirect sources, sector-average data, sample
+analyses, market and peer groups data, other proxies and spend-based data.
+174. The adjacent text box lists some sources
+Examples of external data sources
+of such data. Some of these require a fee and
+• Academic institutions such as the are provided as examples, but ESRS do not
+Environmental Performance require the use of fee-based external sources.
+Index These are examples of external sources that
+• Government bodies such as the help address environmental, social and human
+European Social Progress Index rights as well as corruption matters.
+of the European Commission and
+175. It is difficult to collect VC information
+the US Department of State’s
+necessary to produce the relevant disclosure
+Social Progress Index
+about impacts caused by indirect business
+• ILO social protection by country
+relationships where the undertaking does not
+• Non-profit organisations such as
+have a direct contractual relationship and
+the World Justice Project and
+enjoys less leverage. If the undertaking cannot
+other NGOs
+collect the necessary data after making
+reasonable efforts to do so, the undertaking may then need to rely on data from
+indirect sources, like sector-average data, sample analyses, market and peer groups
+data, other proxies, etc. For example, for VC workers extracting commodities used as
+components of the undertaking’s products, the undertaking may be able to arrange
+site audits. However, if those actions to obtain primary data and information are not
+possible after reasonable effort, the undertaking may rely on sector or country data
+estimating those impacts (e.g., negative impacts on safety, health; risk of child labour;
+etc.) in the location of the mining activities.
+176. Disclosing quantitative measures of indirect impacts does not produce relevant
+information about the undertaking’s impacts in all circumstances. Consider a
+manufacturer of bike parts who uses steel in its products and therefore has an issue
+with pollution generated by its steel production. It is theoretically possible to estimate
+the volume of pollution/quantify the environmental footprint, as some have done.
+However, this may not be necessary and would not be conducive to relevant
+information, as it would fail to disclose on the undertaking’s contribution to mitigating
+the pollution that derives from its products. The undertaking could instead measure its
+performance in terms of ESRS E5 metrics on circular economy.
+177. When a reporting entity does not have data received directly from VC actors after
+making reasonable efforts, it shall estimate the information to be reported using sector
+data or similar data as a starting point (ESRS 1 paragraph 69). Examples include Scope
+3 emissions or living wage data on facilities in very high-risk countries, including
+beyond the first tier of business relationships.
+178. As set out in AR 73 of ESRS S1 Own workforce, the WageIndicator is indicated as a
+potential source (along with others) for calculating adequate wage benchmarks
+outside the EEA as the last option in the hierarchy. The WageIndicator provides
+May 2024 Page 42 of 48
+EFRAG IG 2: Value Chain Implementation Guidance
+information about minimum and living wages for more than 200 countries, which could
+be an example of applicable benchmarks as referred to under ESRS S1-10 Adequate
+wages. Undertakings can use this information to explain prioritisation of actions and
+targets in specific countries or regions for both own workforce and workers in the VC.
+The information from such sources could become part of the undertaking’s
+explanation under ESRS 2 SBM-3 on how it identified and assessed material IROs. The
+exact living wages may differ in certain facilities and are dependent on the composition
+of the worker’s family; however, these sources can be useful in the context of the
+materiality assessment. Once wage has been identified as a material risk, more
+accurate data may be needed to set targets and to report on progress.
+179. Where deemed relevant, undertakings need to consider that setting up a reliable data
+collection system which includes VC partners takes time. They may consider processes
+and controls to collect the data and report the information. The quantity and quality of
+VC information is likely to improve over time, but until then sector data or similar
+sources can be a good starting point. As mentioned in paragraph 28 above,
+information about each and every actor in the VC is not required.
+180. The use of appropriate estimates or proxies is critical for the quality of reported
+information. The origin of the data may influence the quality of the information
+provided in the sustainability statement. Therefore, transparent disclosure and
+explanation of the use of estimates are essential.
+181. ESRS 2 BP-2 paragraph 10 requires preparers to:
+(a) identify the metrics for which estimates are used;
+(b) describe the basis for preparation;
+(c) describe the resulting level of accuracy; and,
+(d) where applicable, describe planned actions to improve accuracy in the future.
+FAQ 11: Is a case of bribery not involving an employee relevant
+for the reporting entity?
+182. Consider a case where Q, an employee at a customer (XYZ) of the reporting
+undertaking (ABC), was found to have been bribed by S, an employee at one of XYZ’s
+suppliers. In this case, ABC would not have to disclose this under the metrics of ESRS
+G1-4 as an employee of the reporting undertaking is not involved in the case, as
+explained in ESRS G1 paragraph 26. However, ABC would consider this information
+when it considers the risks around corruption and bribery in the sector/geographical
+area going forward.
+4. VC coverage map
+183. The table below maps the disclosure requirements in the sector-agnostic ESRS and
+that cover the VC.
+184. The VC coverage map of Set 1 shown below does not include disclosures that fall
+under entity-specific disclosures mandated under ESRS 1 paragraph 11. It is the
+responsibility of the undertaking to determine whether entity-specific VC information
+is required to offer users an understanding of the undertaking’s material IRO’s and/or
+May 2024 Page 43 of 48
+EFRAG IG 2: Value Chain Implementation Guidance
+to meet the qualitative characteristics of information per Appendix B of ESRS 1
+(paragraph 65 of ESRS 1)
+VC coverage map of ESRS Set 1
+Level of VC coverage Disclosure Requirements with this level of VC coverage
+1. The undertaking shall assess its material IROs across its VC. IRO-1
+2.The undertaking shall describe its VC. SBM-1◘
+3.The undertaking shall describe its material IROs and report where in the VC they arise SBM-3◘
+4.The undertaking shall reflect BP-1/2◘, E1-2 to E1-4 E4-1 to E4-4, S2-1 to S2-5 G1-1,
+whether and how policies, actions or SBM-2, E2-1 to E2-3, E5-1 to E5-3, S3-1 to S3-5 G1-2,
+targets (PAT) cover VC.
+GOV-4/5 E3-1 to E3-3, S1-1 to S1-5 S4-1 to S4-5 G1-3
+5. The standard covers PAT for IROs that are linked to people in the VC. The S2 S4
+undertaking shall disclose whether and how PAT cover VC. S38
+6.The disclosure only reflects own GOV-1/3, E1-8 -E1-9, E3-4/5 E5-6 G1-4
+operations, as no coverage of VC is IRO-2, E2-4◘, E4-5/6 S1-1 to S1- to
+required. E1-5 E2-6, E5-4 par. 31 179 G1-6
+7.Disclosure of procured materials. E2-5◘ E5-5◘
+8.There are specific quantitative datapoints in this DR that require VC coverage10 E1-6 E1-7
+9.There are specific qualitative datapoints in this E1-1 E4 IRO 1 par 17(a) E5-4
+DR that require VC coverage11. E4-1 par. 13 E4-4 par. 32(c) par. 30
+10.SFDR indicators12 listed in ESRS 2 VC to be covered to the extent contemplated in the relevant
+Appendix B. technical standards
+11.Other EU law (excluding SFDR) in ESRS 2 Appendix B. VC covered when required by relevant
+regulation.
+185. The above table should be read with the following additional notes for those DRs
+marked with the following symbol: ◘
+DR Contents
+BP-1 To what extent the sustainability statement covers the undertaking’s upstream and
+downstream VC.
+BP-2 When metrics include VC data estimated using indirect sources, such as sector-
+average data or other proxies, the undertaking shall:
+i. identify the metrics;
+ii. describe the basis for preparation, per E4-1 paragraph 13;
+iii. describe the resulting level of accuracy; and,
+8 The standard ESRS S3 Affected communities covers a group of people who may also be part of the undertaking’s
+upstream and downstream VC when they also have business relationships with the undertaking.
+9 Some consider DR S1-7 as requiring information about the VC; however, these employees are part of own
+workforce and therefore own operations.
+10 Coverage of VC information does not necessarily mean collection of data from actors in the value chain. See
+paragraphs 156 to 160 above.
+11 Coverage of VC information does not necessarily mean collection of data from actors in the value chain. See
+paragraphs 156152 to 160 above.
+12 The SFDR regulation has been open for consultation, and changes may follow.
+May 2024 Page 44 of 48
+EFRAG IG 2: Value Chain Implementation Guidance
+DR Contents
+iv. where applicable, describe the planned actions to improve the accuracy in the
+future.
+SBM-1 Requires that value chain be covered but is not expected to trigger data requests for
+actors in the value chain – i.e., can be covered by internal or public information.
+SBM-3 For each material IRO identified in the materiality assessment, the undertaking shall
+report whether the undertaking is involved with the negative or positive impacts
+through its activities or because of its business relationships.
+E2-4 AR 20 refers to procurement of microplastics.
+E2-5 Relates to the products/materials and/or substances procured which ends up in
+products/manufacturing.
+E5-5 Includes supplied material but does not expand to suppliers and waste treatment; it
+may sometimes require information from supplier who treats waste
+186. Per paragraph 72, for material IROs where the undertaking has policies, actions and
+targets in place covering the VC, it should disclose this (ESRS 2 paragraphs 64(b), 67(b)
+and 70(b)). If not, either because the undertaking does not have such PAT or because
+these do not cover the VC, the undertaking will comply by indicating this.
+187. The names of the disclosure requirements are provided in Appendix A.
+May 2024 Page 45 of 48
+EFRAG IG 2: Value Chain Implementation Guidance
+Appendix A: Names of disclosure requirements
+188. The list of names of the disclosure requirements below is to help in the use of the VC
+coverage map.
+ESRS 2 – General disclosures
+DR 2-BP-1 – General basis for preparation of the sustainability statement
+DR 2-BP-2 – Disclosures in relation to specific circumstances
+DR 2-GOV-1 – The role of the administrative, management and supervisory bodies
+DR 2-GOV-2 – Information provided to and sustainability matters addressed by the undertaking’s administrative,
+management and supervisory bodies
+DR 2-GOV-3 – Integration of sustainability-related performance in incentive schemes
+DR 2-GOV-4 – Statement on due diligence
+DR 2-GOV-5 – Risk management and internal controls over sustainability reporting
+DR 2-SBM-1 – Strategy, business model and value chain
+DR 2-SBM-2 – Interests and views of stakeholders
+DR 2-SBM-3 – Material IROs and their interaction with strategy and business model
+DR 2-IRO-1 – Description of the processes to identify and assess material IROs
+DR 2-IRO-2 – Disclosure Requirements in ESRS covered by the undertaking’s sustainability statement
+Policies MDR-P – Policies adopted to manage material sustainability matters
+Actions MDR-A – Actions and resources in relation to material sustainability matters
+Metrics MDR-M – Metrics in relation to sustainability matters
+Targets MDR-T – Tracking effectiveness of policies and actions through targets
+ESRS E1- Climate change
+DR E1-1 – Transition plan for climate change mitigation
+DR E1-2 – Policies related to change mitigation and adaptation
+DR E1-3 – Actions and resources in relation to climate change policies
+DR E1-4 – Targets related to climate change mitigation and adaptation
+DR E1-5 – Energy consumption and mix
+DR E1-6 – Gross Scopes 1, 2, 3 and Total GHG emissions
+DR E1-7 – GHG removals and GHG mitigation projects financed through carbon credits
+DR E1-8 – Internal carbon pricing
+DR E1-9 – Anticipated financial effects from material physical and transition risks and potential climate-related opportunities
+ESRS E2 - Pollution
+DR E2-1 – Policies related to pollution
+DR E2-2 – Actions and resources related to pollution
+DR E2-3 – Targets related to pollution
+DR E2-4 – Pollution of air, water and soil
+DR E2-5 – Substances of concern and substances of very high concern
+DR E2-6 – Anticipated financial effects from pollution-related IROs
+ESRS E3 - Water and marine resources
+DR E3-1 – Policies related to water and marine resources
+DR E3-2 – Actions and resources related to water and marine resources
+DR E3-3 – Targets related to water and marine resources
+DR E3-4 – Water consumption
+DR E3-5 – Anticipated financial effects from water and marine resources-related IROs
+ESRS E4 - Biodiversity and ecosystems
+DR E4-1 –Transition plan and consideration of biodiversity and ecosystems in strategy and business model
+DR E4-2 – Policies related to biodiversity and ecosystems
+DR E4-3 – Actions and resources related to biodiversity and ecosystems
+DR E4-4 – Targets related to biodiversity and ecosystems
+DR E4-5 – Impact metrics related to biodiversity and ecosystems change
+DR E4-6 – Anticipated financial effects from biodiversity and ecosystem-related IROs
+May 2024 Page 46 of 48
+EFRAG IG 2: Value Chain Implementation Guidance
+ESRS E5 - Resource use and circular economy
+DR E5-1 – Policies related to resource use and circular economy
+DR E5-2 – Actions and resources related to resource use and circular economy
+DR E5-3 – Targets related to resource use and circular economy
+DR E5-4 – Resource inflows
+DR E5-5 – Resource outflows
+DR E5-6 – Anticipated financial effects from material resource use and circular economy-related IROs
+ESRS S1 - Own workforce
+DR S1-1 – Policies related to own workforce
+DR S1-2 – Processes for engaging with own workforce and workers’ representatives about impacts
+DR S1-3 – Processes to remediate negative impacts and channels for own workforce to raise concerns
+DR S1-4 – Taking action on material impacts on own workforce, approaches to mitigating material risks and pursuing material
+opportunities related to own workforce, and the effectiveness of those actions
+DR S1-5 – Targets related to managing material negative impacts, advancing positive impacts and managing material risks
+and opportunities
+DR S1-6 – Characteristics of the undertaking’s employees
+DR S1-7 – Characteristics of non-employee workers in the undertaking’s own workforce
+DR S1-8 – Collective bargaining coverage and social dialogue
+DR S1-9 – Diversity metrics
+DR S1-10 – Adequate wages
+DR S1-11 – Social protection
+DR S1-12 – Persons with disabilities
+DR S1-13 – Training and skills development metrics
+DR S1-14 – Health and safety metrics
+DR S1-15 – Work-life balance metrics
+DR S1-16 – Compensation metrics (pay gap and total compensation)
+DR S1-17 – Incidents, complaints and severe human rights impacts
+ESRS S2 - Workers in the value chain
+DR S2-1 – Policies related to value chain workers
+DR S2-2 – Processes for engaging with value chain workers about impacts
+DR S2-3 – Processes to remediate negative impacts and channels for value chain workers to raise concerns
+DR S2-4 – Taking action on material impacts on value chain workers, approaches to managing material risks and pursuing
+material opportunities related to value chain workers, and the effectiveness of those actions
+DR S2-5 – Targets related to managing material negative impacts, advancing positive impacts and managing material risks
+and opportunities
+ESRS S3 - Affected communities
+DR S3-1 – Policies related to affected communities
+DR S3-2 – Processes for engaging with affected communities about impacts
+DR S3-3 – Processes to remediate negative impacts and channels for affected communities to raise concerns
+DR S3-4 – Taking action on material impacts on affected communities, approaches to managing material risks and pursuing
+material opportunities related to affected communities, and the effectiveness of those actions
+DR S3-5 – Targets related to managing material negative impacts, advancing positive impacts and managing material risks
+and opportunities
+ESRS S4 - Consumers and end users
+DR S4-1 – Policies related to consumers and end users
+DR S4-2 – Processes for engaging with consumers and end users about impacts
+DR S4-3 – Processes to remediate negative impacts and channels for consumers and end users to raise concerns
+DR S4-4 – Taking action on material impacts on consumers and end users, approaches to managing material risks and
+pursuing material opportunities related to consumers and end users, and the effectiveness of those actions
+DR S4-5 – Targets related to managing material negative impacts, advancing positive impacts and managing material risks
+and opportunities
+May 2024 Page 47 of 48
+EFRAG IG 2: Value Chain Implementation Guidance
+ESRS G1 - Business conduct
+DR G1-1 – Business conduct policies and corporate culture
+DR G1-2 – Management of relationships with suppliers
+DR G1-3 – Procedures to address corruption or bribery
+DR G1-4 – Incidents of corruption or bribery
+DR G1-5 – Political influence and lobbying activities
+DR G1-6 – Payment practices
+May 2024 Page 48 of 48

@@ -1,0 +1,5 @@
+{
+    "id": "VSME Standard.txt_chunk96",
+    "text": "89. For liquid fuel, the undertakings should:\n(a) convert volume information to mass, multiplying volume by fuel density, for example,\nDiesel = 4,456,000 l; Diesel density = 0.84 kg/l\n4,456,000 (l) * 0.84 (kg/l) = 3,43,040 kg = 3,743 t;\n(b) calculate the energy content, multiplying mass by Net Calorific Value, for example, 3,743 [t]\n* 43 [TJ/Gg] = 3,743 t * 43 TJ/(1,000 [t]) = 160.95 [TJ] ; and\n(c) convert TJ to MWh, for example 1 TJ = 1012 J = 277.778 MWh",
+    "source": "VSME Standard.txt"
+}

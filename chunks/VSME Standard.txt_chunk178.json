@@ -1,0 +1,5 @@
+{
+    "id": "VSME Standard.txt_chunk178",
+    "text": "provided above as an example.\n147. An alternative way to obtain water withdrawal data in the example of shared offices when it is not\npossible to retrieve the water bill could be to calculate it using fixture flow rates and occupancy\ndata as primary inputs. A possible formula could be:\nTotal water withdrawal =\n∑(Flow Rate×Number of Uses per Day×Number of Days per Year×Occupancy)\nwhere:\n(a) flow rates or each fixture can be retrieved from the project documentation or labels of the",
+    "source": "VSME Standard.txt"
+}

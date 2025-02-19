@@ -1,0 +1,5 @@
+{
+    "id": "VSME Standard.txt_chunk119",
+    "text": "2023 it consumed 101.5 m³ of fuel oil.\n105. Using the IPCC list of emissions factors (Table 2.3, page 2.18), it estimates its emission factor to\nbe a fifty-fifty blend of diesel oil and residual oil as 75.75 t CO /TJ, and by using published statistics\n2\non energy, determines that its net calorific value of the fuel is 0.03921 TJ/m3. Given that the CO\n2\nGWP equals one, its CO emission for this specific Scope 1 source is:\n2\n101.5 m3 * 0.03921 TJ/m3 * 75.75 t CO /TJ * 1 = 301.5 t CO\n2 2",
+    "source": "VSME Standard.txt"
+}

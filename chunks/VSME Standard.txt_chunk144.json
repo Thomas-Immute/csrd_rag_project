@@ -1,0 +1,5 @@
+{
+    "id": "VSME Standard.txt_chunk144",
+    "text": "example, the entity will need to use the following formula, where FCv,f is the fuel consumption of\nvehicle type v using fuel f (kg); EFk,v,f is the emission factor for pollutant k for vehicle type v and\nfuel f (g vehicle-km-1); Emk,v,f represents the emissions of the specific pollutant k for vehicle type\nv and fuel f (g).\nPage 25 of 66\nVSME Standard\nEm = FC * EF\nk,v,f v,f k,v,f\n123. For example, a light commercial vehicle (LCV) running on diesel that travelled a total of 2.800 km",
+    "source": "VSME Standard.txt"
+}

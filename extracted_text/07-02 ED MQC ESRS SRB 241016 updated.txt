@@ -1,0 +1,2396 @@
+EFRAG SR SRB 16 October 2024
+e
+Agenda Paper 07-02
+Mining, Quarrying and Coal [draft] ESRS Exposure Draft
+This paper provides the technical advice from EFRAG SR TEG to the EFRAG SRB, following EFRAG
+SR TEG’s public discussion. The paper does not represent the official views of EFRAG or any
+individual member of the EFRAG SRB. This paper is made available to enable the public to follow the
+EFRAG’s due process. Tentative decisions are reported in EFRAG Update. EFRAG positions as
+approved by the EFRAG SRB are published as comment letters, discussion or position papers or in
+any other form considered appropriate in the circumstances.
+Exposure Draft ESRS Mining, Quarrying and Coal
+As approved by EFRAG SR TEG on 3 July 2024
+and amended following EFRAG SRB meetings of June - October 2024
+content that overlaps with OG highlighted in grey
+[draft is still subject to editorial review]
+The [Draft] ESRS Mining, Quarrying and Coal set out in paragraphs 1 - 105 and the following
+Appendices, that have the same authority as the main body of the Exposure Draft.
+- Appendix A: Defined Terms;
+- Appendix B: Application Requirements;
+- Appendix C: Application Requirements supporting the assessment of materiality of the information;
+- Appendix D: List of datapoints that emanate from EU Law;
+- Appendix E: NACE codes: Mining, Quarrying and Coal;
+This [Draft] ESRS Mining, Quarrying and Coal is also accompanied by non-binding Appendix F:
+Description of sustainability matters.
+This draft also uses terms defined in sector-agnostic ESRS and shall be read in the context of its
+objective. The terms defined in sector-agnostic ESRS are marked with italic bold, blue font.
+EFRAG SRB 16 October 2024 Page 2 of 54
+Objective and structure of this [draft] standard ................................................................................ 5
+Scope of application ............................................................................................................................. 5
+Presentation of sector-specific disclosures [MOVE TO SEC 1] ................ Erreur ! Signet non défini.
+Sustainability matters that are most relevant to the sector ............................................................. 6
+Disclosure requirements ...................................................................................................................... 9
+ESRS 2 General disclosures ............................................................................................................................................. 9
+ESRS 2.SBM1.MQC – Activity indicators ..................................................................................................................... 9
+Cross-topical sector disclosures ........................................................................................................................................ 9
+MQC 1. Mapping of business sites ............................................................................................................................... 9
+MQC 2. Mineral reserves............................................................................................................................................ 10
+MQC 3. Industrial hazards .......................................................................................................................................... 10
+MQC 4. Closure of assets .......................................................................................................................................... 11
+MQC 5. Tailings management, facilities and impoundments ....................................................................................... 12
+Environmental disclosures .............................................................................................................................................. 13
+ESRS E1 – MQC Climate change .............................................................................................................................. 13
+ESRS E2 – MQC Pollution ......................................................................................................................................... 14
+ESRS E3 – MQC Water and marine resources .......................................................................................................... 15
+MQC 6. Water and marine resources metrics ............................................................................................................. 15
+ESRS E4 – MQC Biodiversity and ecosystems .......................................................................................................... 15
+Social disclosures ........................................................................................................................................................... 16
+ESRS S1 – MQC. Own workforce .............................................................................................................................. 16
+MQC 7. Work stoppages ............................................................................................................................................ 16
+ESRS S2 – MQC. Workers in the value chain ............................................................................................................ 16
+ESRS S3 – MQC. Affected communities .................................................................................................................... 17
+MQC 8. Security personnel ........................................................................................................................................ 17
+MQC 9. Engagement with affected communities and grievance mechanisms............................................................. 18
+Governance disclosures .................................................................................................................................................. 18
+ESRS G1 - MQC. Business conduct........................................................................................................................... 18
+MQC 11. Transparency about contracts and licenses ................................................................................................. 19
+MQC 12. State-aid and competition ............................................................................................................................ 19
+MQC 13. Beneficial ownership ................................................................................................................................... 19
+MQC 14. Minerals or coal purchased from states ....................................................................................................... 20
+Appendix A: Defined terms ................................................................................................................ 21
+Appendix B: Application Requirements ........................................................................................... 23
+Application Requirements related to ESRS 2 General disclosures .................................................................................. 24
+ESRS 2 GOV-4 .......................................................................................................................................................... 24
+ESRS 2 SBM-3 .......................................................................................................................................................... 24
+ESRS 2 IRO-1 ............................................................................................................................................................ 25
+Application requirements related to cross-topic disclosures ............................................................................................. 26
+MQC 1. Mapping of business sites ............................................................................................................................. 26
+MQC 2. Mineral reserves............................................................................................................................................ 27
+MQC 3. Industrial hazards .......................................................................................................................................... 28
+MQC 4. Closure of assets .......................................................................................................................................... 28
+MQC 5. Tailings management, facilities and impoundments ....................................................................................... 30
+Application Requirements related to environmental metrics ............................................................................................ 30
+ESRS E1 – MQC Climate change .............................................................................................................................. 30
+ESRS E2 – MQC Pollution ......................................................................................................................................... 32
+ESRS E3 – MQC Water and marine resources .......................................................................................................... 33
+MQC 6. Water and marine resources ......................................................................................................................... 33
+ESRS E4 – MQC Biodiversity and ecosystems .......................................................................................................... 34
+ESRS E5 – MQC Circular economy ........................................................................................................................... 35
+EFRAG SRB 16 October 2024 Page 3 of 54
+Application Requirements related to social disclosures ................................................................................................... 35
+ESRS S1 – MQC. Own workforce .............................................................................................................................. 35
+MQC 7. Work stoppages ............................................................................................................................................ 36
+ESRS S3 – MQC. Affected communities .................................................................................................................... 36
+MQC 8. Security personnel ........................................................................................................................................ 37
+MQC 9. Engagement with affected communities and grievance mechanisms............................................................. 38
+Application Requirements related to governance disclosures .......................................................................................... 39
+G1 – MQC Business conduct ..................................................................................................................................... 39
+MQC 12. State-aid and competition ............................................................................................................................ 39
+Appendix C: Application Requirements supporting the assessment of materiality of the
+information........................................................................................................................................... 40
+Appendix D: List of datapoints in accordance with EU law ........................................................... 43
+Appendix E: NACE codes ................................................................................................................... 44
+Appendix F: Description of sustainability matters .......................................................................... 45
+EFRAG SRB 16 October 2024 Page 4 of 54
+Objective and structure of this [draft] standard
+1. Consistent with ESRS 1 paragraph 10, the objective of this [draft] ESRS is to specify
+disclosure and application requirements that enable users of sustainability statements to
+understand material impacts, risks and opportunities, that are likely to be material for all
+undertakings in a specific sector and that are not covered, or not sufficiently covered, by
+topical standards. This [draft] ESRS covers the sustainability matters that are most relevant
+to the Mining, Quarrying and Coal sector.
+2. This [draft] ESRS specifies disclosure and application requirements as follows:
+(a) additional sector-specific datapoints and/or application requirements related to sector-
+agnostic disclosure requirements. Additional datapoints are located in the main body
+of this standard and additional Application Requirements are located in Appendix B. In
+both cases, they are identified by having in their title the requirement of sector-agnostic
+ESRS to which they relate (e.g. ESRS2.IRO2.MQC).
+(b) sector-specific Disclosure Requirements are presented in the main body of this [draft]
+standard and are identified by a progressive numbering (MQC 1, MQC 2, etc.). Their
+respective Application Requirements are presented in Appendix B.
+3. The requirements classified in this [draft] standard as policies, actions and targets are
+subject to the materiality provisions of paragraph 33 of ESRS 1. Those classified as metrics
+are subject to the materiality provisions of paragraph 34 of ESRS 1. When assessing
+additional sector-specific datapoints in this [draft] standard referred to in paragraph 2 (a)
+above for condition of paragraph 34 (b) of ESRS 1, the undertaking shall refer to the objective
+of the relevant Disclosure Requirement in the sector agnostic standards.
+3.1. The requirements of this standard shall be applied in conjunction with SEC1 that specifies
+specifying general sector requirements and disclosure which are applicable to all sectors.
+Scope of application
+4. An undertaking is within the scope of application of this [draft] ESRS when Mining, Quarrying
+and Coal is a significant sector according to paragraph 40 (b) and/or (c) of ESRS 2 General
+Disclosures, using the criteria set in AR 13 of ESRS 2 to define a significant sector, as well
+as according to paragraph ## of [Draft] SEC 1.
+5. [draft] ESRS SEC 1 Sector classification defines the aggregation of activities (NACE codes)
+into sectors for the purposes of applying sector ESRS. The NACE codes that pertain to the
+Mining, Quarrying and Coal sector are listed in Appendix D to this [draft] ESRS, consistent
+with SEC 1.
+6. The Mining, Quarrying and Coal sector is composed of mining, quarrying, coal and service
+undertakings, according to the definitions in Appendix A of this [draft] ESRS.
+7. The Mining sub-sector includes the extraction of metals and minerals which can be achieved
+by different methods, such as underground or surface mining, well operation, seabed mining,
+salars’ exploitation, geothermal mining and others. Extraction of critical metals and rare earth
+elements can be included in this sub-sector, provided that these remain within the
+specification of NACE codes for the sub-sector. Supplementary activities, such as crushing,
+grinding, washing, drying or sintering are also included. The activities in this sub-sector are
+classified under NACE division 07 Mining of metal ores (core NACE codes: 07.10, 07.21,
+07.29, 08.93, 08.91, 20.15 and activities in the NACE code 08.99 that involved underground
+mining, for example, natural graphite, magnesite etc).
+EFRAG SRB 16 October 2024 Page 5 of 54
+8. The Quarrying sub-sector includes activities such as quarrying, mining of non-metal and
+industrial minerals, rough trimming and sawing of large building stones, breaking and
+crushing of ornamental and building stones, the extraction and dredging of industrial sand,
+mining of natural phosphates and, peat digging and preparation of peat to improve quality or
+facilitate transport or storage. It also includes extraction of salt, as well as mining and
+quarrying of various minerals and materials, as well as supplementary activities such as
+dredging of alluvial deposits, rock crushing or the use of salt marshes. The activities in this
+sub-sector are classified under NACE division 08 Other mining and quarrying (core NACE
+codes: 08.11, 08.12, 08.92 and activities of 08.99 other then described in the mining
+subsector ).
+9. The Coal sub-sector includes the extraction of solid mineral fuels through underground or
+open-cast mining and includes operations (e.g., grading, cleaning, compressing and other
+steps necessary for transportation etc.) leading to a marketable product. This sub-sector
+includes undertakings that mine coal and manufacture coal products, whether it concerns
+underground or surface mining, thermal or metallurgical coal. This sub-sector also includes
+manufacturing of coke oven products. The activities in this sub-sector are classified under
+NACE division 05 Mining of coal and lignite (core NACE codes: 05.10, 05.20 and 19.10).
+10. The Services sub-sector includes providing support services on a fee or contract basis to the
+three sub-sectors mentioned above. Such services can consist of exploration services like
+prospecting, draining and pumping services or test drilling and test hole boring. The activities
+in this sub-sector are classified under NACE 09.90.
+11. The reference to NACE activities above is made to demonstrate key activities in the sector.
+It is noted that undertakings belonging to this sector may carry out a range of additional
+activities, such as site preparation (F.43.12), landfilling or permanent storage (E.38.32),
+Manufacture of fertilisers and nitrogen compounds (C.20.15), retail sale of fertilisers
+(G.47.76).
+Sustainability matters that are most relevant to the sector
+12. When performing its materiality assessment, the undertaking shall consider the full list of
+sustainability matters in ESRS 1, paragraph AR 16.
+13. In addition, the undertaking shall consider the following list of sustainability matters that are
+considered most relevant to the sector. The list comprises selected matters from ESRS 1,
+paragraph AR 16, complemented with additional sector-specific matters. Appendix F provides
+an explanation of these matters and how they manifest in the sector.
+Topic (standard) Sub-topic and sub-sub topics Sector specifications Applicable
+sub-sector1
+0F
+Industrial hazards - Industrial hazards M Q C S
+Closure of assets Closure of assets M Q C
+Tailings M Q C
+E1 Climate change Climate change adaptation Anticipated financial effects M Q C S
+Climate change mitigation GHG Intensity
+Energy
+Scope 1 disaggregated by C
+sources
+Locked-in emissions in coal
+reserves
+Methane emissions, flaring and
+venting
+E2 Pollution Pollution of air Environmental Management M Q C S
+Pollution of water Systems (EMS)
+1 Sub-sector applicability referring to mining (M), quarrying (Q), coal (C) and service (S) sub-sectors
+EFRAG SRB 16 October 2024 Page 6 of 54
+Pollution of soil Environmental monitoring
+Pollution of living organisms and Spills
+food resources Tailings
+Substances of concern Acid drainage
+Substances of very high concern Dust
+E3 Water and marine Water Water-intense mining operations M Q C S
+resources Marine resources
+Water consumption
+Water withdrawals
+Water discharges
+Water discharges in the oceans
+Extraction and use of marine
+resources
+E4 Biodiversity and Direct impact drivers on Land degradation and soil M Q C
+Ecosystems biodiversity loss sealing
+Impacts on the state of
+species
+Impacts on the extent and
+conditions of ecosystems
+Impacts and dependencies on
+ecosystem services
+E5 Circular economy Resource inflows, including -
+resource use
+Resource outflows related to
+products and services
+Waste
+S1 Own workforce Working conditions Operating round-the-clock or in M Q C S
+Secure employment remote locations
+Working time Work stoppages
+Adequate wages
+Freedom of association, the
+existence of works councils and
+the information, consultation and
+participation rights of workers
+Collective bargaining, including
+rate of workers covered by and
+collective agreements
+Work-life balance
+Health and safety
+Equal treatment and
+opportunities for all
+Gender equality and equal pay
+for work of equal value
+Training and skills development
+Measures against violence and
+harassment in the workplace
+Diversity
+Other work-related rights
+Child labour
+Forced labour
+Adequate housing
+Water and sanitation
+Privacy
+S2 – Workers in the value Working conditions M Q C S
+chain Secure employment
+Working time
+Adequate wages
+Freedom of association, the
+existence of works councils and
+EFRAG SRB 16 October 2024 Page 7 of 54
+the information, consultation and
+participation rights of workers
+Collective bargaining, including
+rate of workers covered by and
+collective agreements
+Work-life balance
+Health and safety
+Equal treatment and
+opportunities for all
+Gender equality and equal pay
+for work of equal value
+Diversity
+Other work-related rights
+Child labour
+Forced labour
+Adequate housing
+Water and sanitation
+Privacy
+S3 Affected communities Communities’ economic, Rights of indigenous peoples M Q C
+social and cultural rights
+Adequate housing
+Adequate food
+Water and sanitation
+Land-related impacts
+Security-related impacts
+Communities’ civil and
+political rights
+Freedom of expression
+Freedom of assembly
+Impacts on human rights
+defenders
+Rights of Indigenous peoples
+Free, prior and informed consent
+Self-determination
+Cultural rights
+G1 Business conduct Business conduct Lobbying M Q C S
+Management of relationships Local suppliers spending
+with suppliers including
+payment practices Transparency on contracts and M Q C
+licenses
+State aid and competition M Q C
+Beneficial ownership M Q C
+Mineral purchases from states M Q C
+14. For each of the sustainability matters in the table above that have been assessed to be
+material, the undertaking shall disclose its policies, actions and targets, following:
+a. the applicable requirements in this [draft] ESRS in conjunction with those in the topical
+standards;
+b. the minimum disclosure requirements set forth at paragraphs 60 to 81 of ESRS 2;
+c. paragraph 62 of ESRS 2.
+EFRAG SRB 16 October 2024 Page 8 of 54
+Disclosure requirements
+ESRS 2 General disclosures
+ESRS 2.SBM1.MQC – Activity indicators
+15. The undertaking shall provide a breakdown of its net revenue for the reporting period (both
+in monetary amount and as a percentage of its total revenue) into the following NACE-code
+activities2:
+1F
+(a) B.05 – Mining of coal and lignite
+(b) B.07 – Mining of metal ores
+(c) B.08 – Other mining and quarrying
+(d) B.09 – Mining support activities
+(e) C.19 – Manufacture of coke oven products
+(f) Total derived from other than mentioned above NACE codes
+Cross-topical sector disclosures
+MQC 1. Mapping of business sites
+16. The undertaking shall disclose a list of its significant business sites connected to
+material sustainability matters
+17. The objective of this Disclosure Requirement is to enable an understanding of which
+significant business sites are connected with specific material sustainability matters.
+Metrics
+18. For each significant business site that is material to:
+(a) biodiversity, the undertaking shall specify whether the site is located in or near the
+protected areas or a key biodiversity area. If so, the undertaking shall specify the
+impacts to the affected habitats and ecosystems and describe biodiversity
+management and adaptive management activities in place;
+(b) water and marine resources, the undertaking shall specify whether the site is located
+in areas of high-water stress.
+(c) affected communities and/or own workforce, the undertaking shall specify:
+i. whether the material impacts on the local community are connected to;
+1. indigenous peoples;
+2. land rights;
+3. adequate housing, adequate food, water and sanitation;
+4. pollution;
+5. hazardous waste storage or disposal;
+6. voluntary or involuntary resettlements that have been taking place or are
+ongoing near the site, subject to legal restrictions on the disclosure;
+ii. whether the site is located in or near the conflict-affected or high-risk areas; and
+2 This disclosure requirement is consistent with the requirements included in EBA Pillar 3 ITS Template 1
+Banking book – Climate change transition risk – Credit quality of exposures by sector, emissions and residual
+maturity.
+EFRAG SRB 16 October 2024 Page 9 of 54
+iii. whether the site has implemented works councils, occupational health and safety
+committees and/or other worker representation bodies to deal with impacts.
+19.1 For each of the significant business sites listed according to the paragraphs above, the
+undertaking shall include:
+(a) basic description, including name and a description of the activities and main
+characteristics of each site;
+(b) location (NUTS region in the EU, country + region outside EU);
+(c) type of control: financial or operational control;
+(d) status of site (active; undergoing closure; closed and rehabilitated; or closed
+and not rehabilitated);
+(e) the existence of tailing impoundments;
+MQC 2. Mineral reserves
+19. The undertaking shall disclose its proven mineral reserves.
+20. The objective of this Disclosure Requirement is to enable an understanding of an
+undertaking’s proven reserves.
+Metrics
+21. The undertaking shall disclose the percentage of proven mineral reserves that are:
+(a) in or near protected areas and key biodiversity areas; and
+(b) in areas of high-water stress.
+(c) in countries with high risks of corruption, money laundering and financing of terrorism;
+(d) in or near conflict-affected or high-risk areas;
+(e) in or near the indigenous land;
+22. The undertaking shall disclose for each line item of the paragraph 22 the corresponding
+countries where it has proven reserves.
+23. The undertaking shall, where relevant, provide a breakdown of calculations by mineral or
+business unit where minerals or business units include, for example: coal, aluminium, copper,
+zinc, iron ore, platinum group metals, or diamonds.
+MQC 3. Industrial hazards
+24. The undertaking shall disclose information related to industrial hazards.
+25. The objective of this Disclosure Requirement is to enable an understanding of the material
+impacts, risks and opportunities related to industrial hazards connected to the undertaking’s
+operations, as well as how the undertaking manages them.
+Policies, actions and targets
+26. When reporting its policies, actions and targets related to industrial hazards according to
+ESRS E2-1, E2-2 and E2-3, the undertaking shall specify whether and how they address:
+(a) industrial hazard prevention and emergency preparedness and response;
+(b) managing impacts from past accidents for which environmental remediation may still
+be on-going, including any actions that are planned for short, mid and long-term, if
+applicable.
+27. When reporting its policies, actions and targets related to occupational health services
+according to ESRS S1-1, S1-4 and S1-5, the undertaking shall describe whether and how they
+contribute to the minimisation of impacts and risks and identification and elimination of
+hazards; and how it ensures the quality of health services and facilitates workers’ access to
+them.
+EFRAG SRB 16 October 2024 Page 10 of 54
+ESRS E2 -Metrics
+28. The undertaking shall disclose the total number of significant spills that occurred during the
+reporting period and volume by substance, as well as how it defines significant spill.
+ESRS S1 -Metrics
+29. The undertaking shall disclose the following information if its workforce is exposed to
+respectively chemical, physical or ergonomic hazards:
+(a) for chemical hazards, a list of the substances of very high concern (SVHCs), as
+identified in E2–5 that workers are exposed to in its operations;
+(b) a list of key hazards, that include physical or ergonomic hazards that affect its
+workforce and whether these are included in the undertaking’s health and safety
+management system;
+30. In addition to reporting on significant spills, the undertaking shall disclose the number of
+overall significant incidents that occurred in the reporting period, including those incidents
+that involve hazardous materials and waste management.
+31. The undertaking shall disclose the following metrics related to health and safety matters as
+a result of being exposed to chemicals (including to crystalline silica, hydrogen sulphide,
+hydrocarbons exposure, harmful or carcinogenic hydrocarbon gases and vapours); and
+provide a breakdown between employees and non-employee in own workforce for (a) and
+(b) below:
+(a) the number of work-related fatalities;
+(b) the number of work-related injuries; and
+(c) the number of cases of recordable work-related ill health for the
+undertaking’s employees.
+32. The undertaking shall disclose the average number of hours of training per worker received
+by its own workforce on health, safety and emergency preparedness, with respect to
+occupational risks or hazards to which its own workforce is reasonably likely to be exposed.
+Such information shall be broken down by employees and non-employees.
+MQC 4. Closure of assets
+33. The undertaking shall disclose information related to the closure of assets.
+34. The objective of this Disclosure Requirement is to enable an understanding of the material
+impacts, risks and opportunities related to closure of assets in the undertaking’s operations,
+as well as how the undertaking manages them and the financial effects associated.
+Policies, actions and targets
+35. When reporting its policies, actions and targets related to the closure of assets, the
+undertaking shall specify whether and how they address the adoption of closure plans
+(including decommission, rehabilitation or restoration and post-closure monitoring of sites)
+for its business sites
+36. In addition, when reporting its policies, actions and targets related to the closure of assets
+according to ESRS S1/3-1, S1/3-4 and S1/3-5, the undertaking shall specify how its policies,
+actions and targets address impacts on own workforce and affected communities related
+to the closure, rehabilitation and/or restoration plans.
+Metrics
+37. The undertaking shall list the material business sites for which there is existing or foreseen
+site rehabilitation and/or restoration plan.
+38. Where applicable, the undertaking shall disclose whether it developed the post-closure plans
+in consultation with affected communities and employees.
+EFRAG SRB 16 October 2024 Page 11 of 54
+39. With regards to liabilities for closure and rehabilitation, the undertaking shall disclose per
+each material business site.
+(a) monetary amount recognized in the financial statements, including:
+i. undiscounted monetary value of (a) split by time horizon;
+ii. discount rate used to calculate (a);
+(b) contingent liabilities that do not meet the accounting recognition criteria at the
+reporting date; it expects to incur for each business site, including environmental and
+social post-closure monitoring and aftercare and
+(c) whether the business site has been sold to a third party
+40. If the relevant information is already disclosed in the financial statements, the undertaking
+may incorporate by reference to the relevant paragraph in the financial statements.
+MQC 5. Tailings management, facilities and impoundments
+41. The undertaking shall disclose information on its tailings management practices,
+tailings facilities and tailing impoundments.
+42. The objective of this Disclosure Requirement is enabling an understanding of the
+undertaking’s management of its tailings facilities, the hazards nature of its tailings
+impoundments, and its treatment of tailings.
+Policies, actions and targets
+43. When reporting according to ESRS E5-1 to E5-3, the undertaking shall specify whether and
+how its policies, actions and targets cover practices for management of tailings facilities,
+including:
+(a) managing impacts from tailing facilities (e.g., on biodiversity), including the closure
+and post-closure;
+(b) preventing catastrophic failures of tailing facilities;
+44. When addressing the reporting requirement in ESRS 2 paragraph 65(d), and unless
+exceptions in the risk assessment and monitoring intervals that are covered by applicable law
+(particularly Articles 11 and 13 of Directive 2006/21/EC;3 Articles 2 and 11 or Directive
+2004/35/CE; and Article 2 of Commission Implementing Decision 2020/248/EU), the
+undertaking shall:
+(a) disclose whether and how it complies with specific industry standards on the
+treatment of management of tailings;
+(b) if the undertaking does not follow any generally accepted standard or code of
+practice, it shall explain why.
+Metrics
+45. The undertaking shall disclose, for each tailings facility that falls within the scope of this
+disclosure:
+(a) a description of the tailing’s facility, its name, location, and ownership;
+(b) a classification by hazard potential for each listed tailings impoundments according
+to the following classification;
+i. high hazard potential;
+ii. significant hazard potential;
+iii. low hazard potential.
+(c) types of tailings disposal methods used by the undertaking;
+(d) whether the facility is active, inactive, or closed;
+(e) the date and main findings of the most recent risk assessment;
+EFRAG SRB 16 October 2024 Page 12 of 54
+(f) the dates of the most recent and next independent technical reviews as well as the
+main findings of the most recent technical review;
+(g) the maximum permitted storage capacity.
+46. The undertaking shall disclose the percentage of its tailings impoundment that have been
+assessed by a third party.
+47. The undertaking shall provide information about its waste-management process in case of
+deep-sea, in particular it shall:
+(a) disclose if it generates waste from tailings in deep-sea areas (Deep-Sea Tailings
+Disposal (DSTD); if so, it shall:
+i. disclose the total amount of waste from tailings and of mineral processing waste
+generated in deep-sea areas during the reporting period;
+ii. report on the waste-management process followed and additional challenges faced
+considering the activities that take place underwater, if it engages on sea mining
+activities, coastal or deep sea, including the disposal of waste into the marine
+systems or other activities mentioned in ESRS E3 AR.12;
+48. The undertaking shall disclose the following information on the financial effects related to
+catastrophic failures:
+(a) available financial resources (including from insurance arrangements) to face
+potential future events and monetary amounts at risk;
+(b) provisions recognised in the financial statements for past events;
+(c) other expected costs, if applicable;
+(d) description of how the amounts above have been estimated, including the key
+assumptions and inputs.
+Environmental disclosures
+ESRS E1 – MQC Climate change
+Policies, actions and targets
+49. When reporting its policies, actions and targets related to climate change mitigation according
+to ESRS E1-2, E1-3, E1-4 and E1-6, the undertaking shall specify whether and how they
+address:
+(a) implementation of Leak Detection & Repair (LDAR) programmes;
+(b) addressing the methane leakages found as a result of the regular monitoring
+surveys;
+(c) discontinuing venting and flaring at drainage stations;
+(d) monitoring and addressing post-mining and post-closure methane releases.
+(e) GHG emissions from Scope 3 category 11 “Use of sold products”
+Metrics related to E1-6 Gross Scope 1,2,3 and Total GHG emissions
+50. In addition to the information provided following ESRS E1-6, the undertaking shall disclose a
+breakdown:
+(a) total Scope 1 GHG emissions into total CO and methane emissions;
+2
+(b) Scope 1 GHG emissions by type of source, namely:
+i. stationary combustion, excluding flaring
+ii. flaring
+iii. venting
+EFRAG SRB 16 October 2024 Page 13 of 54
+iv. fugitive emissions and
+v. other
+51. The undertaking shall disclose its GHG emissions intensity per unit of production during the
+reporting period, including the specific denominators chosen to calculate it.
+52. In addition to the information provided following ESRS E1-6, with regards to its methane
+emissions, the undertaking shall disclose:
+(a) the geographical location (country) of any significant flaring or venting emission;
+(b) the efficiency of combustion.
+53. In addition to the information provided following ESRS E1-5 Energy consumption and mix,
+the undertaking shall disclose energy intensity per unit of production.
+Metrics related to E1-9 Anticipated financial effects from material physical and
+transition risks and potential climate-related opportunities
+54. The undertaking shall disclose how it expects the management of climate change-related
+risks and opportunities to affect the medium and long-term financial position, performance
+and development. Limited to plans approved by the relevant governance bodies or delegated
+management, this shall include:
+(a) anticipated changes in investments (monetary amount) from the current levels for
+development of mineral proven reserves;
+(b) anticipated changes in investments (monetary amount) from the current levels for
+development of low-carbon products and services or adaptation solutions
+(c) potential write-off situations that do not meet the accounting recognition criteria at
+the balance sheet date; and
+(d) anticipated early closure of existing assets and consequent effects on useful life of
+the existing assets.
+55. If the relevant information is already disclosed in the financial statements, the undertaking
+may incorporate by reference to the relevant paragraph in the financial statements.
+ESRS E2 – MQC Pollution
+Policies, actions and targets
+56. When reporting its policies, actions and targets related to the pollution, the undertaking
+shall specify whether and how they address:
+(a) inspecting and maintaining critical structures (e.g. mining slopes, tailings dams and
+ponds);
+(b) monitoring the quality of the environment around its business sites;
+(c) identifying and implementing Best Available Techniques (BAT), as required by
+Directive 2010/75/EU, as amended by Directive 2024/1785/EU (especially Articles
+13 to 15), and in accordance with the indications provided in ESRS E2 (AR 25);
+(d) prevention and control of:
+i. spills of chemical substances in soil and water;
+ii. tailings from mining;
+iii. noise pollution, dust and releases of heavy metals to air, water and soil through dust.
+Metrics
+57. The undertaking shall disclose the percentage of business sites that have an environmental
+management (or monitoring) plan (EMP) in operation.
+58. The undertaking shall indicate the percentage of business sites in which the acid drainage
+is:
+EFRAG SRB 16 October 2024 Page 14 of 54
+(a) predicted to occur or has been found to occur;
+(b) has not been actively mitigated; and
+(c) is not under treatment or remediation.
+ESRS E3 – MQC Water and marine resources
+Policies, actions and targets
+59. When reporting its policies, actions and targets related to the water and marine resources
+the undertaking shall specify whether and how they address:
+(a) management of water as a shared resource, particularly in high-water stress and
+where conflicts between different water uses may emerge;
+(b) improving the quality of the water discharged.
+MQC 6. Water and marine resources metrics
+60. The undertaking shall disclose its metrics related to water withdrawals and
+discharges, during the reporting period.
+61. The objective of this disclosure requirement is to enable an understanding of the water
+withdrawals and water discharges.
+Metrics – withdrawals and discharges
+62. The undertaking shall disclose the total volume of water withdrawals and water
+discharges, in cubic meters (m3), disaggregated into:
+(a) surface water;
+(b) groundwater;
+(c) other water.
+63. With regards to the water withdrawals disclosed according to paragraph 64 points (a), (b)
+and (c), the undertaking shall disclose the share (percentage) of water withdrawn from the
+areas of high-water stress.
+64. The undertaking shall disclose the number of non-compliances with respect to local
+regulatory or discharge limits and indicate exceeded parameters.
+Metrics – impacts on local water conditions
+65. The undertaking shall disclose in which river basin district its operations significantly impact
+hydrological conditions (e.g. surface water flow, groundwater levels, etc) and what measures
+are put in place to prevent and mitigate the impacts.
+ESRS E4 – MQC Biodiversity and ecosystems
+Policies, actions and targets
+66. When reporting its policies, actions and targets related to the biodiversity and ecosystems,
+the undertaking shall specify whether and how they address:
+(a) phasing-out of existing operations and/or stopping operational investments in or near key
+biodiversity areas;
+(b) minimising biodiversity and ecosystem impacts from current and future operations in or
+near key biodiversity areas (including from tailings, open dams and impoundments);
+(c) achieving no net loss or a net gain to biodiversity on business sites;
+(d) managing direct land-use change from mining activity;
+(e) managing percentage of impacted area rehabilitated or restored.
+Metrics
+EFRAG SRB 16 October 2024 Page 15 of 54
+67. The undertaking shall disclose significant impacts on biodiversity and ecosystems change
+for the reporting period:
+(a) average direct land use change related to its business sites in hectares (ha).
+(b) percentage of land-use change area rehabilitated or restored during the reporting
+period and the percentage of land-use change area rehabilitated or restored in
+protected areas and key biodiversity areas;
+(c) metrics on state of species.
+68. The undertaking shall report metrics related to material impacts resulting from biodiversity
+and ecosystem change in accordance with ESRS E4-5, per each significant business site
+located in or near the protected areas and in key biodiversity areas that is listed according
+to the disclosure MQC 1. Mapping of business sites.
+Social disclosures
+ESRS S1 – MQC. Own workforce
+Policies, actions and targets
+69. When reporting its policies, actions and targets related to its own workforce according to
+ESRS S1-1, S1-4, S1-5, the undertaking shall specify whether and how they address:
+(a) housing facilities for own workers and their access to basic services such as clean
+water, sanitation and electricity as well as recreational facilities and social spaces;
+(b) working time and work-life balance when operating round-the-clock or in remote
+locations.
+MQC 7. Work stoppages
+70. The undertaking shall disclose the number of work stoppages during the reporting
+period, including number of employees involved and their length.
+71. The objective of this Disclosure Requirement is to enable an understanding of the extent of
+major work stoppages and their effects on the undertaking.
+Policies, actions and targets
+72. When reporting its actions according to ESRS S1-4, the undertaking shall specify whether
+and how taken or agreed actions resolve the major work stoppages.
+Metrics
+73. The undertaking shall disclose following metrics related to major work stoppages during the
+reporting period and for each of them:
+(a) the number of employees involved; and,
+(b) the length in days of the stoppage.
+ESRS S2 – MQC. Workers in the value chain
+Policies, actions and targets
+74. When reporting its policies, actions and targets related to value chain workers’3 health
+2F
+and safety according to ESRS S2-1, S2-4, S2-5, the undertaking shall specify whether and
+how they address the applicability of its own health and safety management system to value
+3 ESRS S1 Own Workforce includes employees and non-employees (individual contractors supplying labour to
+the undertaking, and people provided by undertakings primarily engaged in ‘employment activities’ (NACE Code
+N78). Workers not in scope of Own Workforce are considered workers in the value chain (and are defined as
+individuals performing work in the value chain of the undertaking, regardless of the existence or nature of any
+contractual relationship with the undertaking).
+EFRAG SRB 16 October 2024 Page 16 of 54
+chain workers and whether and how the undertaking monitors the health and safety metrics
+for the value chain workers whilst working on site.
+ESRS S3 – MQC. Affected communities
+Policies, actions and targets
+75. When reporting its policies, actions and targets related to the engagement with indigenous
+peoples, including through the tailings facility lifecycle according to ESRS S3-1, S3-4, S3-5,
+the undertaking shall specify whether and how they address:
+(a) engagement with indigenous peoples in building knowledge and in decisions that
+may have a bearing on public safety;
+(b) land and resources rights:
+i. recognition of legitimate tenure rights holders when acquiring, leasing or
+making other arrangements to use, or restrict the use of land, including
+involuntary resettlement,
+ii. process for establishing compensation for loss of assets other assistance to
+improve or restore standards of living or livelihoods;
+iii. use of the land after the closure of the business site;
+(c) respecting and protecting environmental and human rights defenders;
+76. The undertaking shall disclose the definition of affected communities applied when preparing
+its sustainability statement.
+Metrics
+77. The undertaking shall disclose the following metrics in relation to seeking free, prior and
+informed consent (FPIC):
+(a) whether it has been involved during the reporting period in a process of seeking FPIC
+from indigenous peoples for any of its activities.
+(b) if the undertaking has been involved in such processes, the following information
+for each business sites in question:
+i. whether the process has been mutually accepted by the undertaking and
+the affected indigenous peoples; and
+ii. whether an agreement has been reached, and if so, if the agreement is
+publicly available.
+78. The undertaking shall provide the number of confirmed incidents during the reporting period
+related to environmental and human rights defenders and identify those that relate to
+vulnerable groups, including indigenous people.
+MQC 8. Security personnel
+79. The undertaking shall disclose the percentage of security personnel within own
+workforce that has received training about the undertaking’s human rights policies.
+80. The objective of this Disclosure Requirement is to enable an understanding of the extent to
+which the undertaking’s security personnel are trained on the undertaking’s human rights
+policies and an understanding of how these are respected when engaging with affected
+communities.
+Metrics
+81. The undertaking shall disclose:
+(a) the percentage of security personnel that has received training in the undertaking’s
+human rights policies;
+EFRAG SRB 16 October 2024 Page 17 of 54
+(b) where applicable, the number of the identified incidents during reporting period of
+violations of human rights of affected communities, including indigenous people
+directly linked to its security personnel and a description of the type of violation.
+MQC 9. Engagement with affected communities and grievance mechanisms
+82. The undertaking shall disclose metrics regarding engagement with affected
+communities and the performance of its grievance mechanisms.
+83. The objective of this Disclosure Requirement is to enable an understanding of the
+engagement with affected communities and grievance mechanisms on impacts connected
+to the undertaking.
+Metrics
+84. The undertaking shall disclose the number of sites with grievance mechanisms or similar
+conflict resolution procedures for the business sites listed in MQC 1, Mapping of business
+sites. If the undertaking does not operate local grievance mechanisms at the business site
+level as these are managed at group or company level, it may fulfil this requirement by stating
+this to be the case. It may disclose its plans to develop grievance mechanisms at business
+site level, if applicable.
+85. The undertaking shall disclose the percentage of business sites that have implemented
+development programs and/or the following:
+(a) affected community engagement.
+(b) impact assessments, including:
+i. social impact assessments, including gender impact assessments, based on
+participatory processes;
+ii. environmental impact assessments and ongoing monitoring;
+86. In addition, for (b) above, the undertaking shall disclose whether the results of environmental
+and social impact assessments have been made public.
+Governance disclosures
+ESRS G1 - MQC. Business conduct
+Policies, actions and targets
+87. When reporting its policies, actions and targets related to the management of relationships
+with suppliers and payment practices according to ESRS G1-2 and G1-6, the undertaking
+shall specify whether and how they take into account the procurement spending on local
+suppliers.
+88. When disclosing according to paragraph 90, the undertaking shall disclose its definition of
+local suppliers, in case where it deviates from ESRS definition.
+89. When reporting its policies, actions and targets related to the management of relationships
+with suppliers according to ESRS G1-2, the undertaking shall disclose4:
+3F
+(a) whether it has carried out independent third-party audits of supply chain due diligence;
+(b) its practices for responsible sourcing.
+Metrics
+90. When reporting according to ESRS G1-5 paragraph 29, the undertaking shall disclose the
+amount it spent (as a reporting entity) during the reporting period on lobbying activities with
+4 This requirement is consistent with Article 7 of Regulation (EU) 2017/821.
+EFRAG SRB 16 October 2024 Page 18 of 54
+contents covering its material impacts, risks and opportunities identified in its materiality
+assessment.
+MQC 11. Transparency about contracts and licenses
+91. The undertaking shall provide information about the transparency with respect to
+contracts and licenses with governments setting the terms and conditions for the
+exploitation of minerals and coal resources.
+92. The objective of this Disclosure Requirement is to provide an understanding of the
+transparency of the undertaking about its contracts concluded and licences received.
+Metrics
+93. For any material contract or license, the undertaking shall disclose:
+(a) whether these are made publicly available and where they can be found;
+(b) for those contracts or licenses not publicly available, the reason for this and if
+applicable, actions taken to publish in the future as well as the timetable to do so.
+MQC 12. State-aid and competition
+94. The undertaking shall provide information concerning possible anti-competitive
+behaviour, the abuse of dominance, or the receipt of state aid during the reporting
+period.
+95. The objective of this Disclosure Requirement is to enable an understanding of possible anti-
+competitive behaviour of the undertaking during the reporting period, as well as any state
+aid received.
+Metrics
+96. The disclosure shall include the following information:
+(a) publicly announced notifications, preliminary investigations, investigations,
+proceedings or commitments and remedies relating to violations of antitrust and
+monopoly legislation or the receipt of state-aid where the undertaking was named as
+a participant by a competent authority;
+(b) the main outcomes of legal proceedings against the undertaking concluded during
+the reporting period, including sanctions, fines, commitments and remedies;
+(c) the total amount received with respect to state aid or financial assistance received
+from any government on a country-by-country basis.
+MQC 13. Beneficial ownership
+97. The undertaking shall provide information about its beneficial ownership and how it
+identifies the beneficial owners of business partners, including joint ventures and
+suppliers.
+98. The objective of this Disclosure Requirement is to provide transparency about the
+undertakings beneficial owner(s) and to provide an understanding of its policy regarding
+the beneficial owners of its business partners and how these are identified.
+Policies, actions and targets
+99. When reporting its policies, actions and targets related to the prevention and detection
+of corruption and bribery according to ESRS G1-1 and G1-3, the undertaking shall specify
+whether and how they cover guidelines and screening processes regarding politically
+exposed persons (‘PEPs’) and beneficial owners of business partners, including joint
+ventures and suppliers.
+Metrics
+EFRAG SRB 16 October 2024 Page 19 of 54
+100. The undertaking shall disclose a list of its parent undertaking’s beneficial owner(s) (as
+defined in article 3(6) of Directive (EU) 2015/849).
+MQC 14. Minerals or coal purchased from states
+101. The undertaking shall provide information about minerals or coal purchased from
+states or a third party appointed on the behalf of such states during the reporting
+period.
+102. The objective of this disclosure requirement is to enable transparency about minerals or
+coal purchases from the state and to provide insights amounts paid to the state under such
+transactions.
+Metrics
+103. For minerals or coal purchased from the state or from third parties appointed by the state
+to sell on their behalf, the undertaking shall disclose:
+(a) volumes and types of minerals purchased from the state;
+EFRAG SRB 16 October 2024 Page 20 of 54
+Appendix A: Defined terms
+This appendix is an integral part of this Exposure Draft and has the same authority as the other parts
+of this Exposure Draft.
+Acid drainage (including Highly acidic, polluted water containing free sulphuric acid and
+acid rock drainage and dissolved metals sulphate salts resulting from the oxidation of
+acid mine drainage) contained sulphide minerals or additives to the process.
+Acid drainage can result from a variety of natural sources and
+anthropogenic activities.
+In the case of acid rock drainage (ARD), this oxidation process
+occurs naturally and is complemented by reactions of the base
+minerals in the rock, which are exposed to air and water.
+For acid mine drainage (AMD), this is a common form of water
+pollution in areas where mining took place. It is the result of open-
+pit underground extraction operations (in particular mining and coal
+mining) and extractive waste facilities, causing an acceleration of
+the acid draining process because such activities increase the
+exposure of sulphide minerals to air, water, and microorganisms.
+Conflict-affected and high- Areas in a state of armed conflict or fragile post-conflict as well as
+risk areas areas witnessing weak or non-existent governance and security,
+such as failed states, and widespread and systematic violations of
+international law, including human rights abuses.
+Environmental defenders
+The term "environmental defenders” refers to individuals and
+groups who, in their personal or professional capacity and in a
+peaceful manner, strive to protect and promote human rights
+relating to the environment, including water, air, land, flora and
+fauna. Land and environmental rights are interlinked and are often
+inseparable. As a result, the two broad categories of defenders
+advocating for the environment and for land rights are often
+characterized as “land and environmental rights defenders”,
+“environmental rights defenders”, or just “environmental activists”.
+Flaring Flaring means the controlled combustion of coal mine methane for
+the purposes of reducing the global warming potential of methane
+and minimizing mine hazards associated with methane.
+Human rights defender
+The term “human rights defenders” refers to individuals, groups and
+organs of society that promote and protect universally recognised
+human rights and fundamental freedoms. Human rights defenders
+seek the promotion and protection of civil and political rights as well
+as the promotion, protection and realisation of economic, social and
+cultural rights. Human rights defenders also promote and protect
+the rights of members of groups such as indigenous communities.
+The definition does not include those individuals or groups who
+commit or propagate violence.
+Infrastructure Facilities built primarily to provide a public service or good rather
+than a commercial purpose, and from which an organization does
+not seek to gain direct economic benefit.
+Migrant worker A person who is to be engaged, is engaged or has been engaged
+in a remunerated activity in a state of which they are not nationals.
+Mineral probable reserves Reserves for which quantity and grade and/or quality are computed
+from information similar to that used for proven (measured)
+reserves, but the sites for inspection, sampling, and measurement
+are farther apart or are otherwise less adequately spaced.
+EFRAG SRB 16 October 2024 Page 21 of 54
+Mineral proven reserves Mineral proven reserves are estimated quantities that analyses of
+geological and engineering data have demonstrated to be
+economically recoverable in future years from known reservoirs
+and under current economic conditions, operating methods, and
+government regulations.
+Normal operation (or Regularly oscillating activity phases that support continued
+normal operating operation within safe upper and lower operating limits. It is also the
+conditions) condition or phase of process operation between the startup phase
+and shutdown phase, other than start-up (e.g., bringing an activity,
+an equipment item or a tank into or out of service), shutdown (i.e.,
+definitive cessation of operations), or emergency operations (e.g.,
+leaks, malfunctions, momentary stoppages).
+Occupational health Services entrusted with essentially preventive functions, and
+services responsible for advising the employer, the workers, and their
+representatives in the undertaking, on the requirements for
+establishing and maintaining a safe and healthy work environment,
+which will facilitate optimal physical and mental health in relation to
+work and the adaptation of work to the capabilities of workers in the
+light of their state of physical and mental health
+Other water Surface water that is not fresh water, and water from other sources.
+Surface water Surface water, including rainwater, water from wetlands, rivers and
+lakes. Water that is naturally occurring water on the Earth's surface
+in ice sheets, ice caps, glaciers, icebergs, bogs, ponds, lakes, rivers
+and streams, and has a low concentration of dissolved solids.
+Spills Spills are accidental release of hazardous substances such as
+chemicals, oils, fuels and other substances. They can affect water,
+soil and air quality as well as biodiversity and human health.
+Tailings and tailings Tailings are a by-product of mining, consisting of fine-grained waste
+facilities solids or slurries that remain after the treatment of metals and
+minerals recoverable (left over rock or soil) have been extracted by
+separation processes (e.g. crushing, grinding, size-sorting, flotation
+and other physico‐chemical techniques) to remove the valuable
+minerals from the less valuable rock.
+Tailings facilities are part of a business site and encompass the
+whole set of structures required for the handling of tailings including
+the tailings storage facility (used to contain tailings produced by
+mines, such as decant structures and spillways, open pits, dry
+stacking, lakes or underground storages), tailings dams
+(embankments and impoundment structures, ponds designed to
+enable the tailings to settle and to retain tailings and process
+water), delivery pipelines, etc. Tailings facilities store large amounts
+of mining waste.
+EFRAG SRB 16 October 2024 Page 22 of 54
+Appendix B: Application Requirements
+This Appendix is an integral part of the proposed [draft] ESRS Mining, Quarrying and Coal and has the
+same authority as the other parts of the Standard.
+AR 1. This sector standard introduce two cross-cutting sustainability matters which play a role in the
+undertaking’s materiality assessment:
+(a) The mining, quarrying and coal activities are highly prone to incidents and accidents with
+disastrous impacts on environmental resources (extreme contamination of air, water and
+soil), surrounding communities and infrastructures (e.g., damage to economic activities
+and food resources), workers (e.g., injuries, ill health, fatalities), as well as undertaking’s
+assets, leading to critical financial repercussions. Some examples of industrial hazards
+include ground or strata failure, fires or explosions, inundation or inrush of any substance
+(including from tailings dam failures), leaks of poisonous gases, spills of hazardous
+chemicals or slurry. Specifically, underground mining can generate dust explosions,
+inundation, mining corridor collapses or others. Open pit mining can cause landslides,
+water inbursts, machinery failures and others
+(b) closure of assets, which refer to ceasing of the operations, whenever site-specific
+extractive operations such as those in oil and gas are subject to closure due to finite
+resources and/or economic viability. At the end-of-life of an operation, the expectation is
+that the site will be restored to pre-development ecological functionality and setting or at
+least stabilized to prevent persistent environmental and social impact associated with
+geomorphological changes, increased contamination, and deteriorated safety conditions.
+Decommissioning planning, including financial allocation, is critical to ensure detrimental
+effects to environmental and social values are fully addressed and mitigated. As such,
+corporate financial disclosure for decommissioning is essential to demonstrate public
+accountability for businesses in the extractives sector. The term asset in this definition
+does not relate to resources that would meet the financial accounting definition of asset.
+(c) tailings management is unarguably the most substantial and riskiest issue in the industry
+due to the large amounts of processing metals and chemicals (e.g., cyanide) involved that
+may be released and the proportions of the areas covered by the facilities and, hence, the
+disastrous consequences on nature (e.g., surface and ground water) and human health
+(e.g., local communities) that can stem from tailings facilities collapses and failure.
+AR 2. Whenever a cross-cutting sustainability matter is identified, the likelihood of occurrence for
+number of other sustainability matters is increasing, as illustrated in the table below. Upon the
+conclusion of materiality of cross-cutting sustainability matters, the undertaking shall evaluate the
+connected sustainability matters.
+Industrial hazards Closure of assets Tailings
+Methane Methane Energy
+Pollution of air Pollution of air
+Methane
+Pollution of water Pollution of water
+Pollution of air
+Pollution of soil Pollution of soil (A)
+Pollution of living organisms Water discharges in water Pollution of water
+and food resources bodies (B) Pollution of soil
+Substances of concern Water discharges in the Pollution of living organisms and
+Substances of very high oceans (A) food resources
+concern Habitat degradation and
+Direct impact drivers on intensity of pressure on marine
+biodiversity loss resources (B)
+Impacts on the state of species Waste (A)
+Impacts on the extent and Secure employment
+conditions of ecosystems Social dialogue and collective
+Impacts and dependencies on bargaining
+ecosystem services Freedom of association, the
+Waste existence of work councils and
+the information, consultation
+EFRAG SRB 16 October 2024 Page 23 of 54
+Secure employment for own and participation rights of
+workforce and workers in the workers
+value chain Health and safety (A)
+Health and safety for own Communities’ economic, social
+workforce and workers in the and cultural rights (A)
+value chain Communities’ civil and political
+Social dialogue and collective rights
+bargaining
+Training and skills development
+for own workforce and workers
+in the value chain
+Measures against violence and
+harassment in the workplace
+Communities’ economic, social
+and cultural rights
+Application Requirements related to ESRS 2 General disclosures
+ESRS 2 GOV-4
+AR 3. If the undertaking carries out activities concerned by the undermentioned supplements or
+regulations, it may also disclose a mapping of the information provided in its sustainability
+statement to the relevant supplements or regulations:
+(a) areas specified by the Conflict Minerals Regulation5.
+4F
+(b) OECD Due Diligence Guidance for Responsible Supply Chains of Minerals from Conflict-
+Affected and High-Risk Areas: Supplement on Tin, Tantalum and Tungsten; Supplement
+on Gold of the bespoke OECD Due Diligence Guidance6
+5F
+AR 4. The undertaking may disclose procurement practices, as well as environmental factors in its
+mapping. This may be presented in a table in a similar form to the table below.
+Paragraphs in the sustainability
+Core elements
+statements
+OECD Guidelines for Multinational Enterprises
+Establish strong company management system
+Identify and assess risk in the supply chain
+Design and implement a strategy to respond to identified
+risks
+Carry out independent third-party audit of supply chain
+due diligence at identified points in the supply chain.
+Report on supply chain due diligence
+ESRS 2 SBM-3
+AR 5. The undertaking may consider disclosing which impacts on affected communities are specific
+to vulnerable groups such as children, women, migrant workers, indigenous peoples or any
+other vulnerable group, as applicable.
+5 Regulation (EU) 2017/821 of the European Parliament and of the Council of 17 May 2017 laying down supply chain due
+diligence obligations for Union importers of tin, tantalum and tungsten, their ores, and gold originating from conflict-affected and
+high-risk areas
+6 OECD Due Diligence Guidance for Responsible Supply Chains of Minerals from Conflict-Affected and High-Risk Areas
+EFRAG SRB 16 October 2024 Page 24 of 54
+ESRS 2 IRO-1
+AR 6. When the undertaking is conducting its materiality assessment of impacts, risks and opportunities
+in relation to affected communities, it shall consider how it addresses any risks related to free,
+prior, and informed consent from indigenous peoples in countries without regulation or
+processes in place.
+AR 7. It may disclose whether, as part of its materiality assessment, it performs a risk assessment for
+new country entry before the subscription of a contract in a new country of operations.
+AR 8. When conducting its materiality assessment on topics related to E2, E3 and E4, the undertaking
+may consider the first three phases of LEAP approach, also known as:
+(a) Phase 1. Locate where in the undertaking’s own operations and along its upstream and
+downstream value chain the interface with nature takes place
+(b) Phase 2: evaluate the dependencies and impacts
+(c) Phase 3: assess the material risks and opportunities
+AR 9. The undertaking operating in the Coal subsector shall disclose the resilience of its current
+mineral proven reserves and may disclose the resilience of its current mineral probable
+reserves using the price trajectories published by the International Energy Agency (IEA) in its
+World Energy Outlook (WEO)7 publication, including:
+6F
+(a) current Policies Scenario, which assumes no changes in policies from the mid-point of the
+year of publication of the WEO;
+(b) new Policies Scenario, which assumes that broad policy commitments and plans that have
+been announced by countries-including national pledges to reduce greenhouse gas
+emissions and plans to phase out fossil energy subsidies-occur, even if the measures to
+implement these commitments have yet to be identified or announced. This broadly serves
+as the IEA baseline scenario;
+(c) Sustainable Development Scenario, which assumes an energy pathway occurs that is
+consistent with the goal of limiting the global increase in temperature to 1.5°C by limiting
+concentration of greenhouse gases in the atmosphere.
+AR 10. The undertaking shall consider the above mentioned WEO scenarios as a normative
+reference, thus any updates to the WEO made year-on-year shall be considered updates to this
+guidance.
+AR 11. The undertaking may summarise its findings in the following table format:
+Price case Mineral proven reserves Mineral probable reserves
+Product A Product B Product A Product B
+Current Policies [tonnes] [tonnes] [tonnes] [tonnes]
+scenario (base)
+New Policies [tonnes] [tonnes] [tonnes] [tonnes]
+scenario
+Sustainable [tonnes] [tonnes] [tonnes] [tonnes]
+Development
+Scenario
+AR 12. The undertaking may disclose the resilience of its mineral proven reserves levels in other price
+and demand scenarios in addition to those described above, particularly if these scenarios differ
+depending on the type of coal reserves, regulatory environment in the countries or regions
+where mining occurs, end-use of the undertaking’s products, or other factors.
+AR 13. For additional resilience analyses, the undertaking may disclose the following, per the Task
+Force on Climate Related Financial Disclosures (TCFD) Recommendations Report Figure 8 as
+well as the Implementing the Recommendations of the TCFD Report, Section E:
+(a) the alternative scenarios used, including other 2ºC or lower scenarios;
+7 World Energy Outlook 2022 (windows.net)
+EFRAG SRB 16 October 2024 Page 25 of 54
+(b) critical input parameters, assumptions, and analytical choices for the climate-related
+scenarios used, particularly as they relate to key areas such as policy assumptions,
+energy deployment pathways, technology pathways, and related timing assumptions;
+(c) time frames used for scenarios, including short-, medium-, and long-term milestones
+(e.g., how organizations consider timing of potential future implications under the
+scenarios used).
+Application requirements related to cross-topic disclosures
+MQC 1. Mapping of business sites
+AR 14. The mapping of business sites concerned by this disclosure includes both those that are under
+the undertaking’s financial control and those under operational control. The site may be
+significant for the undertaking in terms of revenue or material actual impacts, or material
+potential negative impacts. For example, site is may be significant for the undertaking if it
+meets one or both of the following criteria:
+(a) the site is among its major sites;
+(b) is the most impactful business sites of the undertaking connected with material actual impacts
+or material potential negative impacts on people and environment.
+AR 15. For the purposes of this disclosure, the following are business sites:
+(a) mines and the surface area disturbed by a mining operation;
+(b) exploratory mining phase, not including sites where the undertaking only has a first right option
+to the subsequent possible exploratory activities, provided that the site is connected with
+material actual impacts or material potential negative impacts;
+(c) quarries;
+(d) tailings facilities.
+Operational control
+AR 16. The undertaking shall determine on the basis of the specific facts and circumstances which
+asset is under operational control. The following are examples of transactions where the
+undertaking has operational control:
+(a) The asset is operated by the company, whether for itself, or under a contractual obligation
+to other owners or participants in the asset (for example, in a joint venture or other such
+commercial arrangement); or
+(b) The asset is owned by a joint arrangement (or equivalent commercial arrangement), and
+operated by a partner, in respect of which the company can determine management and
+board level operational decisions of the joint venture.
+AR 17. In relation to paragraph 63 of ESRS 1, operations and assets under “operational control” shall
+not be considered as part of the upstream or downstream value chain, but as part of own
+operations.
+AR 18. The undertaking may consider disclosing the list of business sites and infrastructure in the
+following format:
+No. Site name Description Location Type of Status of site […]
+of activities control
+1 [site name 1] […] [NUTS Operational Active
+region]
+2 [site name 2] […] [country] Financial Undergoing
+closure
+EFRAG SRB 16 October 2024 Page 26 of 54
+3 [site name 3] […] […] […] Closed and
+rehabilitated
+4 [site name …] […] Closed and not
+rehabilitated
+AR 19. Mines and surface areas disturbed by a mining operation may be classified as follows:
+(a) the surface area from which the metals and minerals or refuse or both have been removed;
+(b) the surface area covered by refuse, all lands disturbed by the construction or improvement
+of haulage ways, pipelines and pipeline corridors; and
+(c) any surface areas in which structures, equipment, materials, and any other elements used
+in the mining operation are situated;
+MQC 2. Mineral reserves
+AR 20. The undertaking may disclose the percentage and grade (in percentage metal content) of
+mineral proven reserves.
+AR 21. The undertaking shall consider the Pan European Reserves and Resources Reporting
+Committee (PERC) Standard for Reporting of Exploration Results, Mineral Resources and
+Mineral Reserves (the 'PERC Reporting Standard') or the Combined Reserves International
+Reporting Standards Committee (CRIRSCO) guidance for classifying ore reserves and mineral
+resources, including the use of a "competent person" to compile information.
+AR 22. The undertaking may disclose mineral probable reserves, desegregated by mineral or business
+unit.
+AR 23. With reference to paragraph 31 (a), the countries identified as high-risk are:
+(a) countries or jurisdictions identified in the Financial Action Task Force ‘black list’; or
+(b) countries that have the lowest rankings in Transparency International Corruption
+Perception Index
+AR 24. With reference to the reserves located in or conflict-affected or high-risk areas, referred to in
+paragraph 31(b):
+(a) Reserves shall be considered to be in or near a conflict-affected or high-risk area if they
+are located in the same country as an armed conflict;
+(b) If the undertaking can demonstrate that the armed conflict is contained to a region, state,
+or designated area that is not proximate to its reserves, then it may exclude these from the
+scope of disclosure;
+(c) If reserves are located in a country, region, or state adjacent to an armed conflict and/or
+can be reasonably expected to be operationally impacted by the conflict, then these
+reserves shall be included in the scope of disclosure.
+AR 25. With reference to the reserves located in or near indigenous land, referred to in paragraph 31(c),
+indigenous lands are considered those occupied or otherwise used by indigenous peoples.
+AR 26. With reference to the reserves in or near the protected areas and the key biodiversity areas,
+referred to in paragraph ## 37 (d), the undertaking may calculate the percentage of reserves in
+protected areas and key biodiversity areas by proportionality, this is, by computing of their
+proven reserves in a concession area and determining the percentage which overlaps with a
+key biodiversity area and allocating reserves based on that percentage. The undertaking may
+also clarify to what extent proven reserves are developed or undeveloped, given the potential
+differential impact risk between them.
+AR 27. With reference to the reserves in areas at high water stress, referred to in paragraph ## 36 (e),
+the undertaking may calculate the % of reserves by proportionality, this is, by computing of their
+EFRAG SRB 16 October 2024 Page 27 of 54
+proven reserves in a concession area and determining the percentage which overlaps with
+areas at high-water stress and allocating reserves based on that percentage.
+AR 28. With reference to the reserves in areas at high-water stress, referred to in paragraph ## 36
+(e), the undertaking may calculate the % of reserves by proportionality, this is, by computing of
+their proven reserves in a concession area and determining the percentage which overlaps with
+areas of high-water stress and allocating reserves based on that percentage.
+MQC 3. Industrial hazards
+AR 29. When disclosing information about its industrial hazards in accordance with this Disclosure
+Requirement, the undertaking shall follow the provisions in the Seveso-III-Directive
+(2012/18/EU)8, aiming at the prevention of major accidents involving dangerous substances.
+7F
+AR 30. Considering the requirements in paragraph 29, the undertaking may consider following spills to
+be significant:
+(d) liquid releases resulting in an unintentional fire or explosion
+(e) spills included in the undertaking’s financial statements, for example due to resulting
+liabilities,
+(f) spills recorded as significant spills by the undertaking
+AR 31. When reporting on its policies for emergency preparedness and response, the undertaking may
+additionally disclose on whether and how it accounts for the implementations steps of critical
+control management (CCM). CCM is a process established and used in high-hazard industries
+for managing and preventing the risk of material unwanted events (the most serious types of
+health and safety incidents, both historical and foreseeable, e.g., underground ignition of
+methane by lightning), which involves a systematic approach to ensuring that critical controls
+are in place and effective9
+8F
+AR 32. For the purpose of this disclosure, emergency preparedness is understood as the planning for
+and readiness to respond effectively to industrial emergency situations that may affect offsite
+resources or communities, and to minimize the likelihood of accidents, loss of life, injuries, and
+damage to property, environment, health and social well-being.
+AR 33. For the reporting of number of significant spills, the undertaking shall consider the provisions
+on pollutants in ESRS E2, paragraphs from AR 21 till AR 27, as well as the definitions of
+substances of concern and substances of very high concern defined in Annex II to the ESRS.
+Multiple pollutants can be involved in one incident.
+AR 34. The undertaking may specify whether sexual harassment is considered among psychosocial
+factors.
+AR 35. In relation with the health and safety management system, the undertaking may disclose
+whether it takes into consideration specific differences for female workers (for example, in the
+equipment provided, or whether occupational health services and facilities take into
+consideration specific health-related concerns, etc.). ESRS S1-1)
+MQC 4. Closure of assets
+Policies, actions and targets
+AR 36. For the purpose of this disclosure, the undertaking shall consider a closure plan as a plan
+addressing the aspects of decommissioning, rehabilitation or restoration and long-term
+monitoring of the site-level pollution. Closure plans also address aspects related to landscaping
+and biodiversity rehabilitation or restoration. This latter approach is known as integrated
+closure planning. The undertaking may additionally disclose whether and how it accounts for
+the integrated closure planning approach.
+8 Directive 2012/18/EU on the control of major-accident hazards involving dangerous substances.
+9 Health and Safety Critical Control Management, 2015 (ICMM).
+EFRAG SRB 16 October 2024 Page 28 of 54
+AR 37. When disclosing its policies, actions and targets, the undertaking may disclose the following
+related to closure of business sites:
+(a) how it helps employees and non-employee workers manage the adverse impacts arising
+from the closure of its business site(s);
+(b) the labour transition plans in place to help workers manage the transition to a post-closure
+phase of operations (e.g., redeployment, assistance with redeployment, resettlement, and
+redundancy payments, training and skills programmes);
+(c) the collaborative efforts, projects and programs that are set up to manage the socio-
+economic impact of closure and restoration programs and disclose these;
+(d) how it engages with workers and other stakeholders in informing the closure plans, as
+well as notice periods regarding closure.
+AR 38. The undertaking may disclose site-specific closure targets to track progressive closure.
+AR 39. When disclosing material financial liabilities it expects to incur for closure and decommissioning
+of each site (including rehabilitation and restoration), according to paragraph 46, it can be noted
+that each business site can have the status of: active; idle-not rehabilitated; idle-rehabilitated;
+closed-not restored; closed-in process of restoration; closed-fully restored.
+AR 40. When disclosing on the material financial liabilities according to paragraph 49, the undertaking
+shall also consider the costs necessary to address:
+(a) adverse impacts of closure of the business site on own workers, non-employee workers
+and their communities (Disclosure Requirement related to ESRS 2 SBM-3); and
+(b) the restoration of material impacts to biodiversity and ecosystems around the closed
+business site (Disclosure Requirement related to ESRS E4-2).
+AR 41. The description of how an undertaking engages with local communities shall consider an
+explanation on how the land will be used after the closure of the business site.
+AR 42. The operational life of business sites may last for several decades, therefore a regularly updated
+restoration plan is essential. For this reason, the undertaking may update its closure and
+restoration plan annually and such disclosure shall be considered by the undertaking.
+AR 43. When disclosing its processes to remediate negative impacts following ESRS S3-3, the
+undertaking shall consider how it engages with local communities and other relevant
+stakeholders on its closure and post-closure planning and implementation, including post-
+mining land-use, to limit the actual and potential adverse impacts (e.g. unemployment, people
+moving out affecting the liveability of remaining supporting activities such as local shops,
+schools).
+AR 44. The undertaking may disclose whether, in relation to closure and post-closure, it has addressed
+potential access-barriers faced by affected communities, particularly by vulnerable groups,
+to reach the channels in place (e.g., understandable language, technological resources,
+accessible to children).
+AR 45. Site restoration plans should address the following objectives:
+1. the long-term stability and sustainability of the landforms, soils and hydrology of the site;
+2. the partial or full repair of ecosystem capacity to provide habitats for biota and services
+for people;
+3. the prevention of pollution of the surrounding environment.
+AR 46. The undertaking may disclose if it uses any recognised standard as a basis for site rehabilitation
+or restoration plans on what concerns biodiversity impacts.
+EFRAG SRB 16 October 2024 Page 29 of 54
+MQC 5. Tailings management, facilities and impoundments
+AR 47. Additionally, undertakings that are in scope of this disclosure are those: (a) compliant with
+indications provided by relevant industry standards, as mentioned in paragraph 51(c), such as
+the Global Industry Standard on Tailings Management (GISTM) (e.g., size and volume) or
+equivalent; (b) and/or with tailing facilities where an annual risk assessment is not done at a
+minimum every three years or more, as per GISTM Principle 10.1; (c) and/or operating in the
+quarrying sub-sector, only if such undertakings generate tailings and/or if tailings are material
+to them.
+AR 48. When disclosing in accordance with paragraph 51 the undertaking may disclose whether it
+follows any generally accepted good practices for safe management of tailings facilities and
+which standard or code of practice it uses. If the undertaking does not follow any generally
+standard or code of practice, it shall explain why.
+Application Requirements related to environmental metrics
+ESRS E1 – MQC Climate change
+Policies, actions and targets
+AR 49. When reporting the information required under Disclosure Requirement E1-4 on targets related
+to climate change mitigation, the undertaking may disclose the mandatory legislation the
+goals and targets are aligned with or contribute to.
+AR 50. ‘Leak detection and repair programme’ or ‘LDAR programme’ means a programme dedicated
+to identify and detect sources of methane leaks and other unintentional methane emissions,
+and to repair or replace the relevant components.6 When reporting according to ESRS E1-2,
+E1-3 and E1-4, when a LDAR survey programme exits, the undertaking may provide a brief
+description of it including: the frequency of the monitoring; the different methane monitoring
+technologies, e.g. remote sensing techniques or estimation method.
+Metrics
+AR 51. When reporting according to ESRS E1-2, E1-3 and E1-4, when a LDAR programme exits, the
+undertaking may provide a brief description of the programme including: the frequency of the
+monitoring; the different methane monitoring technologies, e.g. remote sensing techniques or
+estimation method.
+AR 52. When disclosing about its Leak Detection & Repair (LDAR) programme and the monitoring
+technologies, the undertaking shall consider the following examples:
+(a) estimation methods involving the use of pre-determined emission factors;
+(b) decline curves;
+(c) handheld instruments;
+(d) continuous Emission Monitoring Systems (CEMS) and predictive emission monitoring
+system (PEMS);
+(e) remote sensing techniques or aerial surveys.
+AR 53. Source of methane can include:
+(a) addressing emissions derived from operating mines, including all ventilation shafts in use
+by the mine operator; drainage stations and methane drainage system (whether occurring
+as a result of intentional or unintentional venting, or incomplete combustion in flares;
+(b) addressing emissions derived from operating surface, including methane emissions
+occurring at the coal mine during the mining process; methane emissions occurring during
+post-mining activities.
+EFRAG SRB 16 October 2024 Page 30 of 54
+AR 54. In relation to the application of best practice in coal methane emission management, companies
+may refer to the Best Practice Guidance from UNECE10.
+9F
+AR 55. When disclosing information required in ESRS E1-1 paragraph 16 (d) on potential locked-in
+GHG emissions from the undertaking’s assets and products, the undertakings with coal mining
+or peat operations shall consider the emissions potential of proven reserves of their coal and
+peat assets. This potential shall be calculated considering the recommendations of the World
+Resource Institute11 and Global Peatlands Initiative12.
+10F 11F
+AR 56. The undertaking may disclose also locked-in emissions of probable reserves.
+AR 57. When disclosing its Scope 1 GHG emissions according to ESRS E1-6, the undertaking shall
+include land use change emissions. Land use change refers to a change in the use or
+management of land and seascapes by humans, which may lead to a change in land cover. It
+covers changes to terrestrial ecosystems, such as when forests are converted to enable mineral
+extraction and supporting infrastructure. Guidance on calculating land use change emissions
+can be found in the IPCC Good Practice Guidance for Land Use, Land-Use Change and
+Forestry and its 2019 updates.
+AR 58. When disclosing its Scope 3 significant emissions according to ESRS E1-6, the undertaking
+shall consider Scope 3 categories that may be significant for the sub-sector it is active in:
+Scope 3 Category Mining sub-sector Quarrying sub-sector Coal sub-sector
+relevance relevance relevance
+3. Fuel & Energy related X X X
+10. Processing of Sold Products X X
+11. Use of sold products X
+15. Investments X X
+AR 59. When reporting according to ESRS E1-6, the service undertaking shall consider its Scope 3
+category 13 ‘Leased assets’, i.e. the emissions associated with the use of the assets they have
+leased to undertakings in the mining, coal and quarrying value chain.
+AR 60. When disclosing its Scope 3 category 11 ‘Use of sold products emissions’ according to ESRS
+E1-6, the undertaking shall base on the volumes of coal sold during the reporting period, instead
+of the coal produced (therefore, the quantities in stock or inventory shall not be considered).
+AR 61. When preparing the GHG emissions intensity per unit of production according to paragraph 49
+of this standard, the undertaking shall:
+(a) choose the specific unit of production that applies to its activities (e.g. tonne of coal,
+aluminium, copper, zinc, iron ore, etc.);
+(b) calculate the GHG intensity by the following formula:
+total GHG emissions attributable to production (tCO2eq)
+𝐺𝐻𝐺 𝑖𝑛𝑡𝑒𝑛𝑠𝑖𝑡𝑦 = ;
+total production volume (tonnes)
+(c) report the types of GHG emissions included in the intensity metrics (whether it is Scope
+1, Scope 2, or Scope 3);
+(d) briefly explain the methodology used for the calculation.
+AR 62. Examples of denominators chosen for calculation of the GHG intensity metrics may include, but
+are not limited to:
+(a) copper, lithium, nickel, cobalt, aluminium for undertakings in the mining sub-sector;
+(b) peat, calcium carbonate, dolomite, salt for undertakings in the quarrying sub-sector;
+10 Best Practice Guidance for Effective Management of Coal Mine Methane at National Level: Monitoring, Reporting,
+Verification and Mitigation
+11 A recommended methodology for estimating and reporting the potential greenhouse gas emissions from fossil fuel reserves,
+World Resource Institute, 2016
+12 Handbook for assessment of greenhouse gas emissions from peatlands. Applications of direct and indirect methods by LIFE
+Peat Restore, Global Peatlands Initiative, 2022
+EFRAG SRB 16 October 2024 Page 31 of 54
+(c) thermal coal, metallurgical coal, coke oven products for the undertakings in coal sub-
+sector.
+AR 63. When reporting energy intensity metric, the intensity metric for heat and electrical energy shall
+be represented by MWh /t of product. For reporting purposes, electrical energy intensity shall
+be further partitioned into the source (or sources) of power generation (e.g., diesel, natural gas,
+hydro, wind, nuclear, etc.).
+AR 64. When reporting according to E1-9, the undertaking shall consider among as a source of financial
+effects, the financial risks associated with a narrower access to finance as a consequence to
+investors and lenders adopting investment policies to limit or phase-out the exposure to fossil
+fuel.
+ESRS E2 – MQC Pollution
+AR 65. When disclosing information on its pollution-related policies, the undertaking may:
+(a) disclose if the policies related to pollution prevention and control apply to all its operating
+sites and disclose the name of the sites which are not covered by the general policy; and
+(b) include the description on whether and how it implements a certified and regularly audited
+Environmental Management System (EMS), according to a recognized international
+standard, covering all its operating sites; or
+(c) list the sites that are not certified and regularly audited according to a recognized
+international standard with respect to their pollution performance, despite having an
+environmental management (or monitoring) plan (EMP) in operation;
+(d) disclose whether its policies are related to remediating the effects of pollution from its
+operations on the environment (in particular: i. air pollution, e.g. particulate matter (PM10,
+PM2.5), SO2 and CO; ii. water pollution, in particular leachate and acid drainage; iii. soil
+contamination, e.g. heavy metals (Pn, As, Hg, Zn, Cd, Cr, etc.) originating from mining
+tailings; iv. use and disposal of substances of concern or substances of very high concern
+(SVHCs), with particular attention to hazardous substances as defined in Article 3 of
+Regulation (EC) No 1272/2008).
+AR 66. When reporting on how it identifies and implements Best Available Techniques, the undertaking
+shall consider the following BREF reference document: Best Available Techniques Reference
+Document for the Management of Waste from Extractive Industries (MWEI BREF).
+AR 67. When providing information on EMPs according to paragraphs 73 and AR 62, the undertaking
+may specify if it:
+(a) uses a network of air quality monitoring stations near its business sites for key air quality
+parameters (e.g. PM10, NOx, CO);
+(b) uses a network of water quality monitoring stations on water bodies near its business sites
+for key water quality parameters (e.g. flow volumes, turbidity, pH, heavy metals);
+(c) if it does regular campaigns to assess levels of soil pollution and ground water quality near
+its business sites, namely for heavy metal (arsenic, lead, cadmium, mercury) and cyanide
+contamination;
+(d) if it does regular noise monitoring campaigns from operations in particular when operating
+near human settlements.
+AR 68. Leachate shall be understood as any liquid having percolated through a porous material and
+loaded with extracted solutes or suspended solids. In case of extractive waste, the percolation
+occurs through the deposited waste and the liquid is emitted from or contained within an
+extractive waste facility, including polluted drainage, which may adversely affect the
+environment if not appropriately treated. Leachate may not only refer to unwanted processes
+(e.g., leading to polluted drainage), but also be generated on purpose, e.g. for the recovery of
+metals.
+EFRAG SRB 16 October 2024 Page 32 of 54
+ESRS E3 – MQC Water and marine resources
+Policies, actions and targets
+AR 69. When disclosing the information required in E3-1 on policies and E3-2 targets related to water
+and marine sources, the undertakings may include the following:
+(a) a description of how the organization interacts with water, including how and where water
+is withdrawn, consumed, and discharged, and the water-related impacts the organization
+has caused or contributed to, or that are directly linked to its operations, products, or
+services by its business relationships (e.g., impacts caused by runoff);
+(b) a description of the approach used to identify water-related impacts, including the scope
+of assessments, their timeframe, and any tools or methodologies used;
+(c) a description of how water-related impacts are addressed, including how the organization
+works with stakeholders to steward water as a shared resource, and how it engages with
+suppliers or customers with significant water-related impacts;
+(d) an explanation of the process for setting any water-related goals and targets that are part
+of the organization’s approach to managing water and effluents, and how they relate to
+public policy and the local context of each area of high-water stress;
+(e) an overview of water use across the organization’s value chain;
+(f) a list of specific catchments where the organization causes significant water-related
+impacts.
+AR 70. When compiling the information about areas of high-water stress, the undertaking shall use
+publicly available and credible tools and methodologies for assessing water risk in an area.
+MQC 6. Water and marine resources
+Metrics
+AR 71. When disclosing its water withdrawals and discharges according to paragraph 58, the
+undertaking may follow the table shown below:
+Total water % withdrawn from Total water
+Water
+withdrawn (m3) areas of high water discharged (m3)
+withdrawals
+stress
+Surface water
+Groundwater
+Other water
+AR 72. When disclosing the indicators of water discharge, the undertaking may disclose the internal
+standards it may have established for the management of water discharge-related impacts. The
+undertaking may give a description of any minimum standards set for the quality of effluent
+discharge, and how these minimum standards were determined, including:
+(a) how standards for facilities operating in locations with no local discharge requirements
+were determined;
+(b) any internally developed water quality standards or guidelines;
+(c) any sector-specific standards considered;
+(d) whether the profile of the receiving waterbody was considered.
+AR 73. When disclosing the number of non-compliance as mentioned in paragraph 64, an undertaking
+should be considered non-compliant when it exceeds the authorized limits.
+AR 74. The term ‘river basin district’ refers to the concept and terminology from the Water Framework
+Directive. The term ‘river basin district’, which incorporates one or more river basins with their
+surface water as well as the groundwater, it the most similar concept to ‘catchment’ in EU
+regulation. It deviates from the ‘catchment’ definition in the sense that it is not strictly defined by
+hydrological considerations but includes aspects related to how the administration, planning and
+EFRAG SRB 16 October 2024 Page 33 of 54
+policy are organized to address challenges of one or more river basins and their groundwater.
+A river basin district can encompass one or more catchments.
+AR 75. When disclosing the indicator of water withdrawal, the undertaking may refer to the ‘ICMM
+practical guide to catchment-based water management for the mining and metals industry’ as a
+recommended source of methodological guidance for water accounting and reporting.
+ESRS E4 – MQC Biodiversity and ecosystems
+Policies, actions and targets
+AR 76. When disclosing its policies implemented to manage its material impacts, risks and
+opportunities related to biodiversity and ecosystems, the undertakings may disclose how
+the undertaking applies the mitigation hierarchy and international biodiversity standards in its
+operational planning, from early concept through to decommissioning.
+Metrics
+AR 77. The undertaking shall consider progressive rehabilitation practices, when disclosing its
+restoration plan. Progressive rehabilitation occurs when restoration and rehabilitation of mining
+and quarrying sites is done continually and progressively, concurrent to mine and quarry
+extraction. Progressive rehabilitation reduces open areas within mines and quarries, reducing
+potential soil erosion and increasing confidence in the rehabilitation plan among stakeholders.
+In addition, it allocates the overall rehabilitation cost with annual provisions throughout the mine
+life of the quarry. It also provides a timely and positive visual impact, allowing stakeholders to
+see and anticipate future rehabilitation outcomes.
+AR 78. When disclosing according to paragraph 68 (c), the undertaking may disclose, as a metric on
+state of species, the total number of IUCN Red list species and national conservation list species
+with habitats in areas affected by the operations of the undertaking, by level of extinction risk.
+AR 79. When disclosing according to the sector agnostic Disclosure Requirement E4-5, the
+undertaking shall consider impacts deriving from both direct impact on land use; indirect
+impacts; as well as impacts form industrial hazards (e.g. spills, other risk events).
+AR 80. The undertaking may separately identify reserves in areas with additional ecological,
+biodiversity, or conservation designations such as those listed by the A-Z Guide of Areas of
+Biodiversity Importance prepared by the United Nations Environment Programme's World
+Conservation Monitoring Centre (UNEP-WCMC).
+AR 81. The undertaking may provide information about reserves that are located in protected areas
+or endangered species habitat, but present low risk to biodiversity or ecosystem services;
+the undertaking may provide similar information for reserves located in areas with no official
+designation of high biodiversity value but that present high biodiversity or ecosystem services
+risks.
+AR 82. The undertaking may also disclose :
+(a) number of projects contributing to forestry maintenance, educational activities, research
+and development to reduce biodiversity impact and land use, conservation measures
+(planting trees);
+(b) development and sales of new products that conform with new regulations on biodiversity;
+(c) number of incidents (fines, suspension or rejection of permission or license, litigations)
+due to violation of laws and regulations related to biodiversity.
+AR 83. Reserves are considered to be in areas of protected conservation status if they are located
+within:
+(a) International Union for Conservation of Nature (IUCN) Protected Areas (categories I-VI)
+(b) Ramsar Wetlands of International Importance
+(c) UNESCO World Heritage Sites
+(d) Biosphere Reserves recognized within the framework of UNESCO's Man and the
+Biosphere (MAB) Programme
+EFRAG SRB 16 October 2024 Page 34 of 54
+(e) Natura 2000 sites
+(f) Sites that meet the definition of the protected area.
+(g) the areas that are listed in the World Database of Protected Areas (WDPA) and mapped
+on Protected Planet
+AR 84. Reserves are considered to be in endangered species habitat if they are in or near areas where
+IUCN Red List of Threatened Species that are classified as Critically Endangered (CR) or
+Endangered (EN) are extant.
+AR 85. A species is considered extant in an area if it is a resident, present during breeding or non-
+breeding season, or if it makes use of the area for passage.
+AR 86. For the purposes of disclosure, "passage" is defined as all areas of land or water that a migratory
+species inhabits, stays in temporarily, crosses or overflies at any time on its normal migration
+route.
+ESRS E5 – MQC Circular economy
+AR 87. When disclosing information about its waste in accordance with Disclosure Requirement E5-5,
+for sector-specific disclosures on Mining, Quarrying and Coal waste refer to information it is
+already required to report under other existing national or Community legislation (e.g. Directive
+2006/2113 for the undertaking within the scope of extractive industries)14.
+12F 13F
+Application Requirements related to social disclosures
+ESRS S1 – MQC. Own workforce
+AR 88. In relation to work-life balance information, round-the-clock working measures could relate to
+long or split shifts for continuous operations and multi-day assignments for remoted locations.
+AR 89. When disclosing its policies, actions and targets on housing facilities and access to basic
+services, the undertaking may specify whether it takes into consideration the specific needs of
+female workers.
+AR 90. When disclosing according to ESRS S1-13, the undertaking may disclose whether the trainings
+it provides to its own workforce include prevention against sexual harassment and
+discrimination.
+AR 91. When disclosing according to the requirements of ESRS S1 Own workforce, the undertaking
+may refer to the table below for examples of policies, actions and targets:
+Social and Non-exhaustive list of Examples of Examples of Examples of targets:
+human rights factors to consider in policies: actions:
+matters: Materiality Assessment:
+Secure % of posted workers in own Policies on the Reducing the Reducing the
+employment workforce use of non- percentage of non- percentage of non-
+% of migrant workers in own employee employee workers in employee workers in its
+workforce workers in the its own workforce; own workforce;
+workforce; Ensuring that the Ensuring that the
+Policies on the migrant workers are migrant workers are
+use of migrant engaged on engaged on equivalent
+workers in the equivalent terms and terms and conditions to
+workforce conditions to non- non-migrant workers
+migrant workers
+Working time % of workers regularly Policies on Increased percentage Increased percentage
+working multi-day away- advance notice of workers with of workers with regular
+from-home assignments of scheduling, regular schedules schedules
+multi-day away-
+14 Directive 2006/21/EC of the European Parliament and of the Council of 15 March 2006 on the management of
+waste from extractive industries and amending Directive 2004/35/EC - Statement by the European Parliament,
+the Council and the Commission
+EFRAG SRB 16 October 2024 Page 35 of 54
+% of workers regularly from-home Increased advance Increased advance
+working evening shifts assignments, notice of scheduling notice of scheduling
+% of workers regularly and evening, Reducing percentage Reducing percentage
+working night shifts night and of multi-day away- of multi-day away-from-
+% of workers regularly weekend work from-home home assignments,
+working on Saturdays and/or assignments, and and evening, night and
+Sundays evening, night and weekend work
+weekend work
+Adequate wages Allowances for housing for Policies for Increasing housing Adequate housing
+away-from-home housing allowances allowances
+assignments allowances
+Freedom of % of posted workers in own % of workers Percentage of Percentage of workers
+association/ workforce affected by major workers affected by affected by major work
+collective work stoppages major work stoppages stoppages
+bargaining
+including the rate
+of workers
+covered by
+collective
+agreements
+MQC 7. Work stoppages
+AR 92. The information on the number of persons in own workforce involved in a major work stoppage,
+an absolute number of persons or FTE is to be used. A major work stoppage is defined as a
+work stoppage involving 100 or more employees and/ or non-employee workers in own
+workforce.
+AR 93. The scope of this Disclosure Requirement includes work stoppages due to disputes between
+labour and management, including strikes and lockouts. The work stoppages may also arise
+due to community protests.
+AR 94. The information required by paragraph 72(b)(iii) shall be the sum of the products of the number
+of persons in its own workforce (FTE) involved and the total duration (in workdays) of each
+major work stoppage. Where exact figures are not available, the undertaking may provide an
+estimate according to ESRS 1.
+ESRS S3 – MQC. Affected communities
+AR 95. The geographical definition of ‘affected’ can include the community surrounding operations, a
+region within a country, or a country. The undertaking may adopt an approach that is consistent
+with its definition of local, when disclosing the information related to ESRS S3 Affected
+communities.
+Policies, actions and targets
+AR 96. When disclosing its policies, actions and targets related to land acquisition and involuntary
+resettlement, the undertaking may disclose if it has considered or addressed potential negative
+impacts that are specific to women and children; health and livelihood.
+AR 97. The undertaking may disclose the following information in relation to actions related to land and
+resources right:
+(a) lessons learned to prevent recurrence; and
+(b) its regular review process of the assessment and management of process safety and
+risks
+AR 98. In addition, the undertaking may disclose the approach taken in recognising the legitimate
+tenure rights holders when acquiring, leasing or making other arrangements to use, or restrict the
+use of, land as well as to providing remediation following involuntary resettlement either through
+monetary or asset compensation.
+Taking action on material impacts, risks and opportunities
+AR 99. In relation to its disclosure on the policies, actions and targets related to preventing attacks
+on environmental and human rights defenders, the undertaking may disclose whether it
+EFRAG SRB 16 October 2024 Page 36 of 54
+adopts a zero-tolerance approach for attacks against environmental and human rights
+defenders, and not to sue for defamation or to participate in strategic lawsuits against public
+participation (SLAPP).
+AR 100. The undertaking shall consider the impacts on affected communities that stem from the
+undertaking’s impacts on biodiversity when disclosing the actions that are planned or
+underway to address negative impacts on these affected communities; and, where applicable,
+it shall consider the principles in the Nagoya Protocol and the Montreal Agreement15. The
+14F
+undertaking may refer to how the actions that are planned or underway are aligned to these
+frameworks.
+AR 101. When disclosing the policies in relation to engagement with environmental and human
+rights defenders, the undertaking may take account of its processes for engaging with
+environmental and human rights defenders as part of its due diligence processes, including
+on managing allegations of retaliations, threats and direct/indirect attacks (physical and legal –
+including all forms of judicial harassment) against defenders. The undertaking may disclose if it
+has any initiatives or projects underway to support the actions or causes human rights and
+environmental defenders strive for.
+AR 102. The undertaking may disclose if it has any initiatives or projects underway to support the
+actions or causes human rights and environmental defenders strive for.
+Metrics
+AR 103. The Critical Raw Materials Regulation (Regulation (EU) 2024/1252) outlines specific
+criteria for the recognition of Strategic Projects, which are raw material projects that contribute
+to the EU’s supply of strategic raw materials, as defined in Annex I of the Regulation.16
+AR 104. When the undertaking has obtained recognition of a project within the EU as a Strategic
+Project as per the paragraph above, the aforementioned disclosure may be based on the
+requirements in the Critical Raw Materials Regulation, including Article 7.1(j) in relation to
+consultation with indigenous peoples and national law of the EU country concerned.
+Undertakings may also disclose on FPIC.
+AR 105. For Strategic Projects outside the EU and/or projects that are outside the Critical Raw
+Materials Regulation’s scope, undertakings follow the provision of paragraph 77.
+AR 106. The definition to be used to identify a ‘confirmed incident’ is in conformity with the
+definition provided in Annex 2 of the Delegated Regulation and only refers to incidents that have
+been found to be substantiated.
+AR 107. When calculating the number of confirmed incidents in paragraph 110, the undertaking
+shall consider official sources such as policy reports or other reports issued by governmental
+organisations. The undertaking shall also consider information raised by legitimate
+representatives or credible proxies from indigenous people, as well as reports issued by local,
+national and international NGOs. The undertaking shall not consider unofficial sources e.g.
+social media, when preparing this disclosure.
+AR 108. When disclosing the number of confirmed incidents broken down by vulnerable groups,
+the undertaking may disclose whether the threats and attacks identified are different depending
+on the particular group affected (e.g., sexual violence on female environmental and human
+rights defenders).
+MQC 8. Security personnel
+AR 109. Mining, quarrying and coal companies may operate in conflict zones or other high-risk
+areas where the use of security personnel and the training of security personnel in the undertaking’s
+human rights policies may be more relevant.
+15 Refers to the COP 15 Convention on Biological Diversity of December 2022, not yet ratified.
+16 CRMR Article 7.1(j) provides the requirements related to indigenous peoples as it relates to the application
+process: ‘a plan containing measures dedicated to a meaningful consultation of the affected indigenous peoples
+about the prevention and minimisation of the adverse impacts on indigenous rights and, where appropriate, fair
+compensation for those peoples, as well as measures to address the outcomes of the consultation.’
+EFRAG SRB 16 October 2024 Page 37 of 54
+AR 110. The undertaking shall consider the content of the trainings offered (e.g. differentiate
+between training related to security issues and trainings on human rights policies) and also if
+it addresses the protection of vulnerable groups, especially women, children and indigenous
+populations.
+AR 111. Human rights training for security personnel aims at ensuring human rights respect with
+regards to their interaction with stakeholders including local communities, ensuring a non-
+discriminatory approach to women and minorities, not exacerbating social conflict, how to
+collaborate with public and private security providers, processes relating to detention of
+persons, undue use of force which includes ensuring that force is used only when
+necessary. The undertaking may include how practices apply to business partners, such as
+contractors, sub-contractors, suppliers, and joint venture partners. Where practices do not
+apply to business partners, the undertaking may discuss factors that prevent the application of
+such practices.
+AR 112. When describing the procedures and management of public or private security providers,
+the undertaking shall refer to training provided on its policies or international standards focused
+on safeguarding human rights as well as guidelines on the use of physical force and reporting
+procedures. It may also refer to screening and assessment processes, cost reimbursement and
+the use of company facilities.
+AR 113. The undertaking may describe the frequency of the training (whether it is provided once
+a year, every two years, as applicable).
+AR 114. The undertaking may disclose whether the undertaking has performed internal audits
+and/or has been audited or certified by an external party in relation to compliance of its security
+personnel with its own human rights policies when engaging with affected communities.
+AR 115. The undertaking may disclose information on its processes of tendering and contracting
+with security providers. It may also disclose whether compliance with the undertaking’s human
+rights policies by the private security are part of the process.
+AR 116. The information required in paragraph 88 is only applicable for sites that use security
+personnel (this would also apply to quarries in non-EU countries that are controlled or owned
+by EU companies).
+MQC 9. Engagement with affected communities and grievance mechanisms
+AR 117. In its disclosure prepared under ESRS S3-2, the undertaking shall consider the following
+aspects:
+(a) its due diligence practices and procedures with respect to indigenous rights of communities
+in which it operates or intends to operate, specifically: upholding internationally recognised
+rights of indigenous peoples, including but not limited to those recognized by the UN
+declaration on the Rights of Indigenous Peoples, and the ILO Convention No. 169;
+(b) the use of free, prior, and informed consent (FPIC) (or consultation) processes as per
+the United Nations Declaration on the Rights of Indigenous Peoples.
+AR 118. If the undertaking has an operation site in or near the indigenous peoples lands as listed
+in MQC 1 Mapping of business sites the undertaking shall consider:
+(a) its interactions with indigenous peoples, including but not limited to means of
+communication, language used, frequency;
+(b) where applicable, the co-ownership programs developed for indigenous peoples and
+local communities. This includes equity shares acquired by communities and their value;
+(c) the most recent examples of involvement in the process of seeking free, prior, and
+informed consent from indigenous peoples to any of the undertakings’ activities, and
+whether an agreement has been reached and if it is publicly available.
+AR 119. The undertaking may list the vulnerable groups, including any indigenous peoples, that
+it has identified within local communities and the approach to engaging with those vulnerable
+groups, including:
+(a) how it seeks to ensure meaningful engagement; and
+EFRAG SRB 16 October 2024 Page 38 of 54
+(b) how it seeks to ensure safe and equitable gender participations, namely how it seeks
+to ensure indigenous women can participate safely and equitably.
+AR 120. The undertaking may describe any collective or individual rights that it has identified that
+are of particular concern for local communities (including vulnerable groups).
+Metrics
+AR 121. Social impact assessment includes the processes of analysing, monitoring and managing
+the intended and unintended social consequences, both positive and negative, of planned
+interventions (policies, programs, plans, projects) and any social change processes invoked
+by those interventions.
+AR 122. Environmental impact assessment includes the processes of identifying, describing and
+assessing in an appropriate manner, in the light of each individual case, the direct and indirect
+significant effects of a project on the following factors: (a) population and human health; (b)
+biodiversity, with particular attention to species and habitats protected under Directive
+92/43/EEC and Directive 2009/147/EC; (c) land, soil, water, air and climate; (d) material assets,
+cultural heritage and the landscape; (e) the interaction between the factors referred to in points
+(a) to (d). The effects on these factors shall include the expected effects deriving from the
+vulnerability of the project to risks of major accidents and/or disasters that are relevant to the
+project concerned.
+Application Requirements related to governance disclosures
+G1 – MQC Business conduct
+AR 123. When providing information about its policy the undertaking may include details on how
+suppliers are categorised. Such categorisation may be based on geographic location, such as
+proximity to the site.
+MQC 12. State-aid and competition
+AR 124. When determining the total of state aid or of financial assistance received from any
+government, the undertaking shall include the following:
+(a) tax relief and tax credits;
+(b) subsidies;
+(c) funds received through the Just Transition Mechanism of the EU;
+(d) investment grants, research and development grants, and other relevant types of
+grants;
+(e) awards;
+(f) royalty holidays;
+(g) financial assistance from Export Credit Agencies (ECAs);
+(h) financial incentives;
+(i) other financial benefits received or receivable from any government for any operation.
+EFRAG SRB 16 October 2024 Page 39 of 54
+Appendix C: Application Requirements supporting the assessment
+of materiality of the information
+This appendix is an integral part of this [draft] and has the same authority as the other parts of this
+Standard.
+When determining according to paragraph 34 (b) of ESRS 1 whether a given disclosure requirement
+or a datapoint in this [draft] ESRS (see reference to number of paragraphs in the table below) is
+reported or omitted for a material matter, the undertaking shall consider the factors presented in this
+table:
+Datapoint to
+Disclosure include or
+Factors to consider in information materiality assessment
+Requirement omit
+(Paragraph)
+MQC 2. Mineral
+Existence of proven mineral reserves 21 - 23
+reserves
+Actual or potential occurrence of accidental releases of hazardous
+28
+substances from operations
+MQC 3. Industrial
+hazards
+Health and safety incidents (i.e., fatalities, injuries, and ill-health
+31
+cases) amongst its workforce
+Existence of ongoing or planned closure of assets / sites 37 - 40
+MQC 4. Closure of
+Absence of planning related to site rehabilitation 37
+assets
+Ongoing or anticipated decommissioning of facilities 39
+MQC 5. Tailings
+Existence of tailings facilities (including tailings in deep-sea areas),
+management, facilities 45 - 48
+actual or potential catastrophic failures
+and impoundments
+Presence of locked-in emissions AR 55 –56
+Methane emissions and GHG emissions related to them 50
+ESRS E1-MQC Climate
+change
+Actual or anticipated flaring or venting activities, actual and
+49
+potential methane leakages
+Presence of environmental management (or monitoring) plan
+ESRS E2 – MQC
+(EMP) in operation 57
+Pollution
+Actual or potential acid drainage 58
+MQC 6 – Water and
+Ongoing or anticipated activities with actual or potential impact on
+marine resources 65
+local water and land resources
+metrics
+ESRS E4 – MQC
+Progressive rehabilitation practices
+Biodiversity and 66 - 68
+Land-use change area rehabilitated or restore
+ecosystems
+MQC 7 – Work Work stoppages involving more than 100 workers of the
+73(a), 73(b)
+stoppages undertaking, that have taken place during the year.
+Datapoint to
+Disclosure include or
+Factors to consider in information materiality assessment
+Requirement omit
+(Paragraph)
+Proximity of operations/sites to indigenous peoples, including
+75
+tailings facilities
+Ongoing process of seeking FPIC from indigenous peoples and
+ESRS S3 – OG Affected 77
+agreements reached
+communities
+Prevalence of attacks on environmental and human rights
+defenders and the number of incidents when engaging with 78
+environmental and human rights defenders
+Use of private, government security personnel to safeguard the
+undertaking’s operations/site and consideration to be given to
+81(a)
+conflict-affected or high-risk areas
+Human rights’ training performed on security personnel
+MQC 8 – Security
+personnel Cases of human rights’ violations connected with the security
+81(b)
+personnel
+Incidents of violations of human rights of indigenous people
+81(b)
+directly linked to the undertaking’s security personnel
+Existence and implementation of grievance mechanisms and
+MQC 9 – Engagement engagement activities with the affected communities at business 84
+with affected site level
+communities and
+grievance mechanisms Percentage of business sites that have been subject to
+85(b)
+environmental and social impact assessments
+Proximity of suppliers to the business site 87
+ESRS G1 – MQC
+Business conduct
+Participation in advocacy and lobbying and associated
+90
+expenditures aiming to exert influence on government policies
+MQC 11. Transparency
+Presence of government contracts and licences that are subject to
+about contracts and 93
+public consultation
+licenses
+Ongoing activities in jurisdictions where instances of cartels,
+monopolistic practices, and related abuse of such positions have
+96 (a)
+been documented
+MQC 12. State aid and
+competition Legal actions relating to violations of antitrust and monopoly
+legislation. 96 (b)
+Eligible to or recipient of state aid or of financial assistance 96 (c)
+Identification of individuals that classify as politically exposed
+99
+persons (‘PEPs’)
+MQC 13. Beneficial
+Availability of the identity of the natural person who has a control
+ownership
+ownership interest in - and/or can exercise control over a legal
+100
+entity used by the business partners, including joint ventures and
+suppliers
+Datapoint to
+Disclosure include or
+Factors to consider in information materiality assessment
+Requirement omit
+(Paragraph)
+MQC 14. Oil and gas Ongoing transactions generating revenue directly for states or
+113
+purchased from states through third parties acting on behalf of states
+Appendix D: List of datapoints in accordance with EU law
+This Appendix is an integral part of the [draft] ESRS Mining, Quarrying and Coal and has the same
+authority as the main body of the [draft] Exposure Draft.
+The table below illustrates the datapoints that emanate from other EU legislation. These are to be
+reported irrespective of the outcome of the materiality assessment.
+Disclosure Pillar 3 reference
+Requirement
+ESRS 2.SBM1.MQC – Article 449a Capital Requirements Regulation – CRR – Template 1:
+Activity indicators Banking book – Climate change transition risk: Credit quality of
+exposures by sector, emissions and residual maturity
+MQC 1 Mapping of Article 449a CRR – Template 1: Banking book – Climate change
+business sites physical risk – Exposures subject to physical risk
+ESRS 2.SBM1.MQC – Article 449a CRR – Template 1: Banking book – Climate change
+Activity indicators transition risk: Credit quality of exposures by sector, emissions and
+residual maturity
+Article 449a CRR – Template 3 – Banking book – Climate change
+t ransition risk – Alignment risks
+Appendix E: NACE codes
+This Appendix set the list of NACE codes that are covered by this [draft] sector ESRS. All undertakings
+for which one or more of these NACE codes represent a significant sector according to paragraphs 40
+(a) and (b) of ESRS 2 shall report according to this [draft] sector ESRS.
+B.05.10 Mining of hard coal
+B.05.20 Mining of lignite
+B.07.10 Mining of iron ores
+B.07.21 Mining of uranium and thorium ores
+B.07.29 Mining of other non-ferrous metal ores
+B.08.11 Quarrying of ornamental and building stone, limestone, gypsum, chalk and slate
+B.08.12 Operation of gravel and sand pits; mining of clays and kaolin
+B.08.91 Mining of chemical and fertiliser minerals
+B.08.92 Extraction of peat
+B.08.93 Extraction of salt
+B.08.99 Other mining and quarrying n.e.c.
+B.09.90 Support activities for other mining and quarrying
+C.19.10 Manufacture of coke oven products
+C.20.15 Manufacture of fertilisers and nitrogen compounds
+E.38.32 Landfilling or permanent storage
+F.43.12 Site preparation
+G.46.12 Activities of agents involved in the wholesale of ores
+G.47.76 Retail sale of fertilisers
+Appendix E is an integral part of this Exposure Draft and has the same authority as other parts of the
+Exposure Draft ESRS Mining, Quarrying and Coal.
+Appendix F: Description of sustainability matters
+This Appendix complements the [draft] ESRS Mining, Quarrying and Coal and presents a non-binding
+description of the sustainability matters that are most relevant for undertakings in the Oil and Gas sector.
+For the sustainability matters that are also listed in paragraph AR16 of ESRS 1, this Appendix provides
+a description of how such matters materialise in this specific sector.
+Industrial hazards
+The mining, quarrying and coal activities are highly prone to incidents and accidents with disastrous
+impacts on environmental resources (extreme contamination of air, water and soil), surrounding
+communities and infrastructures (e.g., damage to economic activities and food resources), workers
+(e.g., injuries, ill health, fatalities), as well as undertaking’s assets, leading to critical financial
+repercussions. Some examples of industrial hazards include ground or strata failure, fires or explosions,
+inundation or inrush of any substance (including from tailings dam failures), leaks of poisonous gases,
+spills of hazardous chemicals or slurry. Specifically, underground mining can generate dust explosions,
+inundation, mining corridor collapses or others. Open pit mining can cause landslides, water inbursts,
+machinery failures and others. Such hazards may result in emissions of toxic gases and vapours,
+rockfalls, flooding and extreme temperatures. The establishment of a system and a culture of safety,
+including through emergency preparedness and control, may help undertakings to reduce the risk of
+such hazards.
+Closure of assets
+Site-specific extractive operations such as those in mining, quarrying and coal are subject to closure
+due to finite resources and/or economic viability. At the end-of-life of an operation, the expectation is
+that the site will be restored to pre-development ecological functionality and setting or at least stabilized
+to prevent persistent environmental and social impact associated with geomorphological changes,
+increased contamination, and deteriorated safety conditions. Decommissioning planning, including
+financial allocation, is critical to ensure detrimental effects to environmental and social values are fully
+addressed and mitigated. As such, corporate financial disclosure for decommissioning is essential to
+demonstrate public accountability for businesses in the extractives sector. The term asset in this
+definition does not relate to resources that would meet the financial accounting definition of asset.
+Tailings
+Tailings are a by-product of mining, consisting of fine-grained waste solids or slurries that remain after
+the treatment of metals and minerals recoverable (left over rock or soil) have been extracted by
+separation processes (e.g. crushing, grinding, size-sorting, flotation and other physico‐chemical
+techniques) to remove the valuable minerals from the less valuable rock. The handling of tailings is
+done through tailings facilities, which include tailings storage facilities (used to contain tailings produced
+by mines, such as decant structures and spillways, open pits, dry stacking, lakes or underground
+storages), tailings dams (embankments and impoundment structures, ponds designed to enable the
+tailings to settle and to retain tailings and process water), delivery pipelines, etc. Tailings facilities store
+large amounts of mining waste, containing toxic substances that may spread out to the surroundings,
+causing chronic and acute negative impacts to the environment and human health. Therefore, the
+management of tailings (during operation, closure and post-closure), is fundamental and considered to
+be the long-term responsibility of mining, quarrying and coal companies.
+E1: Climate change adaptation
+The sector is exposed to a range of risk from the current and future climate variability. Those may
+include, for example, increasing cost of natural resources, extreme weather events causing damage to
+the infrastructure, water availability decrease, increased dust emissions. Moreover, the impacts of
+climate change can cause significant disruption in the supply chain of the industry also contributing to
+create more dangerous working conditions for employee due to extreme weather events. Thorough risk
+evaluation and assessment as well as working towards resilience across the whole value chain,
+including surrounding communities and infrastructure, are essential to manage risk and opportunities
+related to the matters of climate change adaptation.
+E1: Climate change mitigation
+Mining operations generate significant direct greenhouse gas (GHG) emissions, including CO from
+2
+fuel use during mining, ore processing, and smelting activities. The GHG intensity may increase with
+decreasing grades of deposits and increasing depth and scale of mining operations. It will also depend
+on the method used (open pit or underground mining, excavation type, depth of the mine), volumes of
+fugitive methane released, or the type of metal mined and processed. Regulatory efforts to reduce GHG
+emissions in response to the risks posed by climate change may result in additional regulatory
+compliance costs and risks for metals and mining undertakings due to climate change mitigation
+policies.
+Coal operations generate significant amounts of CO emissions and have the highest intensity per
+2
+energy unit out of all fossil fuels. For coal operations the release of GHG emissions includes CO from
+2
+fuel use and methane released from coal beds during mining and post-mining activities. Mitigating
+climate change can include changes in the developing of activities to reduce emissions and the effect
+these changes may have on the undertaking’s employees and the communities in which coal activities
+take place.
+E1: Energy
+Mining, quarrying and coal operations are often energy-intensive. Currently, diesel is the most common
+source of energy consumption, especially for the usage of large mining equipment. The use of
+alternative sources such as liquefied or compressed natural gas, electricity or even hydrogen, is also
+possible (especially for smaller equipment) even if not immediately considered a more efficient
+alternative. A significant proportion of energy consumption in the sector is, anyway, accounted for by
+purchased electricity (which is often not coming from sustainable sources). Decisions about use of
+alternative fuels, renewable energy, and on-site generation of electricity (versus purchases from the
+grid) can play an important role in influencing both the costs and reliability of energy supply. Affordable,
+easily accessible, and reliable energy is an important competitive factor in this industry, with purchased
+fuels and electricity accounting for a significant proportion of total production costs. In order to be
+effective, decisions on the aspects related to alternative fuels should be adequately integrated in the
+design and business model of mining operations, especially considering the increasing demand
+expected in future years.
+E1: Methane
+Methane is one of the main greenhouse gases responsible for climate change. It is produced during
+coal formation and remains trapped in the coal deposits, being prone to release during activities related
+to coal mining. Underground coal mine operators use ventilation and degasification systems to remove
+methane from the mine and further handle it through venting, flaring, as well as other management
+methods. Surface mines can also face methane releases from coal deposits disturbed by blasting
+operations. Methane releases can occur in operational mines, as well unactive and abandoned mines.
+These emissions can be significantly reduced through the use of available technologies and dedicated
+leak detection and repair programs.
+E2: Pollution of air
+Mining and quarrying operations can give rise to various hazardous air pollutants from smelting and
+refining activities, and use of explosives to uncover the reserves, with quarrying making extensive use
+of dynamite to blast rock aiding the excavation. The use of explosives may result in emissions such as
+dust, vibrations, gaseous byproducts or flyrock. Coal operations are often associated with air emissions
+from drilling, refining to the transportation, waste management and active mine fires. Significant air
+pollutants in these three subsectors are sulphur oxides (SOx), nitrogen oxides (NOx), carbon monoxide
+(CO), particulate matter (PM), heavy metals (particularly lead, mercury, cadmium, and arsenic),
+persistent organic pollutants (POPs), volatile organic compounds (VOCs), as well as several types of
+dust particles. Exposed surfaces of extractive waste primarily result in dust and VOCs releases.
+E2: Pollution of water
+Mining (e.g., excavation), quarrying (e.g., nitro-glycerine spills) and coal (e.g., coal washing to remove
+sulphur, cooling drilling equipment, transporting coal in slurry pipelines) processing extensively use
+water, resulting in surface water and groundwater contamination through erosion and sedimentation
+(e.g., suspended solids generation), tailings leakage and exposure to highly sulphidic excavated waste
+rock (e.g., acid mine drainage). These types of water quality concerns may accelerate further
+acidification and contamination over time, increasing the leaching of heavy metals (arsenic, cobalt,
+copper, cadmium, lead, silver, and zinc), leading to impacts that persist for decades after closure. Deep-
+sea mining is another critical issue of concern causing pollution in water columns from excessive light,
+noise, wastewater discharges, and sediment plumes.
+E2: Pollution of soil
+Soil pollution is a critical issue stemming from mining, quarrying and coal activities, given that the
+resulting pollutants can be retained by soil for a long time and slowly be passed to other media (water,
+air). Site soils and soils in their proximity, including in post-mining locations, have great variability in
+their properties (e.g., physical structure degradation due to dust accumulation, significant imbalances
+of pH levels due to different explosives used, toxic elements versus nutritional content) as a
+consequence of the leaching of waste rock and tailings produced at all stages of operation (e.g., ore
+and metallurgical extraction, ore beneficiation). Tailings are usually highly acidic and sandy with low
+levels of nutrients and their depositing on the ground may lead to severe soil fertility and integrity issues
+or sedimentation of massive amounts of heavy metals on the topsoil.
+E2: Substances of concern and substances of very high concern
+Mining (including coal mining) and quarrying operations (e.g., blasting, separation of minerals from ores,
+creation of tunnels) widely use substances with high chemical hazards. These lead to chronic and
+devastating effects on the environment (e.g., high toxicity in marine ecosystems) and human health
+(e.g., respiratory infections, cardiac and neuromuscular effects) as they are dumped on the surface,
+spilled from sites or leached due to precipitations, and spread to surrounding areas. The most
+concerning substances in this sector include mercury (a recognized volatile, persistent heavy metal of
+global concern), cyanide (life-threatening, fast-acting poison), sulphuric acids (leading to chronic
+inflammation and irritation), explosive (releasing toxic gases such as nitric and nitrogen oxides, as well
+as carbon monoxides), silica dust (hazardous to lungs and carcinogenic), and polycyclic aromatic
+hydrocarbons (acute toxicity to birds and aquatic organisms).
+E2: Pollution of living organisms and food resources
+Mining, coal and quarrying operations (including through deep-sea mining resulting in sediment plumes,
+sea floor compaction, diminishing algae biomass through metal oxide deposition, etc.) may directly
+cause disturbances in the reproduction and growth of animals (e.g., benthic fauna), organisms and
+plants, up to the destruction of wildlife altogether (e.g., through sediment generation and). For instance,
+heavy metals concentrations in site surrounding can be absorbed by crops and soil organisms, hence
+bioaccumulating in plant fibres and inhibiting enzyme functions. Arsenic might pollute food resources,
+with high negative impacts on neurotoxicity arising after consumption. Acid mine drainage, for instance
+raises the risks of degrading the quality of water to the point of exterminating wildlife due to its persistent
+nature. An excess in the generation of sediments may suffocate watershed vegetation and organisms.
+Suspended solids deplete oxygen levels and light diffusion and raise temperatures.
+E3: Water use, including water withdrawals and water consumption
+Mining, quarrying and coal operations can impact both the availability and the quality of local water
+resources considering the substantial volumes of water required for the production process. Mining
+operations, depending on their geographical and geological location, must manage water consumption,
+flood risks, water quality and other issues. Undertakings that are unable to secure a stable water supply
+could face production disruptions, while rising water prices could directly increase production costs.
+Consequently, the adoption of technologies and processes that reduce water consumption could lower
+operating risks and costs for undertakings by minimizing the impact of regulations, water supply
+shortages, and community-related disruptions on the operations of the undertaking. In dry climates, an
+undertaking may need to focus more on conservation, collecting, storing, and reusing contact water
+from the tailing’s storage facility, seepage, open pit, and/or underground mine. For wet climates the
+greatest challenge is rather managing flood events and eliminating the risks of spilling, erosion, and
+infrastructure failure. Undertakings in cold climate regions must consider the large quantity of water
+generated from snow melt and ice thaw and manage the impacts of permafrost on drainage facilities.
+E3: Water discharges in water bodies and in the oceans
+Mining, quarrying and coal operations may discharge used water into water bodies or waterways. These
+discharges eventually can end up leading to a range of impacts described under pollution sustainability
+matters (chemical pollution, eutrophication of water bodies). This in return affects or poisons organisms
+living in the water, and it can cause negative effects on humans through fishing in these waters or
+tourism that depends on the existence of clean water bodies to attract customers. Recycling and
+cleaning processes of water discharges can allow to reuse much of the water used on a site, thereby
+decreasing operational dependency on an already scarce commodity. Clean water discharge will also
+avoid the risks for wildlife and human health or recreational activities.
+E3: Habitat degradation and intensity of pressure on marine resources
+Mining and coal activities can produce large volumes of waste, formed by the non-processed rock from
+overburden or access tunnels and shafts, and by the processed tailings. Traditionally, tailings are stored
+in land dams, but the lack of land availability, potential risk of dam failure, geological instability, and
+topography in coastal areas in certain countries makes consideration of disposal of tailings into marine
+systems, a process usually known as Deep-Sea Tailings Disposal. DSTD can have lasting impacts on
+biodiversity, ocean ecosystems as well as on fishing communities. Moreover, some undertakings are
+currently exploring deep-sea bed mining, which can be associated with a risks to the marine
+environment.
+E4: Impacts on the extent and condition of ecosystems
+The entire life cycle of Mining, quarrying and coal projects, namely, development, operation, closure
+and restoration of mine and quarries sites, can have direct, indirect, and cumulative impacts on
+biodiversity and condition of ecosystems, both in the short and long term. The development phase, in
+particular, typically requires large-scale infrastructure developments that have impacts on biodiversity,
+namely the alteration of landscapes, vegetation removal, and impacts to wildlife habitats. During the
+operation phase, pollution is a particularly significant risk to biodiversity and condition of ecosystems
+acid drainage is a particularly significant risk: it is highly acidic water, rich in heavy metals, formed when
+surface and shallow subsurface water encounter mining overburden. Acid drainage can have harmful
+effects on humans, animals, and plants. Similarly, tailings management will play an important role.
+Quarries are often operated close to processing facilities and require the removal of vegetation and
+topsoil and the blasting and crushing of underlying stone deposits. This process can lead to permanent
+alterations of the landscape, with associated impacts on biodiversity. The environmental characteristics
+of the land where quarrying takes place could increase extraction costs, due to increasing awareness
+and protection of ecosystems. The use and spill of nitro-glycerine also may affect groundwater or
+surface water as well as the animals living in it.
+Mining activities can have impacts on biodiversity beyond the mine site. These impacts can be more
+significant when mining occurs in or near ecologically sensitive areas. For example, mining activities
+can spread into ecological corridors and disrupt the functioning of an ecologically sensitive area.
+Inactive mine pits, underground workings, and hazardous waste can also cause biodiversity impacts
+beyond closure (see also topic 14.8 Closure and rehabilitation)
+Biodiversity impacts from coal activities include contamination of air, soil, and water; deforestation; soil
+erosion; and sedimentation of waterways. Other impacts can include animal mortality or increased
+vulnerability to predators, habitat fragmentation and conversion, and the introduction of invasive species
+and pathogens.
+E4: Direct impact drivers of biodiversity loss
+Mining, quarrying and coal operations make substantial impacts on the earth and nature around them.
+Surface mining and mountaintop removal can alter the landscape, removing vegetation and wildlife
+habitats. Acid mine drainage is particularly significant: it is highly acidic water, rich in heavy metals,
+formed when surface and shallow subsurface water encounters mining overburden, and can have
+harmful effects on humans, animals, and plants. Similarly, tailings management will play an important
+role. Biodiversity impacts of coal operations can affect the valuation of reserves and create operational
+risks. The environmental characteristics of the land where operational sites are located could increase
+extraction costs as a result of increasing awareness and protection of ecosystems. undertakings could
+also face regulatory or reputational barriers to accessing reserves in ecologically sensitive areas, such
+as the designation of areas where reserves are located as protected areas. Undertakings face
+regulatory risks related to reclamation after a mine is decommissioned, per applicable regulatory
+requirements to restore mined property according to a prior, approved reclamation plan. Material costs
+may arise from removing or covering refuse piles, fulfilling water treatment obligations, and dismantling
+infrastructure at the end of life. Furthermore, ongoing operations are subject to laws protecting
+endangered species.
+Direct drivers of biodiversity loss influence biodiversity and ecosystem processes, leading to impacts
+such as degradation of ecosystems, habitat fragmentation, and animal mortality. Mining activities may
+contribute to the direct drivers of biodiversity loss through land and sea use change, for example, in the
+form of land clearance for mining, access routes, and waste management facilities; exploitation of
+natural resources by withdrawing and consuming water; through the introduction of invasive alien
+species; and pollution. Sources of air, water, and soil pollution can include:
+E4: Impacts on the state of species
+Mining, quarrying and coal operations can cause impacts which affect the continued existence of
+species not only because of indirect effects such as pollution but also because operational sites are
+located at or nearby areas where species have their natural habitat. The disappearance of one or more
+species can result in the disappearance of an entire ecosystem of species that depend on each other.
+E4: Impacts and dependencies on ecosystem services
+Mining, quarrying and coal operations can impact ecosystem services (the benefits to humans provided
+by the natural environment and healthy ecosystems). The disturbance of habitats by different kinds of
+pollution related to the operations, excavation activities in itself or deforestation prior to it affects the
+possibility of natural ecosystems to provide ecosystem services. Mining, quarrying and coal operations
+also can interact with human and social capital by disconnecting areas supplying ecosystem services
+from the people that rely on them.
+Mining activities typically require large-scale developments that have impacts on biodiversity and
+ecosystem services. These impacts can limit the availability and accessibility of natural resources or
+degrade their quality. Impacts on biodiversity and ecosystem services may also affect the well-being
+and livelihoods of local communities and Indigenous Peoples (see also topic 14.10 Local communities
+and 14.11 Rights of Indigenous Peoples).
+E5: Resources inflows, including resource use
+Mining activities are highly reliant on the extraction of critical raw materials and rare earths, which are
+fundamental to the EU’s welfare and economy as they represent the input to produce many goods that
+are massively consumed. The present and future demand for metals and non-metal materials is, hence,
+growing with the increase of the demand of consumer goods, and the need to secure supply of these
+materials (which is finite). Their recovery, however, can also cause severe disruption to ecosystems as
+well as environmental contamination.
+E5: Waste
+The mining activities generate large volumes of mineral processing wastes, including slags and tailings,
+some of which may be hazardous or chemically reactive. Impoundments for tailings can cover large
+areas of land. Mineral waste is often stored in-pit, using abandoned open pit surface mines. Some
+mining activities can take place in coastal or deep-sea ecosystems, which can result in pollution of
+marine ecosystems if the waste processing is not accordingly managed. Coal activities can include
+handling of solid rock and clay waste, process refuse, and liquid coal waste containing hazardous
+substances like mercury, arsenic, and cadmium posing operational and regulatory challenges for coal
+operations undertakings.
+S1/S2: Working time and work-life balance
+Mining, quarrying and coal operations are typically operated in a manner that involves irregular working
+hours for a large portion of their own workforces. Mines and coal operations are frequently operated
+around-the-clock, including on weekends. Shift work longer than eight hours, and evening, night and
+weekend work are typical for many workers in this sector. Furthermore, mining and coal operations
+located far away from populated areas (“remote locations”) often resort to arrangements whereby
+workers will rotate between long multi-day or multi-week periods on site and periods with time off off-
+site (“fly-in fly-out” arrangements). In such remote locations adequate housing, access to water and
+sanitation and health care are often material matters.
+Research has demonstrated an association between extensive irregular working hours and time without
+family, recreation, and leisure and negative impacts on physical and psychological health and work-life
+balance. Extensive use of irregular working hours may make it difficult for undertakings to retain their
+workers and recruit new workers.
+S1/S2: Health and safety
+Mining, quarrying and coal operations may result in both strenuous and dangerous working conditions
+and are associated with a high degree of risk related to safety matters. Injuries may be caused by
+accidents with heavy equipment or explosives or collapse of mines or other facilities. Workers’ health
+may be impaired by prolonged exposure to dust, heat, vibration, noise, ultraviolet light, heavy lifting and
+repetitive movements, and hazardous chemicals. This sector has higher than average rates of fatalities,
+injuries, lost workdays and occupational diseases. Worker injuries, illnesses, and fatalities can lead to
+regulatory penalties, negative publicity, low worker morale and productivity, and increased healthcare
+and compensation costs.This sustainability matter covers the undertaking’s policies regarding health
+and safety, critical incident risk management, as well as workforce health, wellbeing, and safety
+S1/S2: Adequate wages and secure employment
+Many undertakings in the mining, coal and quarry sector make extensive use of non-employee workers,
+typically referred to as ‘contractors’ - that is, self-employed workers contracting directly with the
+undertaking or supplied by employment agencies. Many of these workers are utilized for extended
+periods of time for regular operations and perform work which is the same or similar to the work that
+employees do. However, these workers lack the employment security and, frequently, the wages and
+benefits that employees receive. Generally, non-employees may be exposed to higher risk of injury and
+heath impairment and may have fewer rights to unemployment and early retirement benefits and access
+to retraining than employees when it comes to the closure of mine sites, which can be also related to
+unemployment problems for the local community.
+Another factor contributing to the materiality of these matters is the extensive contracting-out of the
+operation of mining, quarrying and coal operations. Contracting-out rather than owner-operator
+arrangements are particularly frequent in the case of smaller owners (‘junior miners’), who may have
+little or no experience in operating a mine. Contracting-out arrangements have relevance for the security
+of employment, since such arrangements typically are medium term (e.g. five years) and obligations to
+the contractors’ workforce as a rule do not extent beyond the end of the contract.
+These are also material issues in the mining sector given the amount of artisanal and small-scale mining
+within the industry who, due to their small scale, don't have the governance structure and protection in
+place to ensure their worker’s rights.
+S1/S2: Freedom of association and collective bargaining
+The mining, quarrying and coal sector in many countries has a higher rate of trade union representation
+and collective bargaining coverage than the economy-wide national average. However, freedom of
+association may be at risk, particularly in locations where these are not guaranteed by national
+legislation and/or where enforcement is weak. Many mining and coal operations are located in countries
+where the rule of law has broken down (10 of the 148 countries rated in the 2022 ITUC Rights Index),
+where labour rights are not guaranteed (34 countries) or where there are systematic violations of labour
+rights (39 countries). The proportion of self-employed workers (‘contractors’) whose working conditions
+are determined by a collective bargaining agreement (the ‘collective bargaining coverage rate’) is
+typically lower than that of employees.
+S1: Training and skills development
+Mining, quarrying and coal operations can be both technically difficult and dangerous and it is therefore
+imperative that the workers are properly trained and have the skills and capabilities to handle the risks
+that working in the mine entails. Health and safety-related training, including the proper use of
+equipment and handling of explosives and hazardous chemicals, is key to reduce the risk of accidents
+and occupational diseases. Some mining, coal and quarrying operations are placed in the middle or
+close to active conflict areas. They may also be the subject of controversy which leads to the necessity
+of security personnel. Thus, this sustainability matter also includes training of security personnel in
+human rights and humanitarian law.
+S1: Measures against violence and harassment in the workplace
+The remoteness and relative isolation of mining sites and housing camps make women more vulnerable
+to gender-based violence in the workplace, in comparison with other sectors. The male domination of
+the industry also contributes to this problem. Negative publicity on this issue can have a negative impact
+on the reputation of specific undertakings as well as on the industry as a whole and can make it more
+difficult to retain existing and recruit new female workers. Measures against violence and harassment
+at the workplace include clear policies on these issues, workforce training and an effective grievance
+mechanism in place.
+S1: Diversity, including gender equality and equal pay for work of equal value
+The mining, coal and quarrying industry has been identified as one of the most highly male-dominated
+industries, with few women employed and an above-average male-female wage gaps. Research
+reports that many female workers in the industry feel that they do not receive the same level of support
+and have the same career chances as their male colleagues. One impact of this situation is that many
+female workers will be earning less money and not realizing their full career potential. Another possible
+impact is on local communities, particularly where the undertaking is the main employer, as fewer
+women will benefit from income and career chances. It also may contribute to the difficulties to recruit
+workers as women (who make up half of the labour force) may be reluctant to work in the sector.
+Racism, which results in demotivated workers and a negative workplace culture, has also been reported
+to be an issue in the industry, with many of the same impacts on minorities that gender discrimination
+has on women. Ensuring workforce inclusion, diversity, and that minorities have equal opportunities is
+therefore an important aspect of sustainability within the mining industry. Such measures include clearly
+communicated policies, effective grievance and remediation mechanisms, clear criteria and procedures
+for remuneration and promotion, mentoring and other forms of support.
+S1/S2: Child labour
+The ILO estimates that one million children are working in mining and quarries. The use of child labour
+is most prevalent in countries where labour rights are weak and/or poorly enforced and in artisanal and
+small-scale mining suppliers. In addition to the negative impact child labour can have on the health,
+development and well-being of children, there is reputational risk for undertakings using child labour in
+own operations or in the supply chain. This sustainability matter therefore includes the undertaking's
+efforts to tackle these risks, the organization's supply chain management and whether it ensures that it
+is ethical, sustainable, and ensures protection of the rights of all their suppliers' employees. The OECD
+has issued sector-specific guidelines on due diligence in mining, and the ILO has developed
+recommendations for action plans to address child labour in this sector.
+S1/S2: Forced labour
+The ILO estimates that roughly a quarter million adults are subject to forced labour in mining, as well
+as a significant proportion of the one million children working in the sector. As in the case of child labour,
+forced labour is concentrated in certain countries where labour rights are weak and in artisanal and
+small-scale mining suppliers.
+This sustainability matter therefore includes the undertaking's efforts to tackle these risks, the
+organization's supply chain management and whether it ensures that it is ethical, sustainable, and
+ensures protection of the rights of all their suppliers' employees. The ILO, OECD, IOM and UNICEF
+have jointly issued recommendations for ending child labour, forced labour and human trafficking in
+global supply chains.
+S1/S2: Adequate housing, including water and sanitation (Mining and coal only)
+Adequate housing, including water and sanitation, is a material issue where mining, quarrying and coal
+operations are located in remote areas or in communities lacking the housing and other infrastructure
+needed to fully support the workforce. The quality of housing includes not only the physical condition of
+the housing structure but also the physical and social environment in which the housing is located. In
+some case of remote locations, infrastructure is completely lacking and workers may be flown in for
+weeks at a time. Housing currently provided by undertakings ranges from temporary camps to
+dormitories to homes. In these situations, the quality of this housing and the suitability of this housing
+for families, is a material issue. Policies, targets and action plans on this matter focus on the quality of
+housing that is provided to workers. Basic measures of housing quality used in the EU include access
+to water and sanitation, adequacy of heating, the absence of a leaking roof, and adequate space (i.e.
+lack of overcrowding).
+S3: Infrastructure. Including adequate housing, adequate food, water and sanitation and power.
+Mining and coal operations are interlinked with the location and communities in which these take place.
+This affects the employment and economic performance in the area, as well as potentially exposing the
+local community to hazardous substances if operations are not handled with the proper care. Due to
+impact on the local communities, this sustainability matter includes, but is not limited to; the living
+infrastructures of the local communities; its economic impacts; the communities’ access to adequate
+food, the operations land-related impacts, their impact on families, children, and community as a whole;
+smell, light, noise, and vibration pollution; access to water and sanitation.
+S3: Impacts on land rights
+Mining and coal are land-intensive sectors, whose impacts can materialize when land is acquired to
+develop a project, but also when environmental pollution, ongoing deforestation, access restrictions
+among others, further impede the capacity of indigenous and local communities to access, cultivate
+lands or benefit from forests.
+S3: Security-related impacts
+Mining and coal operations can be located in or near areas of active conflict or could become a source
+of local conflict. They therefore can have an impact on the security and potential conflicts in the area.
+S3: Freedom of expression and freedom of assembly
+Due to the presence of mining and coal operations in countries where the enforcement of human rights
+may be low, there is a higher risk for violations of the civil and political rights among the undertaking’s
+employees and local communities. This sustainability matter includes, but is not limited to, freedom of
+expression and freedom of assembly.
+S3: Impacts on environmental and human rights defenders
+The mining industry is one of the most closely watched sectors in terms of human rights protection and
+environmental defenders with several hundred attacks globally in addition to the concrete risk of threats
+and abuse. Ensuring the rights and protection of human rights and environmental defenders is therefore
+of the utmost importance in the mining industry.
+S3: Particular rights of indigenous communities, including free, prior and informed consent;
+self-determination; and cultural rights
+Mining and coal operations often take place in locations that are in close proximity to indigenous
+communities, and consequently have an impact on these communities due to its economic influence
+and the environmental consequences from these operations. Examples can be found in disputes and
+conflicts over land ownerships and absence of good faith in consultation; also the potential influx of
+workers from other areas can result in discrimination toward indigenous peoples regarding access to jobs
+and opportunities that can further undermine social cohesion, well-being and safety or the increased
+exposure of indigenous women to risks of prostitution, forced labour or violence. This sustainability matter
+would therefore cover if there has been a free, prior, and informed consent of indigenous people and
+the practice the undertaking has in place to ensure his. It also includes whether land-use rights, the
+right to self-determination as well as cultural right has been respected and indigenous communities’
+access to water is guaranteed.
+G1: Corporate culture (Code of conduct and ethics)
+Ensuring that undertakings have a code of conduct and ethics that outlines how the undertaking and its
+employees are expected to conduct themselves to guarantee security and guidance in their everyday
+work. Mining and coal operations are in locations all over the world, and it is therefore important that
+undertakings within the sector have a clearly stated code of conduct to ensure that the rights of
+employees and members of local communities are protected by the organization with no regard to the
+location of the operations.
+G1: Corruption and bribery
+Due to the nature of mining operations, along with other extractive industries, the mining and coal sector
+has a high risk for corruption and bribery events as their value chains are complex and of high value.
+This may lead to an undertaking taking advantage which consequently damages the environment and
+has a negative impact on the well-being of employees and local communities. This sustainability matter
+does not only include the efforts carried by an organization to guarantee that these actions are not
+happening within it, but also the measures implemented to prevent this from occurring. It also covers
+the consequences of a breach of policy, potential reprimands for breaches and the whistle blowing
+systems and protections the undertaking has in place.
+G1: Political engagement and lobbying activities
+Mining and coal operations, along with other extractive industries, are often important sectors within a
+country industry and therefore have wide ranging impacts on the communities and countries they
+operate within. This leads to them often engaging in politics and lobbying activities regarding legislation
+and political decisions. When democratic safeguards are not strong, political engagement and lobbying
+activities can result in less consideration of the interest of the local community. Only when both the
+interests of the undertaking and the interests of the local community are upheld there can be an effective
+and value creating operation.
+G1: Management of relationships (including payment practices)
+Managing relationships with governments, business partners, suppliers and stakeholders is of vital
+importance for undertakings in the mining industry. Stakeholder engagement can prevent, monitor, and
+help mitigate any environmental or social risks. For this reason, stakeholder engagement shall be
+integrated into project planning and regular business operations through sharing of decision-making
+power with interested and affected parties and it shall be driven by stakeholders through ongoing
+consultation and follow-through. As per OECD guidelines on stakeholder engagement in the extractive
+industries, stakeholder engagement strategies shall prioritise engagement with most severely affected
+stakeholders, rather than most influential stakeholders. This includes, but is not limited to, artisanal and
+small-scale miners and civil society organizations. Clarity and transparency regarding payments to
+governments from undertakings in the mining industry sector will contribute to a more efficient
+management of public funds and avoiding corruption. Such payments may be the origin of revenue for
+local communities and other regions, which may have increased demand for public spending. Project-
+level payment data is therefore relevant information to local communities, governments, and investors
+alike. It enables undertakings to demonstrate the economic contribution they are making in relation to
+specific projects, and the communities they affect.
+G1: Protection of natural resources
+Due to the value and nature of the natural resources exploited under mining contracts and licenses
+and/or contracts where such resources are purchased from the state, it means that there are significant
+opportunities to enrich individuals while the local community does not receive the full value that it should.
+These are further described below:
+Licenses and contracts: As explained by EITI (The Extractive Industries Transparency Initiative),
+contracts, licenses and associated agreements are important elements as they explain the rights and
+obligations of all parties involved in the exploration and production of oil, gas and minerals.
+Contract transparency can help curb corruption and empower citizens to assess whether they are
+getting a good deal for their resources as it informs on the terms that govern extractive projects,
+including revenues to national and subnational governments. This information can be crucial in contexts
+where precious revenues are impacted by market volatility and emerging energy transition policies.
+Commodity trading: Per EITI, sometimes, extractive companies pay governments for the right to extract
+resources with in-kind payments of oil, gas and minerals. The state or the state-owned enterprise (SOE)
+then sells these physical resources to commodity trading companies or domestic refineries. Commodity
+traders may also provide resource-backed loans to governments or state-owned companies in
+exchange for future production of commodities.
+These are so significant, that almost half of total government revenues reported through the EITI come
+from the sale of oil, gas and minerals to commodity trading companies. The scale and significance of
+these payments make them a matter of public interest.
+Without transparency over the terms of these transactions, commodity trading is vulnerable to
+corruption and can jeopardise public revenues. Commodity trading transparency ensures that all parties
+understand the terms on which trades take place and how these may affect the funds available for
+public expenditures and development.
+Beneficial ownership: The real owners of extractive companies, known as the beneficial owners, are
+often kept anonymous or hidden by a chain of shell companies. This can be a particular challenge in
+the extractive industries, where knowing who has the rights to extract oil, gas and minerals is key to
+addressing risks of corruption or conflict of interest.
+Protecting anonymity can deter investment and make it harder to curb corruption. It is estimated that
+developing countries have lost USD 1 trillion a year since 2011 as a result of corrupt or illegal deals, many
+of which involve anonymous companies. Investigations using beneficial ownership information
+culminated in data leaks such as the Panama Papers, the Luanda Leaks and the Pandora Papers.
+Publishing details of company ownership can help close channels for corruption, enable effective
+taxation, build fairer markets, encourage responsible investment and manage business risk. Addressing
+these issues will remain critical as the energy transition gathers pace.

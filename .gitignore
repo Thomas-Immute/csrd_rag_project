@@ -1,0 +1,14 @@
+# Ignorera virtuella miljöer
+venv/
+.venv/
+.env 
+
+# Ignorera Python-kompilerade filer
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignorera OS-specifika filer
+.DS_Store
+Thumbs.db

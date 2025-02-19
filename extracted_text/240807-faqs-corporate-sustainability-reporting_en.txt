@@ -1,0 +1,2290 @@
+DRAFT COMMISSION NOTICE
+on the interpretation of certain legal provisions in Directive 2013/34/EU (Accounting
+Directive), Directive 2006/43/EC (Audit Directive), Regulation (EU) No 537/2014 (Audit
+Regulation), Directive 2004/109/EC (Transparency Directive), Commission Delegated
+Regulation (EU) 2023/2772 (first set of European Sustainability Reporting Standards
+“first ESRS delegated act”), and Regulation (EU) 2019/2088 (Sustainable Finance
+Disclosures Regulation “SFDR”) as regards sustainability reporting
+This set of Frequently Asked Questions (FAQs) clarifies the interpretation of certain
+provisions on sustainability reporting introduced by the Corporate Sustainability Reporting
+Directive “CSRD” (Directive (EU) 2022/2464)) into the Accounting Directive (Directive
+2013/34/EU), the Audit Directive (Directive 2006/43/EC), the Audit Regulation (Regulation
+(EU) No 537/2014), and the Transparency Directive (Directive 2004/109/EC) with the aim of
+facilitating their implementation by undertakings. It also clarifies certain provisions of the
+Sustainable Finance Disclosures Regulation “SFDR” (Regulation (EU) 2019/2088).
+This set of FAQs also includes a limited number of clarifications concerning the
+interpretation of certain provisions of the first set of European Sustainability Reporting
+Standards “ESRS” (Commission Delegated Regulation (EU) 2023/2772), where legal
+interpretation from the Commission has been deemed to be necessary. Undertakings and
+other stakeholders may also wish to consult the implementation guidance on ESRS published
+by EFRAG, the multistakeholder advisory body tasked with advising the Commission on
+ESRS.1
+Through this set of FAQs, the Commission intends to facilitate the compliance of
+stakeholders with the regulatory requirements in a cost-effective way and to ensure the
+usability and comparability of the reported information on sustainability. By providing
+greater clarity and certainty to companies, this set of FAQs will contribute to the
+Commission's objective of reducing administrative burdens on undertakings associated with
+sustainability reporting2. The Commission may update these FAQs where appropriate.
+The replies to the FAQs contained in this Notice clarify the provisions already contained in
+the applicable legislation. They do not extend in any way the rights and obligations deriving
+from such legislation nor introduce any additional requirements. These FAQs are merely
+intended to assist undertakings in the implementation of the relevant legal provisions. Only
+the Court of Justice of the European Union is competent to authoritatively interpret Union
+law. The views expressed in this Notice cannot prejudge the position that the Commission
+might take before the Union and national courts.
+1 www.efrag.org EFRAG has published implementation guidance on materiality assessment, on value-chain
+reporting and on the list of datapoints contained in ESRS. EFRAG is currently developing implementation
+guidance on climate transition plans. In addition, EFRAG has established an online Q&A platform through
+which undertakings and other stakeholders can submit technical questions on ESRS.
+2 In order to rationalise reporting obligations, the Commission has made full use of its empowerment in Article
+3(13) Accounting Directive to adopt Commission Delegated Directive (EU) 2023/2775 of 17 October 2023
+amending Directive 2013/34/EU of the European Parliament and of the Council (OJ L, 2023/2775, 21.12.2023)
+to adjust the size criteria applicable to the definition micro, small, medium-sized and large undertakings or
+groups for the effects of inflation. This has reduced the number of undertakings subject to sustainability
+reporting requirements under the Accounting Directive – and, consequently, under Article 8 of Regulation (EU)
+2020/852 (Taxonomy Regulation).
+1
+Table of contents
+Section I - Glossary of relevant terms and applicable legislation ........................................ 3
+Section II – Overview of the sustainability reporting requirements introduced by the
+CSRD ......................................................................................................................................... 5
+SUSTAINABILITY REQUIREMENTS FOR REPORTING UNDERTAKINGS .............. 6
+REQUIREMENTS FOR STATUTORY AUDITORS AND INDEPENDENT
+ASSURANCE SERVICES PROVIDERS (IASPS) ............................................................ 14
+Section III – FAQs on sustainability information to be reported under Articles 19a/29a
+of the Accounting Directive (individual and consolidated sustainability statement) ...... 17
+SCOPE AND APPLICATION DATES .............................................................................. 17
+EXEMPTION RULES ......................................................................................................... 22
+ESRS .................................................................................................................................... 26
+VALUE CHAIN .................................................................................................................. 27
+ARTICLE 8 TAXONOMY REGULATION DISCLOSURES ........................................... 31
+LANGUAGE REQUIREMENTS ....................................................................................... 32
+DIGITALISATION (FORMAT AND DIGITAL TAGGING) .......................................... 33
+PUBLICATION ................................................................................................................... 33
+SUPERVISION.................................................................................................................... 34
+Section IV – FAQs on sustainability information reported under Article 40a of the
+Accounting Directive ............................................................................................................. 34
+SCOPE AND APPLICATION DATE................................................................................. 34
+ESRS .................................................................................................................................... 35
+ARTICLE 8 TAXONOMY REGULATION DISCLOSURES ........................................... 36
+EXEMPTION RULES ......................................................................................................... 36
+LANGUAGE AND FORMAT ............................................................................................ 37
+PUBLICATION ................................................................................................................... 37
+SUPERVISION.................................................................................................................... 38
+Section V – FAQs on the assurance of sustainability reporting ........................................ 38
+APPROVAL OF STATUTORY AUDITORS AND AUDIT FIRMS ................................ 38
+ACCREDITATION AND APPROVAL OF INDEPENDENT ASSURANCE SERVICES
+PROVIDERS (IASPS) ......................................................................................................... 41
+ACCREDITED INDEPENDENT THIRD PARTY ............................................................ 41
+INDEPENDENT ASSURANCE SERVICES PROVIDERS (IASPS) ............................... 42
+THIRD-COUNTRY ASSURANCE PROVIDERS ............................................................. 43
+CONFIDENTIALITY.......................................................................................................... 43
+ASSURANCE SERVICES .................................................................................................. 44
+FEES .................................................................................................................................... 44
+2
+ASSURANCE OF THE SUSTAINABILITY STATEMENT PREPARED IN
+ACCORDANCE WITH ARTICLES 19a AND 29a ACCOUNTING DIRECTIVE .......... 44
+NON-ASSURANCE SERVICES ........................................................................................ 47
+ASSURANCE OF THE SUSTAINABILITY REPORT PREPARED IN ACCORDANCE
+WITH ARTICLE 40a OF THE ACCOUNTING DIRECTIVE .......................................... 48
+Section VI – FAQs on key intangible resources .................................................................. 48
+Section VII – Additional FAQs on requirements for third-country undertakings .......... 49
+Section VIII – FAQ on SFDR ............................................................................................... 51
+Section I - Glossary of relevant terms and applicable legislation
+Term Definition / Legal reference
+Accounting Directive Directive 2013/34/EU3.
+Audit Directive Directive 2006/43/EC4.
+Audit Regulation Regulation (EU) No 537/20145.
+Company Law Directive Directive (EU) 2017/11326.
+CSRD Directive (EU) 2022/2464 (Corporate Sustainability
+Reporting Directive)7.
+ESAP package − Regulation (EU) 2023/2859 establishing a European
+Single Access Point (ESAP) providing centralised
+access to publicly available information of relevance
+to financial services, capital markets and sustainability
+(ESAP Regulation)8;
+− Regulation (EU) 2023/2869 amending certain
+Regulations as regards the establishment and
+functioning of the European single access point
+(ESAP Omnibus Regulation)9;
+− Directive (EU) 2023/2864 amending certain
+3 Directive 2013/34/EU of the European Parliament and of the Council of 26 June 2013 on the annual financial
+statements, consolidated financial statements and related reports of certain types of undertakings, amending
+Directive 2006/43/EC of the European Parliament and of the Council and repealing Council Directives
+78/660/EEC and 83/349/EEC (OJ L 182, 29.6.2013, p. 19).
+4 Directive 2006/43/EC of the European Parliament and of the Council of 17 May 2006 on statutory audits of
+annual accounts and consolidated accounts, amending Council Directives 78/660/EEC and 83/349/EEC and
+repealing Council Directive 84/253/EEC (OJ L 157, 9.6.2006, p. 87).
+5 Regulation (EU) No 537/2014 of the European Parliament and of the Council of 16 April 2014 on specific
+requirements regarding statutory audit of public-interest entities and repealing Commission Decision
+2005/909/EC (OJ L 158, 27.5.2014, p. 77).
+6 Directive (EU) 2017/1132 of the European Parliament and of the Council of 14 June 2017 relating to certain
+aspects of company law (codification) (OJ L 169, 30.6.2017, p. 46).
+7 Directive (EU) 2022/2464 of the European Parliament and of the Council of 14 December 2022 amending
+Regulation (EU) No 537/2014, Directive 2004/109/EC, Directive 2006/43/EC and Directive 2013/34/EU, as
+regards corporate sustainability reporting (OJ L 322, 16.12.2022, p. 15).
+8 Regulation (EU) 2023/2859 of the European Parliament and of the Council of 13 December 2023 establishing
+a European single access point providing centralised access to publicly available information of relevance to
+financial services, capital markets and sustainability (OJ L, 2023/2859, 20.12.2023).
+9 Regulation (EU) 2023/2869 of the European Parliament and of the Council of 13 December 2023 amending
+certain Regulations as regards the establishment and functioning of the European single access point (OJ L,
+2023/2869, 20.12.2023).
+3
+Directives as regards the establishment and
+functioning of the European single access point
+(ESAP Omnibus Directive)10.
+ESEF Delegated Regulation Commission Delegated Regulation 2019/815 on the
+European Single Electronic Format (ESEF)11.
+LSME ESRS European Sustainability Reporting Standards (ESRS) to
+be used by listed Small-and Medium sized undertakings
+(SMEs), excluding micro-undertakings, as an alternative
+to the ESRS for the preparation of their sustainability
+statement under Article 19a of the Accounting Directive.
+These ESRS are to be adopted by the Commission based
+on Article 29c of the Accounting Directive.
+ESRS concerning certain third- European Sustainability Reporting Standards (ESRS) to
+country undertakings be used by third-country undertakings subject to Article
+40a of the Accounting Directive in the preparation of
+their sustainability report. These ESRS are to be adopted
+by the Commission based on Article 40b of the
+Accounting Directive.
+ESRS European Sustainability Reporting Standards (ESRS) to
+be used by undertakings within the scope of Articles 19a
+and 29a of the Accounting Directive for the preparation
+of their sustainability statement in compliance with
+Articles 19a and 29a of the Accounting Directive. These
+ESRS include both the first set of sector-agnostic ESRS
+(which have been adopted by Commission Delegated
+Regulation (EU) 2023/277212) and the sector-specific
+ESRS (to be adopted by the Commission by 30 June
+2026).
+SMEs Small and Medium-sized undertakings, as defined in
+Article 3(1), (2), and (3) of the Accounting Directive.
+SFDR Regulation (EU) 2019/2088 (Sustainable Finance
+Disclosures Regulation)13.
+Sustainability report Sustainability information to be reported under Article
+concerning certain third- 40a of the Accounting Directive.
+country undertakings
+Sustainability statement Sustainability information to be reported under Articles
+19a (individual sustainability statement) and 29a
+(consolidated sustainability statement) of the Accounting
+Directive.
+Taxonomy Regulation Regulation (EU) 2020/85214.
+10 Directive (EU) 2023/2864 of the European Parliament and of the Council of 13 December 2023 amending
+certain Directives as regards the establishment and functioning of the European single access point (OJ L,
+2023/2864, 20.12.2023).
+11 Commission Delegated Regulation (EU) 2018/815 of 17 December 2018 supplementing Directive
+2004/109/EC of the European Parliament and of the Council with regard to regulatory technical standards on the
+specification of a single electronic reporting format (OJ L 143, 29.5.2019, p. 1).
+12 Commission Delegated Regulation (EU) 2023/2772 of 31 July 2023 supplementing Directive 2013/34/EU of
+the European Parliament and of the Council as regards sustainability reporting standards (OJ L, 2023/2772,
+22.12.2023).
+13 Regulation (EU) 2019/2088 of the European Parliament and of the Council of 27 November 2019 on
+sustainability‐related disclosures in the financial services sector (OJ L 317, 9.12.2019, p. 1).
+4
+Transparency Directive Directive 2004/109/EC15.
+Section II – Overview of the sustainability reporting requirements introduced by the
+CSRD
+The CSRD (Corporate Sustainability Reporting Directive - Directive (EU) 2022/2464) has
+introduced new sustainability reporting requirements for certain undertakings by way of
+amendments to the Accounting Directive (Directive 2013/34/EU), Audit Directive (Directive
+2006/43/EC), Audit Regulation (Regulation (EU) No 537/2014), and Transparency Directive
+(Directive 2004/109/EC).
+Overall16, these sustainability reporting requirements oblige certain undertakings to publish
+sustainability information, which must be prepared in accordance with specific sustainability
+reporting standards and, where applicable, comply with a digital format. This sustainability
+information is subject to an assurance requirement and must be published together with the
+related assurance report.
+Overall, these sustainability reporting requirements apply to undertakings governed by the
+law of a Member State17 that are:
+− large undertakings;
+− SMEs (excluding micro-undertakings) with transferable securities admitted to trading
+on an EU regulated market; and
+− parent undertakings of large groups.
+They also apply to undertakings governed by the law of a third country that have either
+transferable securities admitted to trading on an EU regulated market (excluding micro-
+undertakings) or that have business in the territory of the Union above certain thresholds18.
+The rules to determine the size of an undertaking and the scope of consolidation for
+sustainability reporting purposes rely on the existing rules for financial reporting purposes,
+which are set out in the national measures transposing the pre-existing Accounting Directive.
+The Accounting Directive thresholds for the determination of the size of each category of
+undertaking are indicated in the box within the “Flowchart to identify the applicable
+sustainability reporting requirements and the application date” below.
+The date of application of these sustainability reporting requirements varies depending on the
+specific reporting requirement and on the category of undertaking. The specific application
+date for each requirement is indicated in the paragraph “Sustainability requirements for
+reporting undertakings” below.
+14 Regulation (EU) 2020/852 of the European Parliament and of the Council of 18 June 2020 on the
+establishment of a framework to facilitate sustainable investment, and amending Regulation (EU) 2019/2088
+(Text with EEA relevance) (OJ L 198, 22.6.2020, p. 13).
+15 Directive 2004/109/EC of the European Parliament and of the Council of 15 December 2004 on the
+harmonisation of transparency requirements in relation to information about issuers whose securities are
+admitted to trading on a regulated market and amending Directive 2001/34/EC (OJ L 390, 31.12.2004, p. 38).
+16 This is an overview of the main sustainability reporting requirements. Relevant reporting requirements for
+undertakings governed by the law of a Member State: Articles 19a, 29a, 40a Accounting Directive. For a more
+detailed illustration of each requirement, please see the paragraphs below.
+17 This is an overview of the undertakings in the scope of these sustainability reporting requirements. For a more
+detailed illustration of the undertakings in the scope of each requirement, please see the paragraphs below.
+18 Relevant reporting requirements for undertakings governed by the law of a third country: Article 4(5)
+Transparency Directive (which cross-refers to Articles 19a and 29a Accounting Directive) and Article 40a
+Accounting Directive.
+5
+As these requirements are introduced by way of a Directive, the specific rules that apply to
+undertakings are the ones set out in the national legislation transposing the Accounting
+Directive as amended by the CSRD19, as well as by Commission Delegated Directive (EU)
+2023/277520 that has adjusted the size criteria applicable to the definition of micro, small,
+medium-sized and large undertakings or groups for the effects of inflation, therefore reducing
+the number of undertakings subject to sustainability and, to a certain extent, financial
+reporting requirements.
+The CSRD does not regulate the voluntary disclosure of sustainability information by
+undertakings that do not fall under the scope of CSRD (for instance, SMEs without securities
+admitted to trading on an EU regulated market), which is not subject to mandatory
+requirements at Union level.
+SUSTAINABILITY REQUIREMENTS FOR REPORTING UNDERTAKINGS
+1. Preparation, assurance and publication of the sustainability information to be
+reported under Articles 19a and 29a Accounting Directive (sustainability statement)
+1.1 Sustainability information to be reported at individual level under Article 19a
+Accounting Directive (sustainability statement)
+Based on Article 19a Accounting Directive, undertakings governed by the law of a
+Member State that are:
+− large undertakings21; or
+− SMEs22, excluding micro-undertakings23, with transferable securities24 admitted
+to trading on an EU regulated market;
+must report sustainability information at individual level (individual sustainability
+statement) concerning the undertaking’s impacts on sustainability matters, and
+concerning how sustainability matters affect the undertaking’s development,
+performance and position.
+The individual sustainability statement must comply with the following requirements:
+(i) it must be included in a dedicated section of the undertaking’s management
+report;
+19 The rules on the presentation and the content of the sustainability statement prepared by undertakings are set
+out in the delegated acts specifying the relevant European Sustainability Reporting Standards (ESRS). These
+standards are adopted by way of Regulations, therefore are directly applicable by undertakings without need for
+Member States to transpose them.
+20 Commission Delegated Directive (EU) 2023/2775 of 17 October 2023 amending Directive 2013/34/EU of the
+European Parliament and of the Council as regards the adjustments of the size criteria for micro, small, medium-
+sized and large undertakings or groups (OJ L, 2023/2775, 21.12.2023).
+21 As defined in Article 3(4) Accounting Directive, as amended by Commission Delegated Directive (EU)
+2023/2775.
+22 As defined in Article 3(1), (2) and (3) Accounting Directive, as amended by Commission Delegated Directive
+(EU) 2023/2775.
+23 As defined in Article 3(1) Accounting Directive, as amended by Commission Delegated Directive (EU)
+2023/2775.
+24 As defined in Article 4(1) point (44) of Directive 2014/65/EU of the European Parliament and of the Council
+of 15 May 2014 on markets in financial instruments and amending Directive 2002/92/EC and Directive
+2011/61/EU. Transferable securities include, inter alia, shares in companies and other forms of securitised debt.
+6
+(ii) it must be prepared in accordance with the European Sustainability Reporting
+Standards (ESRS) adopted by way of Commission delegated acts25. SMEs
+(excluding micro-undertakings) with transferable securities admitted to trading on
+an EU regulated market may alternatively prepare their individual sustainability
+statement in accordance with a dedicated set of proportionate ESRS26 adopted by
+way of Commission delegated acts (LSME ESRS)27;
+(iii) it must be marked-up in accordance with a digital taxonomy28 adopted by way of
+an amendment to Commission Delegated Regulation on the European Single
+Electronic Format (ESEF)29, and the management report that includes the
+sustainability statement shall be prepared in the XHTML format30;
+(iv) it must be subject to assurance31, to be carried out by statutory auditors, or
+Independent Assurance Services Providers “IASPs” where allowed by a Member
+State, based on limited assurance standards32;
+(v) the management report that includes the sustainability statement shall be
+published in accordance with the existing publication rules for the management
+report33, together with the assurance opinion on the sustainability statement34.
+These requirements must be complied with based on the following phased approach35:
+− for financial years starting on or after 1 January 2024 (i.e. with publication in
+2025): large undertakings which are public-interest entities36 exceeding on their
+balance sheet dates the average number of 500 employees during the financial
+year;
+− for financial years starting on or after 1 January 2025 (i.e. with publication in
+2026): the other large undertakings (i.e. large undertakings which are not “public-
+interest entities exceeding on their balance sheet dates the average number of
+500 employees during the financial year”);
+− for financial years starting on or after 1 January 2026 (i.e. with publication in
+2027):
+25 Article 29b Accounting Directive. These ESRS include both the first set of sector-agnostic ESRS (which have
+been adopted by Commission Delegated Regulation (EU) 2023/2772) and the sector-specific ESRS (to be
+adopted by the Commission by 30 June 2026).
+26 Article 19a(6) Accounting Directive.
+27 Article 29c Accounting Directive.
+28 A “digital taxonomy” is a set of rules (which will be adopted by way of an amendment to Commission
+Delegated Regulation 2019/815) that will set out how to mark-up the information within the sustainability
+statement - which has to be included in a management report drawn-up in XHTML format - in order for the
+sustainability statement to become machine-readable.
+29 Commission Delegated Regulation (EU) 2018/815 of 17 December 2018 supplementing Directive
+2004/109/EC of the European Parliament and of the Council with regard to regulatory technical standards on the
+specification of a single electronic reporting format (OJ L 143, 29.5.2019, p. 1).
+30 Article 29d Accounting Directive.
+31 Article 34 Accounting Directive.
+32 Based on Article 26a of the CSRD, the assurance of sustainability reporting must be carried out in compliance
+with the limited assurance standards to be adopted by the Commission by 1 October 2026 (and currently under
+development). Member States may however apply national assurance standards, procedures or requirements as
+long as the Commission has not adopted an assurance standard covering the same subject matter.
+33 The sustainability reporting requirements set out in the Accounting Directive as amended by the CSRD do not
+modify the pre-existing publication deadline for the management report specified in Article 30 of the
+Accounting Directive, i.e. at the latest 12 months after the balance sheet date.
+34 Article 30 Accounting Directive.
+35 Article 5(2) first subparagraph CSRD.
+36 As defined in Article 2 point (1) Accounting Directive.
+7
+• SMEs (excluding micro-undertakings) with transferable securities
+admitted to trading on an EU regulated market;
+• small and non-complex institutions37 provided they are either large
+undertakings or SMEs (excluding micro-undertakings) with transferable
+securities admitted to trading on an EU regulated market;
+• captive insurance undertakings38 and captive reinsurance undertakings39
+provided that they are either large undertakings or SMEs (excluding
+micro-undertakings) with transferable securities admitted to trading on an
+EU regulated market.
+SMEs (excluding micro-undertakings) with transferable securities admitted to trading
+on an EU regulated market may opt-out from these requirements until financial years
+beginning before 1 January 2028, provided that they briefly state in their
+management report why the sustainability reporting was not provided40.
+The undertaking is exempted from the obligation to publish an individual
+sustainability statement where the information is included in the consolidated
+sustainability statement of a parent undertaking, provided that certain conditions are
+met as regards the content of the exempted undertaking’s management report and the
+publication of the sustainability information by the parent undertaking41. Large
+undertakings with securities admitted to trading on an EU regulated market –
+including small and non-complex institutions, captive insurance undertakings and
+captive reinsurance undertakings and including third-country undertakings - cannot
+avail of this exemption42.
+1.2 Sustainability information to be reported at consolidated level under Article 29a
+Accounting Directive (consolidated sustainability statement)
+Based on Article 29a Accounting Directive, an undertaking governed by the law of a
+Member State that is a parent undertaking of a large group43 must report sustainability
+information at consolidated level (consolidated sustainability statement) concerning
+the undertaking’s impacts on sustainability matters, and concerning how sustainability
+matters affect the undertaking’s development, performance and position.
+The consolidated sustainability statement must comply with the same requirements
+specified for the individual sustainability statement (paragraph 1.1 above, points (i) to
+(v))44.
+These requirements must be complied with based on the following phased approach45:
+− for financial years starting on or after 1 January 2024 (i.e. for publication in
+2025): public-interest entities that are parent undertakings of a large group
+37 Defined in point (145) of Article 4(1) of Regulation (EU) No 575/2013.
+38 Defined in point (2) of Article 13 of Directive 2009/138/EC.
+39 Defined in point (5) of Article 13 of Directive 2009/138/EC.
+40 Article 19a(7) Accounting Directive.
+41 These conditions are set out in Article 19a(9) Accounting Directive. See also FAQ 19.
+42 Article 19a(10) Accounting Directive.
+43 As defined in Article 3(7) Accounting Directive.
+44 However, the consolidated sustainability statement can only be prepared using ESRS. Parent undertakings of
+large groups that are SMEs with transferable securities admitted to trading on the EU regulated markets may not
+use LSME ESRS.
+45 Article 5(2) first subparagraph Accounting Directive.
+8
+exceeding on its balance sheet dates, on a consolidated basis, an average number
+of 500 employees during the financial year;
+− for financial years starting on or after 1 January 2025 (i.e. with publication in
+2026): the other parent undertakings of a large group (i.e. parent undertakings of
+a large group that are not “public-interest entities and/or whose group does not
+exceed on its balance sheet dates, on a consolidated basis, an average number of
+500 employees during the financial year”).
+A parent undertaking that publishes a consolidated sustainability statement is exempt
+from the obligation to publish its individual sustainability statement46. A parent
+undertaking that is also a subsidiary undertaking is exempt from publishing a
+consolidated sustainability statement where the information is included in the
+consolidated sustainability statement or consolidated sustainability reporting of
+another parent undertaking, provided that certain conditions are met as regards the
+content of the exempted undertaking’s management report and the publication of the
+sustainability information by the parent undertaking47. Large undertakings with
+securities admitted to trading on an EU regulated market – including small and non-
+complex institutions, captive insurance undertakings and captive reinsurance
+undertakings and including third-country undertakings - cannot avail of this
+exemption48.
+1.3 Sustainability information to be reported at individual level (sustainability statement)
+or - for parent undertakings of large groups - at consolidated level (consolidated
+sustainability statement) under Article 4(5) of the Transparency Directive by issuers
+of transferable securities admitted to trading on an EU regulated market)
+Based on Article 4(5) of the Transparency Directive, which cross-refers to Articles
+19a and 29a of the Accounting Directive, issuers of transferable securities admitted to
+trading on an EU regulated market49 (regardless of whether they are governed by the
+law of a Member State or by the law of a third country), excluding micro-
+undertakings, must include in their annual financial reports a management report that
+includes sustainability information at individual level (sustainability statement) or -
+for parent undertakings of large groups - at consolidated level (consolidated
+sustainability statement) in compliance with the same requirements specified under
+paragraph 1.1 above, points (i) to (v). The publication rules are those established for
+the annual financial report under Article 4 of the Transparency Directive50.
+Issuers of transferable securities admitted to trading on an EU regulated market that
+are large undertakings or SMEs (excluding micro-undertakings) or parent
+undertakings of large groups as defined in the Accounting Directive, will also have to
+publish the management report in compliance with the requirements set out in the
+Accounting Directive and specified under paragraphs 1.1 and 1.2 above. Exemption
+rules under Articles 19a(8) and 19a(9) of the Accounting Directive also apply.
+46 Article 29a(7) Accounting Directive.
+47 These conditions are set out in Article 29(8) Accounting Directive. See also FAQ 19.
+48 Article 29a(9) Accounting Directive.
+49 As defined in Article 2 points (a) and (d) of the Transparency Directive.
+50 The sustainability reporting requirements set out in the Transparency Directive as amended by the CSRD do
+not modify the pre-existing publication deadline for the annual financial report (which includes the management
+report) specified in Article 4(1) Transparency Directive, i.e. at the latest 4 months after the balance sheet date.
+9
+These requirements must be complied with based on the following phased approach51:
+− for financial years starting on or after 1 January 2024 (i.e. with publication in
+2025): issuers that are large undertakings exceeding on their balance sheet dates
+an average number of 500 employees during the financial year, as well as issuers
+that are parent undertakings of a large group exceeding on its balance sheet dates,
+on a consolidated basis, an average number of 500 employees during the financial
+year;
+− for financial years starting on or after 1 January 2025 (i.e. with publication in
+2026): other issuers that are large undertakings, as well as to other issuers that are
+parent undertakings of a large group;
+− for financial years starting on or after 1 January 2026 (i.e. with publication in
+2027):
+• issuers that are SMEs (excluding micro-undertakings);
+• issuers defined as small and non-complex institutions provided they are
+large undertakings or SMEs (excluding micro-undertakings) with
+transferable securities admitted to trading on an EU regulated market; and
+• issuers defined as captive insurance undertakings and captive reinsurance
+undertakings provided that they are either large undertakings or SMEs
+(excluding micro-undertakings) with transferable securities admitted to
+trading on an EU regulated market.
+2. Preparation, assurance, and publication of the sustainability information to be
+reported under Article 40a Accounting Directive (sustainability report for
+certain third-country undertakings)
+Based on Article 40a of the Accounting Directive, where a third-country undertaking
+that generates a net turnover of more than EUR 150 million in the Union (for each of
+the last two consecutive financial years) has a subsidiary in the Union that is subject
+to Articles 19a/29a Accounting Directive, or, in the absence of such subsidiary, a
+branch in the Union that generated a net turnover of more than EUR 40 million (in the
+preceding financial year), the subsidiary or the branch will have to publish and make
+accessible sustainability information at the group level of the third-country parent
+undertaking.
+This sustainability report to be provided under Article 40a of the Accounting
+Directive has a limited content compared to the “sustainability statement” to be
+provided under Articles 19a/29a of the Accounting Directive. Certain information that
+is required in the sustainability statement is not required in the sustainability report, in
+particular information on resilience, opportunities, and risks, since the intention above
+all is to focus the sustainability report on sustainability impacts52.
+The sustainability report must comply with the following requirements:
+− it must be prepared in accordance with the ESRS for certain third-country
+undertakings adopted by way of Commission delegated acts53;
+51 Article 5(2) third subparagraph Accounting Directive.
+52 Article 40a(1) Accounting Directive: “[…] sustainability report covering the information specified in points
+(a)(iii) to (a)(v), points (b) to (f) and, where appropriate, point (h) of Article 29a(2)”.
+53 Articles 40a(2) first subparagraph and 40b Accounting Directive. The time limit for the Commission to adopt
+the ESRS for certain third-country undertaking was postponed to 30 June 2026 by Directive (EU) 2024/1306 of
+10
+− it must be subject to assurance54;
+− it must be published by the relevant subsidiaries or branches established or
+located in the Union together with the assurance opinion on the sustainability
+report55.
+If the third-country parent undertaking prepares the sustainability report in
+compliance with the ESRS (instead of with the ESRS for certain third-country
+undertakings), the subsidiary or branch does not need to prepare the sustainability
+report in accordance with the ESRS for certain third-country undertakings. In this
+case, the exemptions under Article 19a(9) and Article 29a(8) would apply.
+These requirements must be complied with for each financial year beginning on or
+after 1 January 202856.
+Flowchart to identify the applicable sustainability reporting requirements for each type of
+undertaking and the specific application date
+The flowchart below illustrates the process to determine whether an entity is subject to
+sustainability reporting requirements and from which financial year.
+the European Parliament and of the Council of 29 April 2024 amending Directive 2013/34/EU as regards the
+time limits for the adoption of sustainability reporting standards for certain sectors and for certain third-country
+undertakings (OJ L, 2024/1306, 8.5.2024).
+54 Article 40a(3) Accounting Directive.
+55 Article 40d Accounting Directive.
+56 Article 5(2) second subparagraph CSRD: “Member States shall apply the measures necessary to comply with
+point (14) of Article 1 for financial years starting on or after 1 January 2028.”
+11
+Is the undertaking established in the EU?
+YES NO Does the undertaking have securities admitted to
+Is the undertaking a parent of a large group?
+trading on an EU regulated market?
+YES
+YES NO NO
+Is the undertaking a large undertaking?
+Is the undertaking a Public Interest Entity (as YES NO
+Does the undertaking have a net turnover
+defined in Art. 2(1) Accounting Dir.) with
+more than 500 employees at group level? Is the undertaking a Public Interest Entity (as Is the undertaking an SME (excluding micro
+generated in the Union above EUR 150 million
+defined in Art. 2(1) Accounting Dir.) with undertakings) with securities admitted to
+and:
+- Union subsidiaries that are either large
+YES NO more than 500 employees? trading on an EU regulated market? undertakings or SMEs (excluding micro-
+undertakings) with securities admitted to trading
+YES NO YES NO
+Consolidated Consolidated on an EU regulated market; or
+sustainability sustainability statement - branches with net turnover generated in the
+sta tement from FY from FY 2025 prepared Individual Individual Individual Undertaking Union above EUR 40 million?
+sustainability sustainability sustainability not subject to
+2 024 prepared in in accordance with
+statement from FY statement from FY statement from FY sustainability
+accordance with ESRS (Art. 29a
+2024 prepared in 2025 prepared in 2026 prepared in reporting YES
+ESRS (Art. 29a Accounting Dir. + Art. NO
+accordance with accordance with accordance with
+Accounting Dir. + 4(5) Transparency Dir.
+Art. 4(5) if the parent
+ESRS (Art. 19a ESRS (Art. 19a ESRS or LSME
+Accounting Dir. + Accounting Dir. + ESRS Undertaking
+Tr ansparency Dir. if undertaking has Union subsidiary or Union branch
+Art. 4(5) Art. 4(5) (Art. 19a not subject to
+u
+ndth ere
+t
+p akar ine gn t
+h as
+sec tru ar dit ii ne gs a od nm anit t Eed
+U
+to
+Transparency Dir. if Transparency Dir. if Accounting Dir. +
+m rea pk oe rs
+t
+a (Ava ri tl .a 4b 0le
+a
+t Ah ce
+c
+s ou us nta tii nn ga b Dil ii rt .y
+) sustainability
+secu rities admitted to regulated market) the undertaking has the undertaking has Art. 4(5) from FY 2028 in accordance with reporting
+securities admitted to securities admitted to Transparency Dir.)
+trading on an EU >Possible exemptions: if ESRS for certain third countries
+re gulated market) the parent undertaking is
+trading on an EU trading on an EU > Possible opt out for
+(Art 40a Accounting Dir.)
+regulated market) regulated market) FYs 2026 and 2027
+>P ossible exemptions: itself a subsidiary >Alternative option: the third-
+>Possible exemptions: > Possible > Possible
+if the parent undertaking (except for country undertaking prepares a
+if the undertaking is a exemptions: if the exemptions: if the
+undertaking is itself a large listed consolidated sustainability statement
+subsidiary undertaking is a undertaking is a
+subsidiary undertaking undertakings), an in accordance with ESRS. In this case
+undertaking (except if subsidiary undertaking subsidiary
+(except for large listed exemption is possible excemptions apply for the Union
+it is listed), an (except if it is listed), undertaking, an
+undertakings), an under Art. 29a(8) subsidiaries under Artt. 19a(9) and
+exemption is possible an exemption is exemption is possible
+exemption is possible Accounting Dir. 29a(8) Accounting Dir. (except for
+under Art. 19a(9) possible under Art. under Article 19a(9)
+under Art. 29a(8) large listed undertakings)
+Accounting Dir. 19a(9) Accounting Accounting Dir.
+Accounting Dir.
+Dir.
+➢ Micro-undertakings (Art. 3(1) Accounting Directive) = undertakings which on their balance sheet dates do not exceed the limits of at least two of the three following criteria: (a) balance sheet
+total: EUR 450 000; (b) net turnover: EUR 900 000; (c) average number of employees during the financial year: 10.
+➢ SMEs (Art. 3(1), (2) and (3) Accounting Directive) = undertakings which on their balance sheet dates do not exceed the limits of at least two of the three following criteria: (a) balance sheet total:
+EUR 25 000 000; (b) net turnover: EUR 50 000 000; (c) average number of employees during the financial year: 250.
+➢ Large undertakings (Art. 3(4) Accounting Directive) = undertakings which on their balance sheet dates exceed at least two of the three following criteria: (a) balance sheet total: EUR 25 000
+000; (b) net turnover: EUR 50 000 000; (c) average number of employees during the financial year: 250. 12
+➢ Large groups (Art. 3(7) Accounting Directive) = groups consisting of parent and subsidiary undertakings to be included in a consolidation and which, on a consolidated basis, exceed the limits of
+at least two of the three following criteria on the balance sheet date of the parent undertaking: (a) balance sheet total: EUR 25 000 000; (b) net turnover: EUR 50 000 000; (c) average number of
+employees during the financial year: 250.
+Timeline for the application of sustainability reporting requirements
+The table below illustrates the different application dates for the different types of undertakings subject to sustainability reporting.
+Financial year Financial year Financial year Financial year Financial year
+2024 2025 2026 2027 2028
+(reporting in 2025) (reporting in 2026) (reporting in 2027) (reporting in 2028) (reporting in 2029)
+Large undertakings which are PIEs Individual Individual Individual Individual Individual
+(including third-country issuers) > 500 sustainability sustainability sustainability sustainability sustainability
+employees on average during the financial statement statement statement statement statement
+year (ESRS) (ESRS) (ESRS) (ESRS) (ESRS)
+PIEs (including third-country issuers) that Consolidated Consolidated Consolidated Consolidated Consolidated
+are parent undertakings of a large group > sustainability sustainability sustainability sustainability sustainability
+500 employees on average on a statement statement statement statement statement
+consolidated basis during the financial year (ESRS) (ESRS) (ESRS) (ESRS) (ESRS)
+Large undertakings (including third-country N/A Individual Individual Individual Individual
+issuers) that are not “PIEs > 500 employees sustainability sustainability sustainability sustainability
+on average during the financial year” statement statement statement statement
+(ESRS) (ESRS) (ESRS) (ESRS)
+Parent undertakings of a large group N/A Consolidated Consolidated Consolidated Consolidated
+(including third-country issuers) that are not sustainability sustainability sustainability sustainability
+“PIEs > 500 employees on average on a statement statement statement statement
+consolidated basis during the financial (ESRS) (ESRS) (ESRS) (ESRS)
+year”
+Listed SMEs, SNCIs, captive (re)insurance N/A N/A Individual Individual Individual
+undertakings (including third-country sustainability sustainability sustainability
+issuers) statement statement statement
+(ESRS or LSME (ESRS or LSME (ESRS or LSME
+ESRS)* ESRS)* ESRS)
+CSRD subsidiaries (or, in the absence, EU N/A N/A N/A N/A Sustainability report
+branches with net turnover in the Union > (ESRS for certain
+EUR 40 million) of third-country non-listed third-country
+undertakings with net turnover in the Union undertakings or
+> EUR 150 million ESRS)
+* may opt out
+13
+REQUIREMENTS FOR STATUTORY AUDITORS AND INDEPENDENT
+ASSURANCE SERVICES PROVIDERS (IASPS)
+1. Assurance of the sustainability information to be reported under Articles 19a and
+29a Accounting Directive (sustainability statement)
+Under Article 34(1) second subparagraph, point (aa) of the Accounting Directive, any
+undertaking subject to sustainability reporting under Articles 19a and 29a of the
+Accounting Directive must obtain an assurance opinion on the sustainability statement
+included in their management report57.
+From the first year of application of sustainability reporting requirements, this assurance
+opinion must be based on a limited assurance engagement as regards the compliance of
+the sustainability statement with the following requirements58:
+− the sustainability reporting requirements provided for in the Accounting Directive
+(including the compliance of the sustainability reporting with the ESRS adopted
+pursuant to Articles 29b/29c of the Accounting Directive, the process carried out
+by the undertaking to identify the information reported pursuant to those ESRS,
+and the compliance with the requirement to mark-up sustainability reporting in
+accordance with Article 29d of the Accounting Directive); and
+− the reporting requirements provided for in Article 8 of the Taxonomy Regulation.
+Based on Article 26a of the Audit Directive, the Commission is empowered to adopt
+sustainability assurance standards for limited assurance by 1 October 202659.
+The Commission is empowered to adopt sustainability assurance standards for
+reasonable assurance by 1 October 2028, following an assessment to determine if
+reasonable assurance is feasible for auditors and for undertakings60.
+57 Article 34(1) second subparagraph, point (aa) Accounting Directive: “The statutory auditor(s) or audit firm(s)
+shall also: […] (aa) where applicable, express an opinion based on a limited assurance engagement as regards
+the compliance of the sustainability reporting with the requirements of this Directive […]”.
+58 Article 34(1) second subparagraph, point (aa) Accounting Directive: “The statutory auditor(s) or audit firm(s)
+shall also: […] (aa) where applicable, express an opinion based on a limited assurance engagement as regards
+the compliance of the sustainability reporting with the requirements of this Directive, including the compliance
+of the sustainability reporting with the sustainability reporting standards adopted pursuant to Article 29b or
+Article 29c, the process carried out by the undertaking to identify the information reported pursuant to those
+sustainability reporting standards, and the compliance with the requirement to mark up sustainability reporting
+in accordance with Article 29d, and as regards the compliance with the reporting requirements provided for in
+Article 8 of Regulation (EU) 2020/852; […]”
+59 Article 26a(1) and (3) first subparagraph Audit Directive: “Member States shall require statutory auditors and
+audit firms to carry out the assurance of sustainability reporting in compliance with the assurance standards
+adopted by the Commission […]. The Commission shall, no later than 1 October 2026, adopt delegated acts
+[…] in order to provide for limited assurance standards setting out the procedures that the auditor(s) and the
+audit firm(s) shall perform in order to draw his, her or its conclusions on the assurance of sustainability
+reporting, including engagement planning, risk consideration and response to risks and type of conclusions to
+be included in the assurance report on sustainability reporting, or, where relevant, in the audit report […]”.
+60 Article 26a(3) second subparagraph Audit Directive: “The Commission shall, no later than 1 October 2028,
+adopt delegated acts […] in order to provide for reasonable assurance standards, following an assessment to
+determine if reasonable assurance is feasible for auditors and for undertakings. Taking into account the results
+of that assessment and if therefore appropriate, those delegated acts shall specify the date from which the
+opinion referred to in point (aa) of the second subparagraph of Article 34(1) is to be based on a reasonable
+assurance engagement that is based on those reasonable assurance standards.”.
+14
+Pending the adoption by the Commission of assurance standards on this subject matter,
+Member States may apply national assurance standards, procedures or requirements
+covering that subject matter61.
+Based on Article 34 of the Accounting Directive, the opinion on the sustainability
+reporting may be expressed by the following categories of assurance providers:
+− the statutory auditor auditing the financial statements of the relevant undertaking62;
+− a statutory auditor other than the one auditing the financial statements (where
+allowed by a Member State)63;
+− an Independent Assurance Services Provider “IASP” (where allowed by a Member
+State)64.
+If a Member State decides to allow an IASP to express the assurance opinion on the
+sustainability reporting, it shall also allow a statutory auditor other than the one(s)
+carrying out the statutory audit of financial statements to do so65.
+2. Assurance of the sustainability information to be reported under Article 40a of the
+Accounting Directive (sustainability report for certain third-country undertakings)
+Under Article 40a(3) first subparagraph of the Accounting Directive, the subsidiaries or
+branches subject to sustainability reporting under Article 40a of the Accounting
+Directive must obtain an assurance opinion on the sustainability report66. The third-
+country parent undertaking is responsible for providing the assurance opinion on the
+sustainability report to the relevant subsidiary or branch67.
+This assurance opinion must concern the compliance of this sustainability report with the
+relevant requirements set out in the Accounting Directive, including the compliance of
+the sustainability report with the ESRS adopted pursuant to Article 40b of the
+Accounting Directive.
+61 Article 26a(2) first subparagraph Audit Directive: “Member States may apply national assurance standards,
+procedures or requirements as long as the Commission has not adopted an assurance standard covering the
+same subject matter.”.
+62 Article 34(1) first subparagraph Accounting Directive: “Member States shall ensure that the financial
+statements of public-interest entities, medium-sized and large undertakings are audited by one or more statutory
+auditors or audit firms approved by Member States to carry out statutory audits on the basis of Directive
+2006/43/EC.”
+63 Article 34(3) Accounting Directive: “Member States may allow a statutory auditor or an audit firm other
+than the one(s) carrying out the statutory audit of financial statements to express the opinion referred to in point
+(aa) of the second subparagraph of paragraph 1.”
+64 Article 34(4) first subparagraph Accounting Directive: “ […] Member States may allow an independent
+assurance services provider established in their territory to express the opinion referred to in point (aa) of the
+second subparagraph of paragraph 1 […].”
+65 Article 34(4) sixth subparagraph Accounting Directive: “If a Member State, pursuant to the first
+subparagraph, decides to allow an independent assurance services provider to express the opinion referred to
+in point (aa) of the second subparagraph of paragraph 1, it shall also allow a statutory auditor other than the
+one(s) carrying out the statutory audit of financial statements to do so, as provided for in paragraph 3.”
+66 Article 40a(3) first subparagraph Accounting Directive: “Member States shall require that the sustainability
+report referred to in paragraph 1 is published accompanied by an assurance opinion […]”.
+67 Article 40a(3) second subparagraph Accounting Directive: “In the event that the third-country undertaking
+does not provide the assurance opinion in accordance with the first subparagraph, the subsidiary undertaking
+or branch shall issue a statement indicating that the third-country undertaking did not make the necessary
+assurance opinion available.”
+15
+This assurance opinion must be expressed by one or more person(s) or firm(s) authorised
+to give an opinion on the assurance of sustainability reporting under the national law of
+the third-country undertaking or of a Member State68.
+3. Assurance providers: conditions to provide sustainability assurance
+Where a statutory auditor or audit firm approved to carry out the audit of financial
+statements within a Member State wishes to be approved to provide assurance on
+sustainability reporting, it will have to comply with the national measures transposing the
+relevant requirements set out in the Audit Directive as regards the assurance of
+sustainability reporting.
+These requirements cover in particular educational qualifications, examinations of
+professional competence, tests of theoretical knowledge, practical training and
+continuing education. Compliance with these requirements is not mandatory where the
+statutory auditor or audit firm does not provide assurance on sustainability reporting.
+Statutory auditors approved before 1 January 2026 – that were either approved before 1
+January 2024 or that on 1 January 2024 were undergoing the approval process – that also
+want to carry out sustainability assurance, do not have to comply with these
+requirements, but still need to acquire the necessary knowledge through continuing
+education69.
+Independent Assurance Services Providers (IASPs) may provide assurance of
+sustainability reporting where allowed by a Member State70 and under the following
+conditions:
+− The IASP is accredited for the assurance of sustainability reporting in accordance
+with Regulation (EC) No 765/20087172; and
+− the IASP complies with requirements equivalent to those set out in the Audit
+Directive for statutory auditors in the Union to carry out the assurance of
+sustainability reporting73. These requirements concern in particular: (a) training and
+68 Article 40a(3) first subparagraph Accounting Directive: “Member States shall require that the sustainability
+report referred to in paragraph 1 is published accompanied by an assurance opinion expressed by one or more
+person(s) or firm(s) authorised to give an opinion on the assurance of sustainability reporting under the
+national law of the third-country undertaking or of a Member State.”.
+69 Article 14a of the Audit Directive.
+70 Article 34(4) first subparagraph Accounting Directive.
+71 Regulation (EC) No 765/2008 of the European Parliament and of the Council of 9 July 2008 setting out the
+requirements for accreditation and market surveillance relating to the marketing of products and repealing
+Regulation (EEC) No 339/93 (OJ L 218, 13.8.2008, p. 30).
+72 Article 2 point (20) Accounting Directive: “‘independent assurance services provider’ means a conformity
+assessment body accredited in accordance with Regulation (EC) No 765/2008 of the European Parliament and
+of the Council for the specific conformity assessment activity referred to in point (aa) of the second
+subparagraph of Article 34(1) of this Directive.”
+73 Article 34(4) first subparagraph Accounting Directive: “Member States may allow an independent assurance
+services provider established in their territory to express the opinion referred to in point (aa) of the second
+subparagraph of paragraph 1, provided that such independent assurance services provider is subject to
+requirements that are equivalent to those set out in Directive 2006/43/EC of the European Parliament and of
+the Council as regards the assurance of sustainability reporting as defined in point 22 of Article 2 of that
+Directive, in particular the requirements on: (a) training and examination, ensuring that independent assurance
+services providers acquire the necessary expertise concerning sustainability reporting and the assurance of
+sustainability reporting; (b) continuing education; (c) quality assurance systems; (d) professional ethics,
+independence, objectivity, confidentiality and professional secrecy; (e) appointment and dismissal; (f)
+investigations and sanctions; (g) the organisation of the work of the independent assurance services provider, in
+16
+examination; (b) continuing education; (c) quality assurance systems; (d)
+professional ethics, independence, objectivity, confidentiality and professional
+secrecy; (e) appointment and dismissal; (f) investigations and sanctions; (g) the
+organisation of the work of the independent assurance services provider, in
+particular in terms of sufficient resources and personnel and the maintenance of
+client account records and files; and (h) reporting irregularities.
+From 6 January 2027, a Member State that allows IASPs to carry out assurance services
+on sustainability reporting in its territory shall allow IASPs established in other Member
+States to carry out the assurance of sustainability reporting in its territory74.
+Third-country auditors and audit entities that provide sustainability assurance for
+undertakings established in a third country with transferable securities admitted to
+trading on the EU regulated market of a Member State must be registered in that Member
+State75.
+Section III – FAQs on sustainability information to be reported under Articles 19a/29a
+of the Accounting Directive (individual and consolidated sustainability statement)
+SCOPE AND APPLICATION DATES
+1) Which financial year determines when an undertaking falls into a certain size-
+category of undertakings: the financial year of the reporting year or the financial
+year prior to the reporting year?
+The rules to determine the size of an undertaking for sustainability reporting purposes
+rely on the existing rules for financial reporting purposes applying to the undertaking
+on the basis of the Member State in which it has its registered office76. These rules are
+set out in the national measures transposing the preexisting Accounting Directive.
+2) If an undertaking evolves during the course of a given financial year such that it
+meets the criteria for inclusion in a different category of undertaking, is it
+required to start reporting sustainability information according to the rules that
+apply to that new category for that same financial year or only after the criteria
+have been met for two consecutive financial years?
+The rules to determine the size category of an undertaking for sustainability reporting
+purposes, when that undertaking is evolving during the course of a given financial year,
+particular in terms of sufficient resources and personnel and the maintenance of client account records and
+files; and (h) reporting irregularities.
+74 Article 34(5) first subparagraph Accounting Directive: “From 6 January 2027, a Member State that has made
+use of the option provided for in paragraph 4 (the ‘host Member State’) shall allow independent assurance
+services provider established in a Member State other than the host Member State (the ‘home Member State’) to
+carry out the assurance of sustainability reporting.”
+75 Article 45 Audit Directive.
+76 In the case of undertakings with securities admitted to trading, the applicable financial reporting rules are
+those of the Home Member State as defined in Article 2(1) point (i) of the Transparency Directive (i.e. the
+Member State in which the undertaking has its registered office or one of the Member States where the
+undertaking has its securities admitted to trading on an EU regulated market).
+17
+rely on the existing rules for financial reporting purposes (see also FAQ 1). These rules
+are set out in the national measures transposing the preexisting Accounting Directive.
+3) How is the average number of employees calculated for the purpose of the
+undertaking’s categorisation under the Accounting Directive?
+Union legislation does not regulate the calculation of the average number of employees
+for the purpose of the undertaking’s categorisation under the Accounting Directive.
+However, Member States may have adopted national rules or provided guidance on this
+matter. In the absence of national rules or guidance, undertakings may use Article 5 of
+Commission Recommendation of 6 May 2003 concerning the definition of micro, small
+and medium-sized enterprises77 as guidance regarding the measurement of staff
+headcount, as a proxy of an average number of employees: “[…]The headcount
+corresponds to the number of annual work units (AWU), i.e. the number of persons who
+worked full-time within the enterprise in question or on its behalf during the entire
+reference year under consideration. The work of persons who have not worked the full
+year, the work of those who have worked part-time, regardless of duration, and the
+work of seasonal workers are counted as fractions of AWU. The staff consists of: (a)
+employees; (b) persons working for the enterprise being subordinated to it and deemed
+to be employees under national law; (c) owner-managers; (d) partners engaging in a
+regular activity in the enterprise and benefiting from financial advantages from the
+enterprise. Apprentices or students engaged in vocational training with an
+apprenticeship or vocational training contract are not included as staff. The duration
+of maternity or parental leaves is not counted.”
+4) Are SMEs without transferable securities admitted to trading on an EU regulated
+market required to report sustainability information under Articles 19a/29a of the
+Accounting Directive?
+SMEs without transferable securities admitted to trading on an EU regulated market are
+not required to report sustainability information at individual level under Article 19a of
+the Accounting Directive (individual sustainability statement). They are however
+required to report sustainability information at consolidated level under Article 29a of
+the Accounting Directive (consolidated sustainability statement) if they are parent
+undertakings of a large group78. Article 29a of the Accounting Directive applies
+regardless of the size of the parent undertaking.
+5) Are credit institutions and insurance undertakings required to report
+sustainability information under Articles 19a and 29a of the Accounting Directive
+regardless of their legal form?
+Yes. Pursuant to Article 1(3) of the Accounting Directive, credit institutions79 and
+insurance undertakings80, including cooperatives and mutual undertakings, are included
+in the scope of Article 19a of the Accounting Directive (individual sustainability
+77 Commission Recommendation of 6 May 2003 concerning the definition of micro, small and medium-sized
+enterprises (OJ L 124, 20.5.2003, p. 36).
+78 As defined in Article 3(7) Accounting Directive.
+79 As defined in Article 4(1), point (1), of Regulation (EU) No 575/2013 of the European Parliament and of the
+Council.
+80 Within the meaning of Article 2(1) of Council Directive 91/674/EEC.
+18
+statement) regardless of their legal form if they are large undertakings or SMEs
+(excluding micro-undertakings) with transferable securities admitted to trading on an
+EU regulated market. They are also included in the scope of Article 29a of the
+Accounting Directive (consolidated sustainability statement) regardless of their legal
+form where they are the parent undertaking of a large group.
+Pursuant to Article 1(3) point (b) second sentence of the Accounting Directive, Member
+States may choose not to apply, wholly or in part, the sustainability reporting
+requirements to specific credit institutions81.
+6) Are financial institutions – other than insurance undertakings and credit
+institutions – required to report sustainability information under Articles 19a/29a
+of the Accounting Directive?
+Yes. Financial institutions – other than insurance undertakings and credit institutions –
+are included in the scope of Articles 19a and 29a of the Accounting Directive where
+they meet both of the following requirements:
+− They are undertakings incorporated as a type of undertaking listed in Annex I or II
+of the Accounting Directive82;
+− they are either large undertakings or SMEs (excluding micro-undertakings) with
+transferable securities admitted to trading on an EU regulated market (Article 19a
+of the Accounting Directive) and/or parent undertakings of a large group (Article
+29a of the Accounting Directive).
+7) If a Small and Non-Complex Institution (SNCI) is currently required to report
+non-financial information under Directive 2014/95/EU (NFRD), does it have to
+continue reporting non-financial information in accordance with the provisions of
+NFRD until the CSRD regime starts applying to small and non-complex
+institutions (i.e. from financial years starting on or after 1 January 2026)?
+Yes. Based on Article 5(2) of the CSRD, a small and non-complex institution that is a
+large undertaking or an SME (excluding micro-undertakings) with transferable
+securities admitted to trading on an EU regulated market will be required to report
+sustainability information in accordance with ESRS (or, alternatively, with LSME
+ESRS) starting from financial year 2026. Therefore, a small and non-complex
+institution that is currently required to report non-financial information under Article
+19a of the Accounting Directive as introduced by Directive 2014/95/EU (NFRD)83 (i.e.
+because, besides being a credit institution, it is also a large undertaking exceeding on its
+balance sheet dates the criterion of an average number of 500 employees during the
+financial year) would have to continue reporting under the NFRD regime until the
+81 Article 1(3) point (b) second sentence Accounting Directive: “Member States may choose not to apply the
+coordination measures referred to in the first subparagraph of this paragraph to the undertakings listed in
+points (2) to (23) of Article 2(5) of Directive 2013/36/EU of the European Parliament and of the Council.”
+82 Article 1(1) Accounting Directive: “1. The coordination measures prescribed by this Directive shall apply to
+the laws, regulations and administrative provisions of the Member States relating to the types of undertakings
+listed: (a) in Annex I; (b) in Annex II, where all of the direct or indirect members of the undertaking having
+otherwise unlimited liability in fact have limited liability by reason of those members being undertakings which
+are:(i) of the types listed in Annex I; or (ii) not governed by the law of a Member State but which have a legal
+form comparable to those listed in Annex I. […]”.
+83 Directive 2014/95/EU of the European Parliament and of the Council of 22 October 2014 amending Directive
+2013/34/EU as regards disclosure of non-financial and diversity information by certain large undertakings and
+groups (OJ L 330, 15.11.2014, p. 1).
+19
+CSRD regime becomes applicable to small and non-complex institutions (i.e. from
+financial year 2026).
+8) If a Small and Non-Complex Institution (SNCI) is a parent company of a large
+group, can that SNCI benefit from the derogation under Article 19a(6) of the
+Accounting Directive and prepare sustainability reporting in accordance with
+LSME ESRS?
+If an undertaking (regardless of the size or the specific type, e.g. including SNCIs) is a
+parent undertaking of a large group, it must publish a consolidated sustainability
+statement under Article 29a of the Accounting Directive prepared in accordance with
+ESRS. The possibility to use LSME ESRS in accordance with Article 19a(6) of the
+Accounting Directive only applies to SMEs (excluding micro-undertakings) with
+securities listed on an EU regulated market and to small and non-complex institutions,
+captive insurance undertakings or captive reinsurance undertakings (provided they are
+either large undertakings or SMEs - excluding micro-undertakings - with securities
+listed on an EU regulated market for the preparation of their individual sustainability
+statement. See also FAQ 10).
+9) If a Small and Non-Complex Institution (SNCI) is a parent company of a large
+group, when does it have to start reporting sustainability information?
+If an SNCI is a parent undertaking of a large group, it must publish a consolidated
+sustainability reporting using ESRS either from financial year 2024 (if the SNCI is a
+Public Interest Entity exceeding on its balance sheet date, on a consolidated basis, an
+average number of 500 employees during the financial year) or from financial year
+2025 (in all other cases).
+10) If an SNCI is a parent undertaking of a large group but is not required to issue
+consolidated financial statements due to all its subsidiaries being immaterial, is
+this SNCI still required to prepare and publish a consolidated sustainability
+statement?
+No. Article 29a of the Accounting Directive applies to parent undertakings of large
+groups. However, if a parent undertaking of a large group is exempted from preparing
+and publishing consolidated financial statements based on Article 23(10) of the
+Accounting Directive (i.e. because it only has subsidiary undertakings which are
+immaterial, both individually and collectively, or because all its subsidiary
+undertakings can be excluded from consolidation by virtue of Article 23(9) of the
+Accounting Directive), that parent undertaking is not required to prepare and publish a
+consolidated sustainability statement. However, to the extent that such parent
+undertaking is itself a large undertaking as defined in Article 3(4) of the Accounting
+Directive and would therefore fall within the scope of Article 19a of the Accounting
+Directive, that undertaking must prepare and publish an individual sustainability
+statement in accordance with Article 19a of the Accounting Directive. This individual
+sustainability statement must consider its subsidiaries when reporting about its value
+chain in accordance with ESRS.
+20
+11) Are Undertakings for Collective Investments in Transferable Securities (UCITS)
+and Alternative Investment Funds (AIFs) required to report sustainability
+information under Articles 19a and 29a of the Accounting Directive?
+No. Based on Article 1(4) of the Accounting Directive, UCITS and AIFs are exempted
+from reporting sustainability information under the Accounting Directive even if these
+financial products are in the scope of the Accounting Directive84.
+12) Are undertakings that manage Collective Investments in Transferable Securities
+(UCITS) and Alternative Investment Funds (AIFs) required to report
+sustainability information under Articles 19a and 29a of the Accounting
+Directive?
+Article 1(4) of the Accounting Directive aims to exclude UCITS and AIFs from the
+sustainability reporting requirements under Articles 19a and 29a of the Accounting
+Directive.
+However, undertakings that manage UCITS and AIFs would fall under the scope of the
+sustainability reporting obligations under Articles 19a and 29a of the Accounting
+Directive if they fulfil the legal form conditions under Article 1(1) of the Accounting
+Directive, and if they meet the company size criteria under Articles 19a and 29a of the
+Accounting Directive.
+13) Are Exchange-Traded Funds (ETFs) and Real Estate Investment Trusts (REITs)
+required to report sustainability information under Articles 19a and 29a of the
+Accounting Directive?
+As regards ETFs, since these financial products are established as Collective
+Investments in Transferable Securities (UCITS) or Alternative Investment Funds
+(AIFs), the same exemption applicable to UCITS and AIFs applies (see FAQ 11). As
+regards listed REITs, to the extent that they meet the conditions of Article 4(1)(a) of
+Directive 2011/61/EU85 to qualify as AIFs, the same exemption applicable to AIFs
+applies (see FAQ 11).
+14) Are pension funds required to report sustainability information under Articles
+19a and 29a of the Accounting Directive?
+If a pension fund is incorporated as a type of undertaking listed in Annex I or II of the
+Accounting Directive86 and falls under the scope of Articles 19a and 29a of the
+Accounting Directive, it will have to include in its management report a sustainability
+statement. Unlike Collective Investments in Transferable Securities (UCITS) or
+Alternative Investment Funds (AIFs), pension funds are not covered by the exclusion
+from the sustainability reporting requirements set out in Article 1(4) of the Accounting
+Directive.
+84 Article 1(4) Accounting Directive: “The coordination measures prescribed by Articles 19a, 29a and 29d shall
+not apply to financial products listed in points (b) [i.e. UICTS] and (f) [i.e. AIFs] of point (12) of Article 2 of
+Regulation (EU) 2019/2088 of the European Parliament and of the Council [i.e. SFDR] “.
+85 Directive 2011/61/EU of the European Parliament and of the Council of 8 June 2011 on Alternative
+Investment Fund Managers and amending Directives 2003/41/EC and 2009/65/EC and Regulations (EC) No
+1060/2009 and (EU) No 1095/2010 (OJ L 174, 1.7.2011, p. 1).
+86 Article 1(1) of the Accounting Directive.
+21
+15) Is the sustainability statement published within the management report by an
+issuer of transferable securities admitted to trading on an EU regulated market to
+be considered as “regulated information” as per Article 2(1) point (k) of the
+Transparency Directive?
+Yes. Article 2(1) point (k) of the Transparency Directive defines regulated information
+as, inter alia, “all information which the issuer, or any other person who has applied for
+the admission of securities to trading on a regulated market without the issuer's
+consent, is required to disclose under this Directive [i.e. the Transparency Directive]
+[…]”. Article 4(5) of the Transparency Directive requires issuers to disclose a
+sustainability statement, which is therefore to be considered as “regulated information”.
+16) Which companies may opt out of the obligation to report sustainability
+information for financial years starting before 1 January 2028 pursuant to Article
+19a(7) of the Accounting Directive?
+Based on Article 19a(7) of the Accounting Directive, SMEs (excluding micro-
+undertakings) with transferable securities admitted to trading on an EU regulated
+market may decide not to report sustainability information under Article 19a of the
+Accounting Directive for financial years starting before 1 January 2028 (e.g. for
+financial years 2026 and 2027). In such cases, the SME shall, nevertheless, briefly state
+in its management report why the sustainability reporting was not provided.
+This opt-out also applies to small and non-complex institutions, as well as to captive
+insurance and reinsurance undertakings, provided they are SMEs (excluding micro-
+undertakings) with transferable securities admitted to trading on an EU regulated
+market.
+EXEMPTION RULES
+17) If a parent undertaking reports sustainability information at consolidated level
+under Article 29a of the Accounting Directive (consolidated sustainability
+statement), does it have to report information on key performance indicators in
+accordance with Article 19(1) third subparagraph of the Accounting Directive in
+its consolidated management report?
+No. Article 19(1) third subparagraph of the Accounting Directive87, which regulates the
+individual management report, requires the disclosure of information on key
+performance indicators within the individual management report. Article 29(1) of the
+Accounting Directive88, which regulates the consolidated management report, requires
+87 Article 19(1) third subparagraph Accounting Directive: “To the extent necessary for an understanding of the
+undertaking's development, performance or position, the analysis shall include both financial and, where
+appropriate, non-financial key performance indicators relevant to the particular business, including
+information relating to environmental and employee matters. In providing the analysis, the management report
+shall, where appropriate, include references to, and additional explanations of, amounts reported in the annual
+financial statements.”
+88 Article 29(1) Accounting Directive: “The consolidated management report shall, as a minimum, in addition to
+any other information required under other provisions of this Directive, set out the information required by
+Articles 19 and 20, taking account of the essential adjustments resulting from the particular characteristics of a
+22
+that the consolidated management report sets out, as a minimum, the information
+required by Articles 19 and 20 of the Accounting Directive. Since Article 29a(7) of the
+Accounting Directive89 exempts undertakings from disclosing information on key
+performance indicators in the context of their individual management report (as
+required by Article 19(1) third subparagraph Accounting Directive) where they have
+complied with Article 29a(1) to (5), and since the contents of the consolidated
+management report according to Article 29(1) shall also include the information
+required under Article 19(1), the exemption would also apply to the undertaking’s
+consolidated management report under Article 29a.
+18) If an SME with securities admitted to trading on an EU regulated market chooses
+to voluntarily prepare and publish a consolidated sustainability statement under
+Article 29a Accounting Directive, shall it be exempted from preparing and
+publishing its individual sustainability statement under Article 19a Accounting
+Directive?
+Yes. An SME with securities admitted to trading on an EU regulated market that
+voluntarily publishes the consolidated sustainability statement referred to in Article 29a
+of the Accounting Directive shall be exempted from preparing and publishing the
+individual sustainability statement referred to in Article 19a of the Accounting
+Directive, provided that the consolidated sustainability statement is prepared in
+compliance with ESRS.
+19) What are the conditions for a subsidiary undertaking in the scope of Articles
+19a/29a of the Accounting Directive to be exempted from reporting sustainability
+information under Articles 19a/29a of the Accounting Directive (sustainability
+statement)?
+According to Articles 19a(9) and 29a(8) of the Accounting Directive, an undertaking
+which is a subsidiary undertaking shall be exempted from the obligations set out in
+Article 19a(1) to (4) of the Accounting Directive (or Article 29a(1) to (5) of the
+Accounting Directive if the subsidiary is itself an intermediate parent undertaking of a
+large group) if such undertaking and its subsidiary undertakings are included in the
+consolidated management report of a parent undertaking drawn up in accordance with
+Articles 29 and 29a of the Accounting Directive (or in the consolidated sustainability
+reporting of a third-country parent undertaking carried out in accordance with ESRS or
+in a manner equivalent to those ESRS).
+This exemption is subject to all the conditions listed in Article 19a(9) second
+subparagraph of the Accounting Directive (or Article 29a(8) second subparagraph of
+the Accounting Directive if the subsidiary is itself an intermediate parent undertaking
+of a large group). In particular, the management report of the exempted undertaking
+must contain: the name and registered office of the parent undertaking that reports the
+information at group level; weblink(s) to the consolidated management report or
+consolidated sustainability reporting of the parent undertaking; and the information that
+the undertaking is exempted from the obligation to publish the individual sustainability
+consolidated management report as compared to a management report in a way which facilitates the
+assessment of the position of the undertakings included in the consolidation taken as a whole.”
+89 Article 29a(7) Accounting Directive: “A parent undertaking that complies with the requirements set out in
+paragraphs 1 to 5 of this Article shall be deemed to have complied with the requirements set out in the third
+subparagraph of Article 19(1) and Article 19a”.
+23
+statement (or the consolidated sustainability statement, if the subsidiary is itself an
+intermediate parent undertaking of a large group). If the parent undertaking is
+established in a third country, its consolidated sustainability reporting and the assurance
+opinion must be published in accordance with the law of the Member State by which
+the subsidiary undertaking is governed, and the disclosures laid down in Article 8 of the
+Taxonomy Regulation (covering the activities carried out by the subsidiary
+undertaking) must be included either in the management report of the subsidiary
+undertaking or in the consolidated sustainability reporting carried out by the third-
+country parent undertaking.
+If a Member State requires that a translation of the consolidated management report or
+the consolidated sustainability reporting of the parent undertaking is provided, such
+translation should either be certified (e.g. by the translator or by the authority in charge
+of certifying translations of the relevant Member State), or include a statement
+specifying that it was not certified.
+Under Articles 19a(10) and 29a(9) of the Accounting Directive, large undertakings with
+securities admitted to trading on an EU regulated market – including where they are
+small and non-complex institutions, captive insurance undertakings and captive
+reinsurance undertakings and including where they are third-country undertakings –
+cannot avail of this exemption.
+20) Does the consolidated management report/consolidated sustainability reporting of
+the parent undertaking have to be already published when its subsidiary publishes
+its own management report in order for the subsidiary to be exempted from
+publishing its own sustainability statement?
+No. For the subsidiary undertaking to be exempted from publishing its own
+sustainability statement in accordance with Articles 19a(9) or 29a(8) of the Accounting
+Directive, the management report that the subsidiary undertaking publishes must
+contain a weblink to the consolidated management report or consolidated sustainability
+reporting of the parent undertaking90. Where that consolidated management report or
+consolidated sustainability reporting is not yet available at the time of publication of the
+subsidiary undertaking’s management report, the subsidiary undertaking claiming the
+exemption can make reference in its management report to a general weblink at which
+the relevant documents will be available in the future. The Union subsidiary could
+consider, for instance, obtaining from the parent undertaking a declaration that it
+guarantees the commitments entered into by the subsidiary undertaking and publishing
+that declaration together with its management report within the deadline set by its own
+Member State.
+90 Article 19a(9) second subparagraph, point (a), point (ii) and Article 29a(8) second subparagraph, point (a),
+point (ii) Accounting Directive: “the weblinks to the consolidated management report of the parent undertaking
+or, where applicable, to the consolidated sustainability reporting of the parent undertaking, as referred to in the
+first subparagraph of this paragraph, and to the assurance opinion referred to in point (aa) of the second
+subparagraph of Article 34(1) of this Directive or to the assurance opinion referred to in point (b) of this
+subparagraph”.
+24
+21) Does the consolidated management report or the consolidated sustainability
+reporting of the parent undertaking have to be available in a language accepted by
+the Member State by whose national law the subsidiary undertaking is governed
+in order for the subsidiary to be exempted from publishing its own sustainability
+statement?
+The Member State by whose national law the subsidiary undertaking is governed may
+require that the consolidated management report (or, where applicable, the consolidated
+sustainability reporting of the parent undertaking) is published in a language that such
+Member State accepts, and that any necessary translation into such language is
+provided. In this case, these requirements must be met in order for the subsidiary
+undertaking to be exempted from publishing its own sustainability statement91.
+22) How should the exempted subsidiary report the fact that it is exempted?
+Based on Articles 19a(9) and 29a(8) of the Accounting Directive, the exempted
+subsidiary must include in its management report the information that it is exempted
+from the obligation to publish an individual sustainability statement (or a consolidated
+sustainability statement, if the subsidiary is itself an intermediate parent undertaking of
+a large group)92.
+23) Should the management report of the exempted subsidiary be in a specific
+publication format?
+Where a subsidiary avails of the exemption in Article 19a(9) or 29a(8) of the
+Accounting Directive, the general rules on the publication of the management report
+apply, including the obligation to submit the management report to the national
+Business Register pursuant to Article 30 of the Accounting Directive in conjunction
+with the provisions in Chapter III of title I of the Company Law Directive. The digital
+requirements for sustainability reporting set out in Article 29d of the Accounting
+Directive do not apply. Where the subsidiary availing of the exemption in Article
+19a(9) or 29a(8) of the Accounting Directive has transferable securities admitted to
+trading on an EU regulated market, it will also have to comply with the general
+requirements set out by Article 4 of the Transparency Directive for the publication of
+the management report within the annual financial report (i.e. use of the European
+Single Electronic Format (ESEF) established by the ESEF Delegated Regulation and
+publication of the annual financial report within four months from the end of the
+financial year).
+24) Can large undertakings admitted to trading on an EU regulated market avail of
+the exemptions under Articles 19a(9) and 29a(8) of the Accounting Directive?
+No. Under Articles 19a(10) and 29a(9) of the Accounting Directive, large undertakings
+with transferable securities admitted to trading on an EU regulated market – including
+where they are small and non-complex institutions, captive insurance undertakings and
+captive reinsurance undertakings and including where they are third-country
+91 Articles 19a(9) third subparagraph and 29a(8) third subparagraph Accounting Directive.
+92 Article 19a(9) second subparagraph, point (a), point (iii) and Article 29a(8) second subparagraph, point (a),
+point (iii) Accounting Directive: “the information that the undertaking is exempted from the obligations set out
+in paragraphs 1 to 4 of this Article”.
+25
+undertakings – cannot be exempted from reporting sustainability information. They will
+therefore have to report sustainability information pursuant to Article 4(5) of the
+Transparency Directive and to Articles 19a/29a of the Accounting Directive.
+25) How can an undertaking comply with the obligation to prepare and publish an
+individual or a consolidated sustainability statement when it is not required to
+prepare and publish an individual or a consolidated management report?
+An undertaking that must report sustainability information and that is not required to
+prepare and publish an individual or a consolidated management report may publish the
+individual or consolidated sustainability statement in a separate document. This
+principle also applies to the consolidated sustainability reporting of a third-country
+parent undertaking for its subsidiaries to be exempted under Articles 19a(9) and 29a(8)
+of the Accounting Directive.
+However, that separate document – which includes the individual or consolidated
+sustainability statement – must comply with the format and the mark-up requirements
+set out in Article 29d of the Accounting Directive93.
+26) How can an undertaking comply with the obligation to prepare and publish a
+consolidated sustainability statement when it is exempted from preparing
+consolidated financial statements?
+An undertaking that must prepare and publish a consolidated sustainability statement
+without having to prepare and publish the corresponding consolidated financial
+statements will need to include in the consolidated sustainability statement the financial
+information necessary to understand the undertaking’s impacts on sustainability matters
+and to understand how sustainability matters affect the undertaking’s development,
+performance and position94.
+ESRS
+27) Which set of European Sustainability Reporting Standards (ESRS) shall
+undertakings use for the preparation of the sustainability information under
+Articles 19a and 29a of the Accounting Directive?
+93 Article 29d Accounting Directive: “1. Undertakings subject to the requirements of Article 19a of this
+Directive shall prepare their management report in the electronic reporting format specified in Article 3 of
+Commission Delegated Regulation (EU) 2019/815 ( 26 ) and shall mark up their sustainability reporting,
+including the disclosures provided for in Article 8 of Regulation (EU) 2020/852, in accordance with the
+electronic reporting format specified in that Delegated Regulation. 2. Parent undertakings subject to the
+requirements of Article 29a shall prepare their consolidated management report in the electronic reporting
+format specified in Article 3 of Delegated Regulation (EU) 2019/815 and shall mark up their sustainability
+reporting, including the disclosures provided for in Article 8 of Regulation (EU) 2020/852, in accordance with
+the electronic reporting format specified in that Delegated Regulation.”
+94 This reasoning is based on Article 19a(3) third subparagraph and Article 29a(3) third subparagraph
+Accounting Directive: “Where applicable, the information referred to in paragraphs 1 and 2 shall also contain
+references to, and additional explanations of, the other information included in the management report in
+accordance with Article 19, and the amounts reported in the annual financial statements.”. “Where applicable”
+is meant to refer to the situations where financial statements are not being prepared and published by the
+undertaking.
+26
+All undertakings falling within the scope of Articles 19a and 29a of the Accounting
+Directive shall use, by default, the ESRS adopted under Article 29b of the Accounting
+Directive (ESRS). The first set of ESRS was adopted by the European Commission via
+Commission Delegated Regulation (EU) 2023/2772 of 31 July 2023.
+For the preparation of the individual sustainability statement under Article 19a of the
+Accounting Directive, SMEs (excluding micro-undertakings) with transferable
+securities admitted to trading on an EU regulated market, as well as small and non-
+complex institutions, captive insurance undertakings and captive reinsurance
+undertakings, may alternatively use the proportionate ESRS that will be adopted
+pursuant to Article 29c of the Accounting Directive (LSME ESRS). See also FAQ 28.
+28) Which undertakings may use LSME ESRS to prepare their individual
+sustainability statement as an alternative to the ESRS adopted under Article 29b
+of the Accounting Directive?
+The undertakings that may use LSME ESRS to prepare their individual sustainability
+statement are:
+− SMEs (excluding micro undertakings) with transferable securities admitted to
+trading on an EU regulated market;
+− small and non-complex institutions95, provided that they are either (i) large
+undertakings; or (ii) SMEs (excluding micro undertakings) with transferable
+securities admitted to trading on an EU regulated market;
+− captive insurance undertakings96 provided they are either: (i) large undertakings; or
+(ii) SMEs (excluding micro undertakings) with transferable securities admitted to
+trading on an EU regulated market; and
+− captive reinsurance undertakings97 provided they are either: (i) large undertakings;
+or (ii) SMEs (excluding micro undertakings) with securities admitted to trading on
+an EU regulated market.
+VALUE CHAIN
+95 Defined in point (145) of Article 4(1) of Regulation (EU) No 575/2013 as “an institution that meets all the
+following conditions: (a) it is not a large institution; (b) the total value of its assets on an individual basis or,
+where applicable, on a consolidated basis in accordance with this Regulation and Directive 2013/36/EU is on
+average equal to or less than the threshold of EUR 5 billion over the four-year period immediately preceding the
+current annual reporting period; Member States may lower that threshold; (c) it is not subject to any obligations,
+or is subject to simplified obligations, in relation to recovery and resolution planning in accordance with Article
+4 of Directive 2014/59/EU; (d) its trading book business is classified as small within the meaning of Article
+94(1); (e) the total value of its derivative positions held with trading intent does not exceed 2 % of its total on-
+and off-balance-sheet assets and the total value of its overall derivative positions does not exceed 5 %, both
+calculated in accordance with Article 273a(3); (f) more than 75 % of both the institution's consolidated total
+assets and liabilities, excluding in both cases the intragroup exposures, relate to activities with counterparties
+located in the European Economic Area; (g) the institution does not use internal models to meet the prudential
+requirements in accordance with this Regulation except for subsidiaries using internal models developed at the
+group level, provided that the group is subject to the disclosure requirements laid down in Article 433a or 433c
+on a consolidated basis; (h) the institution has not communicated to the competent authority an objection to
+being classified as a small and non-complex institution; (i) the competent authority has not decided that the
+institution is not to be considered a small and non-complex institution on the basis of an analysis of its size,
+interconnectedness, complexity or risk profile”. These institutions may fall within the definition of large
+undertakings if they meet the thresholds under Article 3(7) of the Accounting Directive.
+96 Defined in point (2) of Article 13 of Directive 2009/138/EC.
+97 Defined in point (5) of Article 13 of Directive 2009/138/EC.
+27
+29) ESRS require undertakings to use estimates if they cannot obtain all necessary
+value chain information after having made reasonable efforts to do so (ESRS 1,
+General requirements, paragraph 69). What constitutes “reasonable effort”?
+The concept of “reasonable effort” is used to determine when an undertaking shall
+report an estimate of value chain information instead of reporting information collected
+from actors in its value chain.
+Paragraph 65 of ESRS 1 (General requirements) sets out the purpose of including value
+chain information in the sustainability statement. It states that “the undertaking shall
+include material value chain information when this is necessary to: (a) allow users of
+sustainability statements to understand the undertaking’s material impacts, risks and
+opportunities; and/or (b) produce a set of information that meets the qualitative
+characteristics of information (see Appendix B of this Standard)”.
+Paragraph 68 of ESRS 1 (General requirements) states: “The undertaking’s ability to
+obtain the necessary upstream and downstream value chain information may vary
+depending on various factors, such as the undertaking’s contractual arrangements, the
+level of control that it exercises on the operations outside the consolidation scope and
+its buying power. When the undertaking does not have the ability to control the
+activities of its upstream and/or downstream value chain and its business relationships,
+obtaining value chain information may be more challenging.”
+Paragraph 69 of ESRS 1 (General requirements) states: “There are circumstances
+where the undertaking cannot collect the information about its upstream and
+downstream value chain as required by paragraph 63 after making reasonable efforts
+to do so. In these circumstances, the undertaking shall estimate the information to be
+reported about its upstream and downstream value chain, by using all reasonable and
+supportable information, such as sector-average data and other proxies.”
+Paragraph 70 of ESRS 1 (General requirements) recognises that it may be challenging
+to obtain value chain information when the relevant actor in the value chain is an SME
+or another undertaking that is itself not subject to the reporting requirements of the
+Corporate Sustainability Reporting Directive.
+Paragraph 71 of ESRS 1 (General requirements) makes a distinction between reporting
+on policies, actions and targets, and reporting on metrics. With regard to policies,
+actions and targets, it states that the undertaking shall report value chain information
+“to the extent that those policies, actions and targets involve actors in the value chain”.
+With reference to metrics, it states that “in many cases, in particular for environmental
+matters for which proxies are available, the undertaking may be able to comply with
+the reporting requirements without collecting data from the actors in its upstream and
+downstream value chain, especially from SMEs, for example, when calculating the
+undertaking’s GHG Scope 3 emissions”.
+Paragraph 72 clarifies that: “The incorporation of estimates made using sector-average
+data or other proxies shall not result in information that does not meet the qualitative
+characteristics of information (see chapter 2 and section 7.2 Sources of estimation and
+outcome uncertainty of this Standard).”
+28
+The undertaking should determine reasonable effort as referred to in paragraph 69 of
+ESRS 1 (General requirements) taking into consideration its specific facts and
+circumstances as well as the conditions of the external environment in which it
+operates. What constitutes reasonable effort is therefore likely to vary from undertaking
+to undertaking.
+It is expected that undertakings will more frequently have recourse to the use of
+estimates in the first years of application of the reporting requirements and that the use
+of estimates will become less common as the ability of undertakings and the actors in
+their value chains to share sustainability information improves over time.
+In all cases the undertaking should consider whether the use of estimates is likely to
+affect the quality of the reported information. The use of estimates could, in some
+circumstances, enhance the quality of reported information, for example if it helps to
+ensure that information about the impacts, risks and opportunities is neutral, or if the
+collected information would not be of the appropriate reliability. In these circumstances
+the use of estimates would contribute to a more faithful representation of the
+phenomena that the information purports to represent and the reporting undertaking is
+therefore more likely to use estimates. In other circumstances the use of estimates could
+reduce the quality of the reported information, for example if it results in information
+that is less accurate and/or less complete and therefore results in a less faithful
+representation of the phenomena that it purports to represent.
+When considering the specific facts and circumstances of the undertaking and the
+conditions of the external environment in which it operates in order to determine
+reasonable effort, the following criteria could offer useful guidance. Any one of these
+criteria could on its own be sufficient to determine that reasonable effort has been
+made, or the criteria could be applied in combination.
+− The size and resources of the reporting undertaking in relation the scale and
+complexity of its value chain. What constitutes reasonable effort for a larger,
+well-resourced undertaking might not be considered reasonable for a smaller,
+typically less well-resourced undertaking. The size and resources of the
+undertaking should also be considered in relation to the scale and complexity of its
+value chain. For example, what constitutes reasonable effort for a larger
+undertaking with a large number of suppliers for multiple different products, and/or
+with supply chains that comprise many tiers, might be considered unreasonable for
+a smaller undertaking with a similarly complex value chain.
+− The technical readiness of the reporting undertaking to collect value chain
+information. For example, what constitutes reasonable effort for a very large
+undertaking with substantial prior experience of collecting sustainability
+information from actors in its value chain might not be considered reasonable in
+the case of a smaller undertaking with no such prior experience. The technical
+readiness of undertakings to collect value chain information is expected to improve
+over time.
+− The availability of tools to access and share value-chain information. What
+constitutes reasonable effort may be influenced by the availability of efficient and
+commonly used tools, including digital tools, to share value chain information
+between undertakings. The availability of such tools is likely to be limited in the
+first years of applying the ESRS but should improve over time, including as a
+result of the voluntary SME sustainability reporting standards currently being
+developed by EFRAG (VSME). This means that undertakings are more likely to
+29
+have recourse to the use of estimates in the first years of applying the ESRS than
+they will do in later reporting cycles.
+− The size and resources of the actor in the value chain. What constitutes
+reasonable effort may be influenced by the size and resources of the actor in the
+value chain from which information is expected. SMEs in particular may not have
+the necessary resources to easily and quickly provide the information that may be
+of interest to the reporting undertaking, which in turn makes it harder for the
+reporting undertaking to gather the necessary value chain information from SMEs.
+Where the value chain actor is an SME, the reporting undertaking is therefore more
+likely to have recourse to the use of estimates. In general, the application of
+reasonable effort by the reporting undertaking should not result in expectations on
+the actor in the value chain to apply unreasonable effort.
+− The technical readiness of the actor in the value chain. What constitutes
+reasonable effort may be influenced by the technical readiness of the actor in the
+value chain to provide sustainability information. The technical readiness of actors
+in the value chain should improve over time, which implies that undertakings are
+more likely to have recourse to the use of estimates in the first years of applying
+the ESRS than they will do in later reporting cycles.
+− Level of influence and buying power. What constitutes reasonable effort may be
+influenced by the existing level of control of the reporting undertaking over the
+actor in the value chain and by the relative buying power of the reporting
+undertaking compared to other undertakings. For example, less effort may be
+required to obtain information from an actor in the value chain that is partly owned
+by the reporting undertaking or that generates a high proportion of its own turnover
+through sales to the reporting undertaking. This means that undertakings are more
+likely to have recourse to the use of estimates in the case of actors in the value
+chain which they do not partly own or for which they only represent a small
+proportion of turnover.
+− Connected to the level of influence, the ‘proximity’ of the actor in the value
+chain. The ‘proximity’ of the actor in the value chain to the reporting undertaking
+may be a consideration in determining what constitutes reasonable effort, since less
+effort is usually required to obtain information from a tier 1 supplier or a direct
+customer than from other actors in the value chain. This means that undertakings
+are more likely to have recourse to the use of estimates in the case of actors in the
+value chain that are not tier 1 suppliers or direct customers.
+30) What should an SME expect to receive in terms of requests for sustainability
+information as a consequence of the CSRD and ESRS?
+Paragraphs 132 and 133 of ESRS 1 (General requirements) set out transitional
+provisions that limit the value chain information that undertakings within the scope of
+the CSRD have to report and/or collect from actors in their value chain during the first
+3 years.98 The extent to which SMEs are asked to provide sustainability information by
+98 Paragraph 132: “For the first 3 years of the undertaking’s sustainability reporting under the ESRS, in the
+event that not all the necessary information regarding its upstream and downstream value chain is available,
+the undertaking shall explain the efforts made to obtain the necessary information about its upstream and
+downstream value chain, the reasons why not all of the necessary information could be obtained, and its plans
+to obtain the necessary information in the future.” Paragraph 133: “For the first 3 years of its sustainability
+reporting under the ESRS, in order to take account of the difficulties that undertakings may encounter in
+gathering information from actors throughout their value chain and in order to limit the burden for SMEs in the
+30
+undertakings as a consequence of the CSRD and ESRS will, during the first 3 years of
+implementation, be strongly influenced by whether undertakings that fall within the
+scope of CSRD make use of these transitional provisions regarding value chain
+reporting.
+Notwithstanding the transitional provisions referred to above, SMEs should expect
+undertakings that fall under the scope of CSRD to apply “reasonable effort” to collect
+from actors in their value chains the information they need in order to comply with
+ESRS. In accordance with the answer to the previous question, the size and resources,
+the technical readiness and the proximity of the actor in the value chain are among the
+criteria that can be used to establish what constitutes “reasonable effort”. Therefore,
+smaller SMEs that have never voluntarily reported sustainability information, that are
+not connected with severe negative impacts and are not 1st tier suppliers or customers of
+undertakings that fall within the scope of the CSRD should, at least during the first
+years of application of the reporting requirements, be less exposed to expectations to
+have and share sustainability information. Larger SMEs that have previously reported
+sustainability information (for example because they apply EMAS or other
+environmental or sustainability certification or reporting schemes) and SMEs that are
+1st tier suppliers or customers of undertakings that fall within the scope of the CSRD
+may be exposed to higher expectations to have and share sustainability information.
+EFRAG is currently developing two sustainability reporting standards for SMEs: a
+mandatory one for listed SMEs (LSME ESRS) and a voluntary one for non-listed
+SMEs (VSME). LSME ESRS will establish the maximum level of sustainability
+information that ESRS can require an undertaking that falls within the scope of the
+CSRD to obtain from SMEs in its value chain. VSME will be designed to become a
+reference point for all actors in the market, to ensure that the reporting effort of CSRD
+and non-CSRD undertakings is proportionate.
+31) Until when does the transitional period for the disclosure of information in the
+value chain apply? Should the commencement date for the three-year transitional
+period be different for each type of undertaking?
+Chapter 10.2 of ESRS 1 sets out transitional provisions related to chapter 5 on value
+chains. The transitional period for the disclosure of information required from the value
+chain applies for the first 3 financial years of application of the reporting requirements,
+for each undertaking. For example, if an undertaking falls within the scope of Articles
+19a or 29a of the Accounting Directive as of financial year 2024, then it may avail of
+the transitional period for value chain reporting for financial years 2024, 2025 and
+2026.
+ARTICLE 8 TAXONOMY REGULATION DISCLOSURES
+value chain: (a) when disclosing information on policies, actions and targets in accordance with ESRS2 and
+other ESRS, the undertaking may limit upstream and downstream value chain information to information
+available in-house, such as data already available to the undertaking and publicly available information; and
+(b) when disclosing metrics, the undertaking is not required to include upstream and downstream value chain
+information, except for datapoints derived from other EU legislation, as listed in ESRS 2 Appendix B.”
+31
+32) Do undertakings have to include Article 8 Taxonomy Regulation disclosures in
+their sustainability statement?
+Yes, undertakings in the scope of Articles 19a or 29a of the Accounting Directive must
+include Article 8 Taxonomy Regulation disclosures in their sustainability statements.
+33) If an SME with transferable securities admitted to trading on an EU regulated
+market avails of the 2-year opt-out from sustainability reporting until 2028, does it
+have to still include Article 8 Taxonomy disclosures in its management report?
+No. Article 8 Taxonomy Regulation applies to all undertakings required to prepare and
+publish a sustainability statement under Articles 19a and 29a of the Accounting
+Directive. However, if an SME (excluding micro-undertakings) with transferable
+securities admitted to trading on an EU regulated market decides not to include in its
+management report the sustainability statement under Article 19a(7) of the Accounting
+Directive – where Article 8 Taxonomy Regulation disclosures would need to be
+included – it is not required to disclose Article 8 Taxonomy Regulation disclosures.
+34) Are undertakings required to include in their management report the information
+to be disclosed under Article 8 Taxonomy Regulation even if they are exempted
+from preparing and publishing their sustainability statement under Article 19a(9)
+and 29a(8) of the Accounting Directive?
+Yes, but only if the parent undertaking is established in a third country and Article 8
+Taxonomy Regulation disclosures are not included in the parent’s consolidated
+sustainability reporting. Where the undertaking avails of the exemption from the
+obligation to disclose a sustainability statement under Articles 19a(9) or 29a(8) of the
+Accounting Directive, if the parent undertaking is established in a third country, Article
+8 Taxonomy Regulation disclosures, covering the activities carried out by the exempted
+subsidiary undertaking established in the Union and its subsidiary undertakings, must
+be included in the management report of the exempted subsidiary undertaking, or in the
+consolidated sustainability reporting carried out by the parent undertaking established
+in a third country99.
+LANGUAGE REQUIREMENTS
+35) In which language should the sustainability statement be drafted and published?
+Undertakings subject to Articles 19a and 29a of the Accounting Directive should
+publish the management report (including the sustainability statement), together with
+the opinion and statement submitted by the statutory auditor or audit firm referred to in
+Article 34 Accounting Directive, in accordance with Article 30(1) of the Accounting
+Directive, which refers to the laws laid down by each Member State in accordance with
+Chapter III of Title 1 of the Company Law Directive. In particular, Article 21 of the
+Company Law Directive clarifies that “1. Documents and particulars to be disclosed
+pursuant to Article 14 shall be drawn up and filed in one of the languages permitted by
+the language rules applicable in the Member State in which the file referred to in
+99 Articles 19a(9) second subparagraph, point (c) Accounting Directive.
+32
+Article 16(1) is opened”. Therefore, the language that undertakings shall use to publish
+the sustainability statement included in the management report must be a language
+specified by the laws of the relevant Member State adopted in accordance with Article
+21 of the Company Law Directive.
+If an undertaking subject to Articles 19a and 29a of the Accounting Directive has
+securities listed on an EU regulated market, it will also have to comply with the
+disclosure obligations set out in the Transparency Directive concerning the
+management report. The linguistic regime for “regulated information”, which includes
+the management report as part of the annual financial report, is laid down by each
+Member State in accordance with Article 20 of the Transparency Directive.
+DIGITALISATION (FORMAT AND DIGITAL TAGGING)
+36) What are the digital format requirements for the management report that
+includes a sustainability statement?
+Article 29d of the Accounting Directive requires undertakings that have to carry out
+sustainability reporting to prepare their management report (at consolidated level,
+where applicable) in the electronic reporting format specified in Article 3 of the ESEF
+Delegated Regulation (i.e. XHTML) and to mark-up their sustainability statement
+within the management report in accordance with the digital taxonomy to be specified
+by way of an amendment to the ESEF Delegated Regulation.
+37) Do undertakings also have to mark-up Article 8 Taxonomy Regulation
+disclosures?
+Yes. Article 29d of the Accounting Directive requires undertakings that have to publish
+a sustainability statement in their management report to mark-up their sustainability
+statement, including the disclosures provided for in Article 8 of the Taxonomy
+Regulation, in accordance with the digital taxonomy to be specified by way of an
+amendment to the ESEF Delegated Regulation.
+38) What are the format requirements that undertakings need to comply with pending
+the adoption by the European Commission of a digital taxonomy for the mark-up
+of the sustainability statement?
+Article 29d of the Accounting Directive requires undertakings that have to publish a
+sustainability statement in their management report to prepare their management report
+in the electronic reporting format specified in Article 3 of the ESEF Delegated
+Regulation (i.e. in XHTML) and to mark-up the sustainability statement within the
+management report in accordance with the specific digital taxonomy that will be
+adopted by way of an amendment to the ESEF Delegated Regulation. Until the
+adoption of this digital taxonomy, undertakings are not required to mark-up their
+sustainability statements. Considering that the sustainability statement will become
+machine-readable only once it is both included in an XHTML document and marked-up
+with a digital taxonomy, pending the adoption of the digital taxonomy undertakings are
+also not required to prepare the management report in XHTML.
+PUBLICATION
+33
+39) What is the deadline for the publication of the management report that includes
+the sustainability statement?
+Article 30 of the Accounting Directive sets out the rules for the publication of the
+management report (which includes the sustainability statement prepared under Articles
+19a/29a of the Accounting Directive, where relevant), which must be published
+together with the assurance opinion/report and within at the latest 12 months of the
+balance sheet date of the financial year for which the report is drawn up, as provided for
+by each Member State.
+Undertakings that are issuers of securities admitted to trading on an EU regulated
+market are also required to publish their annual financial report (which includes the
+management report, therefore the sustainability statement) at the latest four months
+after the end of each financial year, based on Article 4(5) of the Transparency
+Directive, which cross-refers to Articles 19a and 29a of the Accounting Directive.
+SUPERVISION
+40) Which authorities are in charge of supervising compliance with the requirements
+for the sustainability statement prepared in accordance with Articles 19a and 29a
+of the Accounting Directive?
+The CSRD does not introduce any changes to the pre-existing EU supervisory regime,
+which requires Member States to have in place penalties that are effective,
+proportionate and dissuasive for the cases of non-compliance by limited liability
+undertakings (Article 51 of the Accounting Directive), and to establish a national
+supervisory authority with powers to supervise compliance by issuers of transferable
+securities admitted to trading on an EU regulated market (Articles 28 and subsequent of
+the Transparency Directive). This means that undertakings’ compliance with
+sustainability reporting requirements will be subject to the national sanctioning regime
+in place for the management report of limited liability undertakings (subject to the
+Accounting Directive) and of issuers of transferable securities admitted to trading on an
+EU regulated market (subject to the Transparency Directive). As regards issuers of
+transferable securities admitted to trading on an EU regulated market, ESMA is also
+required to issue guidelines on the supervision of sustainability reporting by national
+competent authorities pursuant to Article 28d Transparency Directive.
+In any case, the sustainability statement to be included in the management report must
+always be subject to assurance by a statutory auditor, or by an Independent Assurance
+Services Provider (IASP) where allowed by a Member State, under Article 34 of the
+Accounting Directive.
+Section IV – FAQs on sustainability information reported under Article 40a of the
+Accounting Directive
+SCOPE AND APPLICATION DATE
+34
+41) Does the ultimate third-country parent undertaking have to have a certain legal
+form in order to fall under the scope of Article 40a of the Accounting Directive?
+No. The legal form of the ultimate third-country parent undertaking is irrelevant for the
+purposes of Article 40a of the Accounting Directive.
+42) What are the obligations for the EU subsidiary or the EU branch under Article
+40a of the Accounting Directive? Is the EU subsidiary/branch required to prepare
+the sustainability report or just to publish and make accessible the sustainability
+report prepared by its parent undertaking?
+If a third-country undertaking falls within the scope of Article 40a of the Accounting
+Directive, then either its EU subsidiary or EU branch will have to publish and make
+accessible a sustainability report on behalf of its third-country parent undertaking. The
+obligation to prepare the sustainability report does not explicitly fall on the EU
+subsidiary or branch. This means that the third-country parent may prepare the report,
+which will then be published and made accessible by the EU subsidiary or branch,
+either by filing it in an EU business register or by publishing it on its website.
+Alternatively, the EU subsidiary or branch may prepare, publish and make accessible
+the report on behalf of its third-country parent undertaking.
+43) Does each EU subsidiary or EU branch have to publish a sustainability report
+under Article 40a of the Accounting Directive? Or is it sufficient that only one of
+the EU subsidiaries or branches publishes the report and the other ones simply
+provide a link to that sustainability report?
+Article 40a of the Accounting Directive requires that at least one sustainability report
+be disclosed by one subsidiary or branch in each Member State (“A Member State shall
+require that a subsidiary undertaking established in its territory […]). To avoid double
+reporting by the subsidiaries and branches of the same third-country undertaking,
+Member States may allow for one subsidiary or branch established or located in its
+territory to comply with the obligation in Article 40a of the Accounting Directive by
+providing a link to the sustainability report published by another Union subsidiary or
+branch of the third-country undertaking.
+ESRS
+44) Which ESRS should be used for the preparation of the sustainability report under
+Article 40a of the Accounting Directive?
+The sustainability report referred to in Article 40a of the Accounting Directive must be
+prepared in accordance with the sustainability reporting standards to be adopted under
+Article 40b of the Accounting Directive.
+By way of derogation, Article 40a(2) second subparagraph of the Accounting Directive
+allows the sustainability report to be prepared in accordance with the sustainability
+reporting standards adopted under Article 29b of the Accounting Directive (i.e. ESRS)
+or in a manner equivalent to the sustainability reporting standards adopted under Article
+29b of the Accounting Directive, as determined by a Commission decision on
+equivalence. This provision should be read in the sense that a third-country parent
+undertaking falling under the scope of Article 40a of the Accounting Directive may
+35
+choose to publish a consolidated sustainability statement under Article 29a of the
+Accounting Directive (prepared in accordance with the standards adopted under Article
+29b), instead of having its EU subsidiary or EU branch publish a sustainability report at
+the group level under Article 40a of the Accounting Directive. In that case, the
+exemptions for the EU subsidiary set out in Articles 19a(9) and 29a(8) of the
+Accounting Directive would apply.
+45) What happens if the EU subsidiary/branch does not manage to collect all the
+necessary information for the preparation of the sustainability report?
+In the event that not all the required information is provided, the subsidiary undertaking
+or branch shall draw up, publish and make accessible the sustainability report,
+containing all information in its possession, obtained or acquired, and issue a statement
+indicating that the third-country undertaking did not make the necessary information
+available (Art. 40a(2) fourth subparagraph of the Accounting Directive).
+ARTICLE 8 TAXONOMY REGULATION DISCLOSURES
+46) Do undertakings have to include Art. 8 Taxonomy Disclosures in the sustainability
+report prepared under Article 40a of the Accounting Directive?
+No. Undertakings reporting in accordance with Article 40a of the Accounting Directive
+do not have to include Article 8 Taxonomy Regulation disclosures in the sustainability
+report.
+47) If a third-country parent undertaking subject to Article 40a of the Accounting
+Directive chooses to prepare and publish a consolidated sustainability statement
+prepared in accordance with ESRS instead of a sustainability report, is that third-
+country parent undertaking required to report Article 8 Taxonomy Regulation
+disclosures?
+A third-country parent undertaking subject to Article 40a of the Accounting Directive
+that chooses to publish a consolidated sustainability statement prepared in accordance
+with ESRS instead of a sustainability report is not required to report under Article 8
+Taxonomy Regulation.
+However, in order for the Union subsidiaries of that third-country parent to be
+exempted from their sustainability reporting requirements under Articles 19a/29a of the
+Accounting Directive (where these Union subsidiaries are subject to sustainability
+reporting requirements under Articles 19a/29a Accounting Directive), Article 8
+Taxonomy Regulation disclosures covering the activities carried out by those Union
+subsidiaries must be included in their own management report or in the consolidated
+sustainability reporting carried out by the third-country parent undertaking100.
+EXEMPTION RULES
+100 Article 19a(9) second subparagraph, point (c), and Article 29a(8) second subparagraph, point (c) of the
+Accounting Directive.
+36
+48) Can the Union subsidiaries subject to Article 40a of the Accounting Directive
+benefit from the exemption regime under Article 19a(9) and 29(8) of the
+Accounting Directive?
+The sustainability statement prepared in accordance with Articles 19a/29a of the
+Accounting Directive and the sustainability report prepared in accordance with Article
+40a of the Accounting Directive have a different content and operate under separate
+regimes.
+Therefore, a Union subsidiary publishing a sustainability report at the group level of its
+third-country parent company according to the provisions of Article 40a does not
+exempt the Union subsidiary itself nor its own subsidiaries from complying with the
+reporting obligations of Articles 19a and/or 29a.
+However, a third-country parent undertaking falling under the scope of Article 40a may
+choose to publish a consolidated sustainability statement under Article 29a (prepared in
+accordance with the sustainability reporting standards adopted under Article 29b or in a
+manner equivalent to those sustainability reporting standards), instead of having its EU
+subsidiary or EU branch publish a sustainability report at the group level under Article
+40a. In this case, the EU subsidiary is exempted from publishing the sustainability
+report under Article 40a, provided that the conditions set out in Articles 19a(9) and
+29a(8) are met.
+LANGUAGE AND FORMAT
+49) In which language should the sustainability report be published?
+The linguistic regime for the sustainability report is laid down by each Member State in
+accordance with Article 21 of the Company Law Directive.
+50) What are the format requirements for the sustainability report to be provided
+under Article 40a of the Accounting Directive?
+The Accounting Directive does not require a specific format for the publication of the
+sustainability report. However, Article 33a – introduced by Directive (EU) 2023/2864
+for the functioning of the European Single Access Point (ESAP Omnibus Directive)101
+– requires subsidiaries and branches subject to Article 40a to submit to the collection
+body designated by the Member State the sustainability report in a data extractable
+format together with the relevant accompanying metadata102. The Commission is also
+empowered to adopt implementing measures to specify further metadata to accompany
+the sustainability report and to require a machine-readable format.
+PUBLICATION
+51) When should the undertakings/branches publish the sustainability report?
+101 Directive (EU) 2023/2864 of the European Parliament and of the Council of 13 December 2023 amending
+certain Directives as regards the establishment and functioning of the European single access point (OJ L,
+2023/2864).
+102 Article 33a Accounting Directive as amended by the ESAP package.
+37
+Article 40d(1) of the Accounting Directive requires subsidiary undertakings and
+branches referred to in Article 40a(1) of the Accounting Directive to publish the
+sustainability report – together with the assurance opinion and, where applicable, the
+statement mentioned in the fourth subparagraph of Article 40a(2) of the Accounting
+Directive – within 12 months of the balance sheet date of the financial year for which
+the report is drawn up.
+SUPERVISION
+52) Which authorities are in charge of supervising compliance with the requirements
+for the sustainability report?
+The CSRD does not introduce any changes to the pre-existing sanctioning regime under
+the Accounting Directive, which requires Member States to have in place penalties that
+are effective, proportionate, and dissuasive for the cases of non-compliance by
+undertakings subject to Accounting Directive requirements103. Undertakings’
+compliance with sustainability reporting requirements is therefore subject to the
+national sanctioning regime in place for the management report of the undertakings
+subject to the Accounting Directive. In any case, the sustainability report must be
+always subject to assurance by an assurance provider under Article 40a(3) of the
+Accounting Directive104.
+Section V – FAQs on the assurance of sustainability reporting
+APPROVAL OF STATUTORY AUDITORS AND AUDIT FIRMS
+53) Shall the natural persons who carry out the statutory audits on behalf of the audit
+firm satisfy the conditions imposed by Articles 4 and 6 to 12 of the Audit Directive,
+including the additional specific requirements of Articles 7(2), Article 8(3), the
+second subparagraph of Article 10(1) and the fourth subparagraph of Article
+14(2) of the Audit Directive? Shall the natural persons holding voting rights in an
+audit firm satisfy also the conditions imposed by Articles 4 and 6 to 12 of the Audit
+Directive, including the additional specific requirements of Articles 7(2), Article
+8(3), the second subparagraph of Article 10(1) and the fourth subparagraph of
+Article 14(2) of the Audit Directive, even if the audit firm does not plan to provide
+assurance of sustainability reporting? What about the requirements for the
+natural persons who compose the administrative or management body of the audit
+firm?
+103 Article 51 Accounting Directive: “Member States shall provide for penalties applicable to infringements of
+the national provisions adopted in accordance with this Directive and shall take all the measures necessary to
+ensure that those penalties are enforced. The penalties provided for shall be effective, proportionate and
+dissuasive”.
+104 Article 40a(3) first subparagraph: “Member States shall require that the sustainability report […] is
+published accompanied by an assurance opinion expressed by one or more person(s) or firm(s) authorised to
+give an opinion on the assurance of sustainability reporting under the national law of the third-country
+undertaking or of a Member State.”
+38
+Article 3 of the Audit Directive - regulating the approval of statutory auditors and audit
+firms - provides that competent authorities may approve statutory auditors and audit
+firms only if certain conditions are met.
+The conditions referred to in Article 3(3) of the Audit Directive for the approval of
+statutory auditors cross-refer to Articles 4 and 6 to 10 of the Audit Directive, while the
+conditions referred to in Article 3(4) of the Audit Directive for the approval of audit
+firms cross-refer to Articles 4 and 6 to 12 of the Audit Directive.
+The wording of Article 4 of the Audit Directive covering good repute is broad enough
+to also apply to the assurance of sustainability reporting, while Articles 6 to 12 of the
+Audit Directive have been amended in order to explicitly apply to the assurance of
+sustainability reporting.
+Where a statutory auditor or audit firm wishes to be approved to provide assurance on
+sustainability reporting it will have to comply with all the relevant requirements in
+national law transposing the Audit Directive as regards the assurance of sustainability
+reporting, including those referred to in Article 3(4) of the Audit Directive. Compliance
+with requirements for the assurance of sustainability reporting is not mandatory for the
+approval under Article 3 of the Audit Directive of a statutory auditor or audit firm that
+does not provide assurance on sustainability reporting.
+54) What are the approval requirements for sustainability assurance for statutory
+auditors approved before 1 January 2024 or that on 1 January 2024 were
+undergoing the approval process?
+For statutory auditors to be able to provide assurance of sustainability reporting they
+need to be approved and then comply with the additional requirements for
+sustainability.
+More specifically, based on Article 14a third subparagraph of the Audit Directive, the
+statutory auditors approved before 1 January 2026 – that were either approved before 1
+January 2024 or that on 1 January 2024 were undergoing the approval process – that
+want to carry out also sustainability assurance, do not have to comply with Articles
+7(2), 8(3), 10(1) 2nd subparagraph, and 14(2) 4th subparagraph of the Accounting
+Directive but still need to acquire the necessary knowledge through continuing
+education.
+55) Can statutory auditors approved before 1 January 2026 apply indefinitely to be
+approved for sustainability assurance? Which requirements would apply for their
+approval?
+Under Article 14a third subparagraph of the Audit Directive, statutory auditors
+approved before 1 January 2026 who wish to carry out the assurance of sustainability
+reporting must acquire the necessary knowledge of sustainability reporting and the
+assurance of sustainability reporting, including of the subjects listed in Article 8(3) of
+the Audit Directive, via the continuing education referred to in Article 13 of the Audit
+Directive. Article 14a of the Audit Directive does not require additional examinations
+nor the acquisition of this knowledge to be done prior to obtaining the approval. The
+Audit Directive does not set out time limits for statutory auditors approved before 1
+January 2026 to apply for carrying out sustainability assurance in compliance with
+these requirements.
+39
+56) In order for the statutory auditor or the trainee to also be approved to carry out
+the assurance of sustainability reporting, will the three-year practical training
+required under Article 10(1) first subparagraph of the Audit Directive need to
+include eight months of practical training in the field of sustainability assurance or
+will it have to be extended by another eight months?
+For the statutory auditor or the trainee to also be approved to carry out the assurance of
+sustainability reporting, the three-year practical training required under Article 10(1)
+first subparagraph of the Audit Directive will need to include eight months of practical
+training on the assurance of annual and consolidated sustainability reporting or on other
+sustainability-related services.
+The statutory auditor or trainee that has already completed the three-year practical
+training at the moment of applying for the approval to carry out assurance of
+sustainability reporting will have to perform an additional period of eight months of
+practical training on the assurance of annual and consolidated sustainability reporting or
+on other sustainability-related services.
+Article 14a, first and second subparagraphs of the Audit Directive exempts from this
+requirement the following categories of professionals: statutory auditors that are
+approved or recognised to carry out statutory audits before 1 January 2024 and persons
+that on 1 January 2024 are undergoing the approval process provided they complete
+that process by 1 January 2026. Pursuant to Article 14a third subparagraph of the Audit
+Directive, these professionals will still need to acquire the necessary knowledge
+through continuing education.
+57) Under Article 10(1) second subparagraph of the Audit Directive, in order for the
+statutory auditor or the trainee to also be approved to carry out the assurance of
+sustainability reporting, at least eight months of the practical training referred to
+in the first subparagraph shall be on the assurance of annual and consolidated
+sustainability reporting or on other sustainability-related services. What is the
+correct interpretation of “other sustainability-related services”?
+“Other sustainability-related services” should be understood as services related to
+sustainability reporting other than assurance. They could encompass, for example,
+consulting services on sustainability reports and the preparation of sustainability
+reports.
+58) Can a statutory auditor approved to carry out statutory audits before 1 January
+2024 in Member State A be approved to carry out the assurance of sustainability
+reporting in Member State B, even though that statutory auditor is not approved
+to carry out the assurance of sustainability reporting in Member State A? For the
+registration in Member State B, does this auditor need to be registered as
+statutory auditor and as assurance service provider or can this auditor only be
+registered as assurance service provider?
+For the registration in Member State B, the statutory auditor needs to be approved as a
+statutory auditor in that Member State (see Articles 3(1) and 14(1) of the Audit
+Directive). If that is the case and the auditor wishes to be registered as an assurance
+services provider, the transitional regime under Article 14a of the Audit Directive will
+apply in Member State B (see also FAQ 54). Approval as an assurance services
+provider in Member State A is not required.
+40
+59) A statutory auditor approved to carry out statutory audits after 1 January 2024 in
+Member State A, and who is also approved to carry out the assurance of
+sustainability reporting in that Member State, wants to be registered in Member
+State B. In this case does the statutory auditor need to be registered in Member
+State B as auditor and as assurance service provider or could this statutory
+auditor be registered only as assurance service provider?
+The statutory auditor should be registered as a statutory auditor and as assurance
+services provider in Member State B. The only entities that can be registered as
+assurance services providers without being auditors are the Independent Assurance
+Services Providers (IASPs).
+ACCREDITATION AND APPROVAL OF INDEPENDENT ASSURANCE
+SERVICES PROVIDERS (IASPS)
+60) Can natural persons be accredited as Independent Assurance Services Providers
+(IASPs)?
+Yes. Article 2 point (23) of the Audit Directive and Article 2 point (20) of the
+Accounting Directive define IASPs as “a conformity assessment body accredited in
+accordance with Regulation (EC) No 765/2008 of the European Parliament and of the
+Council for the specific conformity assessment activity referred to in point (aa) of the
+second subparagraph of Article 34(1) of Directive 2013/34/EU”. Regulation No
+765/2008 also defines the conformity assessment body as “a body that performs
+conformity assessment activities including calibration, testing, certification and
+inspection”.
+While Regulation (EC) No 765/2008 only refers to the accreditation of bodies, it is to
+be recalled that IASPs are not within the intended scope of that Regulation. The term
+“body” should be read as to include the case of natural persons to ensure a level playing
+field between IASPs and statutory auditors.
+61) IASPs established in a Member State can carry out the assurance of sustainability
+reporting in that territory, provided that they are subject to requirements
+equivalent to those set out in the Audit Directive. Does the equivalence of the
+requirements need to cover also Article 3a of the Audit Directive?
+Article 34(4) of the Accounting Directive requires IASPs to comply with requirements
+equivalent to the ones in the Audit Directive for them to be able to carry out
+sustainability assurance. These requirements include the non-exhaustive list set out in
+Article 34(4) of the Accounting Directive and an equivalence assessment with the
+assurance of sustainability reporting as defined in Article 2, point (22) of the Audit
+Directive.
+To ensure the level playing field between IASPs and statutory auditors, IASPs should
+also comply with registration requirements equivalent to those set out in Article 3a of
+the Audit Directive.
+ACCREDITED INDEPENDENT THIRD PARTY
+41
+62) What is the "accredited independent third party" referred to in Articles 34(6) of
+the Accounting Directive and 37(3) of the Audit Directive?
+Recital (63) CSRD reads “Member States should ensure that when an undertaking is
+required by Union law to have elements of its sustainability reporting verified by an
+accredited independent third party, the report of the accredited independent third party
+should be made available either as an annex to the management report or by any other
+publicly accessible means. Such making available of that report should not pre-empt
+the outcome of the assurance opinion of which the third-party verification should
+remain independent. It should not entail any duplication of work between the auditor or
+the independent assurance services provider that expresses the assurance opinion and
+the accredited independent third party.”
+An “accredited independent third party” is an entity, usually an expert other than the
+statutory auditor or Independent Assurance Services Provider (IASP), providing the
+assurance opinion on the sustainability statement, that might verify parts of the
+sustainability reporting, such as GHG emissions. The CSRD requires transparency as
+regards the results of its work and non-duplication with the work of the statutory
+auditors/IASPs105.
+INDEPENDENT ASSURANCE SERVICES PROVIDERS (IASPS)
+63) Will an Independent Assurance Services Provider (IASP) established in the
+territory of another Member State be able to perform tasks in a Member State
+that does not allow IASPs to carry out assurance on sustainability reporting in its
+territory?
+No. An IASP established in the territory of another Member State will not be able to
+provide assurance on sustainability reporting in a Member State that does not allow
+IASPs to carry out assurance on sustainability reporting in its territory.
+Article 34(4) first subparagraph of the Accounting Directive provides Member States
+with the option to allow IASPs established in their territory to express the assurance
+opinion on sustainability reporting, provided that these IASPs are subject to
+requirements equivalent to those set out by the Audit Directive for statutory auditors
+that carry out the assurance of sustainability reporting. Article 34(5) first subparagraph
+of the Accounting Directive requires only Member States that have made use of this
+option to allow IASPs established in another Member State to carry out the assurance
+of sustainability reporting in their territory.
+64) If the IASP is established in a different Member State, who will have supervisory
+powers for the work performed by the IASP?
+Where the IASP carries out the assurance of sustainability reporting in the territory of
+another Member State (host Member State), the Member State where the IASP is
+established (home Member State) should be responsible for supervising the work of the
+IASP unless the host Member State decides to supervise the assurance of sustainability
+reporting carried out by IASPs in its territory106. If the host Member State decides to
+supervise the assurance of sustainability reporting carried out in its territory by IASPs
+105 Article 34(6) of the Accounting Directive and 37(3) second subparagraph of the Audit Directive.
+106 Article 34(5) of the Accounting Directive.
+42
+registered in another Member State, the host Member State shall: (i) not impose more
+stringent requirements or liability on such IASPs than those required for assurance of
+sustainability reporting by the national laws for the IASPs or auditors established in that
+host Member State; and (ii) inform other Member States about its decision to supervise
+the assurance of sustainability reporting carried out by IASPs established in other
+Member States.
+65) Once a Member State has allowed IASPs to be established on its territory, are
+national undertakings automatically allowed to resort to IASPs to carry out the
+assurance on sustainability reporting?
+Yes, undertakings will be allowed to resort to IASPs for the assurance of their
+sustainability statement once a Member State has allowed IASPs to carry out the
+assurance on sustainability reporting.
+THIRD-COUNTRY ASSURANCE PROVIDERS
+66) Can third-country Independent Assurance Services Providers (IASPs) provide
+sustainability assurance in the Union?
+Based on Article 34(4) of the Accounting Directive, the IASPs established in the
+territory of a Member State may be allowed to provide the assurance of sustainability
+reporting.
+The definition of IASP under Article 2 point (23) of the Audit Directive and Article 2
+point (20) of the Accounting Directive requires its accreditation pursuant to Regulation
+765/2008. While that Regulation only refers to the accreditation of bodies that are
+established in the territory of a Member State, it is to be recalled that IASPs are not
+within the intended scope of that Regulation. IASPs are carrying out assurance services
+for sustainability reporting. Hence, the scheme for authorisation of IASPs has to be
+interpreted in the light of the GATS (General Agreement on Trade in Services of the
+World Trade Organisation) commitments of the Member States and of the Union’s
+bilateral agreements. Consequently, in the context of IASPs, Regulation 765/2008 has
+to be interpreted in such a way that third-country IASPs are allowed to provide the
+assurance of sustainability reporting in accordance with Member States’s commitments.
+CONFIDENTIALITY
+67) Are confidentiality requirements in Article 23 of the Audit Directive also
+applicable to professionals performing the assurance of sustainability reporting?
+Yes. Confidentiality requirements in Article 23 of the Audit Directive are also
+applicable to professionals performing the assurance of sustainability reporting. Where
+the Member State has allowed an IASP or a statutory auditor other than the one
+auditing the financial statements to perform the assurance of sustainability reporting,
+these assurance providers should be able to exchange information to appropriately
+coordinate.
+43
+ASSURANCE SERVICES
+68) What is the meaning of the term “sustainability analysis” used in Article 8(3)
+point (b) of the Audit Directive?
+The term “sustainability analysis” was used as a parallel to “financial analysis” from
+the Audit Directive for statutory auditors. While “financial analysis” refers to an
+assessment of the viability, stability, and profitability of a business, sub-business or
+project, “sustainability analysis” should be considered as an assessment of the
+sustainability matters affecting a business and sustainability matters on which the
+business may have an impact.
+FEES
+69) Would it be considered a breach of Article 25 of the Audit Directive if the fees for
+the assurance of sustainability reporting are lowered in the case the same
+statutory auditor also performs the statutory audit?
+Article 25 of the Audit Directive requires Member States to ensure that fees for
+statutory audits and the assurance of sustainability reporting are not influenced or
+determined by the provision of “additional services” provided to the audited entity,
+which should be intended as “services other than the statutory audit and assurance of
+sustainability reporting”. It does not regulate the relationship between the fees for
+statutory audits and assurance of sustainability reporting.
+ASSURANCE OF THE SUSTAINABILITY STATEMENT PREPARED IN
+ACCORDANCE WITH ARTICLES 19a AND 29a ACCOUNTING DIRECTIVE
+70) What should the assurance provider express an opinion on, according to Article
+34(1) of the Accounting Directive?
+Under Article 34(1) second subparagraph, point (aa) of the Accounting Directive, any
+undertaking subject to sustainability reporting under Articles 19a and 29a of the
+Accounting Directive must obtain an assurance opinion on their sustainability
+statement.
+This assurance opinion is based on a limited assurance engagement as regards the
+compliance of the sustainability statement with the following requirements:
+− the sustainability reporting requirements provided for in the Accounting Directive
+(including the compliance of the sustainability reporting with the ESRS adopted
+pursuant to Articles 29b/29c of the Accounting Directive, the process carried out
+by the undertaking to identify the information reported pursuant to those ESRS -
+i.e., the double materiality assessment process, and the compliance with the
+requirement to mark-up sustainability reporting in accordance with Article 29d of
+the Accounting Directive); and
+− the reporting requirements provided for in Article 8 of the Taxonomy Regulation.
+The assurance providers are expected to perform procedures that enable them to
+conclude that no matter has come to their attention to cause them to believe that the
+information included in the sustainability statement is not fairly presented, in all
+material respects, in accordance with ESRS as adopted by the Union and that it is not
+44
+compliant with the legal requirements to mark-up sustainability information (i.e., the
+digital tagging) and with the legal requirements of Article 8 of the Taxonomy
+Regulation.
+The first part of the conclusion referring to the fair presentation, in all material respects,
+in accordance with the ESRS entails an opinion on:
+− whether the undertaking’s sustainability statement, including the process to
+identify the information reported (i.e., the double materiality assessment
+process), are compliant with ESRS; and
+− whether the outcome of this process has resulted in the disclosure of all material
+sustainability-related impacts, risks and opportunities of the undertaking in
+accordance with ESRS.
+71) Paragraph 121 ESRS 1 (General requirements) allows the undertaking to
+incorporate information in its sustainability statement by reference to its report
+prepared according to EU Eco-Management and Audit Scheme (EMAS)
+Regulation (EU) No 1221/2009. This provision is subject to the conditions of
+paragraph 120, including that the information incorporated by reference is
+subject to at least the same level of assurance as the sustainability statement. Is the
+undertaking’s report prepared according to EU Eco-Management and Audit
+Scheme (EMAS) Regulation (EU) No 1221/2009 subject to at least the same level of
+assurance as the sustainability statement?
+Under Article 34(1) second subparagraph, point (aa) of the Accounting Directive, any
+undertaking subject to sustainability reporting under Articles 19a and 29a of the
+Accounting Directive must obtain an assurance opinion based on a limited assurance
+engagement. The undertaking’s report prepared according to EU Eco-Management and
+Audit Scheme (EMAS) Regulation (EU) No 1221/2009 is subject to a validation
+performed by an environmental verifier and this validation can be considered to be at
+least at the same level of assurance as the CSRD limited assurance requirement.
+72) In the case of two different statutory auditors carrying out the audit of the
+financial statements and the assurance of the sustainability statement, which one
+of the two should express the opinion on whether the management report is
+consistent with the financial statements?
+Based on Article 34(1), second subparagraph, point (a)(i) of the Accounting Directive,
+the statutory auditor or audit firm carrying out the statutory audit of financial statements
+has to express an opinion on whether the management report is consistent with the
+financial statements for the same financial year. When a statutory auditor or an audit
+firm other than the one(s) carrying out the statutory audit of financial statements is in
+charge of expressing the assurance opinion on sustainability reporting, the statutory
+auditor or audit firm in charge of auditing the financial statements remains in charge of
+expressing an opinion on the consistency between management report and financial
+statements for the same financial year.
+73) In which document does the assurance opinion need to be included?
+45
+In the assurance report107. If the assurance opinion is given by the same auditor that
+does the audit of financial statements, Member States may allow auditors to include the
+assurance opinion as a separate section of the audit report.
+74) How should the assurance report be published? Are there any format
+requirements for the assurance report?
+Union law does not currently require a specific format for the audit report and/or its
+signature. However, Article 33a of the Accounting Directive as amended by the ESAP
+package, requires undertakings to submit the assurance report to the relevant ESAP
+collection body when they make it public and to use a data extractable format (or a
+machine-readable format, where required by Union or national law), together with the
+relevant accompanying metadata. The Commission is also empowered to adopt
+implementing measures to specify further metadata to accompany the assurance report
+and to require a machine-readable format.
+75) What assurance standards should be used by assurance providers of the
+sustainability statement pending the adoption of assurance standards by the
+European Commission?
+Based on Article 26(1) second subparagraph of the Audit Directive, Member States
+may apply national auditing standards, procedures or requirements as long as the
+Commission has not adopted an international auditing standard covering the same
+subject matter.
+Given the qualitative characteristics of information required under ESRS 1 (Chapter 2
+and Appendix B: relevance and faithful representation as well as comparability,
+verifiability and understandability) and in order to avoid fragmentation and ensure that
+practices are as consistent as possible during this transitional period, pending the
+adoption of Union assurance standards, the Commission has requested the Committee
+of European Auditing Oversight Bodies (CEAOB) to develop in 2024 non-binding
+guidelines for statutory auditors and other assurance services providers.
+76) Would it be possible for Member States to allow undertakings subject to CSRD
+requirements to assign, on a voluntary basis, an engagement to express an opinion
+based on a mixed form of assurance (i.e. a limited assurance on parts of the
+sustainability reporting and a reasonable assurance on other parts of the
+reporting – for example on specific key performance indicators)?
+Based on Article 34(1), second subparagraph, point (aa) of the Accounting Directive,
+the assurance opinion on the sustainability reporting has to be based on a limited
+assurance engagement108. Considering that a reasonable assurance engagement provides
+for a higher level of assurance compared to a limited assurance engagement, the CSRD
+does not prevent an undertaking from deciding voluntarily to ask for an opinion based
+on reasonable assurance on the whole sustainability reporting or parts of it. This
+decision would be for the undertaking and not for the assurance provider.
+107 Article 28a Audit Directive.
+108 Based on Article 26a Audit Directive, the Commission is empowered to adopt sustainability assurance
+standards for limited assurance by 1 October 2026. The Commission is also empowered to adopt sustainability
+assurance standards for reasonable assurance by 1 October 2028, following an assessment to determine if
+reasonable assurance is feasible for auditors and for undertakings.
+46
+77) Shall undertakings that report sustainability information in accordance with
+ESRS on a voluntary basis (such as SMEs without securities admitted to trading
+on an EU regulated market) be required to subject this information to assurance?
+The CSRD does not regulate sustainability reporting carried out on a voluntary basis.
+An undertaking carrying out sustainability reporting on a voluntary basis is therefore
+not required to subject its sustainability information to an assurance engagement.
+NON-ASSURANCE SERVICES
+78) What are the non-audit service restrictions when a statutory auditor provides
+CSRD assurance services to an entity or group that is not a financial statement
+audit client?
+Under Article 25c(1) of the Audit Directive, a statutory auditor or an audit firm
+carrying out the assurance of sustainability reporting of a Public Interest Entity (PIE) -
+or a member of the network - shall not provide to the PIE the prohibited non-audit
+services referred to in Article 5(1) second subparagraph, points (b), (c), (e) to (k) of the
+Audit Regulation.
+Under Article 25c(2) of the Audit Directive, that statutory auditor or audit firm may
+provide to the PIE non-audit services other than:
+− the prohibited non-audit services referred to in paragraph 1 of this Article; or
+− if applicable (i.e. where the statutory auditor also carries out audits of financial
+statements), the prohibited non-audit services referred to in Article 5(1) second
+subparagraph of the Audit Regulation; or
+− services considered by Member States to represent a threat to independence as
+referred to in Article 5(2) of that Regulation, subject to the approval of the audit
+committee after it has properly assessed threats to independence and the
+safeguards applied in accordance with Article 22b of the Audit Directive.
+Therefore:
+− when the audit firm carries out only the assurance of sustainability reporting of a
+PIE, it may provide non-audit services other than the prohibited ones referred to
+in Article 5(1) second subparagraph point (b), (c) and (e) to (k) of the Audit
+Regulation (since the latter pose a risk to the independence of the audit firm in
+case of carrying out the assurance of sustainability reporting);
+− when the audit firm carries both the statutory audit and the assurance of
+sustainability reporting of a given PIE, it may provide non-audit services other
+than the prohibited ones referred to in Article 5(1) second subparagraph of the
+Audit Regulation (i.e. the prohibited services referred to in all points (a) to (k)
+because these services pose the risk to the independence of the audit firm in case
+of both: the assurance of sustainability reporting – points (b), (c) and (e) to (k)
+and the statutory audit – points (a) to (k)).
+ASSURANCE OF THE SUSTAINABILITY REPORT PREPARED IN
+ACCORDANCE WITH ARTICLE 40a OF THE ACCOUNTING DIRECTIVE
+47
+79) What happens if the third-country undertaking does not provide the assurance
+opinion to the EU subsidiary/EU branch?
+Pursuant to Article 40a(3) of the Accounting Directive, if the third-country undertaking
+does not provide the assurance opinion, the subsidiary undertaking or branch shall issue
+a statement indicating that fact.
+80) How should the assurance opinion for the sustainability report prepared pursuant
+to Article 40a of the Accounting Directive be published? Are there any format
+requirements?
+Based on Article 40d(1) of the Accounting Directive, the assurance opinion for the
+sustainability report prepared pursuant to Article 40a shall be published together with
+the sustainability report – and, where applicable, the statement mentioned in the fourth
+subparagraph of Article 40a(2) of the Accounting Directive – within 12 months of the
+balance sheet date of the financial year for which the report is drawn up, as provided for
+by each Member State, in accordance with Articles 14 to 28 of the Company Law
+Directive and, where relevant, in accordance with Article 36 of that Directive. Union
+law does not currently require specific format requirements for the assurance opinion.
+However, Article 33a of the Accounting Directive - introduced by the ESAP package
+109 - requires subsidiaries and branches subject to Article 40a of the Accounting
+Directive to submit the sustainability report to the collection body designated by the
+Member State in a data extractable format together with the relevant accompanying
+metadata. The Commission is also empowered to adopt implementing measures to
+specify further metadata to accompany the assurance opinion and to require a machine-
+readable format.
+Section VI – FAQs on key intangible resources
+81) According to Article 19(1) fourth subparagraph of the Accounting Directive,
+undertakings shall report information on the key intangible resources and explain
+how the business model of the undertaking fundamentally depends on such
+resources and how such resources are a source of value creation for the
+undertaking. Does this disclosure requirement apply to all kinds of key intangible
+resources, including intangible assets recognised on the balance sheet?
+Article 19(1) fourth subparagraph of the Accounting Directive is not limited to
+information about key intangible resources that are not recognised as intangible assets
+on the balance sheet. Consequently, the requirement applies to all key intangible
+resources of the undertaking, including intangible assets recognised on the balance
+sheet.
+This holistic approach allows users to understand the dependencies of the undertaking’s
+business model on key intangible resources and their relevance for the company’s value
+creation, irrespective of whether they would meet the recognition and measurement
+criteria of the applicable accounting framework. It will help users to assess the
+undertaking’s market value.
+109 In particular by Directive (EU) 2023/2864 of the European Parliament and of the Council of 13 December
+2023 amending certain Directives as regards the establishment and functioning of the European single access
+point (OJ L, 2023/2864) “ESAP Omnibus Directive”.
+48
+82) Which entities are required to provide information on key intangible resources in
+the management report? Shall this requirement also apply to credit institutions
+and insurance undertaking, irrespective of their legal form?
+Large undertakings and listed SMEs (except micro-undertakings) shall report
+information on the key intangible resources and explain how the business model of the
+undertaking fundamentally depends on such resources and how such resources are a
+source of value creation for the undertaking. Article 19 of the Accounting Directive
+only applies to the types of undertakings referred to in Article 1(1) of the Accounting
+Directive, including credit institutions and insurance undertakings that fulfil the
+conditions in Article 1(1) of the Accounting Directive. This information must be
+included in the management report (but not necessarily in the sustainability statement).
+83) Do key intangible resources have to be included in the sustainability statement?
+Article 19(1) of the Accounting Directive sets out information which must be included
+in the undertaking’s management report. Article 19(1) fourth subparagraph of the
+Accounting Directive requires information concerning key intangible resources to be
+included in the management report. Therefore, this information does not necessarily
+have to be included in the sustainability statement and may be provided in a different
+section of the management report.
+Section VII – Additional FAQs on requirements for third-country undertakings
+84) Are third-country undertakings required to report sustainability information at
+individual and/or consolidated level (individual/consolidated sustainability
+statement) under Articles 19a/29a of the Accounting Directive?
+Without prejudice to Article 23 of the Transparency Directive, third-country
+undertakings are required to report sustainability information at individual and/or
+consolidated level under Articles 19a/29a of the Accounting Directive, but only if the
+third-country undertaking is an issuer of transferable securities admitted to trading on
+an EU regulated market, excluding micro-undertakings.
+Third-country issuers must include sustainability information within their management
+report as part of their annual financial report, based on Article 4(5) of the Transparency
+Directive, which cross-refers to Articles 19a and 29a of the Accounting Directive.
+85) Can third-country SMEs with transferable securities admitted to trading on an
+EU regulated market opt out from the obligation to report sustainability
+information for financial years starting before 1 January 2028 pursuant to Article
+19a(7) of the Accounting Directive?
+Yes, the opt-out provision set out in Article 19a(7) of the Accounting Directive also
+applies to third-country SMEs with transferable securities admitted to trading on an EU
+regulated market (see FAQ 16).
+49
+86) If a third-country parent undertaking publishes on a voluntary basis a
+consolidated sustainability statement to allow its subsidiaries to avail of the
+exemptions under Articles 19a(9) and 29a(8) of the Accounting Directive, does that
+consolidated sustainability statement need to be included in a consolidated
+management report or can it be a standalone document?
+The third-country parent undertaking that complies with Article 29a of the Accounting
+Directive on a voluntary basis may include the consolidated sustainability statement in
+a separate document.
+87) Does the consolidated sustainability statement of the third-country parent
+undertaking prepared pursuant to Article 29a of the Accounting Directive have to
+include all its subsidiaries or only the EU subsidiaries?
+The rules for the consolidation of the sustainability statement are the same ones as for
+the consolidation of the financial statements. Based on Article 22(6) of the Accounting
+Directive110, the consolidated sustainability statement must include all its subsidiary
+undertakings, regardless of where the registered offices of such subsidiary undertakings
+are situated.
+88) Pending a Commission decision on the equivalence of third-country sustainability
+standards, how can a third-country undertaking that is not required to report
+sustainability information under Union law allow its Union subsidiaries to be
+exempted from sustainability reporting under Articles 19a and 29a of the
+Accounting Directive?
+A third-country undertaking that is not required to report sustainability information
+under Union law and that wants to allow its Union subsidiaries to be exempted from
+sustainability reporting under Articles 19a and 29a of the Accounting Directive may
+publish a consolidated sustainability statement prepared in accordance with ESRS.
+Alternatively, based on Article 48i(1) of the Accounting Directive, until financial years
+ending on 6 January 2030, Member States must allow a subsidiary governed by the law
+of a Member State that is subject to Articles 19a and 29a of the Accounting Directive
+and whose parent undertaking is governed by the law of a third-country to prepare and
+publish a consolidated sustainability statement under Article 29a of the Accounting
+Directive, that includes all Union direct or indirect subsidiary undertakings of such
+third-country parent undertaking that are subject to Articles 19a and 29a of the
+Accounting Directive. Article 48i(2) of the Accounting Directive specifies that the
+Union subsidiary undertaking preparing the consolidated sustainability reporting shall
+be one of the Union subsidiary undertakings of the group that generated the greatest
+turnover in the Union in at least one of the preceding five financial years, on a
+consolidated basis where applicable.
+Based on Article 48i(3) of the Accounting Directive, the preparation and publication of
+the consolidated sustainability statement prepared and published by the Union
+subsidiary referred to in Article 48i(1) of the Accounting Directive leads to the
+exemption from sustainability reporting of all undertakings included in the
+consolidation, provided that the conditions in Articles 19a(9) and 29a(8) are met.
+110 Article 22(6) Accounting Directive: “Without prejudice to Article 23(9), a parent undertaking and all of its
+subsidiary undertakings shall be undertakings to be consolidated regardless of where the registered offices of
+such subsidiary undertakings are situated.”
+50
+89) Do third-country issuers have to include Article 8 Taxonomy Regulation
+disclosures in their sustainability statement?
+Without prejudice to Article 23 of the Transparency Directive, third-country issuers
+reporting in accordance with Article 19a or 29a of the Accounting Directive must
+include Article 8 Taxonomy disclosures in their sustainability statements.
+Article 4(5) of the Transparency Directive requires EU and third-country issuers of
+transferable securities admitted to trading on an EU regulated market (excluding micro-
+undertakings) to draw up their management report in accordance with Articles 19, 19a,
+20, and 29d(1) of the Accounting Directive (or Articles 29, 29a and 29d(2) of the
+Accounting Directive in the case of a consolidated management report) and to include
+the specifications adopted pursuant to Article 8(4) Taxonomy Regulation, “when drawn
+up by undertakings referred to in those provisions”.
+In line with the co-legislators’ clear intention to extend the sustainability reporting
+requirements set out in the Accounting Directive (which only applies to EU
+undertakings) to EU and third-country issuers, “when drawn up by undertakings
+referred to in those provisions” is to be interpreted as referring to the categories of
+undertakings referred to in Articles 19a and 29a of the Accounting Directive (i.e. large
+undertakings, listed SMEs excluding micro-undertakings, and parent companies of
+large groups). Since the Transparency Directive applies to all EU and third-country
+issuers (including micro-undertakings), this sentence is needed to ensure that listed
+micro-undertakings are not subject to sustainability reporting requirements.
+Article 8 of the Taxonomy Regulation requires companies subject to Articles 19a or
+29a of the Accounting Directive to publish how and to what extent the company’s
+activities are associated with economic activities that qualify as environmentally
+sustainable. The wording of Article 4(5) of the Transparency Directive indicates that
+where an EU or third-country issuer is subject to sustainability reporting requirements
+under Articles 19a or 29a of the Accounting Directive, it must include Article 8
+Taxonomy Regulation disclosures in its management report.
+Section VIII – FAQ on SFDR
+90) May financial market participants assume that any indicator reported as non-
+material by an investee undertaking subject to the CSRD does not contribute to
+the corresponding indicator of principal adverse impacts in the context of the
+SFDR disclosures?
+Yes. Financial market participants may assume that any indicator reported as non-
+material by an investee company applying ESRS does not contribute to the
+corresponding indicator of principal adverse impacts in the context of the SFDR
+disclosures, i.e. the value of that investment does not need to be included in the
+numerator of the given SFDR principal adverse impact indicator.
+Article 29b(5) point (b) of the Accounting Directive requires the Commission, to the
+greatest extent possible, to take account of the information that financial market
+participants need to comply with their disclosure obligations laid down in Regulation
+(EU) 2019/2088 and the delegated acts adopted pursuant to that Regulation when
+adopting sustainability reporting standards.
+As a consequence of the obligation set out in the CSRD to take into account the
+information needs of financial market participants, any indicator reported as non-
+51
+material by an investee undertaking subject to the CSRD requirements is relevant
+information and may be considered as not contributing to principal adverse impacts
+under the SFDR.
+Financial market participants will find this information in CSRD reporting as ESRS 1
+paragraph 35 requires that when an undertaking considers that a specific datapoint
+derived from the SFDR is not material, the undertaking explicitly states that the
+information in question is “not material”111.
+In addition, ESRS 2, paragraph 56 requires undertakings subject to the CSRD to
+include a table of all the datapoints that derive from other EU legislation, including the
+SFDR, indicating where they can be found in the sustainability statement and indicating
+“Not material” in the table for those that the undertaking has assessed as not material,
+in accordance with ESRS 1 paragraph 35.
+111 The same approach is taken for datapoints that derive from other EU legislation listed in Appendix B of
+ESRS 2.
+52

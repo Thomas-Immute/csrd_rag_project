@@ -1,0 +1,2709 @@
+EFRAG SRB 17 September 2024
+Agenda Paper 05.02
+Oil and Gas [draft] ESRS Exposure Draft
+This paper provides the technical advice from EFRAG SR TEG to the EFRAG SRB, following EFRAG SR TEG’s
+public discussion. The paper does not represent the official views of EFRAG or any individual member of
+the EFRAG SRB. This paper is made available to enable the public to follow the EFRAG’s due process.
+Tentative decisions are reported in EFRAG Update. EFRAG positions as approved by the EFRAG SRB are
+published as comment letters, discussion or position papers or in any other form considered appropriate
+in the circumstances.
+Exposure Draft ESRS Oil and Gas
+As approved by EFRAG SR TEG on 6 June 2024
+and amended following EFRAG SRB meetings of June, July and September 2024
+[draft is still subject to editorial review]
+EFRAG SRB, 4 September 2024 Page 1 of 56
+[Draft] ESRS Oil and Gas
+DISCLAIMER
+The [Draft] ESRS Oil and Gas is set out in paragraphs 1-115 and the following Appendices, that
+have the same authority as the main body of the Exposure Draft.
+- Appendix A: Defined Terms;
+- Appendix B: Application Requirements;
+- Appendix C: Application Requirements supporting the assessment of materiality of the information;
+- Appendix D: List of datapoints that emanate from EU Law;
+- Appendix E: NACE codes: Oil and Gas;
+This [Draft] ESRS Oil and Gas is also accompanied by non-binding Appendix F: Description of
+sustainability matters.
+This draft also uses terms defined in sector-agnostic ESRS and shall be read in the context of its
+objective. The terms defined in sector-agnostic ESRS are marked with italic bold, blue font.
+EFRAG SRB, 17 September 2024 Page 2 of 56
+[Draft] ESRS Oil and Gas
+Objective and structure of this [draft] standard ....................................................................... 5
+Scope of application ................................................................................................................... 5
+Presentation of sector-specific disclosures [MOVE TO SEC 1] ............................................. 6
+Sustainability matters that are most relevant to the sector .................................................... 6
+Disclosure requirements ............................................................................................................ 9
+ESRS 2 GENERAL DISCLOSURES ......................................................................................................... 9
+ESRS 2.SBM1.OG – Activity indicators ............................................................................................................... 9
+CROSS-TOPICAL SECTOR DISCLOSURES ........................................................................................ 10
+OG 1. Mapping of business sites ...................................................................................................................... 10
+OG 2. Oil and gas reserves............................................................................................................................... 11
+OG 3. Industrial hazards ................................................................................................................................... 11
+OG 4. Closure of assets .................................................................................................................................... 12
+ENVIRONMENTAL DISCLOSURES ....................................................................................................... 13
+ESRS E1 – OG Climate change........................................................................................................................ 13
+OG 5. Carbon capture and storage ................................................................................................................... 15
+ESRS E2 – OG Pollution .................................................................................................................................. 15
+ESRS E3 – OG Water and marine resources .................................................................................................... 16
+OG 6. Water and marine resources metrics ..................................................................................................... 16
+ESRS E4 – OG Biodiversity and ecosystems .................................................................................................... 17
+ESRS E5 – OG Circular economy ..................................................................................................................... 17
+SOCIAL DISCLOSURES ........................................................................................................................ 18
+ESRS S1 – OG Own workforce ........................................................................................................................ 18
+OG 7. Work stoppages ..................................................................................................................................... 18
+ESRS S2 – OG Workers in the value chain....................................................................................................... 18
+ESRS S3 – OG Affected communities .............................................................................................................. 19
+OG 8. Security personnel .................................................................................................................................. 19
+OG 9. Engagement with affected communities and grievance mechanisms ...................................................... 20
+ESRS S4 – OG Consumers ............................................................................................................................. 20
+GOVERNANCE DISCLOSURES ............................................................................................................ 20
+ESRS G1 - OG. Business conduct .................................................................................................................... 20
+OG 11. Transparency about contracts and licenses .......................................................................................... 21
+OG 12. State-aid and competition ..................................................................................................................... 21
+OG 13. Beneficial ownership ............................................................................................................................. 21
+OG 14. Oil and gas purchased from states ....................................................................................................... 22
+OG 15. Cybersecurity ....................................................................................................................................... 22
+Appendix A: Defined terms ...................................................................................................... 23
+Appendix B: Application Requirements ................................................................................. 27
+Sustainability matters included in the materiality assessment ........................................................................... 27
+APPLICATION REQUIREMENTS RELATED TO ESRS 2 GENERAL DISCLOSURES ........................ 28
+ESRS 2 GOV-4 ................................................................................................................................................. 28
+ESRS 2.SBM.1.OG – Activity indicators ............................................................................................................ 28
+ESRS 2 SBM-3 ................................................................................................................................................. 29
+ESRS 2 IRO-1 .................................................................................................................................................. 29
+APPLICATION REQUIREMENTS RELATED TO CROSS-TOPIC DISCLOSURES .............................. 29
+OG 1. Mapping of business sites ...................................................................................................................... 29
+OG 2. Oil and gas reserves............................................................................................................................... 30
+OG 3. Industrial hazards ................................................................................................................................... 31
+OG 4. Closure of assets .................................................................................................................................... 32
+APPLICATION REQUIREMENTS RELATED TO ENVIRONMENTAL DISCLOSURES ........................ 34
+ESRS E1 – OG Climate change........................................................................................................................ 34
+OG 5. Carbon capture and storage ................................................................................................................... 35
+ESRS E2 – OG Pollution .................................................................................................................................. 36
+EFRAG SRB, 17 September 2024 Page 3 of 56
+[Draft] ESRS Oil and Gas
+ESRS E3 – OG Water and marine resources .................................................................................................... 36
+OG 6. Water and marine resources metrics ...................................................................................................... 37
+ESRS E4 – OG Biodiversity and ecosystems .................................................................................................... 38
+ESRS E5 – OG Circular economy ..................................................................................................................... 39
+APPLICATION REQUIREMENTS RELATED TO SOCIAL DISCLOSURES ............................................. 39
+ESRS S1 – OG Own workforce ........................................................................................................................ 39
+OG 7. Work stoppages ..................................................................................................................................... 40
+ESRS S3 – OG Affected communities .............................................................................................................. 41
+OG 8. Security personnel .................................................................................................................................. 42
+OG 9. Engagement with affected communities and grievance mechanisms ...................................................... 42
+APPLICATION REQUIREMENTS RELATED TO GOVERNANCE DISCLOSURES ................................. 43
+ESRS G1 – OG Business conduct .................................................................................................................... 43
+OG 12. State-aid and competition ..................................................................................................................... 43
+Appendix C. Application Requirements supporting the assessment of materiality of the
+information ................................................................................................................................. 44
+Appendix D: List of datapoints in accordance with EU law .................................................. 47
+Appendix E: NACE codes ......................................................................................................... 48
+Appendix F: Description of sustainability matters ................................................................ 49
+EFRAG SRB, 17 September 2024 Page 4 of 56
+[Draft] ESRS Oil and Gas
+Objective and structure of this [draft] standard
+1. Consistent with ESRS 1 paragraph 10, the objective of this [draft] ESRS is to specify
+disclosure and application requirements that enable users of sustainability statements to
+understand material impacts, risks and opportunities, that are likely to be material for
+all undertakings in a specific sector and that are not covered, or not sufficiently covered,
+by topical standards. This [draft] ESRS covers the sustainability matters that are most
+relevant to the Oil and Gas sector.
+2. This [draft] ESRS specifies disclosure and application requirements as follows:
+(a) additional sector-specific datapoints and/or application requirements related to
+sector-agnostic disclosure requirements. Additional datapoints are located in the
+main body of this standard and additional Application Requirements are located in
+Appendix B. In both cases, they are identified by having in their title the
+requirement of sector-agnostic ESRS to which they relate (e.g. ESRS2.IRO2.OG).
+(b) sector-specific Disclosure Requirements are presented in the main body of this
+[draft] standard and are identified by a progressive numbering (OG 1, OG 2, etc.).
+Their Application Requirements are presented in Appendix B.
+3. The requirements classified in this [draft] standard as policies, actions and targets are
+subject to the materiality provisions of paragraph 33 of ESRS 1. Those classified as
+metrics are subject to the materiality provisions of paragraph 34 of ESRS 1. When
+assessing additional sector-specific datapoints in this [draft] standard referred to in
+paragraph 2 (a) above for the condition of paragraph 34 (b) of ESRS 1, the undertaking
+shall refer to the objective of the relevant Disclosure Requirement in the sector agnostic
+standards.
+3.1. The requirements of this standard shall be applied in conjunction with SEC1 that specifies
+general requirements and disclosure applicable to all sectors.
+Scope of application
+4. An undertaking is within the scope of application of this [draft] ESRS when Oil and Gas is
+a significant sector according to paragraph 40 (b) and/or (c) of ESRS 2 General
+Disclosures, using the criteria set in AR 13 of ESRS 2 to define a significant sector, as well
+as according to paragraph [#] of [Draft] SEC 1.
+5. [draft] ESRS SEC 1 Sector classification defines the aggregation of activities (NACE
+codes) into sectors for the purposes of applying sector ESRS. The NACE codes that
+pertain to the Oil and Gas sector are listed in Appendix D to this [draft] ESRS, consistent
+with [Draft] SEC 1.
+6. The Oil and Gas sector is composed of upstream, midstream, downstream and service
+sub-sectors. The undertakings operating within these sub-sectors are referred respectively
+to as upstream-, downstream-, midstream- and service undertakings, according to the
+definitions in Appendix A of this [draft] ESRS.
+7. Oil and Gas upstream sub-sector refer to the undertakings carrying out activities of
+development, exploration and production of conventional and unconventional oil and gas
+reserves. Unconventional development includes the mining and extraction of oil sands,
+shale oil and gas, deep sea exploration and fracking, among other techniques. Activities
+of developing and/or operating oil and gas fields occur both for on-shore and off-shore
+reserves. Activities in this sub-sector are classified under NACE B.06.10 Extraction of
+crude petroleum and B.06.20 Extraction of natural gas.
+8. Oil and Gas midstream sub-sector covers undertakings carrying out activities that include
+the transportation and storage of natural gas, crude oil, and refined petroleum products.
+Activities involve gathering, transporting and processing of natural gas as well as transport
+of crude oil and refined products over land (pipelines, truck and rail) or water (tankers and
+barges). Includes also storage terminals stocking oil and gas above and below ground.
+Activities in this sub-sector are classified under NACE H.49.50 Transport via pipeline.
+9. Oil and Gas downstream sub-sector refers to undertakings carrying out activities that
+include refining (classified under NACE C.19.20) and marketing of petroleum products,
+EFRAG SRB, 17 September 2024 Page 5 of 56
+[Draft] ESRS Oil and Gas
+including operating gas stations and convenience stores (classified under NACE G.46.71
+and G.47.30), as well as activities of agents involved in the wholesale of fuels (G.46.12).
+10. Oil and Gas services sub-sector refers to undertakings that provide support activities and
+equipment to the Oil and Gas value-chain. Services include activities such as drilling,
+completing and equipping oil and gas on-shore and off-shore wells, as well as seismic
+surveying, well cementing and well monitoring. Services are usually provided on a
+contractual basis, and equipment is either purchased, leased or rented. Activities in this
+sub-sector are classified under NACE include B.09.10 Support activities for petroleum and
+natural gas extraction.
+11. Integrated oil and gas undertakings are involved in activities in more than one of the above
+sub-sectors, typically across upstream, midstream and downstream activities. Such
+undertakings may need to report disclosure requirements and data points for each of the
+activities or apply specific disclosure requirements or data points.
+12. The reference to NACE activities above is made to demonstrate key activities in the sector.
+It is noted that undertakings belonging to this sector may carry out a range of additional
+activities, such as the production of hydrogen, biofuels, or utilisation of carbon capture and
+storage.
+Presentation of sector-specific disclosures [MOVE TO SEC 1]
+13. Disclosures stemming from the [draft] Oil and Gas ESRS shall be presented alongside the
+disclosures required by the corresponding sector-agnostic ESRS and following the
+provisions prescribed by ESRS 1, paragraph 116.
+Sustainability matters that are most relevant to the sector
+14. When performing its materiality assessment, the undertaking shall consider the full list of
+sustainability matters in ESRS 1, paragraph AR 16.
+15. In addition, the undertaking shall consider the following list of sustainability matters that
+are considered most relevant to the sector. The list comprises selected matters from
+ESRS1, paragraph AR 16, complemented with additional sector-specific matters.
+Appendix F provides an explanation of these matters and how they manifest in the sector.
+Topic (standard) Sub-topic and sub-sub topics Sector specifications Applicable
+sub-
+sector1
+Industrial hazards - Industrial hazards U M D S
+Closure of assets - Closure of assets U M D
+E1 Climate Climate change adaptation Locked-in emissions and U M D S
+change Climate change mitigation reserves
+Energy Climate-transition related
+research and development
+Carbon capture and
+storage
+Methane emissions, flaring U M D
+and venting
+E2 Pollution Pollution of air Hydraulic fracturing U M D S
+Pollution of water activities
+Pollution of soil Discharges of
+Pollution of living organisms and food resources hydrocarbons, acids,
+Substances of concern biocides or muds
+1 Sub-sector applicability referring to upstream (U), midstream (M), downstream (D) and services (S)
+EFRAG SRB, 17 September 2024 Page 6 of 56
+[Draft] ESRS Oil and Gas
+Topic (standard) Sub-topic and sub-sub topics Sector specifications Applicable
+sub-
+sector1
+Substances of very high concern
+E3 Water and Water Extraction and processing U M D S
+marine resources Marine resources of oil and gas
+Water consumption Processes of hydraulic
+Water withdrawals fracturing and oil sands
+Water discharges mining
+Water discharges in the oceans
+Extraction and use of marine resources Exploration of deposits in U S
+the ocean
+E4 Biodiversity Direct impact drivers on biodiversity loss Land degradation and soil U M D S
+and Ecosystems Impacts on the state of species sealing
+Impacts on the extent and conditions of
+ecosystems
+Impacts and dependencies on ecosystem
+services
+E5 Circular Resource inflows, including resource use Decommissioning of U M D S
+economy Resource outflows related to products and facilities
+services Trading of crude oil and
+Waste gas
+Recovery of discharges
+S1 Own workforce Working conditions Operating round-the-clock U M D S
+Secure employment or in remote locations
+Working time Work stoppages
+Adequate wages
+Freedom of association, the existence of works
+councils and the information, consultation and
+participation rights of workers
+Collective bargaining, including rate of workers
+covered by and collective agreements
+Work-life balance
+Health and safety
+Equal treatment and opportunities for all
+Gender equality and equal pay for work of equal
+value
+Training and skills development
+Measures against violence and harassment in
+the workplace
+Diversity
+Other work-related rights
+Child labour
+Forced labour
+Adequate housing
+Water and sanitation
+Privacy
+S2 – Workers in Working conditions U M D S
+the value chain Secure employment
+Working time
+Adequate wages
+Freedom of association, the existence of works
+councils and the information, consultation and
+participation rights of workers
+Collective bargaining, including rate of workers
+covered by and collective agreements
+Work-life balance
+Health and safety
+Equal treatment and opportunities for all
+EFRAG SRB, 17 September 2024 Page 7 of 56
+[Draft] ESRS Oil and Gas
+Topic (standard) Sub-topic and sub-sub topics Sector specifications Applicable
+sub-
+sector1
+Gender equality and equal pay for work of equal
+value
+Diversity
+Other work-related rights
+Child labour
+Forced labour
+Adequate housing
+Water and sanitation
+Privacy
+S4 Consumers Information-related impacts for consumers S
+Access to (quality) information
+Personal safety of consumers
+Health and safety
+Social inclusion of consumers
+Access to products and services
+Responsible marketing practices
+S3 Affected Communities’ economic, social and cultural Rights of indigenous U M D
+communities rights* peoples
+Adequate housing*
+Adequate food*
+Water and sanitation*
+Land-related impacts*
+Security-related impacts*
+Communities’ civil and political rights*
+Freedom of expression*
+Freedom of assembly*
+Impacts on human rights defenders*
+Rights of Indigenous peoples*
+Free, prior and informed consent*
+Self-determination*
+Cultural rights*
+G1 Business Business conduct Lobbying U M D S
+conduct Management of relationships with suppliers Local suppliers spending
+including payment practices
+Transparency on contracts U M D
+and licenses
+State aid and competition U M D
+Beneficial ownership U M D
+Oil and gas purchases from U M D
+states
+Cybersecurity U M D S
+16. For each of the sustainability matters in the table above that have been assessed to be
+material, the undertaking shall disclose its policies, actions and targets, following:
+(a) the applicable requirements in this [draft] ESRS in conjunction with those in the
+topical standards;
+(b) the minimum disclosure requirements set forth at paragraphs 60 to 81 of
+ESRS2;
+(c) paragraph 62 of ESRS 2.
+EFRAG SRB, 17 September 2024 Page 8 of 56
+[Draft] ESRS Oil and Gas
+Disclosure requirements
+ESRS 2 General disclosures
+ESRS 2.SBM1.OG – Activity indicators
+17. The undertaking shall provide a breakdown of its net revenue for the reporting period (both
+in monetary amount and as a percentage of its total revenue) into the following NACE-
+code activities2:
+(a) B.06.10 Extraction of crude petroleum
+(b) B.06.20 Extraction of natural gas
+(c) G.46.71 Wholesale of solid, liquid and gaseous fuels and related products
+(d) G.47.30 Retail sale of automotive fuel in specialised stores
+(e) H.49.50 Transport via pipeline
+(f) other NACE codes.
+18. The undertaking shall disclose the following, with amounts referred to the reporting period3:
+(a) Upstream undertaking that extracts crude petroleum shall disclose its total crude
+oil production, in barrels (bbl), with breakdown into:
+i. oil sands or other extra heavy oil extracted;
+ii. shale oil extracted via hydraulic fracturing;
+iii. crude oil extracted near or in biodiversity sensitive areas.
+(b) Upstream undertaking that extracts natural gas shall disclose its total natural gas
+production, in normal cubic meters (Nm3), with breakdown into:
+i. natural gas extracted and processed into Liquified Natural Gas (LNG);
+ii. shale gas extracted via hydraulic fracturing;
+iii. natural gas extracted near or in biodiversity sensitive areas.
+(c) Midstream undertaking that distributes oil products shall disclose its total oil
+products distribution volume, in megalitres (Ml);
+(d) Downstream undertaking that refines products shall disclose its total refined
+volume, in barrels (bbl), with breakdown into:
+i. oil sands or other extra heavy oil;
+ii. shale oil extracted via hydraulic fracturing
+(e) Downstream undertaking that sells power in retail stations (electric vehicle
+chargers) shall disclose its total sales of electricity, in megawatt hour (MWh),
+including:
+i. the share of electricity with a GHG intensity of less than 100 gCO2e/kWh
+19. The undertaking shall disclose its volumes of renewable fuels for fuel blending, by
+including the following indicators expressed in net volume of barrels of oil equivalent (bbl):
+(a) renewable fuels produced;
+(b) renewable fuels purchased.
+20. The undertaking shall provide an estimation of the total addressable market and the share
+of market for advanced biofuels and associated infrastructure.
+2 This disclosure requirement is consistent with the requirements included in EBA Pillar 3 ITS Template 1 Banking book –
+Climate change transition risk – Credit quality of exposures by sector, emissions and residual maturity.
+3 This disclosure requirement is consistent with the requirements included in EBA Pillar 3 ITS Template 4 Banking book –
+Climate change transition risk – Alignment risks
+EFRAG SRB, 17 September 2024 Page 9 of 56
+[Draft] ESRS Oil and Gas
+21. The undertaking shall disclose its production targets corresponding to the years specified
+in its GHG emission reduction targets disclosed according to E1-4. This disclosure shall
+include:
+(a) production forecast of crude oil (bbl)
+(b) production forecast of natural gas (Nm3)
+Cross-topical sector disclosures
+OG 1. Mapping of business sites
+22. The undertaking shall disclose a list of its significant business sites connected to
+material sustainability matters
+23. The objective of this Disclosure Requirement is to enable an understanding of which
+significant business sites are connected with specific material sustainability matters.
+Metrics
+24. For each significant business site that is material to:
+(a) biodiversity, the undertaking shall specify whether the site is located in or near the
+biodiversity sensitive areas. If so, the undertaking shall specify the impacts to
+the affected habitats and ecosystems and describe biodiversity management
+and adaptive management activities in place;
+(b) water and marine resources, the undertaking shall specify whether the site is located in
+areas of high-water stress.
+(c) affected communities and/or own workforce, the undertaking shall specify:
+i. whether the material impacts on the local community are connected to;
+1. indigenous peoples;
+2. land rights;
+3. adequate housing, adequate food, water and sanitation;
+4. pollution;
+5. hazardous waste storage or disposal;
+6. voluntary or involuntary resettlements that have been taking place or
+are ongoing near the site, subject to legal restrictions on the
+disclosure;
+ii. whether the site is located in or near the conflict-affected or high-risk
+areas; and
+iii. whether the site has implemented works councils, occupational health and
+safety committees and/or other worker representation bodies to deal with
+impacts.
+24.1 For each of the significant business sites listed according to the paragraphs above, the
+undertaking shall include:
+(a) basic description, including name and a description of the activities and main
+characteristics of each site;
+(b) location (NUTS region in the EU, country + region outside EU);
+(c) type of control: financial or operational control;
+(d) status of site (active; undergoing closure; closed and rehabilitated; or closed and
+not rehabilitated);
+EFRAG SRB, 17 September 2024 Page 10 of 56
+[Draft] ESRS Oil and Gas
+OG 2. Oil and gas reserves
+25. The undertaking shall disclose its proven oil and gas reserves.
+26. The objective of this Disclosure Requirement is to enable an understanding of an
+undertaking’s proven reserves.
+Metrics
+27. The undertaking shall disclose the total proven reserves of oil (bbl) and gas (Nm3) with a
+breakdown into proven reserves (percentage):
+(a) in or near biodiversity sensitive areas; and
+(b) in areas of high-water stress.
+(c) in countries with high-risks of corruption, money laundering and financing of
+terrorism;
+(d) in or near conflict-affected or high-risk areas;
+(e) in or near the indigenous land.
+28. The undertaking shall disclose for each line item of paragraph 27 the corresponding
+countries where it has 15% or more reserves.
+OG 3. Industrial hazards
+29. The undertaking shall disclose information related to industrial hazards.
+30. The objective of this Disclosure Requirement is to enable an understanding of the material
+impacts, risks and opportunities related to industrial hazards connected to the
+undertaking’s operations, as well as how the undertaking manages them.
+Policies, actions and targets
+31. When reporting its policies, actions and targets related to industrial hazards according
+to ESRS E2-1, E2-2 and E2-3, the undertaking shall specify whether and how they
+address:
+(a) spills and loss of containment events for hydrocarbons and for other chemicals
+used in operations;
+(b) management of tailings from oil sands mining and structural safety of tailing ponds
+or dams;
+(c) managing impacts from past accidents for which environmental remediation may
+still be on-going, including any actions that are planned for short, mid and long-
+term, if applicable.
+32. When reporting its policies, actions and targets related to occupational health services
+according to ESRS S1-1, S1-4 and S1-5, the undertaking shall describe whether and how
+they contribute to the minimisation of impacts and risks and identification and elimination
+of hazards; and how it ensures the quality of health services and facilitates workers’ access
+to them.
+ESRS E2 -Metrics
+33. The undertaking shall disclose the following metrics related to pollution during the
+reporting period:
+(a) for water pollution:
+i. total number and volume (in barrels) of hydrocarbon spills to water;
+ii. total number and volume (in m3) of other chemical spills to water.
+(b) for soil emissions:
+i. total number and volume (in barrels) of hydrocarbon spills to soil;
+ii. total number and volume (in m3) of other chemical discharges to soil.
+(c) for number of spills during transportation:
+EFRAG SRB, 17 September 2024 Page 11 of 56
+[Draft] ESRS Oil and Gas
+i. pipeline incidents and percentage of significant spills;
+ii. rail and truck transportation incidents and percentage of significant spills.
+iii. the total number of significant spills that occurred and volume by substance,
+as well as how it defines significant spill;
+(d) number of underground storage tanks (UST) for petroleum and hazardous
+substances;
+(e) number of UST releases requiring clean up.
+34. The undertaking shall disclose the following metrics on the process safety events
+occurred during the reporting period, as defined by the International Association of Oil &
+Gas Producers (IOGP), including:
+(a) number of Tier 1 events reported separately for each major business activity, such
+as refining or upstream;
+(b) qualitative descriptions of any significant events that occurred during the reporting
+year, including the undertakings’ response and lessons learned to prevent
+recurrence;
+(c) explanation of how the undertaking reviews the assessment and management of
+process safety risks.
+ESRS S1 -Metrics
+35. The undertaking shall disclose the following information if its workforce is exposed to
+respectively chemical, physical or ergonomic hazards:
+(a) for chemical hazards, a list of the substances of very high concern (SVHCs), as
+identified in E2-5, that workers are exposed to in its own operations;
+(b) a list of key physical or ergonomic hazards that affect its workforce and whether
+these are included in the undertaking’s health and safety management system.
+36. The undertaking shall disclose the following metrics related to health and safety matters
+as a result of being exposed to chemicals (including to crystalline silica, hydrogen sulphide,
+hydrocarbons exposure, harmful or carcinogenic hydrocarbon gases and vapours); and
+provide a breakdown between employees and non-employee in own workforce for (a)
+and (b) below:
+(a) the number of work-related fatalities,
+(b) the number of work-related injuries; and
+(c) the number of cases of recordable work-related ill health for the undertaking’s
+employees.
+37. The undertaking shall disclose the average number of hours of training per worker
+received by its own workforce on health, safety and emergency preparedness, with respect
+to occupational risks or hazards to which its own workforce is reasonably likely to be
+exposed. Such information shall be broken down by employees and non-employees.
+OG 4. Closure of assets
+38. The undertaking shall disclose information related to the closure of assets.
+39. The objective of this Disclosure Requirement is to enable an understanding of the material
+impacts, risks and opportunities related to closure of assets in the undertaking’s
+operations, as well as how the undertaking manages them and the financial effects
+associated.
+Policies, actions and targets
+40. When reporting its policies, actions and targets related to the closure of assets, the
+undertaking shall specify whether and how they address the adoption of closure plans
+(including site restoration plans) for its business sites.
+41. In addition, when reporting its policies, actions and targets related to the closure of
+assets according to ESRS S1/3-1, S1/3-4 and S1/3-5, the undertaking shall specify how
+EFRAG SRB, 17 September 2024 Page 12 of 56
+[Draft] ESRS Oil and Gas
+its policies, actions and targets address impacts on own workforce and affected
+communities related to the closure, rehabilitation and/or restoration plans.
+Metrics
+42. The undertaking shall list the material business sites for which there is no existing or
+foreseen site rehabilitation plan.
+43. Where applicable, the undertaking shall disclose whether it developed the post-closure
+plans in consultation with affected communities and employees.
+44. With regard to liabilities for closure and rehabilitation, the undertaking shall disclose per
+each material business site:
+(a) the financial liabilities recognised on balance sheet, including:
+i. undiscounted monetary value of (a) split by time horizon;
+ii. discount rate used to calculate (a);
+(b) contingent liabilities, that do not meet the accounting recognition criteria at the
+reporting date, it expects to incur, including environmental and social post-closure
+monitoring and aftercare; and
+(c) whether the business site has been sold to a third party.
+45. If the relevant information is already disclosed in the financial statements, the undertaking
+may incorporate by reference to the relevant paragraph in the financial statements.
+Environmental disclosures
+ESRS E1 – OG Climate change
+Policies, actions and targets
+46. When reporting its policies, actions and targets related to climate change mitigation
+according to ESRS E1-2, E1-3, E1-4 and E1-6, the undertaking shall specify whether and
+how they address:
+(a) implementation of Leak Detection & Repair (LDAR) programmes;
+(b) addressing the methane leakages found as a result of the regular monitoring
+surveys;
+(c) managing and abatement of methane emissions
+(d) GHG emissions from Scope 3 category 11 ‘Use of sold products’.
+Metrics related to E1-1 transition plan for climate change mitigation
+47. The undertaking shall provide its CapEx monetary amounts for the reporting period and its
+future CapEx, disaggregated in short and medium-term, in relation to:
+(a) development of reserves into production (CapEx to convert proven reserves into
+production), split by:
+i. undeveloped reserves;
+ii. developed reserves;
+(b) development of new infrastructure projects related to fossil fuel transportation and
+distribution;
+(c) other CapEx, including capitalized research and development initiatives that can
+address the undertaking’s risks related to climate change.
+48. The undertaking shall disclose its:
+(a) monetary expenditures for the reporting year on research and development of
+technologies, solutions and business models that can address the undertaking’s
+risks related to climate change (‘transition-related R&D expenditures’);
+(b) its definition of transition-related R&D expenditures;
+EFRAG SRB, 17 September 2024 Page 13 of 56
+[Draft] ESRS Oil and Gas
+(c) breakdown of its revenues and CapEx pertaining to:
+i. conventional oil and gas activities;
+ii. unconventional oil and gas activities;
+(d) CapEx plans (mid-term and long-term) to ensure compatibility with the transition
+to a sustainable economy and with the limiting of global warming to 1.5°C in line
+with the Paris Agreement;
+(e) price of oil barrel used on impairment testing;
+(f) provisions recognised on balance sheet for on-going lawsuits related to climate
+change.
+49. When disclosing information in accordance with ESRS E1-1 paragraph 16 (d), the
+undertaking shall disclose a quantitative assessment of locked-in GHG emissions
+related to its proven reserves, in MtCO , as well as a breakdown of those emissions by
+2
+the following categories:
+(a) undeveloped reserves;
+(b) developed reserves.
+Metrics related to E1-6 Gross Scopes 1, 2, 3 and Total GHG emissions
+50. The undertaking shall disclose a breakdown of (total), for the reporting period:
+(a) total Scope 1 GHG emissions into total CO and methane emissions;
+2
+(b) Scope 1 GHG emissions by type of source, namely:
+i. stationary combustion, excluding flaring;
+ii. flaring;
+iii. venting;
+iv. fugitive emissions; and
+v. other.
+51. The undertaking shall disclose its GHG emissions intensity per unit of energy produced
+during the reporting period:
+(a) upstream undertakings shall disclose the GHG intensity of its energy production
+(CO e/unit of energy) 4;
+2
+(b) undertakings operating refineries shall disclose their CO /CWT (Complexity
+2
+Weighted Tonne);
+(c) undertakings with marketing activities shall disclose GHG intensity of the final
+energy it sells (CO e/unit of energy).
+2
+52. The undertaking with integrated operations shall separately report Scope 3 GHG
+emissions category, ‘Use of sold products emissions’ associated with each segment
+(upstream, midstream, and downstream) of its integrated operations.
+53. In addition to the information provided following ESRS E1-6, with regards to its methane
+emissions, the undertaking shall disclose:
+(a) the geographical location (country) of any significant flaring or venting emissions;
+(b) the percentage of routine and non-routine flaring, and the efficiency of combustion.
+Metrics related to E1-9 Anticipated financial effects from material physical and
+transition risks and potential climate-related opportunities
+4 This disclosure requirement is consistent with the requirements included in EBA Pillar 3 ITS Template 1
+Banking book – Climate change transition risk – Credit quality of exposures by sector, emissions and residual
+maturity.
+EFRAG SRB, 17 September 2024 Page 14 of 56
+[Draft] ESRS Oil and Gas
+54. The undertaking shall disclose how it expects the management of climate change-related
+risks and opportunities to affect the medium and long-term financial position,
+performance and development. Limited to plans approved by the relevant governance
+bodies or delegated management, this shall include:
+(a) CapEx plans in relation to development of reserves into production (paragraph 47);
+(b) expected changes in investments (monetary amount) from the current levels for
+development of low-carbon products and services or adaptation solutions;
+(c) CapEx plans in relation to development of new infrastructure projects related to
+fossil fuel transportation and distribution (paragraph 47);
+(d) potential write-off situations that do not meet the accounting recognition criteria at
+the balance sheet date; and
+(e) anticipated early closure of existing assets and consequent effects on useful life of
+the existing assets.
+55. If the relevant information is already disclosed in the financial statements, the undertaking
+may incorporate by reference to the relevant paragraph in the financial statements.
+OG 5. Carbon capture and storage
+56. The undertaking shall disclose its activities related to carbon capture and storage
+technologies.
+57. The objective of this Disclosure Requirement is to provide an understanding of the extent
+to which the undertaking is implementing carbon capture and storage technologies at
+scale on its own sources, or providing it as a service to others. It also enables the
+understanding of how issues related to potential liabilities for transported and stored CO
+2
+leakage are being dealt and reported following Disclosure Requirement E1-6.
+Policies, actions and targets
+58. When reporting its policies, actions and targets related to climate change mitigation, the
+undertaking shall specify whether and how they address the risk of non-permanence of
+carbon capture and storage, including determining and monitoring the leakage and
+reversal events.
+Metrics
+59. The undertaking shall disclose the following metrics (total):
+(a) CO captured for the reporting period and % from own sources;
+2
+(b) CO stored at the end of the reporting period; broken down by:
+2
+i. own sources
+ii. other sources (CO received or transferred from third parties)
+2
+(c) CO transported through its pipelines for the reporting period;
+2
+(d) CO leakage from transport and storage of CO for the reporting period
+2 2
+(e) energy use associated with carbon capture and storage activities for the reporting
+period.
+ESRS E2 – OG Pollution
+Policies, actions and targets
+60. When reporting its policies, actions and targets related to pollution, the undertaking shall
+specify whether and how they address:
+(a) inspecting and maintaining critical infrastructure (e.g., pipelines and valves);
+(b) monitoring the quality of the environment around its business sites;
+EFRAG SRB, 17 September 2024 Page 15 of 56
+[Draft] ESRS Oil and Gas
+(c) identifying and implementing Best Available Techniques, as established by the
+Commission Implementing Decision 2014/738/EU and mandated by Directive
+2010/75/EU, and in accordance with the indications provided in ESRS E2.
+Metrics
+61. The undertaking shall disclose the following metrics:
+(a) percentage of hydraulically fractured wells for which there is public disclosure of
+all fracturing fluid chemicals used;
+(b) percentage of hydraulic fracturing sites where ground or surface water quality are
+deteriorated compared to a baseline;
+(c) volume of hydraulic fracturing fluid used in cubic meters during the reporting
+period.
+ESRS E3 – OG Water and marine resources
+Policies, actions and targets
+62. When reporting its policies, actions and targets related to the water and marine
+resources, the undertaking shall specify whether and how they address:
+(a) management of water as a shared resource, particularly in areas of high-water
+stress and where conflicts between different water uses may emerge;
+(b) improving the quality of the water discharged.
+OG 6. Water and marine resources metrics
+63. The undertaking shall disclose its metrics related to water withdrawals, discharges,
+and exploration of deposits in the ocean areas.
+64. The objective of this disclosure requirement is to enable an understanding of the water
+withdrawals and water discharges and, for undertakings active in upstream and services
+sub-sectors, of the extent to which the undertaking is involved in exploration of oil and gas
+deposits in ocean areas.
+Metrics – withdrawals and discharges
+65. The undertaking shall disclose the total volume of water withdrawals and water
+discharges, in cubic meters (m3), disaggregated into:
+(a) surface water;
+(b) groundwater;
+(c) other water.
+66. With regards to the water withdrawals disclosed according to paragraph 65 points (a),
+(b) and (c), the undertaking shall disclose the share (percentage) of water withdrawn from
+the areas of high-water stress.
+67. The undertaking shall disclose the number of non-compliances in the reporting period with
+respect to local regulatory or discharge limits and indicate exceeded parameters.
+Metrics – impacts on local water conditions
+68. The undertaking shall disclose in which water basin its operations significantly impact
+hydrological conditions (e.g. surface water flow, groundwater levels, etc) and what
+measures are put in place to prevent and mitigate the impacts.
+Metrics – marine resources-related activity indicators
+69. The undertaking that is active in the upstream and services sub-sectors shall disclose the
+following information on the sites located at the Ocean:
+(a) total number of sites; and
+(b) total area of the exploitation.
+EFRAG SRB, 17 September 2024 Page 16 of 56
+[Draft] ESRS Oil and Gas
+ESRS E4 – OG Biodiversity and ecosystems
+Policies, actions and targets
+70. When reporting its policies, actions and targets related to the biodiversity and
+ecosystems, the undertaking shall specify whether and how they address:
+(a) phasing-out existing operations and/or stopping operational investments in or near
+biodiversity sensitive areas;
+(b) minimising biodiversity and ecosystem impacts from current and future operations
+in or near biodiversity sensitive areas (including from tailings waste);
+(c) achieving no net loss or achieve a net gain to biodiversity on business sites;
+(d) managing average direct land-use change of oil and gas wells;
+(e) managing direct land-use change from oil sands mining activity;
+(f) managing percentage of impacted area rehabilitated or restored.
+Metrics
+71. The undertaking shall disclose significant impacts on biodiversity and ecosystems
+change for the reporting period:
+(a) average land-use change per oil and per gas on-shore well site;
+(b) average sea-use change per oil and per gas off-shore well site;
+(c) percentage of land-use change area rehabilitated or restored during the reporting
+period, broken down between on-shore and off-shore operations, and the
+percentage of land-use change area rehabilitated or restored in biodiversity
+sensitive areas;
+(d) metrics on state of species.
+72. The undertaking shall report metrics related to material impacts resulting from
+biodiversity and ecosystem change in accordance with ESRS E4-5, per each significant
+business site located in or near the biodiversity sensitive areas that is listed according
+to the disclosure OG 1. Mapping of business sites.
+ESRS E5 – OG Circular economy
+Policies, actions and targets
+73. When reporting its policies, actions and targets related to the circular economy, the
+undertaking shall specify whether and how they address:
+(a) application of circular economy principles to equipment and machinery assets;
+(b) drilling waste (muds and cuttings, scale, sludges) and tailings;
+(c) materials resulting from decommissioning activities for offshore and onshore
+assets, facilities and infrastructure.
+Metrics
+74. The undertaking shall disclose the percentage of materials resulting from
+decommissioning activities for offshore and onshore assets, facilities and infrastructure
+that are re-used or recycled.
+75. The undertaking shall also disclose the following volumes referred to the reporting period:
+(a) volume (in cubic meters) and percent of crude oil and gas that is traded for the
+following activities:
+i. petrochemicals;
+ii. petroleum products;
+iii. unknown;
+(b) tonnes oil recovered from oil spills;
+EFRAG SRB, 17 September 2024 Page 17 of 56
+[Draft] ESRS Oil and Gas
+(c) tonnes of drilling waste;
+(d) tonnes of sludges;
+(e) tonnes of tailings;
+(f) tonnes of decommissioned materials.
+76. In addition to reporting resource outflows according to Disclosure Requirement E5-5
+(paragraph 38 (b)), the undertaking shall disclose the amount of machinery and
+equipment, by weight, that has been diverted from disposal during the reporting period, by
+recovery operation type as stipulated under Disclosure Requirement E5-5 37 (b) i-iii.
+Social disclosures
+ESRS S1 – OG Own workforce
+Policies, actions and targets
+77. When reporting its policies, actions and targets related to its own workforce according
+to ESRS S1-1, S1-4, S1-5, the undertaking shall specify whether and how they address:
+(a) housing facilities for own workers and their access to basic services such as clean
+water, sanitation and electricity as well as recreational facilities and social spaces;
+(b) working time and work-life balance when operating round-the-clock or in remote
+locations.
+OG 7. Work stoppages
+78. The undertaking shall disclose the number of major work stoppages during the
+reporting period, including number of employees involved and their length.
+79. The objective of this Disclosure Requirement is to enable an understanding of the extent
+of major work stoppages and their effects on the undertaking.
+Policies, actions and targets
+80. When reporting its actions according to ESRS S1-4, the undertaking shall describe
+whether and how taken or agreed actions resolve the major work stoppages.
+Metrics
+81. The undertaking shall disclose the number of major work stoppages during the reporting
+period and, for each of them:
+(a) the number of employees involved; and
+(b) the length in days of the stoppage.
+ESRS S2 – OG Workers in the value chain
+Policies, actions and targets
+82. When reporting its policies, actions and targets related to value chain workers’5 health
+and safety according to ESRS S2-1, S2-4, S2-5, the undertaking shall specify whether and
+how they address the applicability of its own health and safety management system to
+value chain workers and whether and how the undertakings monitors the health and safety
+metrics for the value chain workers whilst working on site.
+5 ESRS S1 Own Workforce includes employees and non-employees (individual contractors supplying labour to the
+undertaking, and people provided by undertakings primarily engaged in ‘employment activities’ (NACE Code N78). Workers
+not in scope of Own Workforce are considered workers in the value chain (and are defined as individuals performing work
+in the value chain of the undertaking, regardless of the existence or nature of any contractual relationship with the
+undertaking).
+EFRAG SRB, 17 September 2024 Page 18 of 56
+[Draft] ESRS Oil and Gas
+ESRS S3 – OG Affected communities
+Policies, actions and targets
+83. When reporting its policies, actions and targets related to the engagement with
+indigenous peoples, including through the tailings facility lifecycle, according to ESRS
+S3-1, S3-4, S3-5, the undertaking shall describe whether and how they address:
+(a) engagement with indigenous peoples in building knowledge and in decisions that
+may have a bearing on public safety;
+(b) land and resources rights:
+i. recognition of legitimate tenure rights holders when acquiring, leasing or
+making other arrangements to use, or restrict the use of land, including
+involuntary resettlement;
+ii. process for establishing compensation for loss of assets and other
+assistance to improve or restore standards of living or livelihoods; and
+iii. use of the land after the closure of the business site;
+(c) respecting and protecting environmental and human rights defenders.
+84. The undertaking shall disclose the definition of affected communities applied when
+preparing its sustainability statement.
+Metrics
+85. The undertaking shall disclose the following metrics in relation to seeking free, prior and
+informed consent (FPIC):
+(a) whether it has been involved during the reporting period in a process of seeking
+FPIC from indigenous peoples for any of its activities;
+(b) if the undertaking has been involved in such processes, the following information
+for each of the business sites in question:
+i. whether the process has been mutually accepted by the undertaking and
+the affected indigenous peoples; and
+ii. whether an agreement has been reached, and if so, if the agreement is
+publicly available.
+86. The undertaking shall disclose the number of confirmed incidents during the reporting
+period related to environmental and human rights defenders, specifying those that
+relate to vulnerable groups, including indigenous people.
+OG 8. Security personnel
+87. The undertaking shall disclose the percentage of security personnel within own
+workforce that has received training about the undertaking’s human rights policies.
+88. The objective of this Disclosure Requirement is to enable an understanding of the extent
+to which the undertaking’s security personnel are trained on the undertaking’s human
+rights policies and an understanding of how these are respected when engaging with
+affected communities.
+89. The undertaking shall disclose:
+(a) the percentage of security personnel that has received training in the
+undertaking’s human rights policies;
+(b) where applicable, the number of the identified incidents during the reporting
+period of violations of human rights of affected communities, including
+indigenous people directly linked to its security personnel and a description of
+the type of violation.
+EFRAG SRB, 17 September 2024 Page 19 of 56
+[Draft] ESRS Oil and Gas
+OG 9. Engagement with affected communities and grievance mechanisms
+90. The undertaking shall disclose metrics regarding engagement with affected
+communities and the performance of its grievance mechanisms.
+91. The objective of this Disclosure Requirement is to enable an understanding of the
+engagement with affected communities and grievance mechanisms on impacts
+connected to the undertaking.
+92. The undertaking shall disclose the number of sites with grievance mechanisms or similar
+conflict resolution procedures for the business sites listed in OG 1, Mapping of business
+sites. If the undertaking does not operate local grievance mechanisms at the business site
+level as these are managed at group or subsidiary level, it may fulfil this requirement by
+stating this to be the case. It may disclose its plans to develop grievance mechanisms at
+business site level, if applicable.
+93. The undertaking shall disclose the percentage of business sites that have implemented
+development programs and/or the following:
+(a) affected community engagement;
+(b) impact assessments, including:
+i. social impact assessments, including gender impact assessments, based
+on participatory processes;
+ii. environmental impact assessments and ongoing monitoring.
+94. In addition, for (b) above, the undertaking shall disclose whether the results of
+environmental and social impact assessments have been made public.
+ESRS S4 – OG Consumers
+95. The undertaking shall disclose:
+(a) the number of open cases before courts or other competent authorities at the end
+of the reporting period that concern misleading business-to-consumer commercial
+practices, in particular misleading environmental claims, or general public
+communication related to sustainability. This includes the use of sustainability
+labels that are not based on a certification scheme or established by public
+authorities;
+(b) in relation to (a) above, the number of cases resolved during the reporting period
+and the outcomes of such cases.
+Governance disclosures
+ESRS G1 - OG. Business conduct
+Policies, actions and targets
+96. When reporting its policies, actions and targets related to the management of
+relationships with suppliers and payment practices according to ESRS G1-2 and G1-6, the
+undertaking shall specify whether and how they take into account the procurement
+spending on local suppliers.
+97. When disclosing according to paragraph 96, the undertaking shall disclose its definition of
+local suppliers, in case where it deviates from ESRS definition.
+Metrics
+98. When reporting according to ESRS G1-5 paragraph 29, the undertaking shall disclose the
+amount it spent (as a reporting entity) during the reporting period on lobbying activities
+with contents covering its material impacts, risks and opportunities identified in its
+materiality assessment.
+EFRAG SRB, 17 September 2024 Page 20 of 56
+[Draft] ESRS Oil and Gas
+OG 11. Transparency about contracts and licenses
+99. The undertaking shall provide information about the transparency with respect to
+contracts and licenses with governments setting the terms and conditions for the
+exploitation of oil and gas resources.
+100. The objective of this Disclosure Requirement is to provide an understanding of the
+transparency of the undertaking about its contracts concluded and licences received.
+Metrics
+101. For any material contract or license the undertaking shall disclose:
+(a) whether these are made publicly available and where they can be found;
+(b) for those contracts or licenses not publicly available, the reason for this and, if
+applicable, actions taken to publish in the future and the timetable to do so.
+OG 12. State-aid and competition
+102. The undertaking shall provide information concerning possible anti-competitive
+behaviour, the abuse of dominance, or the receipt of state aid during the reporting
+period.
+103. The objective of this Disclosure Requirement is to enable an understanding of possible
+anti-competitive behaviour of the undertaking during the reporting period, as well as any
+state aid received.
+Metrics
+104. The disclosure shall include the following information:
+(a) publicly announced notifications, preliminary investigations, investigations,
+proceedings or commitments and remedies relating to violations of antitrust and
+monopoly legislation or the receipt of state-aid where the undertaking was named
+as a participant by a competent authority; and
+(b) the main outcomes of legal proceedings against the undertaking concluded during
+the reporting period, including sanctions, fines, commitments and remedies;
+(c) the total amount received with respect to state aid or financial assistance received
+from any government during the reporting period on a country-by-country basis.
+OG 13. Beneficial ownership
+105. The undertaking shall provide information about its beneficial ownership and how
+it identifies the beneficial owners of business partners, including joint ventures and
+suppliers.
+106. The objective of this Disclosure Requirement is to provide transparency about the
+undertakings beneficial owner(s) and to how the undertaking manages issues related to
+the beneficial owners of its business partners, and how these are identified.
+Policies, actions and targets
+107. When reporting its policies, actions and targets related to the prevention and detection
+of corruption and bribery according to ESRS G1-1 and G1-3, the undertaking shall specify
+whether and how they cover guidelines and screening processes regarding politically
+exposed persons (‘PEPs’) and beneficial owners of business partners, including joint
+ventures and suppliers.
+Metrics
+108. The undertaking shall disclose a list of its parent undertaking’s beneficial owner(s) (as
+defined in article 3(6) of Directive (EU) 2015/849).
+EFRAG SRB, 17 September 2024 Page 21 of 56
+[Draft] ESRS Oil and Gas
+OG 14. Oil and gas purchased from states
+109. The undertaking shall provide information about oil and gas purchased from states
+or a third party appointed on the behalf of such states during the reporting period.
+110. The objective of this disclosure requirement is to enable transparency about oil and gas
+purchases from the state and to provide insights amounts paid to the state under such
+transactions.
+Metrics
+111. For oil and gas purchased during the reporting period from the state or from third parties
+appointed by the state to sell on their behalf, the undertaking shall disclose:
+(a) volumes and types of oil and gas purchased from the state;
+(b) full names of the buying undertaking(s) and the recipient of the payment; and
+(c) payments made for the purchase.
+OG 15. Cybersecurity
+112. The undertaking shall provide information about the management of its
+cybersecurity as well as on cyber incidents during the reporting period.
+113. The objective of this Disclosure Requirement is to enable an understanding of the
+undertaking’s policies and management of risks regarding cybersecurity and to provide
+transparency on failures related to cybersecurity.
+Policies, actions and targets
+114. When reporting its policies, actions and targets related to cybersecurity, the
+undertaking shall specify whether and how they address cyber-related incident
+management for existing operations, projects planned or underway and new locations for
+business activities.
+Metrics
+115. For the incidents during the reporting period that were made public, the undertaking shall
+disclose:
+(a) the number of incidents;
+(b) the number of business sites impacted; and
+(c) whether this involved restricted or classified information.
+EFRAG SRB, 17 September 2024 Page 22 of 56
+[Draft] ESRS Oil and Gas
+Appendix A: Defined terms
+This appendix is an integral part of this Exposure Draft and has the same authority as the other
+parts of this Exposure Draft.
+Term Description
+Biosphere Biosphere reserves are ‘learning places for sustainable development’. They
+Reserves are sites for testing interdisciplinary approaches to understanding and
+recognised managing changes and interactions between social and ecological systems,
+within the including conflict prevention and management of biodiversity. They are places
+framework that provide local solutions to global challenges. Biosphere reserves include
+of terrestrial, marine, and coastal ecosystems. Each site promotes solutions
+UNESCO’s reconciling the conservation of biodiversity with its sustainable use.
+Man and the Biosphere reserves are nominated by national governments and remain under
+Biosphere the sovereign jurisdiction of the states where they are located. Biosphere
+(MAB) Reserves are designated under the intergovernmental MAB Programme by the
+Programme Director-General of UNESCO following the decisions of the MAB International
+Coordinating Council (MAB ICC). Their status is internationally recognized.
+Conflict- Areas in a state of armed conflict or fragile post-conflict as well as areas
+affected and witnessing weak or non-existent governance and security, such as failed
+high-risk states, and widespread and systematic violations of international law, including
+areas human rights abuses.
+Decommissi 1) The action of withdrawing from service the offshore facilities and
+oning infrastructure, and the Plugging & Abandonment (P&A) of offshore wells.
+activities 2) Decommissioning is the process of ending offshore oil and gas operations
+at an offshore platform and returning the ocean and seafloor to its pre-lease
+condition.
+Developed Reserves that are expected to be recovered from existing wells and facilities.
+reserves Developed reserves may be further sub-classified as producing or non-
+producing. Developed producing reserves are the developed reserves that are
+expected to be recovered from completion intervals that are open and
+producing at the effective date. Improved recovery reserves are considered
+producing only after the improved recovery project is in operation. Developed
+non-producing reserves are the developed reserves that are either shut-in or
+behind-pipe.
+Downstrea Undertakings active in refining and marketing of petroleum products, including
+m operation of gas stations and convenience stores (NACE codes C.19.20,
+undertaking G.46.71 and G.47.30). As such, the downstream undertakings referred to in
+(s) this standard shall be understood differently from downstream value chain
+actors (e.g. customers) used to describe business relationships.
+Drilling Extractive residues commonly generated during exploration and production of
+waste oil and gas, both onshore and offshore. The main types of drilling waste
+include drilling cuttings, drilling fluids and interfacial mixtures. Drill cuttings are
+particles of crushed rock sand, silt and clay produced by the action of the
+rotary drill bit as it penetrates into the earth. Drilling fluids, also referred to as
+‘muds’, and are mixtures of fine-grained solids, inorganic salts, and organic
+compounds dissolved or dispersed/suspended in in a ‘continuous phase’ (the
+base fluid) which may be water (water-based muds) or an organic liquid (non-
+aqueous muds, which can be oil-based or synthetic-based). Interfacial
+mixtures are more commonly referred to as ‘slops’. Slop water or slop mud are
+produced when the drilling fluid becomes contaminated with water; or an
+aqueous fluid (such as a completion brine) becomes contaminated with NADF
+or reservoir hydrocarbons.
+EFRAG SRB, 17 September 2024 Page 23 of 56
+[Draft] ESRS Oil and Gas
+Environmen The term "environmental defenders” refers to individuals and groups who, in
+tal their personal or professional capacity and in a peaceful manner, strive to
+defenders
+protect and promote human rights relating to the environment, including water,
+air, land, flora and fauna. Land and environmental rights are interlinked and are
+often inseparable. As a result, the two broad categories of defenders advocating
+for the environment and for land rights are often characterized as “land and
+environmental rights defenders”, “environmental rights defenders”, or just
+“environmental activists”.
+Fugitive Gas leakages directly into the atmosphere through valves and seals, hoses
+emissions and flexible piping, as well as evaporation from hydrocarbon liquids and from
+cuttings. Fugitive emissions can never be fully eliminated, but can be
+minimised by use of good / appropriate materials, equipment and design, as
+well as through good operating procedures.
+High-risk High-risk areas are those where there is a high risk of conflict or of widespread
+area(s) or serious abuses as defined in paragraph 1 of Annex II of the OECD
+Guidance. Such areas are often characterized by political instability or
+repression, institutional weakness, insecurity, collapse of civil infrastructure,
+widespread violence, and violations of national or international law.
+Hydraulic During hydraulic fracturing, hydraulic fracturing fluid is injected down an oil or
+fracturing gas production well and into the targeted rock formation under pressures great
+fluid enough to fracture the oil- and gas-bearing rock. The hydraulic fracturing fluid
+usually carries proppant (typically sand) into the newly created fractures to
+keep the fractures “propped” open. After hydraulic fracturing, oil, gas, and
+other fluids flow through the fractures and up the production well to the
+surface, where they are collected and managed.
+Hydrocarbo A liquid petroleum hydrocarbon discharged, accidentally or intentionally, that
+n spill(s) floats on the surface of water bodies as a discrete mass and is carried by the
+wind, currents and tides. Hydrocarbon spills can be partially controlled by
+chemical dispersion, combustion, mechanical containment and adsorption.
+They have destructive effects on coastal ecosystems. (See also accidental
+and non-accidental release).
+Human right The term “human rights defenders” refers to individuals, groups and organs of
+defenders society that promote and protect universally recognised human rights and
+fundamental freedoms. Human rights defenders seek the promotion and
+protection of civil and political rights as well as the promotion, protection and
+realisation of economic, social and cultural rights. Human rights defenders also
+promote and protect the rights of members of groups such as indigenous
+communities. The definition does not include those individuals or groups who
+commit or propagate violence.
+Midstream Undertakings active in the transportation and storage of natural gas, crude oil
+undertaking and refined petroleum products (NACE code H.49.50)
+(s)
+Migrant A person who is to be engaged, is engaged or has been engaged in a
+worker remunerated activity in a state of which they are not nationals.
+Occupation Services entrusted with essentially preventive functions, and responsible for
+al health advising the employer, the workers, and their representatives in the
+services undertaking, on the requirements for establishing and maintaining a safe and
+healthy work environment, which will facilitate optimal physical and mental
+EFRAG SRB, 17 September 2024 Page 24 of 56
+[Draft] ESRS Oil and Gas
+health in relation to work and the adaptation of work to the capabilities of
+workers in the light of their state of physical and mental health
+Oil and gas “Undiscovered, technically recoverable resources” estimated to exist based on
+resources geologic knowledge and theory.
+Other water Surface water that is not fresh water, and water from other sources
+Posted A worker who, for a limited period, carries out his work in the territory of a
+workers Member State other than the State in which he normally works.
+Probable Probable reserves (or P2) are those additional reserves which are less likely to
+reserves be recovered than proven reserves (<90%) but more certain to be recovered
+than possible reserves (>50%).
+Produced Water (brine) obtained from the hydrocarbon bearing formation strata during
+water the extraction of oil and gas. This can include formation water, injection water,
+and any chemicals added downhole or during the oil/ water separation
+process.
+Proven Proven reserves (or P1) are the amount of oil or natural resources contained
+reserves under a piece of land with a 90% or greater probability of profitable extraction.
+Reserves Part of a mineral deposit which could be economically and legally extracted or
+produced at the time of the reserve determination.
+Scale and 1) Thick, soft, wet mud or a similar viscous mixture of liquid and solid
+sludges components.
+2) Sludge is composed of dissolved solids which precipitate from produced
+water as its temperature and pressure change. Sludge generally consists of
+oily, loose material often containing silica compounds, but may also contain
+large amounts of barium.
+Scales are normally found on the inside of piping and tubing. American
+Petroleum Institute found that the highest concentrations of radioactivity are in
+the scale in wellhead piping and in production piping near the wellhead.
+Concentrations were as high as tens of thousands of picocuries per gram.
+However, the largest volumes of scale occur in three areas: Water lines
+associated with separators, (separate gas from the oil and water; Heater
+treaters (divide the oil and water phases); Gas dehydrators, where scale
+deposits as thick as four inches may accumulate.
+Service Undertakings active in support activities and provision of equipment to oil and
+undertaking gas value chain (NACE code B.09.10)
+(s)
+Spills Accidental releases of hazardous substances such as chemicals, oils, fuels
+and other substances. They can affect water, soil and air quality as well as
+biodiversity and human health.
+Surface Surface water, including rainwater, water from wetlands, rivers and lakes.
+water Water that is naturally occurring water on the Earth's surface in ice sheets, ice
+caps, glaciers, icebergs, bogs, ponds, lakes, rivers and streams, and has a low
+concentration of dissolved solids.
+Tailing(s) Oil sands tailings are a mixture of water, sand, fine silts, clay, residual bitumen
+and lighter hydrocarbons, inorganic salts and water-soluble organic
+compounds.
+Throughput The amount of product that moves through a particular facility during a given
+period of time.
+EFRAG SRB, 17 September 2024 Page 25 of 56
+[Draft] ESRS Oil and Gas
+Tier (1/2/3) A Tier 1 process safety event is defined by API RP 754 as an unplanned or
+safety uncontrolled loss of primary containment (LOPC) release of any material,
+events including non-toxic and non-flammable materials, such as steam, hot
+condensate, nitrogen or compressed air, from a process that results in one or
+more of the following consequences:
+A Tier 2 process safety event is defined similarly but with less severity than the
+Tier 1 criteria above. See API RP 754 and IOGP’s Report 456 for detailed
+definitions and guidance.
+Tier 3 “challenges to safety systems.” 1.1 The entity shall refer to the terms,
+definitions, and guidance from the ANSI/API RP-754 (Section 7.2). Tier 3
+indicators may alternatively be referred to as “near miss” events or “high
+learning value” events.
+Tier 4 indicators are metrics developed by the entity–specific to its facilities,
+operations, and safety priorities– that measure leading, proactive measures to
+maintain and improve safety and manage risk.
+Transmissio Pipelines used to transport crude oil and natural gas from their respective
+n pipelines gathering systems to refining, processing, or storage facilities. Transmission
+pipelines also transport refined petroleum products and natural gas to
+customers, for use or for further distribution. With very few exceptions,
+transmission pipelines are dedicated to the transportation of crude oil, refined
+petroleum products, or natural gas. Transmission pipeline systems include all
+of the equipment and facilities necessary to transport the products. This
+includes the pipe, valves, pumps or compressors, breakout tanks, storage
+tanks, refining and processing facilities and other equipment and facilities.
+Transmission pipelines are constructed from steel pipe and can range in size
+from several inches to several feet in diameter. Depending on the product
+being transported, transmission pipeline systems can be designed to operate
+from relatively low pressures to high pressures. They can range in length from
+hundreds of feet to hundreds of miles.
+Undergroun An Underground Storage Tank (UST) system is a tank (or a combination of
+d storage tanks) and connected underground piping having at least 10 percent of their
+tank(s) combined volume underground. The tank system includes the tank,
+underground connected piping, underground ancillary equipment, and any
+containment system.
+Undevelope Undeveloped oil and gas reserves are reserves of any category that are
+d reserves expected to be recovered from new wells on undrilled acreage, or from
+existing wells where a relatively major expenditure is required for
+recompletion.
+(i) Reserves on undrilled acreage shall be limited to those directly offsetting
+development spacing areas that are reasonably certain of production when
+drilled, unless evidence using reliable technology exists that establishes
+reasonable certainty of economic producibility at greater distances.
+(ii) Undrilled locations can be classified as having undeveloped reserves only
+if a development plan has been adopted indicating that they are scheduled to
+be drilled within five years, unless the specific circumstances, justify a longer
+time.
+(iii) Under no circumstances shall estimates for undeveloped reserves be
+attributable to any acreage for which an application of fluid injection or other
+improved recovery technique is contemplated, unless such techniques have
+been proved effective by actual projects in the same reservoir or an analogous
+reservoir, or by other evidence using reliable technology establishing
+reasonable certainty.
+Upstream Undertakings active in development, exploration and production of
+undertaking conventional and unconventional oil and gas reserves (NACE codes B.06.10
+(s) and B.06.20). As such, the upstream undertakings referred to in this
+standard shall be understood differently from upstream value chain actors (e.g.
+suppliers) used to describe business relationships.
+EFRAG SRB, 17 September 2024 Page 26 of 56
+[Draft] ESRS Oil and Gas
+Appendix B: Application Requirements
+This Appendix is an integral part of the proposed [draft] ESRS Oil and Gas and has the same
+authority as the other parts of the Standard.
+Sustainability matters included in the materiality assessment
+AR 1. This sector standard introduce two cross-cutting sustainability matters which play a role
+in the undertaking’s materiality assessment:
+(a) industrial hazards, which refer to incidents and accidents oil and gas operations
+are highly prone to and which can result in significant impacts on environmental
+resources (extreme contamination of air, water and soil, habitat degradation, harm
+to species), surrounding communities and infrastructures (e.g., damage to
+economic activities and food resources), workers (e.g., injuries, ill health, fatalities),
+as well as undertaking’s assets, leading to critical financial repercussions. Some
+examples of industrial hazards include well blowout and explosions due to the
+manipulation of volatile and combustible chemicals, unintended leaks and failed
+containment of hazardous and highly reactive substances (e.g., hydrocarbons,
+hydraulic fracturing fluids) spills. The establishment of a system and a culture of
+safety, including through emergency preparedness and control, may help
+undertakings to reduce the risk of such hazards.
+(b) closure of assets, which refer to ceasing of the operations, whenever site-specific
+extractive operations such as those in oil and gas are subject to closure due to
+finite resources and/or economic viability. At the end-of-life of an operation, the
+expectation is that the site will be restored to pre-development ecological
+functionality and setting or at least stabilized to prevent persistent environmental
+and social impact associated with geomorphological changes, increased
+contamination, and deteriorated safety conditions. Decommissioning planning,
+including financial allocation, is critical to ensure detrimental effects to
+environmental and social values are fully addressed and mitigated. As such,
+corporate financial disclosure for decommissioning is essential to demonstrate
+public accountability for businesses in the extractives sector. The term asset in this
+definition does not relate to resources that would meet the financial accounting
+definition of asset.
+AR 2. Whenever a cross-cutting sustainability matter is identified, the likelihood of occurrence
+for number of other sustainability matters is increasing, as illustrated in the table below.
+Upon the conclusion of materiality of cross-cutting sustainability matters, the undertaking
+shall evaluate the connected sustainability matters.
+Industrial hazards Closure of assets
+Methane Methane
+Pollution of air Pollution of air
+Pollution of water Pollution of water
+Pollution of soil Pollution of soil
+Pollution of living organisms and food Water discharges in water bodies
+resources Water discharges in the oceans
+Substances of concern Habitat degradation and intensity of
+Substances of very high concern pressure on marine resources
+Direct impact drivers on biodiversity loss Waste
+Impacts on the state of species Secure employment
+Impacts on the extent and conditions of Social dialogue and collective bargaining
+ecosystems Freedom of association, the existence of
+Impacts and dependencies on ecosystem work councils and the information,
+services consultation and participation rights of
+Waste workers
+Secure employment for own workforce and Training and skills development
+workers in the value chain Health and safety
+EFRAG SRB, 17 September 2024 Page 27 of 56
+[Draft] ESRS Oil and Gas
+Health and safety for own workforce and Communities’ economic, social and cultural
+workers in the value chain rights
+Social dialogue and collective bargaining
+Communities’ civil and political rights
+Training and skills development for own
+workforce and workers in the value chain
+Measures against violence and harassment
+in the workplace
+Communities’ economic, social and cultural
+rights
+Application Requirements related to ESRS 2 General disclosures
+ESRS 2 GOV-4
+AR 3. If the undertaking carries out activities concerned by the OECD Due Diligence Guidance
+for Meaningful Stakeholder Engagement in the Extractive Sector, it may disclose a
+mapping of the information provided in its sustainability statement to this OECD Guidance.
+This may be presented in a table in a similar form to the table below.
+Core elements Paragraphs in the
+sustainability statements
+OECD Guidelines for Multinational Enterprises
+Establish strong company management system
+Identify and assess risk in the supply chain
+Design and implement a strategy to respond to identified risks
+Carry out independent third-party audit of supply chain due
+diligence at identified points in the supply chain.
+Report on supply chain due diligence
+ESRS 2.SBM.1.OG – Activity indicators
+AR 4. For the purpose of this Disclosure Requirement paragraph 17, net revenue shall be
+understood as being aligned with the Taxonomy Regulation (EU) 2020/852 including any
+delegated regulations related to climate change mitigation and climate change adaptation.
+AR 5. When disclosing under paragraph 19:
+(a) the renewable fuels produced shall include biofuel, cellulosic biofuel, ethanol,
+advanced biofuels, and other renewable fuels for use in fuel blending. The
+undertaking may additionally provide further breakdowns of its total production
+capacity into specific categories, such as advanced biofuel, cellulosic biofuel and
+others;
+(b) net volumes of renewable fuels are understood as volumes produced or purchased
+for use in fuel blending, less amounts sold to independent third parties.
+AR 6. When disclosing according to paragraph 20:
+(a) the advanced biofuels shall be understood as biofuels other than ethanol derived
+from corn starch (kernels) and having 50% lower lifecycle greenhouse gas
+emissions relative to gasoline;
+(b) the total addressable market for advanced biofuels and associated infrastructure
+is understood as potential revenue, should the entity capture 100% of the market
+share of the product category. The market share shall be calculated as revenue
+from the advanced biofuels and associated infrastructure, divided by the total
+addressable market. When disclosing its estimations on the total addressable
+market, the undertaking may additionally provide a projection of growth for this
+market, as well as the targeted market share that the undertaking plans to address.
+EFRAG SRB, 17 September 2024 Page 28 of 56
+[Draft] ESRS Oil and Gas
+ESRS 2 SBM-3
+AR 7. The undertaking may consider disclosing which impacts on affected communities are
+specific to vulnerable groups such as children, women, migrant workers, indigenous
+peoples or any other vulnerable group, as applicable.
+ESRS 2 IRO-1
+AR 8. When the undertaking is conducting its materiality assessment of impacts, risks and
+opportunities in relation to affected communities (ESRS S3), it may take into account
+how it addresses impacts and risks related to free, prior, and informed consent from
+indigenous peoples in countries without regulation or processes in place.
+AR 9. It may disclose whether, as part of its materiality assessment, it performs a risk
+assessment for entering a new country of operations before the subscription of the
+contract.
+AR 10. When conducting its materiality assessment on topics related to ESRS E2, E3 and E4,
+the undertaking may consider the first three phases of LEAP approach, also known as:
+(a) Phase 1. Locate where in the undertaking’s own operations and along its upstream
+and downstream value chain the interface with nature takes place
+(b) Phase 2: evaluate the dependencies and impacts
+(c) Phase 3: assess the material risks and opportunities
+Application Requirements related to cross-topic disclosures
+OG 1. Mapping of business sites
+AR 11. The mapping of business sites concerned by this disclosure includes both those that are
+under the undertaking’s financial control and those under operational control. The site
+may be significant for the undertaking in terms of revenue or material actual impacts, or
+material potential negative impacts. For example, site may be significant for the
+undertaking if it meets one or both of the following criteria:
+(a) the site is among its major sites;
+(b) is the most impactful business sites of the undertaking connected with material
+actual impacts or material potential negative impacts on people and environment.
+AR 12. For the purposes of this disclosure, the following are business sites:
+(a) concessioned areas for oil and gas production currently under development or in
+production;
+(b) concessioned areas for oil sands with tailing dams or ponds;
+(c) LNG & Natural gas processing facilities;
+(d) refinery assets; or
+(e) oil and gas transmission pipelines.
+AR 13. Transmission pipelines (mentioned above) mean pipelines used to transport crude oil and
+natural gas from their respective gathering systems to refining, processing, or storage
+facilities. Transmission pipelines also transport refined petroleum products and natural
+gas to customers, for use or for further distribution. With very few exceptions, transmission
+pipelines are dedicated to the transportation of crude oil, refined petroleum products, or
+natural gas. Transmission pipeline systems include all of the equipment and facilities
+necessary to transport the products. This includes the pipe, valves, pumps or
+compressors, breakout tanks, storage tanks, refining and processing facilities and other
+equipment and facilities. Transmission pipelines are constructed from steel pipe and can
+range in size from several inches to several feet in diameter. Depending on the product
+being transported, transmission pipeline systems can be designed to operate from
+relatively low pressures to high pressures. They can range in length from hundreds of
+meters to hundreds of kilometres.
+EFRAG SRB, 17 September 2024 Page 29 of 56
+[Draft] ESRS Oil and Gas
+Operational control
+AR 14. The undertaking shall determine on the basis of the specific facts and circumstances
+which asset is under operational control. The following are examples of transactions
+where the undertaking has operational control:
+(a) the asset is operated by the company, whether for itself, or under a contractual
+obligation to other owners or participants in the asset (for example, in a joint
+venture or other such commercial arrangement); or
+(b) the asset is owned by a joint arrangement (or equivalent commercial
+arrangement), and operated by a partner, in respect of which the company can
+determine management and board level operational decisions of the joint venture.
+AR 15. Examples include mobile assets, such as vehicles or ships. The information about
+material impacts, risks and opportunities includes these mobile assets when owned and
+operated by the reporting undertaking. However, if owned by others and leased or
+chartered to the undertaking, the following shall be considered:
+(a) vehicles, aircraft or rail rolling stock not owned by the undertaking but contractually
+dedicated to exclusive business use by the undertaking are generally included as
+operated assets for reporting. This excludes ‘spot’ charters that are available for
+regular business use by other parties;
+(b) when considering marine vessels, an asset would typically be included when the
+reporting unit holds the International Safety Management Code Document of
+Compliance (DOC).
+AR 16. In relation to paragraph 63 of ESRS 1, operations and assets under “operational control”
+shall not be considered as part of the upstream or downstream value chain, but as part of
+own operations.
+AR 17. The undertaking may consider disclosing the list of business sites and infrastructure in
+the following format:
+No. Site name Description Location Type of Status of site [……]
+of activities control
+1 [site name 1] […] [NUTS Operational Active
+region]
+2 [site name 2] […] [country] Financial Undergoing
+closure
+3 [site name 3] […] […] […] Closed and
+rehabilitated
+4 [site name …] […] Closed and not
+rehabilitated
+OG 2. Oil and gas reserves
+AR 18. When disclosing under the Disclosure Requirement OG 2. Oil and gas reserves,
+paragraph 27 and 28, the undertaking shall calculate the reserves as the amount of
+reserves located in the indicated area, divided by the total amount of proven reserves.
+AR 19. With reference to paragraph 27 (c), the countries identified as high-risk are:
+(a) countries or jurisdictions identified in the Financial Action Task Force ‘black list’; or
+(b) countries that have the lowest rankings in Transparency International Corruption
+Perception Index
+AR 20. When disclosing on its reserves, the undertaking shall follow guidance published by the
+U.S. Securities and Exchange Commission (SEC) in its Oil and Gas Reporting
+Modernization (Regulation S-X Section §210.4-10) for the classifying of reserves as
+proven and probable.
+AR 21. The undertaking may consider disclosing the percentage of net probable reserves broken
+down as indicated in the paragraphs of this disclosure. In such case, the percent of proven
+reserves and probable reserves are to be calculated and reported separately.
+EFRAG SRB, 17 September 2024 Page 30 of 56
+[Draft] ESRS Oil and Gas
+AR 22. The undertaking may present the information in tabular format, as per the following table:
+Oil Gas
+Countries
+(million bbl) (million Nm3)
+TOTAL,
+of which %
+in countries with high risks of corruption, Country A,
+money laundering and financing of % % Country B,
+terrorism Country C
+in or near conflict-affected or high-risk Country D,
+% %
+areas; Country B,
+Country E,
+in or near indigenous land; % % Country F,
+Country C
+Country A,
+in or near biodiversity sensitive areas; and % % Country B,
+Country C
+Country D,
+in areas of high-water stress. % %
+Country B
+AR 23. With reference to the reserves located in or near conflict-affected or high-risk areas,
+referred to in paragraph ## 27 (d):
+(a) Reserves shall be considered to be in or near a conflict-affected or high-risk area
+if they are located in the same country as an armed conflict;
+(b) If the undertaking can demonstrate that the armed conflict is contained to a region,
+state, or designated area that is not proximate to its reserves, then it may exclude
+these from the scope of disclosure;
+(c) If reserves are located in a country, region, or state adjacent to an armed conflict
+and/or can be reasonably expected to be operationally impacted by the conflict,
+then these reserves shall be included in the scope of disclosure.
+AR 24. With reference to the reserves located in or near indigenous land, referred to in paragraph
+27 (e), indigenous lands are considered those occupied or otherwise used by indigenous
+peoples.
+AR 25. With reference to the reserves in or near the biodiversity sensitive areas, referred to in
+paragraph 27 (a), the undertaking may calculate the percentage of reserves biodiversity
+sensitive areas by proportionality, this is, by computing of their proven reserves in a
+concession area and determining the percentage which overlaps with a biodiversity
+sensitive area and allocating reserves based on that percentage. The undertaking may
+also clarify to what extent proven reserves are developed or undeveloped, given the
+potential differential impact risk between them.
+AR 26. With reference to the reserves in areas at high water stress, referred to in paragraph 27
+(b), the undertaking may calculate the % of reserves by proportionality, this is, by
+computing of their proven reserves in a concession area and determining the percentage
+which overlaps with areas of high-water stress and allocating reserves based on that
+percentage.
+OG 3. Industrial hazards
+AR 27. When disclosing information about its industrial hazards in accordance with this
+Disclosure Requirement, the undertaking shall follow the provisions in the Seveso-III-
+EFRAG SRB, 17 September 2024 Page 31 of 56
+[Draft] ESRS Oil and Gas
+Directive (2012/18/EU)6, aiming at the prevention of major accidents involving dangerous
+substances.
+AR 28. For the purpose of disclosure in paragraph 33 (c), a pipeline incident is an event in a
+pipeline for which the operator must make a report to the authority. Main causes include
+corrosion, aging pipelines, natural disasters, and excavation.
+AR 29. Considering the requirements in paragraph 35, the undertaking may consider following
+spills to be significant:
+(a) hydrocarbon releases of more than one barrel (bbl) that reached the environment;
+(b) highly volatile liquid releases of five barrels or more, or other liquid releases of 50
+barrels or more;
+(c) liquid releases resulting in an unintentional fire or explosion
+(d) spills included in the undertaking’s financial statements, for example due to
+resulting liabilities,
+(e) spills recorded as significant spills by the undertaking
+AR 30. When disclosing metrics on the process safety events according to paragraph 34, the
+undertaking may also:
+(a) provide the number of Tier 2 process safety events, reported separately for each
+major business activity, such as refining or upstream;
+(b) describe how it assesses, monitors and reviews the process safety and well control
+risk control barriers;
+(c) describe its approach and application of Tier 3 and 4 metrics;
+(d) describe how it incorporates cultural and human factors into process safety,
+including leadership, risk awareness and employee development;
+(e) state any commitments or targets it has that relate to process safety and report
+your progress;
+(f) report process safety event rates;
+(g) report number of Level 1, 2 and 3 well control incidents and separately describe
+any Level 1 incidents.
+AR 31. In the case of workers who perform tasks in offshore platforms, injuries or fatalities
+occurred while commuting to these (e.g., by helicopter) are considered to be work-related.
+AR 32. In relation with the health and safety management system, the undertaking may disclose
+whether it takes into consideration specific differences for female workers (for example,
+in the equipment provided, or whether occupational health services and facilities take
+into consideration specific health-related concerns, etc.). The undertaking may specify
+whether sexual harassment is considered among psychosocial factors.
+OG 4. Closure of assets
+Policies, actions and targets
+AR 33. For the purpose of this disclosure, the undertaking shall consider a closure plan as a plan
+addressing the aspects of decommissioning, rehabilitation or restoration and long-term
+monitoring of the site-level pollution. Closure plans also address aspects related to
+landscaping and biodiversity rehabilitation or restoration.
+AR 34. When disclosing its policies, actions and targets, the undertaking may disclose the
+following related to closure of business sites:
+(a) how it helps employees and non-employee workers manage the adverse impacts
+arising from the closure of its business site(s);
+6 Directive 2012/18/EU on the control of major-accident hazards involving dangerous substances.
+EFRAG SRB, 17 September 2024 Page 32 of 56
+[Draft] ESRS Oil and Gas
+(b) the labour transition plans in place to help workers manage the transition to a post-
+closure phase of operations (e.g., redeployment, assistance with redeployment,
+resettlement, and redundancy payments, training and skills programmes);
+(c) the collaborative efforts, projects and programs that are set up to manage the
+socio-economic impact of closure and restoration programs and disclose these;
+(d) how it engages with worker and other stakeholders in informing the closure plans,
+as well as notice periods regarding closure.
+AR 35. When disclosing its processes to remediate negative impacts following ESRS S3-3, the
+undertaking may take account of how it engages with local communities and other
+relevant stakeholders on its closure and post-closure planning and implementation,
+including post- exploitation land-use, to limit the actual and potential adverse impacts (e.g.
+unemployment, people moving out affecting the liveability of remaining supporting
+activities such as local shops, schools).
+AR 36. The undertaking may disclose whether, in relation to closure and post-closure, it has
+addressed potential access-barriers faced by affected communities, particularly by
+vulnerable groups, to reach the channels in place (e.g., understandable language,
+technological resources, accessible to children).
+AR 37. When disclosing on the financial liabilities for closure and rehabilitation according to
+paragraph 44, the undertaking shall also consider the costs necessary to address:
+(a) adverse impacts of closure of the business site on own workers, non-employee
+workers and their communities (Disclosure Requirement related to ESRS 2 SBM-
+3); and
+(b) the restoration of material impacts to biodiversity and ecosystems around the
+closed business site (Disclosure Requirement related to ESRS E4-2).
+AR 38. At the end of their commercial use, business sites such as oil and gas fields and other
+facilities are expected to be decommissioned or closed by the undertaking in an orderly
+way. Closure and rehabilitation of oil and gas fields can include:
+(a) removal and final disposal of hazardous substances and chemicals;
+(b) capping or plugging abandoned wells;
+(c) dismantling structures and reusing, recycling or disposing materials;
+(d) waste management;
+(e) surface water and groundwater quality issues resulting from spills and leaks; and
+(f) restoration of lands to a condition or economic value equivalent to the pre-
+development state;
+(g) closing oil sands mining sites also involves managing tailings ponds.
+AR 39. The operational life of business sites may last for several decades, therefore a regularly
+updated restoration plan is essential. For this reason, the undertaking may update its
+closure and restoration plan annually and such disclosure shall be considered by the
+undertaking.
+AR 40. Site restoration plans should address the following objectives:
+(a) the long-term stability and sustainability of the landforms, soils and hydrology of
+the site;
+(b) the partial or full repair of ecosystem capacity to provide habitats for biota and
+services for people;
+(c) the prevention of pollution of the surrounding environment.
+AR 41. The undertaking may disclose if it uses any recognised standard as a basis for site
+rehabilitation or restoration plans on what concerns biodiversity impacts.
+EFRAG SRB, 17 September 2024 Page 33 of 56
+[Draft] ESRS Oil and Gas
+Application Requirements related to environmental disclosures
+ESRS E1 – OG Climate change
+Policies, actions, targets
+AR 42. When reporting the information required under Disclosure Requirement E1-4 on targets
+related to climate change mitigation, the undertaking may disclose the mandatory
+legislation the goals and targets are aligned with or contribute to.
+AR 43. ‘Leak detection and repair programme’ or ‘LDAR programme’ means a programme
+dedicated to identify and detect sources of methane leaks and other unintentional
+methane emissions, and to repair or replace the relevant components.7 When reporting
+according to ESRS E1-2, E1-3 and E1-4, when a LDAR survey programme exits, the
+undertaking may provide a brief description of it including: the frequency of the
+monitoring; the different methane monitoring technologies, e.g. remote sensing
+techniques or estimation method.
+Metrics
+AR 44. When reporting according to this sectors’ Disclosure Requirement ESRS E1-OG Climate
+change related to ESRS E1-1, the undertaking may further detail these categories to align
+OpEx and CapEx plans with the EU Taxonomy.
+AR 45. CapEx referred to in paragraph 47 means Capital Expenditure approved by relevant
+governance bodies and, in accordance with Commission Delegated Regulation (EU)
+2021/2178 of 6 July 2021, it shall cover costs that are accounted based on:
+(a) IAS 16 Property, Plant and Equipment, paragraphs 73, (e), point (i) and point (iii);
+(b) IAS 38 Intangible Assets, paragraph 118, (e), point (i);
+(c) IAS 40 Investment Property, paragraphs 76, points (a) and (b) (for the fair value
+model);
+(d) IAS 40 Investment Property, paragraph 79(d), points (i) and (ii) (for the cost model);
+(e) IFRS 16 Leases, paragraph 53, point (h).
+AR 46. When disclosing the potential locked-in GHG emissions according to sector agnostic
+Disclosure Requirement E1-1 paragraph 16 (d) from the undertaking’s assets and
+products, the undertaking shall consider the emissions potential of proven (P1) reserves
+of their oil and gas assets and shall calculate this potential considering the
+recommendations of the World Resource Institute8.
+AR 47. With reference to paragraph 59. the undertaking may disclose also locked-in emissions
+of probable (P2) reserves.
+AR 48. When disclosing the breakdowns of revenues and CapEx invested into conventional and
+unconventional oil and gas activities according to paragraph 48 (c):
+(a) conventional oil and gas activities shall be understood as activities associated with
+exploitation of geological formations that concentrate hydrocarbons into discrete
+accumulations or pools, which typically have high porosity and permeability which
+allows for simple extraction of the resource. Examples of conventional oil and gas
+activities include crude oil and natural gas extraction by using, among others,
+vertical well bore or draglines.
+(b) unconventional oil and gas activities are associated with formations that are
+diffusely distributed with low porosity and permeability and/or where recovering the
+resources requires application of specialised techniques. Examples of
+unconventional oil and gas include offshore production, oil sands, shale gas, tight
+gas and coal bed methane extraction using techniques such as steam-assisted
+7 Regulation (EU) 2024/1787 of the European Parliament and of the Council of 13 June 2024 on the reduction of methane
+emissions in the energy sector and amending Regulation (EU) 2019/942
+8 A recommended methodology for estimating and reporting the potential greenhouse gas emissions from fossil fuel
+reserves, World Resource Institute, 2016
+EFRAG SRB, 17 September 2024 Page 34 of 56
+[Draft] ESRS Oil and Gas
+gravity drainage or hydraulic fracking, as well as artic oil and gas or ultra-
+deepwater extraction.
+AR 49. When reporting according to ESRS E1-6, the service undertaking shall consider its
+Scope 3 category 13 ‘Leased assets’, i.e. the emissions associated with the use of the
+assets they have leased to undertakings in the oil and gas value chain.
+AR 50. When reporting its Scope 3 category 11, ‘Use of sold products emissions’ in accordance
+with ESRS E1-6, AR 46, the undertaking shall consider:
+(a) for upstream undertakings, only the physical trading of crude oil and gas
+products and exclude financial trading volumes. Physical trading is all trading of
+crude oil and gas that actually involves the physical delivery of the product. An
+upstream undertaking may report on financial trading of crude oil and gas but in
+this case, it shall present it separately;
+(b) for midstream undertakings, the CO emissions of the throughput through the
+2
+facilities under their financial or operational control during the reporting period,
+even if the oil and gas products are not owned by the undertaking;
+(c) for downstream undertakings, the physical sales of finished products. In case
+they integrate both (refining NACE) and (marketing NACE) activities, the volume
+to consider shall be the largest throughput of the two activities;
+(d) for service undertakings, the emissions associated with the use of the products
+they have sold.
+AR 51. When disclosing its methane emissions, the undertaking may consider the Guidelines for
+Methane emissions target setting issued by GIE (Gas Infrastructure Europe), IOGP
+(International Association of Oil & Gas Producers) and MARCOGAZ (Technical
+association of the European gas industry)9.
+AR 52. When disclosing its methane emissions, the undertaking may disclose if it participates in
+any partnership programme on methane management, such as the Oil & Gas Methane
+Partnership 2.010.
+AR 53. For purposes of calculating the percentage of routine flaring referred to in paragraph 53
+(a), the undertaking shall consider the total number of hours of routine flaring and divide
+them by the number of hours in a year (8760). The percentage of non-routine flaring is
+calculated in a similar way. Routine flaring occurs on a regular basis due to the normal
+operations of a facility. Non-routine flaring is distinguished from routine flaring by the
+magnitude, frequency and duration of flaring events, being characterized by infrequent
+occurrence, high-emission rates, short-event durations and usually the result of operating
+conditions outside normal steady-state plant process or equipment operations. While non-
+routine flaring is considered unavoidable due to safety of operations, routine flaring can
+be eliminated entirely. More information can be found in the World Bank Global Gas
+Flaring Reduction Partnership11.
+AR 54. When reporting according to E1-9, the undertaking shall consider among as a source of
+financial effects, the financial risks associated with a narrower access to finance as a
+consequence to investors and lenders adopting investment policies to limit or phase-out
+the exposure to fossil fuel.
+OG 5. Carbon capture and storage
+AR 55. In case of leakages in transport and storage of CO , the undertaking shall account for the
+2
+respective emissions in accordance with the provision of ESRS E1-6.
+AR 56. When disclosing the total CO storage from own sources according to paragraph 59 (b)
+2
+(i), the undertaking may disclose the origin of CO stored, by providing a breakdown of
+2
+this total CO storage into:
+2
+a) percentage of CO emissions captured from the stack
+2
+9 Guidelines for Methane emissions target setting, GIE, IOGP, MARCOGAZ
+10 The Oil & Gas Methane Partnership 2.0
+11 World Bank Global Gas Flaring Reduction Partnership
+EFRAG SRB, 17 September 2024 Page 35 of 56
+[Draft] ESRS Oil and Gas
+b) percentage of CO emissions captured from the well
+2
+c) percentage of CO derived from Direct Air Capture (DAC)
+2
+d) other
+AR 57. When disclosing the total CO storage from other sources (CO received or transferred
+2 2
+from third parties) according to paragraph 59 (b) (ii), the undertaking may additionally
+disclose the origin of CO stored.
+2
+ESRS E2 – OG Pollution
+AR 58. When disclosing on its policies, actions and targets related to pollution, the undertaking
+may disclose the technologies it uses to manage and monitor its impact on air quality,
+such as technologies that remove or treat combustion emissions in operations or fuel
+products.
+AR 59. When disclosing its policies, actions and targets on monitoring the quality of the
+environment around its business sites, the undertaking may disclose the percentage of
+business sites that have an environmental monitoring plan in operation.
+AR 60. When reporting its policies, actions and targets on pipeline inspections, the undertaking
+may disclose the percentage of natural gas pipelines inspected and the percentage of
+hazardous liquid pipelines inspected.
+AR 61. When disclosing under E2-6 Anticipated financial effects from pollution-related impacts,
+risks and opportunities, the undertaking shall consider the financial effects of incidents
+with environmental impacts related to pollution, such as spills, leakages, uncontrolled
+discharges or other operational safety events.
+AR 62. Financial effects include the liabilities from pollution events, namely the costs of remedial
+action, as defined in Directive 2004/35/CE on environmental liability with regard to the
+prevention and remedying of environmental damage.
+AR 63. Undertakings shall refer to the Commission Notice 2021/C 118/0112 for further guidance
+on environmental damage liabilities.
+ESRS E3 – OG Water and marine resources
+Policies, actions and targets
+AR 64. When disclosing the information required in E3-1 on policies and E3-2 targets related to
+water and marine sources, the undertakings may include the following:
+(a) a description of how the organization interacts with water, including how and where
+water is withdrawn, consumed, and discharged, and the water-related impacts
+the organization has caused or contributed to, or that are directly linked to its
+operations, products, or services by its business relationships (e.g., impacts
+caused by runoff);
+(b) a description of the approach used to identify water-related impacts, including the
+scope of assessments, their timeframe, and any tools or methodologies used;
+(c) a description of how water-related impacts are addressed, including how the
+organization works with stakeholders to steward water as a shared resource, and
+how it engages with suppliers or customers with significant water-related impacts;
+(d) an explanation of the process for setting any water-related goals and targets that
+are part of the organization’s approach to managing water and effluents, and how
+they relate to public policy and the local context of each area of high-water stress;
+(e) an overview of water use across the undertaking’s upstream and downstream
+value chain;
+12 Guidelines providing a common understanding of the term ‘environmental damage’ as defined in Article 2 of Directive
+2004/35/EC of the European Parliament and of the Council on environmental liability with regard to the prevention and
+remedying of environmental damage (2021/C 118/01)
+EFRAG SRB, 17 September 2024 Page 36 of 56
+[Draft] ESRS Oil and Gas
+(f) a list of specific catchments where the organization causes significant water-
+related impacts.
+AR 65. When compiling the information about areas of high-water stress, the undertaking shall
+use publicly available and credible tools and methodologies for assessing water risk in an
+area.
+OG 6. Water and marine resources metrics
+Metrics
+AR 66. When disclosing its water withdrawals and discharges according to paragraph 65, the
+undertaking may follow the table shown below:
+Total water % withdrawn from Total water
+Water withdrawals withdrawn (m3) areas of high-water discharged (m3)
+stress
+Surface water
+Groundwater
+Other water
+AR 67. When disclosing the indicators of water discharge, the undertaking may disclose the
+internal standards it may have established for the management of water discharge-related
+impacts. The undertaking may give a description of any minimum standards set for the
+quality of effluent discharge, and how these minimum standards were determined,
+including:
+(a) how standards for facilities operating in locations with no local discharge
+requirements were determined;
+(b) any internally developed water quality standards or guidelines;
+(c) any sector-specific standards considered;
+(d) whether the profile of the receiving waterbody was considered.
+AR 68. The undertaking shall disclose volume in thousands of cubic meters (103m3) of produced
+water and process wastewater discharged.
+AR 69. When disclosing in accordance with paragraph 69 on marine activity indicators, the
+undertaking shall report considering that:
+(d) The Ocean refers to all ocean basins (the Pacific, Atlantic, Indian, Arctic and
+Southern Ocean basins) and seas which form one body of water, connected
+throughout the world. The seas are generally smaller than the ocean, and are
+located at the point where the ocean meets land and are often enclosed by land.
+(e) When determining the total area under exploitation, the undertaking shall consider
+the active sites and their wells, with executed or planned drilling, considering the
+drainage radius for vertical wells and the maximum horizontal radius for directional
+and horizontal drills, for purposes of calculating the total area of exploitation (see
+picture below, for illustration purposes).
+EFRAG SRB, 17 September 2024 Page 37 of 56
+[Draft] ESRS Oil and Gas
+ESRS E4 – OG Biodiversity and ecosystems
+Policies, actions and targets
+AR 70. When disclosing its policies, actions and targets implemented to manage its material
+impacts, risks and opportunities related to biodiversity and ecosystems, the upstream
+undertakings and midstream undertakings may include how the undertaking applies the
+mitigation hierarchy and international biodiversity standards in its operational planning,
+from early concept through to decommissioning.
+Metrics
+AR 71. When disclosing according to paragraph 71 (b) with regards to the average sea-use
+change per oil and per gas off-shore well site, sea-use change refers to measures and
+activities altering the use of marine areas, for example, coastal development, offshore
+aquaculture, mariculture, oil and gas exploration, and bottom trawling.
+AR 72. When disclosing its average land-use change and sea-use change according to paragraph
+71 (a) and (b), the undertaking shall understand the required averages as a mean metrics
+across all sites. For example, average land-use change per oil well site shall be calculated
+by dividing the land-use change (numerator) by total number of well sites (denominator).
+AR 73. When disclosing according to paragraph 71 (d), the undertaking may disclose, as a metric
+on state of species, the total number of IUCN Red list species and national conservation
+list species with habitats in areas affected by the operations of the undertaking, by level
+of extinction risk
+AR 74. When disclosing according to the sector agnostic Disclosure Requirement E4-5, the
+undertaking shall consider impacts deriving from both direct impact on land and sea use;
+indirect impacts; as well as impacts form industrial hazards (e.g. spills, other risk events).
+AR 75. The undertaking may separately identify reserves in areas with additional ecological,
+biodiversity, or conservation designations such as those listed by the A-Z Guide of Areas
+of Biodiversity Importance prepared by the United Nations Environment Programme's
+World Conservation Monitoring Centre (UNEP-WCMC).
+AR 76. The undertaking may provide information about reserves that are located in protected
+areas or endangered species habitat, but present low risk to biodiversity or ecosystem
+services; the undertaking may provide similar information for reserves located in areas
+with no official designation of high biodiversity value but that present high biodiversity or
+ecosystem services risks.
+AR 77. The undertaking may also disclose :
+(a) number of projects contributing to forestry maintenance, educational activities,
+research and development to reduce biodiversity impact and land use,
+conservation measures (planting trees);
+EFRAG SRB, 17 September 2024 Page 38 of 56
+[Draft] ESRS Oil and Gas
+(b) development and sales of new products that conform with new regulations on
+biodiversity;
+(c) number of incidents (fines, suspension or rejection of permission or license,
+litigations) due to violation of laws and regulations related to biodiversity.
+AR 78. Reserves are considered to be in areas of protected conservation status if they are located
+within:
+(a) International Union for Conservation of Nature (IUCN) Protected Areas (categories
+I-VI)
+(b) Ramsar Wetlands of International Importance
+(c) UNESCO World Heritage Sites
+(d) Biosphere Reserves recognized within the framework of UNESCO's Man and the
+Biosphere (MAB) Programme
+(e) Natura 2000 sites
+(f) Sites that meet the definition of the protected area.
+(g) the areas that are listed in the World Database of Protected Areas (WDPA) and
+mapped on Protected Planet
+AR 79. Reserves are considered to be in endangered species habitat if they are in or near areas
+where IUCN Red List of Threatened Species that are classified as Critically Endangered
+(CR) or Endangered (EN) are extant.
+AR 80. A species is considered extant in an area if it is a resident, present during breeding or
+non-breeding season, or if it makes use of the area for passage.
+AR 81. For the purposes of disclosure, "passage" is defined as all areas of land or water that a
+migratory species inhabits, stays in temporarily, crosses or overflies at any time on its
+normal migration route.
+ESRS E5 – OG Circular economy
+Policies, actions and targets
+AR 82. When describing the undertakings’ efforts to increase the life and efficiency of their
+equipment and machinery assets under E5-5 Resource outflows, the undertaking may
+disclose information such as:
+(a) whether assets were procured following circular economy approaches such as:
+leasing, procuring second-hand or remanufactured assets and whether new
+assets have been designed for longevity, reusability, repairability, etc.
+(b) whether the undertaking has agreements or policies in place for the end-of-use of
+existing equipment that would enable recirculation in practice.
+Metrics
+AR 83. The information related to the volumes shall reflect the total weight of the outflow material
+in its original state, without data modification, such as reporting on a ‘dry weight’ basis.
+Application Requirements related to social disclosures
+ESRS S1 – OG Own workforce
+AR 84. In relation to work-life balance information, round-the-clock working measures could
+relate to long or split shifts for continuous operations and multi-day assignments for
+remoted locations.
+AR 85. When disclosing its policies, actions and targets on housing facilities and access to
+basic services, the undertaking may specify whether it takes into consideration the
+specific needs of female workers.
+EFRAG SRB, 17 September 2024 Page 39 of 56
+[Draft] ESRS Oil and Gas
+AR 86. When disclosing according to ESRS S1-13, the undertaking may disclose whether the
+trainings it provides to its own workforce include prevention against sexual harassment
+and discrimination.
+AR 87. When disclosing according to the requirements of ESRS S1 Own workforce, the
+undertaking may refer to the table below for examples of policies, actions and targets:
+Social and Non-exhaustive list of Examples of Examples of Examples of targets:
+human rights factors to consider in policies: actions:
+matters: Materiality Assessment:
+Secure % of posted workers in Policies on the Reducing the Reducing the
+employment own workforce use of non- percentage of non- percentage of non-
+% of migrant workers in employee employee workers in employee workers in
+own workforce workers in the its own workforce; its own workforce;
+workforce; Ensuring that the Ensuring that the
+Policies on the migrant workers are migrant workers are
+use of migrant engaged on engaged on
+workers in the equivalent terms equivalent terms and
+workforce and conditions to conditions to non-
+non-migrant migrant workers
+workers
+Working time % of workers regularly Policies on Increased Increased percentage
+working multi-day away- advance notice percentage of of workers with
+from-home assignments of scheduling, workers with regular regular schedules
+multi-day schedules
+% of workers regularly away-from- Increased advance Increased advance
+working evening shifts home notice of scheduling notice of scheduling
+assignments, Reducing
+% of workers regularly Reducing percentage
+and evening, percentage of multi-
+working night shifts of multi-day away-
+night and day away-from-
+from-home
+weekend work home assignments,
+% of workers regularly
+assignments, and
+and evening, night
+working on Saturdays
+evening, night and
+and weekend work
+and/or Sundays
+weekend work
+Adequate Allowances for housing for Policies for Increasing housing Adequate housing
+wages away-from-home housing allowances allowances
+assignments allowances
+Freedom of % of posted workers in % of workers Percentage of Percentage of
+association/ own workforce affected by workers affected by workers affected by
+collective major work major work major work
+bargaining stoppages stoppages stoppages
+including the
+rate of workers
+covered by
+collective
+agreements
+AR 88. In relation to the downstream sub-sector, the undertaking shall consider the specific
+impacts to which workers in gas stations and in convenience stores that are attached to
+gas stations are exposed. This includes, among others, security and protection from
+harassment or sexual assault, especially during night shifts, and the use of young workers
+on long hours.
+OG 7. Work stoppages
+AR 89. The information on the number of persons in own workforce involved in a major work
+stoppage, an absolute number of persons or FTE is to be used. A major work stoppage
+is defined as a work stoppage involving 100 or more employees and/ or non-employee
+workers in own workforce.
+AR 90. The scope of this Disclosure Requirement includes work stoppages due to disputes
+between labour and management, including strikes and lockouts. The work stoppages
+may also arise due to community protests.
+EFRAG SRB, 17 September 2024 Page 40 of 56
+[Draft] ESRS Oil and Gas
+AR 91. The information required by paragraph 81 (b) shall be the sum of the products of the
+number of persons in its own workforce (FTE) involved and the total duration (in
+workdays) of each major work stoppage. Where exact figures are not available, the
+undertaking may provide an estimate according to ESRS 1.
+ESRS S3 – OG Affected communities
+AR 92. The geographical definition of ‘affected’ can include the community surrounding
+operations, a region within a country, or a country. The undertaking may adopt an
+approach that is consistent with its definition of local, when disclosing the information
+related to ESRS S3 Affected communities.
+Policies, actions and targets
+AR 93. When disclosing its policies, actions and targets related to land acquisition and
+involuntary resettlement, the undertaking may disclose if it has considered or addressed
+potential negative impacts that are specific to women and children; health and livelihood.
+AR 94. The undertaking may disclose the following information in relation to actions related to
+land and resources rights
+(a) lessons learned to prevent recurrence; and
+(b) its regular review process of the assessment and management of process safety
+risks.
+AR 95. In addition, the undertaking may disclose the approach taken in recognising the legitimate
+tenure rights holders when acquiring, leasing or making other arrangements to use, or
+restrict the use of, land as well as to providing remediation following involuntary
+resettlement either through monetary or asset compensation.
+Taking action on material impacts, risks and opportunities
+AR 96. In relation to its disclosure on the policies, actions and targets related to respecting and
+protecting environmental and human rights defenders, the undertaking may disclose
+whether it adopts a zero-tolerance approach for attacks against environmental and
+human rights defenders, and not to sue for defamation or to participate in strategic
+lawsuits against public participation (SLAPP).
+AR 97. The undertaking shall consider the impacts on affected communities that stem from the
+undertaking’s impacts on biodiversity when disclosing the actions that are planned or
+underway to address negative impacts on these affected communities; and, where
+applicable, it shall consider the principles in the Nagoya Protocol and the Montreal
+Agreement13. The undertaking may refer to how the actions that are planned or underway
+are aligned to these frameworks.
+AR 98. When disclosing the policies in relation to engagement with environmental and human
+rights defenders, the undertaking may take account of its processes for engaging with
+environmental and human rights defenders as part of its due diligence processes,
+including on managing allegations of retaliations, threats and direct/indirect attacks
+(physical and legal – including all forms of judicial harassment) against defenders. The
+undertaking may disclose if it has any initiatives or projects underway to support the
+actions or causes human rights and environmental defenders strive for.
+AR 99. The undertaking may disclose if it has any initiatives or projects underway to support the
+actions or causes human rights and environmental defenders strive for.
+Metrics
+AR 100. The definition to be used to identify a ‘confirmed incident’ is in conformity with the
+definition provided in Annex 2 of the Delegated Regulation and only refers to incidents
+that have been found to be substantiated.
+AR 101. When calculating the number of confirmed incidents in paragraph 86, the undertaking
+shall consider official sources of such as policy reports or other reports issued by
+governmental organisations. The undertaking shall also consider information raised by
+13 Refers to the COP 15 Convention on Biological Diversity of December 2022, not yet ratified.
+EFRAG SRB, 17 September 2024 Page 41 of 56
+[Draft] ESRS Oil and Gas
+legitimate representatives or credible proxies from indigenous people, as well as reports
+issued by local, national and international NGOs. The undertaking shall not consider
+unofficial sources e.g. social media, when preparing this disclosure.
+AR 102. When disclosing the number of confirmed incidents broken down by vulnerable groups,
+the undertaking may disclose whether the threats and attacks identified are different
+depending on the particular group affected (e.g., sexual violence on female
+environmental and human rights defenders).
+OG 8. Security personnel
+AR 103. Oil and gas companies may operate in conflict zones or other high-risk areas where the
+use of security personnel and the training of security personnel in the undertaking’s
+human rights policies may be more relevant.
+AR 104. The undertaking may disclose the content of the trainings offered (e.g., differentiate
+between trainings related to security issues and trainings on human rights policies) and
+also if it addresses the protection of vulnerable and marginalised groups, especially
+women, children and indigenous populations.
+AR 105. Human rights training for security personnel aims at ensuring human rights respect with
+regards to their interaction with stakeholders including affected communities, ensuring a
+non-discriminatory approach to women and minorities, not exacerbating social conflict,
+how to collaborate with public and private security providers, processes relating to
+detention of persons, undue use of force which includes ensuring that force is used only
+when necessary. The undertaking may include how practices apply to business partners,
+such as contractors, sub-contractors, suppliers, and joint venture partners. Where
+practices do not apply to business partners, the undertaking may discuss factors that
+prevent the application of such practices.
+AR 106. When describing the procedures and management of public or private security providers,
+the undertaking shall refer to training provided on its policies or international standards
+focused on safeguarding human rights as well as guidelines on the use of physical force
+and reporting procedures. It may also refer to screening and assessment processes, cost
+reimbursement and the use of company facilities.
+AR 107. The undertaking may describe the frequency of the training (whether it is provided once
+a year, every two years, as applicable).
+AR 108. The undertaking may disclose whether the undertaking has performed internal audits
+and/or has been audited or certified by an external party in relation to compliance of its
+security personnel with its own human rights policies when engaging with affected
+communities.
+AR 109. The undertaking may disclose information on its processes of tendering and contracting
+with security providers. It may also disclose whether compliance with the undertaking’s
+human rights policies by the private security are part of the process.
+OG 9. Engagement with affected communities and grievance mechanisms
+AR 110. In its disclosure prepared under ESRS S3-2, the undertaking may consider the following:
+(a) its due diligence practices and procedures with respect to indigenous rights of
+communities in which it operates or intends to operate, specifically: upholding
+internationally recognised rights of indigenous peoples, including but not limited
+to those recognised by the UN Declaration on the Rights of Indigenous Peoples,
+and the ILO Convention No. 169;
+(b) the use of free, prior, and informed consent (FPIC) (or consultation) processes
+as per the United Nations Declaration on the Rights of Indigenous Peoples
+AR 111. If the undertaking has an operation site in or near the indigenous peoples lands as listed
+in OG 1 Mapping of business sites, the undertaking may disclose:
+(a) its interactions with indigenous peoples, including but not limited to means of
+communication, language used, frequency;
+EFRAG SRB, 17 September 2024 Page 42 of 56
+[Draft] ESRS Oil and Gas
+(b) where applicable, the co-ownership programs developed for indigenous peoples
+and local communities. This includes equity shares acquired by communities and
+their value;
+(c) the most recent examples of involvement in the process of seeking free, prior,
+and informed consent from indigenous peoples to any of the undertakings’
+activities, and whether an agreement has been reached and if it is publicly
+available.
+AR 112. The undertaking may list the vulnerable groups, including any indigenous peoples, that
+it has identified within local communities and the approach to engaging with those
+vulnerable groups, including:
+(a) how it seeks to ensure meaningful engagement; and
+(b) how it seeks to ensure safe and equitable gender participations, namely how it
+seeks to ensure indigenous women can participate safely and equitably.
+AR 113. The undertaking may describe any collective or individual rights that it has identified that
+are of particular concern for local communities (including vulnerable groups).
+Metrics
+AR 114. Social impact assessment includes the processes of analysing, monitoring and managing
+the intended and unintended social consequences, both positive and negative, of planned
+interventions (policies, programs, plans, projects) and any social change processes
+invoked by those interventions.
+AR 115. Environmental impact assessment includes the processes of identifying, describing and
+assessing in an appropriate manner, in the light of each individual case, the direct and
+indirect significant effects of a project on the following factors: (a) population and human
+health; (b) biodiversity, with particular attention to species and habitats protected under
+Directive 92/43/EEC and Directive 2009/147/EC; (c) land, soil, water, air and climate; (d)
+material assets, cultural heritage and the landscape; (e) the interaction between the
+factors referred to in points (a) to (d). The effects on these factors shall include the
+expected effects deriving from the vulnerability of the project to risks of major accidents
+and/or disasters that are relevant to the project concerned.
+Application Requirements related to governance disclosures
+ESRS G1 – OG Business conduct
+AR 116. When providing information about its policy the undertaking may include details on how
+suppliers are categorised. Such categorisation may be based on geographic location,
+such as proximity to the site.
+OG 12. State-aid and competition
+AR 117. When determining the total of state aid, or of financial assistance, received from any
+government, the undertaking shall include the following:
+(a) tax relief and tax credits;
+(b) subsidies;
+(c) funds received through the Just Transition Mechanism of the EU;
+(d) investment grants, research and development grants, and other relevant types of
+grants;
+(e) awards;
+(f) royalty holidays;
+(g) financial assistance from Export Credit Agencies (ECAs);
+(h) financial incentives; and
+(i) other financial benefits received or receivable from any government for any
+operation.
+EFRAG SRB, 17 September 2024 Page 43 of 56
+EFRAG SRB 17 September 2024
+Agenda Paper 05.02
+Oil and Gas [draft] ESRS Exposure Draft
+Appendix C. Application Requirements supporting the
+assessment of materiality of the information
+This appendix is an integral part of [draft] ESRS Oil and Gas and has the same authority as the
+other parts of this Standard.
+When determining according to paragraph 34 (b) of ESRS 1 whether a given disclosure
+requirement or a datapoint in this [draft] ESRS (see reference to number of paragraphs in the table
+below) is reported or omitted for a material matter, the undertaking shall consider the factors
+presented in this table:
+Datapoint to
+Disclosure Factors to consider in informing materiality include or
+Requirement assessment omit
+(Paragraph)
+Operations in upstream, midstream or downstream 18
+ESRS 2.SBM.1.OG –
+Production of renewable fuels 19, 20
+Activity indicators
+Production of crude oil or natural gas 21
+OG 2. Oil and gas
+Existence of oil and gas reserves, upstream operations 27
+reserves
+Actual or potential occurrence of accidental releases of
+33
+hazardous substances from operations
+OG 3. Industrial
+hazards
+Health and safety incidents (i.e., fatalities, injuries, and ill-
+35, 36, 37
+health cases) amongst its workforce
+The existence of ongoing or planned closure of assets /
+42, 43, 44
+sites.
+OG 4. Closure of assets
+Absence of planning related to site rehabilitation 42
+Ongoing or anticipated decommissioning of facilities 44
+Activities in development, exploration and production of oil
+47
+and gas reserves
+Actual or anticipated investment in solutions with high
+47 (c), 48 (a)
+climate impact
+Presence of locked-in emissions 49
+Operation of refineries and marketing of petroleum
+ESRS E1 – OG Climate
+products 51 (b), 51 (c)
+change
+Integrated oil and gas operations
+Methane emissions and GHG emissions related to them 50
+Actual or anticipated flaring or venting activities, operation
+of wells, compressor stations or pipelines, actual and 53 (a)
+potential methane leakages
+Energy production and energy sales 51 (a)
+EFRAG SRB, 4 September 2024 Page 44 of 56
+[Draft] ESRS Oil and Gas
+Datapoint to
+Disclosure Factors to consider in informing materiality include or
+Requirement assessment omit
+(Paragraph)
+Energy sales 51 (c)
+Refinery operations 51 (b)
+OG 5. Carbon capture
+Utilisation of carbon capture and storage technologies 59
+and storage
+ESRS E2 – OG
+Actual or anticipated hydraulic fracturing activities 61
+Pollution
+OG 6 – Water and
+Ongoing or anticipated activities with actual or potential
+marine resources 65, 66, 67, 68
+impact on local water and land resources
+metrics
+OG 6 – Water and
+Activities related to exploration of deposits in the ocean
+marine resources 69
+areas
+metrics
+ESRS E4 – OG
+Ongoing or anticipated activities resulting in disturbed land
+Biodiversity and 71-72
+or sea
+ecosystems
+Ongoing or anticipated decommissioning of facilities 74, 75 (f)
+Crude oil and gas trading 75 (a)
+ESRS E5 – OG. Circular
+economy
+Recovery of oil spills 75 (b)
+Presence of oil and gas specific waste streams paragraphs 75 (c) – (e)
+ESRS E5 – OG. Circular
+Operation of heavy machinery and equipment 76
+economy
+Work stoppages involving more than 100 workers of the
+OG 7 – Work stoppages 95 (a), 95 (b)
+undertaking, that have taken place during the year.
+Proximity of operations/sites to indigenous peoples,
+98
+including tailings facilities
+Ongoing process of seeking FPIC from indigenous peoples
+ESRS S3 – OG Affected 98
+and agreements reached
+communities
+Prevalence of attacks on environmental and human rights
+defenders and the number of incidents when engaging with 86
+environmental and human rights defenders
+Use of private, government security personnel to safeguard
+the undertaking’s operations/site and consideration to be
+101 (a)
+given to conflict-affected or high-risk areas
+Human rights’ training performed on security personnel
+OG 8 – Security
+personnel Cases of human rights’ violations connected with the
+101 (b)
+security personnel
+Incidents of violations of human rights of indigenous people
+101 (c)
+directly linked to the undertaking’s security personnel
+EFRAG SRB, 17 September 2024 Page 45 of 56
+[Draft] ESRS Oil and Gas
+Datapoint to
+Disclosure Factors to consider in informing materiality include or
+Requirement assessment omit
+(Paragraph)
+Existence and implementation of grievance mechanisms
+OG 9 – Engagement and engagement activities with the affected communities at 106
+with affected business site level
+communities and
+grievance mechanisms Percentage of operational sites that have been subject to
+105 (b), 106
+environmental and social impact
+ESRS S4 -OG Existence of misleading commercial practices’ cases being
+95 (a), 95 (b)
+Consumers reported in the period
+Proximity of suppliers to the operational site 96
+ESRS G1 – OG.
+Business conduct Participation in advocacy and lobbying and associated
+expenditures aiming to exert influence on government 98
+policies
+OG 11. Transparency
+Presence of government contracts and licences that are
+about contracts and 101
+subject to public consultation
+licenses
+Ongoing activities in jurisdictions where instances of
+cartels, monopolistic practices, and related abuse of such
+104 (a)
+positions have been documented
+OG 12. State aid and
+competition Legal actions relating to violations of antitrust and
+monopoly legislation. 104 (b)
+Eligible to or recipient of state aid or of financial assistance 104 (c)
+Identification of individuals that classify as politically
+107
+exposed persons (‘PEPs’)
+OG 13. Beneficial
+Availability of the identity of the natural person who has a
+ownership
+control ownership interest in - and/or can exercise control
+108
+over a legal entity used by the business partners, including
+joint ventures and suppliers
+OG 14. Oil and gas Ongoing transactions generating revenue directly for states
+111
+purchased from states or through third parties acting on behalf of states
+Dependency on technology to manage the facility
+114
+operations
+OG 15. Cybersecurity
+Managing restricted or classified information on digital
+115 (c)
+platforms
+EFRAG SRB, 17 September 2024 Page 46 of 56
+EFRAG SRB 17 September 2024
+Agenda Paper 05.02
+Oil and Gas [draft] ESRS Exposure Draft
+Appendix D: List of datapoints in accordance with EU law
+This Appendix is an integral part of the Exposure Draft ESRS Oil and Gas and has the same authority
+as the main body of the [draft] Exposure Draft.
+The table below illustrates the datapoints that emanate from other EU legislation. These are to be
+reported irrespective of the outcome of the materiality assessment.
+Disclosure Pillar 3 reference
+Requirement
+ESRS 2.SBM1.OG – Article 449a Capital Requirements Regulation – CRR – Template 1:
+Activity indicators Banking book – Climate change transition risk: Credit quality of
+exposures by sector, emissions and residual maturity
+Article 449a CRR – Template 1: Banking book – Climate change
+transition risk: Credit quality of exposures by sector, emissions and
+residual maturity
+Template 3 – Banking book – Climate change transition risk –
+Alignment risks
+Article 449a CRR – Template 3 – Banking book – Climate change
+transition risk – Alignment risks
+Article 449a CRR – Template 3 – Banking book – Climate change
+transition risk – Alignment risks
+EFRAG SRB, 4 September 2024 Page 47 of 56
+[Draft] ESRS Oil and Gas
+Appendix E: NACE codes
+This Appendix set the list of NACE codes that are covered by this [draft] sector ESRS. All
+undertakings for which one or more of these NACE codes represent a significant sector according to
+paragraphs 40 (a) and (b) of ESRS 2, shall report according to this [draft] sector ESRS.
+C.19.20 Manufacture of refined petroleum products
+G.46.71 Wholesale of solid, liquid and gaseous fuels and related products
+G.46.12 Activities of agents involved in the wholesale of fuels
+G.47.30 Retail sale of automotive fuel in specialised stores
+H.49.50 Transport via pipeline
+B.06.10 Extraction of crude petroleum
+B.06.20 Extraction of natural gas
+B.09.10 Support activities for petroleum and natural gas extraction.
+This appendix an integral part of this Exposure Draft and has the same authority as the other parts of
+the Exposure Draft ESRS Oil and Gas.
+EFRAG SRB, 17 September 2024 Page 48 of 56
+[Draft] ESRS Oil and Gas
+Appendix F: Description of sustainability matters
+This Appendix complements the [draft] ESRS Oil and Gas and presents a non-binding description of
+the sustainability matters that are most relevant for undertakings in the Oil and Gas sector.
+For the sustainability matters that are also listed in paragraph AR16 of ESRS 1, this Appendix
+provides a description of how such matters materialise in this specific sector.
+Industrial hazards
+Oil and gas operations are highly prone to incidents and accidents with disastrous impacts on
+environmental resources (extreme contamination of air, water and soil, habitat degradation, harm to
+species), surrounding communities and infrastructures (e.g., damage to economic activities and food
+resources), workers (e.g., injuries, ill health, fatalities), as well as undertaking’s assets, leading to
+critical financial repercussions. Some examples of industrial hazards include well blowout and
+explosions due to the manipulation of volatile and combustible chemicals, unintended leaks and failed
+containment of hazardous and highly reactive substances (e.g., hydrocarbons, hydraulic fracturing
+fluids) spills. The establishment of a system and a culture of safety, including through emergency
+preparedness and control, may help undertakings to reduce the risk of such hazards.
+Closure of assets
+Site-specific extractive operations such as those in oil and gas are subject to closure due to finite
+resources and/or economic viability. At the end-of-life of an operation, the expectation is that the site
+will be restored to pre-development ecological functionality and setting or at least stabilized to prevent
+persistent environmental and social impact associated with geomorphological changes, increased
+contamination, and deteriorated safety conditions. Decommissioning planning, including financial
+allocation, is critical to ensure detrimental effects to environmental and social values are fully
+addressed and mitigated. As such, corporate financial disclosure for decommissioning is essential to
+demonstrate public accountability for businesses in the extractives sector. The term asset in this
+definition does not relate to resources that would meet the financial accounting definition of asset.
+E1: Climate change
+Climate change adaptation
+The sector is exposed to a range of risks from the current and future climate variability. Those risks
+may include, for example, reduced window of time for tundra travel due to the permafrost melting,
+increased lighting strikes in northern latitudes, coastal erosion leading to degradation of barriers,
+increased storms and wave loading on offshore facilities, changes in precipitation patterns affecting
+the water management or flooding, and reduced certainty regarding efficiency of equipment.
+Thorough risk evaluation and assessment as well as working towards resilience across the whole
+value chain, including surrounding communities and infrastructure, are essential to manage risk and
+opportunities related to the matters of climate change adaptation.
+Climate change mitigation
+Sector’s GHG emissions are major contributor to climate change. Depending on the activity specifics,
+actions to reduce emissions may cover areas of fugitive methane emissions, flaring of natural gas,
+but also mitigation of other GHG releases such as N2O, HFCs, PFCs, SF or NF. Climate transition
+efforts for the sector extend across the whole value chain, including the Scope 3 emissions. Change
+to a low-carbon economy is linked to multiple aspects of climate change mitigation (emissions
+management, long-term decline in demand, presence of stranded assets) and investments in
+renewable energy, technologies to remove CO from the atmosphere, as well as implementation of
+2
+nature-based solutions, such as reforestation, afforestation, coastal and wetland restoration.
+Energy
+The oil and gas sector represents an energy-intensive industry and hence energy efficiency and
+savings are essential to the industry’s operations. Examples of energy-consuming equipment used
+within the sector may include boilers, fired heaters, waste incinerators, gas turbines, gas engines and
+diesel engines. On-site generation of non-fossil energy, new sources of electric power or other non-
+combustion energy sources can represent an opportunity for managing the energy transition. The
+energy efficiency and energy consumption factors remain critical matters to be managed to minimise
+negative climate impacts of the industry.
+Methane
+EFRAG SRB, 17 September 2024 Page 49 of 56
+[Draft] ESRS Oil and Gas
+Methane is one of the main greenhouse gases responsible for climate change. It can be emitted from
+different activities within oil and gas industry. Examples of operations that can lead to its releases are
+operations of wells, oil and gas platforms, transmission through the pipelines, storage, refining or
+distribution activities. The methane emissions can be originating from the intentional methane burning
+(flaring), intentional releases directly into the air (venting) or fugitive emissions. Overall methane
+emissions in the industry can be significantly reduced thanks to the use of available technologies, as
+well as dedicated leak detection and repairs programmes.
+E2: Pollution
+Pollution of air
+Oil and gas operations (intentional, e.g., venting and flaring; or unintentional, e.g., fugitive emissions
+form incidents or evaporation losses) contribute to air emissions that decrease air quality at local and
+regional levels, resulting in negative impacts that acutely affect human health (e.g., neurological
+damage), flora (e.g., impairing photosynthesis) and fauna or cultural heritage sites. While the impacts
+associated with greenhouse gas emissions are taken in account as a part of the climate mitigation
+topic, other significant air pollutants from regular oil and gas sectoral activities are relevant to consider
+and may include (but are not limited to) SOx, NOx, H S, VOCs (contributing to the formation of smog,
+2
+and containing air toxics), PM. Monitoring and management of the impacts related to the air quality,
+as well as an innovative approaches to improve performance in this regard are significant matters for
+the industry.
+Pollution of water
+Oil and gas sector activities may result in water discharges, such as hydrocarbon liquids, acids,
+biocides or muds. Water contamination can also occur from the injection of drilling fluids into wells
+and flowback from hydraulic fracturing. Inefficient treatment of water discharges, oil spills from
+transportation accidents, ruptured pipelines or seepage, or failure of an oil sands tailings dam can
+cause severe and long-term impacts on (ground, surface, sea) water quality. Pollution can result from
+regular activities or can be related to incidental spills and industrial hazards connected to operations,
+infrastructure decommissioning or abandoned assets. Such incidents, events and catastrophes may
+result in severe environmental and social consequences and trigger significant financial liabilities,
+reputational damage and can be especially acute in areas of high-water stress.
+Pollution of soil
+Activities within the oil and gas sector (e.g., production and drilling), as well as pollution incidents and
+catastrophes (e.g., accidental ore oil spills), can result in releases of harmful substance, vibration or
+other contaminant into sand, silts, shells and gravel, as well as the underlying sediments and
+groundwater resources. These contaminants lead to changes in the geotechnical properties of soils
+(e.g., decreased permeability due to oil spills) and are persistent in the environment, resulting in
+increasing soil toxicity over time, subsequently affecting pollutants accumulation in habitats and
+organisms. Such pollutants can include heavy metals, cuttings, muds, hydrocarbon liquids or fluids
+from drilling, as well as non-hydrocarbon substances, which result from regular activities or can be
+related to incidental spills and industrial hazards connected to operations, infrastructure
+decommissioning or abandoned assets.
+Pollution of living organisms and food resources
+Living organisms and food resources can be at risk of exposure to potential contamination with
+pollutants present in the value chain of the oil and gas sector. Releases of hydrocarbons and other
+types of contaminants into the air, water and soil may negatively impact the healthy development of
+soils and plants and cause severe effects on marine and other living organisms which depend on
+natural resources for survival, additionally impacting the availability of food resources. Monitoring and
+management of pollution sources is therefore essential for avoiding negative environmental, social
+and economic consequences for the industry.
+Substances of concern
+Multiple activities in the oil and gas sector may involve a large range of substances of concern which
+need to be managed. The use of these substances is currently regulated and overseen under the
+REACH and CLP regulations due to their human health and environmental impact. Some examples
+of key substances in oil and gas operations include diesel particulate matter (e.g., powering drilling
+equipment), hydrocarbon gases and vapours, crystalline silica (respirable).
+Substances of very high concern
+EFRAG SRB, 17 September 2024 Page 50 of 56
+[Draft] ESRS Oil and Gas
+Certain activities in oil and gas may also involve a large range of substances of very high concern
+(SVHC) which need to be managed by undertakings. Those substances are currently regulated and
+overseen under REACH regulation due to their human health and environmental impact. Some
+examples of key hazardous substances used during oil and gas exploration and extraction are oilfield
+chemicals, drilling fluids and fracking fluids (containing a variety of compositions of chemicals,
+potentially including endocrine disruptors), hydrogen sulfide, and naturally occurring radioactive
+material (e.g. contaminated pipes and equipment containing pipe scales and drilling mud and sludge).
+E3: Water and marine resources
+Water withdrawals
+Oil and gas activities have significant impacts on water availability. Specific sector activities may
+withdraw large water quantities for extraction or processing methods, including the hydraulic
+fracturing or oil sands mining. The scale of water withdrawals can vary depending on the activity, but
+reinjection and reuse is playing critical role in minimizing the negative impacts. Given that the large
+proportion of industrial activities takes place in the areas of high water stress, marked by increased
+competition for water resources, management of risks along the whole supply chain is essential for
+the sector to avoid significant environmental and social impacts connected with water availability and
+quality.
+Water consumption
+The amounts of water that are not returned to the environment are relevant sustainability matter within
+the sector and are referred as to consumed water. Impacts related to water consumption within oil
+and gas industry may refer to water converted to waste, evaporated, transpired, or being polluted to
+the point of being unusable by other users, which prevents it from being released back to surface
+water, groundwater, seawater, or a third party over the course of the reporting period.
+Water use
+Oil and gas sector can use relatively large quantities of water depending on their size and the
+complexity of the processes. This exposes the undertakings to the risk of reduced water availability,
+depending on their location, and related costs. Usage of water from water-stressed regions may also
+create tensions with local communities. Sustainable management of water often require wastewater
+treatment and disposal, often via on-site wastewater treatment plants before discharge. Reducing
+water use and contamination through recycling, other water management strategies, and use of non-
+toxic fracturing fluids could create operational efficiency for companies and lower their operating
+costs. Such strategies could also minimize the impacts that regulations, water supply shortages, and
+community-related disruptions have on operations.
+Water discharges in water bodies and in the oceans
+The oil and gas industry handles large quantities of water, process wastewater and stormwater, which
+can be then discharged to surface water, groundwater or seawater. These are normally treated to
+remove contaminants before being discharged, in compliance with regulatory requirements.
+Subsequent to that, water can be discharged into the receiving waterbody either at the defined
+discharge points or dispersed in an undefined manner, it also can be authorized or unauthorized. The
+quality of its discharges can have impacts on ecosystems and people. Constituents or measures for
+discharges may include chemical oxygen demand (COD), sulphides, ammonia, phenols, total
+suspended solids (TSS), or non-aqueous drilling fluids discharged).
+Habitat degradation and intensity of pressure on marine resources
+Leaks, accidental discharges, pipeline rights-of-way, and open easements over ecologically sensitive
+land could impact ecosystems in several ways, including natural habitat loss and changes in species
+movement. Impacts on the habitat degradation and intensity of pressure on marine resources can
+result also from decommissioning offshore structures when elements that should be removed become
+part of benthic communities and habitats. In some cases, decommissioning can occur in situ and
+structures may be left in place. When this happens, impacts can include marine pollution from
+corrosion, ecosystem changes, damage to fishing equipment, and navigational hazards to shipping.
+E4: Biodiversity and ecosystems
+Direct impact drivers of biodiversity loss
+High impact activities in the sector include, but are not limited to land clearance, seismic testing,
+drilling of exploration wells, infrastructure establishing, transportation, water and waste discharges,
+spills and leaks. Such activities may result in contamination of air, soil and water, soil erosion, and
+sedimentation of waterways, contributing to degradation of biodiversity and ecosystems. Considering
+EFRAG SRB, 17 September 2024 Page 51 of 56
+[Draft] ESRS Oil and Gas
+that biodiversity-related risks are likely to increase within the sector with progressing resources
+depletion and moving of activities into new, more remote areas, it is essential to monitor and manage
+the direct, indirect and cumulative impacts, within both short and long term.
+Impacts on the state of species
+Impacts on the state of species can include animal mortality or increased vulnerability to predators,
+habitat fragmentation and conversion, as well as the introduction of invasive species and pathogens,
+land degradation, or soil sealing. Severe effects from activities can be exacerbated when activities
+occur in protected areas or areas of high biodiversity value and may extend well beyond the closure
+and rehabilitation of operational sites or geographic boundaries of activities.
+Impacts on the extent and condition of ecosystems
+Due to its multiple potential direct and indicated impacts, sector activities can lead to significant land
+degradation (e.g. due to pollution) and soil sealing (e.g. due to road construction, increased local
+economic activity, etc), impacts that occur by same pressures that drive land-use change.
+Impacts and dependencies on ecosystem services
+Sector activities may affect ecosystems’ ability to regulate water flow, water quality, and hazards like
+fires and floods, provide a suitable habitat for pollinators (who in turn provide a service directly to
+people and economies), and sequester carbon (in terrestrial, freshwater and marine realms).
+Monitoring of direct, indirect and cumulative impacts on biodiversity in long and short term is therefore
+of essential importance to environment, but is also vital to human health, food security, economic
+prosperity, and mitigation of climate change and adaptation to its impacts.
+E5: Resource and circular economy
+Resources inflows, including resource use
+The oil and gas sector activities are based on inflow of geologically stored fossil fuels, as well as on
+the extensive use of other materials (steel and other metals, cement and concrete), including
+environmental resources. Optimising resource exploitation, improving resource efficiency and
+implementing effective ways of materials management are therefore critical to minimize local risks to
+the environment and communities, as well as improve the cost efficiency. The opportunities for
+efficient use of materials include renewable and alternative energy generation, implementing
+responsibly produced materials in supply chain (e.g., recycled or biobased raw materials; easily
+reusable, disassemblable or repairable materials or components) and optimisation of resources (e.g.,
+advanced methane detection).
+Resource outflows related to products and services
+Resource outflows refer to materials, products and services coming out of the sector, including
+petroleum products put on the market and their packaging, as well as used equipment and machinery
+resulting from decommissioning activities. Opportunities aimed to enhance circular economy can
+include, for instance, the increase in recirculation of tools from disused structures or the reuse of
+facilities and assets that were removed from oil and gas operativity.
+Waste
+Regular oil and gas activities, the development of new facilities, as well as decommissioning of
+infrastructure typically generates high volumes of waste, including hazardous waste. The waste
+streams can consist of drilling muds and cuttings, tailings (e.g., oil sands mining generated during the
+separation process of bitumen from sand), scale or sludges, which may contain high amounts of
+pollutants (e.g., heavy metals, hydrocarbons, chemical additives, naturally radioactive material) and
+carry the risks of environmental contamination (e.g., tailing ponds leaking substances). Undertaking’s
+infrastructure and approach to waste management, including waste recovery for beneficial use (e.g.,
+recycling of materials from disused facilities such as concrete and steel, plastic recycling, oil
+regeneration), is, therefore, critical to avoid severe environmental impacts.
+S1: Working time and work-life balance
+Many operations in the oil and gas sector are typically operated in a manner that involves irregular
+working hours for a large portion of the own workforce concerned. Operations such as production and
+refining are operated continuously (around-the-clock, including on weekends). Shift work longer than
+eight hours, and evening, night and weekend work are typically used in these types of operations.
+Exploration, development and production frequently is done far away from populated areas (“remote
+locations”), and undertakings often resort to arrangements whereby workers will rotate between multi-
+day or multi-week periods on site, with few work breaks, and periods with time off off-site (“fly-in fly-
+EFRAG SRB, 17 September 2024 Page 52 of 56
+[Draft] ESRS Oil and Gas
+out” arrangements). In such remote locations adequate housing, access to water and sanitation and
+health care are often material matters.
+Research has demonstrated an association between extensive irregular working hours and time
+without family, recreation, and leisure and negative impacts on physical and psychological health and
+work-life balance. Extensive use of irregular working hours may make it difficult for undertakings to
+retain their workers and recruit new workers.
+S1: Adequate wages and secure employment
+Many undertakings in the oil and gas sector make extensive use of non-employee workers, typically
+referred to as ‘contractors’ - that is, self-employed workers contracting directly with the undertaking
+or supplied by employment agencies as well as migrant workers. Many of these workers are utilized
+for extended periods of time for regular operations, and perform work which is the same or similar to
+the work that employees do. However, these workers lack the employment security and, frequently,
+the wages and benefits that employees receive. Secure employment is also particularly material for
+the oil and gas sector as non-employee workers may have fewer rights to unemployment and early
+retirement benefits and access to retraining than employees when it comes to the closure of oil and
+gas sites. Migrant workers could also lack employment security or have less protection under national
+laws.
+Another factor contributing to the materiality of these matters is the extensive contracting-out of oil
+and gas operations. Contracting-out arrangements have relevance for the security of employment,
+since workers for such operators frequently have temporary contracts.
+S1: Freedom of association and collective bargaining
+The oil and gas sector in many countries has a higher rate of trade union representation and collective
+bargaining coverage than the economy-wide national average. However, freedom of association may
+be at risk, particularly in locations where these are not guaranteed by national legislation and/or where
+enforcement is weak. Many oil and gas operations are located in countries where the rule of law has
+broken down (ten of the 148 countries rated in the 2022 ITUC Rights Index), where labour rights are
+not guaranteed (34 countries) or where there are systematic violations of labour rights (39 countries).
+Offshore operations may be particularly challenging for collective bargaining arrangements. The
+proportion of self-employed workers (‘contractors’) whose working conditions are determined by a
+collective bargaining agreement (the ‘collective bargaining coverage rate’) is typically lower than that
+of employees.
+S1: Training and skills development
+Training and skills development are particularly significant in the oil and gas sector along a number
+of dimensions. Oil and gas can be both technically difficult and dangerous and it is therefore
+imperative that the workers are properly trained and have the skills and capabilities to handle the risks
+entailed. Health and safety-related training, including the proper operation of equipment and
+hazardous chemicals, is key to reduce the risk of accidents and occupational diseases.
+Some oil and gas operations are placed in the middle or close to conflict-affected or high-risk areas.
+They may also be the subject of controversy which leads to the necessity of security personal. Thus,
+this sustainability matter also includes training of security personal in human rights and humanitarian
+law.
+S1: Measures against violence and harassment in the workplace
+The oil and gas sector has a high proportion of male workers. The risk of sexual harassment at the
+workplace is particularly high in ‘male dominated’ sectors and at remote locations.
+Negative publicity on this issue can have a negative impact on the reputation of specific undertakings
+as well as on the industry as a whole, and can make it more difficult to retain existing and recruit new
+female workers.
+Measures against violence and harassment at the workplace include clear policies on these issues,
+workforce training and an effective grievance procedure.
+S1: Diversity, including gender equality and equal pay for work of equal value
+The required conditions, locations, skills, and types of work associated with the oil and gas sector can
+be a barrier for entry, hinder employee diversity and result in discrimination. Discriminatory practices
+can limit access to jobs, as well as lead to inequalities in treatment, remuneration, and benefits. Cases
+EFRAG SRB, 17 September 2024 Page 53 of 56
+[Draft] ESRS Oil and Gas
+of discrimination in the sector may include race, colour, sex, gender, disability, religion, national
+extraction, and worker status. Recruitment bias and unequal pay may also create disadvantage for
+local communities. The sector features significant gender imbalance, showing especially in senior
+management positions. Limited parental leave, extended work arrangements, social or cultural
+biases, or specific country-laws preventing women from working in hazardous or arduous occupations
+may also increase the barriers to job access.
+S1: Other work-related rights
+The sector’s business relationships, including relations with state-owned enterprises in countries
+where violations of human rights occur, may result in incidents of forced labour and modern slavery.
+S1/S2: Health and safety
+Many oil and gas operations are both strenuous and dangerous and are associated with high degree
+of risk on a number of health and safety matters. Injuries may be caused by accidents with heavy
+equipment or transport to remote areas such as offshore oil rigs. Workers’ health may be impaired by
+prolonged exposure to hazardous substances. This sector has higher than average rates of fatalities,
+injuries, lost workdays and occupational diseases. Worker injuries, illnesses, and fatalities can lead
+to regulatory penalties, negative publicity, low worker morale and productivity, and increased
+healthcare and compensation costs.
+This sustainability matter covers the undertakings policies regarding health and safety, critical incident
+risk management, as well as workforce health, wellbeing, and safety. Moreover, considering the
+recent covid-19 pandemic, the sustainability matter also covers pandemic preparedness and the
+undertaking’s response within its value chain.
+The sector is characterized by the extensive use of on-site contractors for construction and
+maintenance. The relationship with these contractors is typically extensive given the large capital
+investments involved and the length of time these contractors will be working on-site (for example, oil
+rigs may take a year or more to construct and may cost tens or even hundreds of millions of euros to
+construct). The health and safety risks faced by own workforce thus extend to the workers of these
+contractors (the ILO has noted that health and safety risks are particularly high for contract workers
+in this sector).
+S2: Working conditions
+While the sector generates employment across all its value chain, its practices may also be
+associated with negative impacts, such as disparities in working conditions for contract workers,
+ineffective labour-management consultations and job insecurity. Outsourcing activities is common in
+the industry, resulting in reduced labour costs and avoiding collective agreements. It may cause less
+favourable conditions for contract workers, lower remuneration, less training, higher accident rates,
+diminished job security, lack of social protection or access to the grievance mechanisms, as well as
+unequal terms between different groups of workers. Lack of relevant skills, knowledge, or accessible
+training programs may also restrict local communities from accessing employment opportunities
+created by the sector.
+S2: Diversity, including gender equality and equal pay for work of equal value
+The conditions, locations, necessary skills, and types of work associated with the oil and gas sector
+can be a barrier for entry, hinder employee diversity, and result in discrimination. Discriminatory
+practices can impede access to jobs and career development, as well as lead to inequalities in
+treatment, remuneration, and benefits. Documented cases of discrimination in the oil and gas sector
+concern race, colour, sex, gender, disability, religion, national extraction, and worker status. The
+sector's widespread use of contract workers, often with differing terms of employment, can also be
+conducive to discrimination.
+S2: Other work-related rights
+The sector is exposed to risks of violations of human rights and other ways of exploitation in its supply
+chain, which may include organizations that operate in the countries with low rates of enforcement of
+human rights. Activities at risk can include work at oil fields and offshore platforms, such as in catering,
+cleaning, construction, maintenance and waste management, as well as in marine and land
+transportation activities. Operations aboard ships registered in countries other than the country of the
+ship’s beneficial owner may create increased risks of human rights violations linked to external
+crewing companies and obscured accountability. Offshore work may bring risk of forced labour due
+to isolated locations and challenges in enforcing appropriate measures. Selection of suppliers using
+social criteria is essential to mitigate negative impacts.
+EFRAG SRB, 17 September 2024 Page 54 of 56
+[Draft] ESRS Oil and Gas
+S3: Communities’ economic, social and cultural rights
+The sector positive impacts may include investment and income for local communities, local
+employment and procurement, community education and training, leading to increased purchasing
+power and local business development. Depending on the organization practices, the industry can
+also cause negative impacts related to potential economic disparities, increased dependence of local
+suppliers and vulnerability of local groups. For example, an influx of external workers may increase
+pressure on housing, infrastructure and public services. Local communities may also need to cope
+with environmental legacy costs of sector activities. The transition to a low-carbon economy is
+expected to decrease the activity in the oil and gas, making communities that depend on the sector
+more vulnerable to the resulting economic downturn. Local communities may also be affected by
+land acquisitions, which can lead to a loss of livelihood. Oil and gas activities can sometimes result
+in the displacement of other land users, restricting their access to resources and involuntary
+resettlement of local communities. This resettlement can lead to physical and economic
+displacement, impacting local communities’ livelihoods and human rights.
+S3: Communities’ civil and political rights
+Oil and gas activities may trigger local conflict or intensify existing ones, especially in the areas
+characterized by social and political instability. Possible causes to conflicts may include negative
+environmental impacts, inadequate engagement of stakeholders and indigenous people in decision-
+making, uneven or disproportionate distribution of economic benefits or disputes over the use of land
+and natural resources. Such conflict can heighten the need to engage security personnel, increasing
+the risks for violations of human rights, such as the rights to freedom of association and freedom of
+speech, as well as lead to violence, injuries, or deaths. Organizations in the sector have responsibility
+to ensure security practices consistent with protection of human rights and facilitating communication
+to address the sources of conflict.
+S3: Particular rights of indigenous communities, including free, prior and informed consent;
+self-determination; and cultural rights
+Sector’s proximity to communities can present economic opportunities and benefits for indigenous
+peoples through employment, training, and community development programs. However, it can also
+disrupt indigenous peoples’ cultural, spiritual, and economic ties to their lands or natural
+environments, on which they may be dependent. Sector’s activities may risk compromising
+indigenous peoples’ social cohesion, rights, safety and well-being, cause displacement or limit access
+to water for those communities. Some negative impacts may affect indigenous women more severely
+than men. Indigenous peoples have often a special legal status and before initiating development on
+lands or resources that indigenous peoples use or own, organizations are expected to seek free,
+prior, and informed consent (FPIC).
+S4: Information-related impacts for consumers and/or end-users
+The undertakings in the sector have unique access to information channels and mainstream media
+which are shaping narratives around sustainability matters. Oil and gas companies are also facing
+significant pressure from stakeholders to provide transparent and comprehensive information on their
+environmental and social performance. In the past, the sector has faced multiple controversies around
+information practices and the alignment of its corporate communication with globally established
+climate and social targets remains an important sustainability matter.
+S4: Personal safety of consumers and/or end-users
+Consumer safety is an important part of the safety management within the retail part of the sector.
+The retail sale of automotive fuel is typically realised under multiple safeguards that prevent potential
+threats of fires at the gas pumps and allow safe dispensing and handling of fuels. Undertakings in the
+sector need to identify and manage any actual and potential impacts on the personal safety of
+consumers, implementing policies related to keeping safe from fire and explosion hazards, emissions
+of carbon monoxide, safe storage and disposal of fuels, but also theft, violence or slip and fall
+accidents.
+S4: Social inclusion of consumers and/or end-users
+Consumers are at the centre of the EU energy policy and there is a wide range of EU actions and
+measures aim at protecting and empowering energy consumers. Access to energy at affordable
+prices has been and is a priority of the EU with a number of government actions, including direct
+subsidies to consumers, being taken to ensure stable petrol prices during the energy crisis in Europe.
+EFRAG SRB, 17 September 2024 Page 55 of 56
+[Draft] ESRS Oil and Gas
+G1: Business conduct
+Given the wide sustainability impacts of oil and gas sector, as well as its dynamics and complexity, a
+system of shared values and norms are essential to provide a clear expectation on behaviours for
+stakeholders across the whole value chain. The corporate culture is essential to manage the risks
+related to governance and it typically envelops code of conduct and ethics within the organization,
+policies related to dialogue with stakeholders, as well as the governance bodies influencing
+organization.
+G1: Political engagement and lobbying activities
+The oil and gas sector can exert significant influence on government policies and is among the sectors
+with the largest lobbying expenditures. In regions where activities generate significant revenues,
+organizations in the sector may obtain better representation amongst government representatives
+and increased power over public policy decisions. Strong political influence creates risks of disruption
+to the policies and regulations, unequal distribution of governmental subsidies or setting commodity
+prices that do not reflect the full costs of products. Monitoring and management of political
+engagement of the sector is essential for effective allocation of national resources towards the low-
+carbon economy transition, sustainable development and decreasing dependence on the fossil fuels.
+G1: Management of relationships with suppliers including payment practices
+Organizations in the oil and gas sector deal with many complex financial transactions, including
+payments to suppliers and governments. The fair behaviour with suppliers is essential to avoid supply
+chain disruption, especially in context of dealing with small and medium enterprises, which can be
+particularly vulnerable to late payments. Transparency of payments to governments, reporting
+country-level and project-level payments can also help distinguish the economic importance of the oil
+and gas sector to countries, enable public debate, and inform government decision-making. It can
+also enable governments to address tax avoidance and evasion, correct information asymmetry and
+level the playing field for governments when negotiating contracts.
+G1: Corruption and bribery
+Corruption in the oil and gas sector can occur throughout the value chain and has been linked to
+various negative impacts, such as misallocation of resources revenues, damage to the environment,
+abuse of democracy and human rights, and political instability. Due to its characteristics of interactions
+and complexity of financial transactions, the oil and gas sector faces higher risks of corruption in
+comparison with other sectors. To combat corruption and prevent the negative impacts that stem from
+it, organizations in the oil and gas sector are expected by the marketplace, international norms, and
+stakeholders to demonstrate their adherence to integrity, governance, and responsible business
+practices. Responsible business conduct of the sector also includes the anti-competitive behaviour
+practices as well as beneficial ownership.
+G1: Cyber security
+Cyber security addresses security in “cyber space”. Oil and gas sector encompasses high critical
+infrastructure and has also embraced new technologies in the various aspects of their activities in the
+past few years. The industry widely uses digital control systems, such as SCADA, to automate the
+industrial, physical processes taking place in exploration facilities, refineries and oil and gas pipelines.
+The systems are used to automating, controlling and monitoring equipment such as valves, pumps
+or centrifuges.
+This digital transformation goes hand in hand with an increased reliance on trustworthy and stable
+information and network systems. However, this evolution amplifies the vulnerability and exposure to
+cyber threats. Cyberattacks can cause serious damage to the undertaking’s assets, impair property
+and divulge sensitive information. Moreover, they can disrupt operations, services to clients and
+supply chain interactions. All this might lead to financial costs and losses as well as adverse impact
+on people and environment
+EFRAG SRB, 17 September 2024 Page 56 of 56

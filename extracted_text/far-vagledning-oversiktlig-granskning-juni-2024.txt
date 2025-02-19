@@ -1,0 +1,487 @@
+Översiktlig
+granskning
+– en vägledning av lagstadgad
+hållbarhets rapportering
+Introduktion
+Den här vägledning vänder sig till
+dig som omfattas av lagkravet på
+att upprätta en hållbarhetsrapport
+och handlar om det lagstadgade
+kravet på översiktlig granskning.
+Den som söker information om vad
+som gäller för granskning av frivilligt
+upprättad hållbarhetsinformation
+hittar vägledning på far.se
+/ 2 /
+/ Översiktlig granskning
+Innehåll
+Vilka företag ska upprätta en hållbarhetsrapport? 5
+Vem har ansvar för hållbarhetsrapporten? 6
+Vilka redovisningsstandarder ska hållbarhetsrapporten
+upprättas enligt? 7
+Digitalt tillgänglig information 8
+Vilka ska använda h ållbarhetsrapporten? 9
+Vem kan granska hållbarhetsrapporten? 10
+Vad är ett bestyrkande? 11
+Vad innebär översiktlig granskning? 12
+Exempel: Skillnader i uppdrag med begränsad-
+respektive rimlig säkerhet 14
+Vilka standarder gäller för granskningen? 17
+Vad innebär modifierade revisorsuttalanden? 18
+Utvärdera och rapportera 20
+Förbered er för granskningen 22
+/ 3 /
+/ Översiktlig granskning
+Inledning
+EU:S NYA DIREKTIV om hållbarhetsrapportering, CSRD, medför
+utökade krav på stora företags lagstadgade hållbarhetsrapportering
+samt krav på översiktlig granskning av dessa rapporter. Direktivet är en
+del av EU:s handlingsplan för att styra kapitalflöden mot hållbara inves­
+teringar för att främja hållbar tillväxt för alla. För att detta ska lyckas
+är det avgörande att företag lämnar relevant och pålitlig hållbarhets­
+information som dessutom är jämförbar. Detta behov sträcker sig till alla
+intressenter, inklusive företag, investerare, regeringar och marknads­
+aktörer, som alla behöver tillförlitlig information för att fatta sina beslut.
+DEN HÄR VÄGLEDNINGEN fokuserar på revisorns översiktliga gransk­
+ning av den lagstadgade hållbarhetsrapporten, men företag kan även
+frivilligt upprätta och låta en revisor granska en hållbarhetsrapport för
+att tillgodose intressenternas efterfrågan på tillförlitlig hållbarhets­
+information.
+VÄGLEDNINGEN AVSER ATT ge en översikt över revisorns roll och
+ansvar vid granskningen av den lagstadgade hållbarhetsrapporten, de
+olika intressenternas användning av rapporten, innebörden av att revi­
+sorn lämnar ett bestyrkande, vad en översiktlig granskning innebär, vilka
+uttalanden revisorn förväntas göra i granskningsberättelsen, samt vilka
+faktorer som kan påverka revisorns uttalanden. /
+/ 4 /
+/ Översiktlig granskning
+Vilka företag ska upprätta
+en hållbarhetsrapport?
+Företag av viss storlek
+Företag och moderföretag i koncerner som uppfyller mer än ett av
+följande villkor under vart och ett av de två senaste räkenskapsåren;
+/ medelantalet anställda uppgått till mer än 250,
+/ b alansomslutningen uppgått till mer än 280 miljoner kronor,
+/ nettoomsättningen uppgått till mer än 550 miljoner kronor.
+Rapporteringsplikten enligt CSRD inträder successivt
+/ 1 juli 2024 för företag som redan omfattas av direktivet om icke­
+finansiell rapportering, så kallade EU­PIE företag med >500 anställda.
+(rapportering 2025 eller 2026)
+/ 1 januari 2025 för stora företag som för närvarande inte omfattas
+av direktivet om icke­finansiell rapportering. (rapportering 2026).
+/ 1 januari 2026 för börsnoterade små och medelstora företag, små
+och icke­komplexa kreditinstitut och captive försäkringsföretag. Små
+och medelstora noterade företag kan undantas från tillämpningen av
+direktivet fram till 2028.
+/ 1 januari 2028 för icke­EU företag som har en nettoomsättning inom
+EES som under vart och ett av de två senaste räkenskapsåren har
+uppgått till mer än 1,7 mdkr och som antingen ha ett dotterföretag i
+EU som uppfyller rapporteringskraven eller en filial i EU som under det
+senaste räkenskapsåret omsatt mer än 450 mkr. (rapportering 2029).
+// 55 //
+/ Översiktlig granskning
+Vem har ansvar för h ållbarhetsrapporten?
+ENLIGT CSRD ÄR det styrelsen som ansvarar för att hållbarhets­ / Styrelsen är ansvarig
+rapporten upprättas och offentliggörs i enlighet med kraven i års ­ för att hållbarhets­
+rapporten upprättas
+redovisningslagen. Genom CSRD utökas också revisionsutskottets
+och offentliggörs i
+uppgifter till att omfatta hållbarhetsrapportering och granskning av
+enlighet med kraven i
+hållbarhetsrapporten.
+årsredovisningslagen.
+REVISORN SKA EFTER varje räkenskapsår lämna en gransknings­ / Ö versiktlig granskning
+innebär inte att styrel­
+berättelse över hållbarhetsrapporten till styrelsen senast tre veckor
+sens ansvar reduceras.
+innan årsstämman.
+/ Revisionsutskottets
+CSRD FASTSTÄLLER ETT antal specifika områden som revisorn ska uppgifter inbegriper
+uttala sig med begränsad säkerhet om avseende hållbarhetsrapporten. även bolagets håll­
+barhetsrapportering
+Dessa områden innefattar företagets efterlevnad av kraven i års redo­
+och granskningen
+visningslagen och ESRS, det vill säga om företaget rapporterar enligt
+av denna.
+de fastställda standarderna och uppfyller de legala kraven. Revisorns
+uttalande omfattar även företagets genomförande av den dubbla
+väsentlighetsanalysen enligt ESRS, och därmed företagets process för
+att identifiera väsentlig hållbarhetsinformation. Dessutom ska revisorn
+granska om företaget uppfyller kraven på Esef­taggning av hållbarhets­
+rapporten samt efterlevnaden av rapporteringskraven i artikel 8 i EU:s
+gröna taxonomiförordning.
+// 66 //
+/ Översiktlig granskning
+Vilka redovisningsstandarder ska tillämpas
+för hållbarhetsrapportens upprättande?
+HÅLLBARHETSRAPPORTEN SKA UPPRÄTTAS i enlighet med European
+sustainability reporting standards, ESRS, och innefatta rapportering
+enligt artikel 8 i EU:s gröna taxonomiförordning vilken utformats för
+att underlätta hållbara investeringar.
+Rapporteringsstruktur Rapporteringsområden
+Sektorövergripande
+Strategi
+Övergripande standarder
+ESRS 1 ESRS 2
+Allmänna krav Allmänna upplysningar
+Environment Social Governance
+Styrning (G)
+ESRS E1 ESRS S1 ESRS G1
+Klimatförändringar Den egna arbetskraften Ansvarsfullt
+företagande
+ESRS E2 ESRS S2
+Förorening Arbetare i värdekedjan
+ESRS E3 ESRS S3
+Vatten och marina resurser Påverkade samhällen Inverkan, risk och
+ESRS E4 ESRS S4 möllighet (IRO) styrning
+Biologisk mångfald Konsumenter och
+och ekosystem slutanvändare
+ESRS E5
+Cirkulär ekonomi
+Sektorspecifika
+Mått och mål
+Enhetsspecifika
+// 77 //
+/ Översiktlig granskning
+Digitalt tillgänglig information
+FÖR ATT MÖTA ANVÄNDARNAS KRAV på att företagens rapporterade
+hållbarhetsinformation ska vara digitalt tillgänglig, sökbar och jämförbar
+krävs också att hållbarhetsrapporten ska upprättas i det elektroniska
+formatet European Single Electronic Format (Esef). Esef är utformat för
+att säkerställa att uppgifterna centraliseras på EU­ och medlemsstats­
+nivå i ett öppet och tillgängligt format som är lätt att läsa och som gör det
+möjligt att jämföra den rapporterade informationen. Rapportering enligt
+Esef blir aktuellt först när den Digitala Taxonomin har antagits av EU.
+// 88 //
+/ Översiktlig granskning
+Vilka ska använda
+hållbarhetsrapporten?
+Varför hållbarhetsrapporten behöver granskas
+Användare av hållbarhetsinformation inkluderar:
+/ styrelsen
+/ aktieägare och investerare
+/ handelspartners (t.ex. leverantörer och kunder)
+/ regulatorer
+/ andra intressenter (t.ex. icke­statliga organisationer)
+/ allmänheten
+HÅLLBARHETSRAPPORTERINGEN SKA GE finansmarknaderna
+tillgång till information om miljö, samhällsansvar och bolagsstyrning
+som är t ill förlitlig, relevant och jämförbar. Dessutom ska den underlätta
+hanteringen av finansiella risker som följer av klimatförändringar, utarm­
+ning av natur resurser, miljöförstöring och brister i sociala förhållanden.
+FÖR ATT SÄKERSTÄLLA informationens tillförlitlighet ska hållbarhets ­
+rapporten vara föremål för översiktlig granskning av auktoriserad revisor
+med särskild behörighet. Användare läser företagens hållbarhetsrapport
+och den tillhörande granskningsberättelsen när de fattar större beslut om
+ett företag, inklusive om de ska köpa företagets produkter, handla med
+– eller investera i ett företag.
+// 99 //
+/ Översiktlig granskning
+Vem kan granska hållbarhetsrapporten?
+DE FÖRETAG SOM ska upprätta en lagstadgad hållbarhetsrapport kan
+välja att antingen utse samma auktoriserade revisor som utför revisionen
+av f öre tagets finansiella rapporter eller en annan auktoriserad revisor för
+granskningsuppdraget.
+OM SAMMA REVISOR utför revisionen av de finansiella rapporterna och
+den översiktliga granskningen av hållbarhetsrapporten får gransknings­
+berättelsen över hållbarhetsrapport tas in som ett särskilt avsnitt i revisions­
+berättelsen. Detta innebär att för den auktoriserade revisorn får uttalandet
+ingå i den ordinarie revisionsberättelsen men för annan auktoriserad revisor
+kommer uttalandet att lämnas i en fristående granskningsberättelse.
+/// 111000 ///
+/ Översiktlig granskning
+Vad är ett bestyrkande?
+REVISORNS ÖVERSIKTLIGA GRANSKNING av hållbarhetsrapport är ett
+så kallat bestyrkandeuppdrag. I ett bestyrkandeuppdrag är revisorns mål
+att samla in tillräckliga och relevanta bevis för att kunna ge ett uttalande
+som ökar förtroendet för rapporten bland dess användare. Det finns
+två typer av uttalanden som revisorn kan göra, och dessa skiljer sig åt
+beroende på olika faktorer såsom granskningens natur, tidpunkt och
+omfattning. Revisorns uttalande ser också olika ut beroende på vilken
+typ av granskningsuppdrag det är. Ett uttalande med ”rimlig säkerhet”
+är starkare och uttrycks i ”positiv” form, medan ett uttalande med
+”begränsad” säkerhet är svagare och uttrycks i ”negativ” form.
+INNAN REVISORN KAN anta ett bestyrkandeuppdrag behöver vissa
+förutsättningar vara uppfylla, exempelvis att hållbarhetsrapporten
+har upprättats enligt ett ramverk som utgör lämpliga kriterier och att
+revisorn förväntar sig ha tillgång till tillräckliga och relevanta bevis.
+En lagstadgad hållbarhetsrapport ska upprättas enligt ESRS och
+dessa standarder anses utgöra lämpliga kriterier.
+// 1111 //
+/ Översiktlig granskning
+Vad innebär översiktlig
+granskning?
+CSRD KRÄVER ATT hållbarhetsrapporten ska vara föremål för översiktlig / Granskning av en
+granskning. Vid översiktlig granskning lämnar revisorn ett uttalande hållbarhetsrapport
+som upprättas första
+med begränsad säkerhet till skillnad mot revisionen av de finansiella
+året eller där revisorn
+rapporterna där revisorn lämnar ett uttalande med rimlig säkerhet.
+inte har e rfarenhet
+från tidigare års
+VID ÖVERSIKTLIG GRANSKNING är karaktären på, och omfattningen granskningar kan
+av, granskningsåtgärderna begränsade jämfört med en revision. Revisorns kräva djupare analyser.
+översiktliga granskning syftar till att uppnå en grad av säkerhet, som Revisorn bedömer i
+vilken omfattning en
+enligt revisorns professionella bedömning, är meningsfull. Med menings­
+sådan djupare analys
+full menas att det uttalande som revisorn gör sannolikt ökar de avsedda
+krävs.
+användarnas tilltro till informationen till en grad som är klart mer än
+obetydlig. / EU­kommissionen
+kommer över tid att
+I EN ÖVERSIKTLIG GRANSKNING kan omfattningen av de bevis som utvärdera relevansen
+i en övergång från
+revisorn inhämtar vara begränsad på grund av den begränsade urvals­
+översiktlig granskning
+storleken och den begränsade omfattningen av granskningen. Risken för
+till granskning med
+att väsentliga felaktigheter kvarstår är därmed högre än vid ett uppdrag
+rimlig säkerhet.
+med rimlig säkerhet. Revisorn har därför inte möjlighet att lämna ett
+uttalande med samma grad av säkerhet som vid ett uppdrag med rimlig
+säkerhet.
+ÖVERSIKTLIG GRANSKNING BASERAS vanligtvis på förfrågningar och
+analytisk granskning. Analytisk granskning innebär vanligtvis en jäm förelse
+av utfall mot förväntan som exempelvis baseras på utfall före gående år
+och branschgenomsnitt.
+// 1122 //
+/ Översiktlig granskning
+I DEN ÖVERSIKTLIGA GRANSKNINGEN av företagets lagstadgade
+hållbarhetsrapport förväntas revisorn utföra granskningsåtgärder
+som gör det möjligt att dra slutsatsen att det inte kommit fram några
+omständigheter som ger revisorn anledning att anse att i nformationen
+i hållbarhetsrapporten inte, i allt väsentligt, är upprättad i enlighet
+med årsredovisningslagen. Detta innefattar efterlevnaden av kraven
+i års redovisningslagen, inklusive ESRS, den process som företaget
+har genomfört för att identifiera rapporterad h ållbarhetsinformation,
+efterlevnaden av kravet på att märka hållbarhetsrapportering i ett
+enhetligt elektroniskt rapporteringsformat och efterlevnaden av
+rapporteringskraven i EU:s gröna taxonomiförordning artikel 8.
+// 1133 //
+/ Översiktlig granskning
+Exempel: Skillnader i uppdrag med
+begränsad- respektive rimlig säkerhet
+Granskningens inriktning Begränsad säkerhet Rimlig säkerhet
+och omfattning (översiktlig granskning) (revision)
+Revisorns förståelse Begränsad förståelse, men tillräcklig Djupare förståelse som är tillräcklig
+förståelse för att kunna planera och för att revisorn ska kunna planera
+genomföra ett uppdrag för att kunna och genomföra ett uppdrag för att
+inhämta begränsad säkerhet om att kunna inhämta rimlig säkerhet om att
+hållbarhetsrapporten inte innehåller hållbarhetsrapporten inte innehåller
+några väsentliga fel. några väsentliga fel.
+Revisorns riskbedömning Revisorn bedömer på en mer över­ Revisorn bedömer på en mer granulär
+gripande nivå i vilka upplysningar som nivå i vilka upplysningar och kopplat
+det föreligger en risk för väsentliga fel. till vilka specifika påståenden som det
+föreligger en risk för väsentliga fel.
+Exempel: Risken för fel kopplat till
+upplysningen om Scope 3­utsläpp Exempel: Risken för fel kopplat till
+bedöms hög. upplysningen om Scope 3­utsläpp
+bedöms hög avseende att alla väsent­
+liga utsläpp har inkluderats i beräk­
+ningen (fullständighet) och tagits med
+på rätt räkenskapsår (avklipp).
+Granskning av företagets interna Revisorn inhämtar en övergripande Revisorn inhämtar djupare och mer
+kontrollsystem och kontroller förståelse, främst baserat på för ­ omfattande förståelse, genom fler
+relevanta för upprättande av frågningar, för företagets process åtgärder än förfrågningar exempelvis
+h ållbarhetsrapporteringen att övervaka att det interna kontroll­ walk­through­test. Revisorn bedömer
+systemet fungerar, dvs. revisorn också om företagets övergripande
+inhämtar förståelse för utfallet av den system för intern kontroll är lämpligt
+övervakningsprocessen. utformat.
+Revisorn kan avgöra, på frivillig basis, Revisorn ska vid betydande risk testa
+att testning av intern kontroll är lämp­ kontrollers utformning och implemen­
+ligt och en effektiv granskningsåtgärd. tering samt dess effektivitet.
+// 1144 //
+/ Översiktlig granskning
+Granskningens inriktning Begränsad säkerhet Rimlig säkerhet
+och omfattning (översiktlig granskning) (revision)
+Granskningstekniker* I uppdrag med begränsad säkerhet I uppdrag med rimlig säkerhet samlar
+samlar revisorn in mindre omfattande revisorn in mer omfattande bevis
+bevis än för ett uppdrag med rimlig än för ett uppdrag med begränsad
+säkerhet, men tillräckligt för att revi­ säkerhet, tillräckligt för att revisorns
+sorn ska kunna uttala en slutsats med ska kunna uttala en slutsats med
+begränsad säkerhet. Revisorn uppnår rimlig säkerhet.
+vanligtvis detta genom att utföra
+andra eller färre tester än de som Revisorn genomför många gånger en
+krävs för rimlig säkerhet eller genom kombination av olika insatser, exempel
+att använda mindre urvalsstorlekar för på granskningstekniker vid revision,
+de tester som utförs. utöver de som även utförs vid över­
+siktlig granskning:
+Revisorn genomför många gånger en / Intern kontrollgranskning
+kombination av olika insatser, exempel / Detaljgranskning, testning, omräkning
+på vanliga granskningstekniker vid / Inhämtande av externa bekräftelser
+översiktlig granskning: / O bservation
+/ F örfrågningar / Större urval, fler tester
+/ Analytisk granskning
+/ O mvärldsanalyser
+/ Mindre urval, färre tester
+// 1155 //
+/ Översiktlig granskning
+Granskningens inriktning Begränsad säkerhet Rimlig säkerhet
+och omfattning (översiktlig granskning) (revision)
+Uttalande och innehåll Revisorns uttalande uttrycks i negativ Revisorns uttalande uttrycks i positiv
+bestyrkanderapporten form, dvs. ett svagare uttalande. form, dvs. ett starkare uttalande.
+Grundat på vår översiktliga gransk­ Enligt vår uppfattning har hållbarhets­
+ning har det inte kommit fram några rapporten upprättats i enlighet med
+omständigheter som ger oss anled­ årsredovisningslagen.
+ning att anse att informationen i
+hållbarhetsrapporten som omfattas av Särskilt avsnitt om revisorns kontroll av
+vår översiktliga granskning inte, i allt ”annan information” som ingår i samma
+väsentligt, är upprättad i enlighet med dokument som hållbarhets rapporten
+årsredovisningslagen. och revisorns kommentar om det
+föreligger några väsentliga fel eller
+Bestyrkanderapporten, dvs. gransk­ oförenligheter i ”annan information”.
+ningsberättelsen, inkluderar ett avsnitt
+med övergripande beskrivning av
+genomförda granskningsåtgärder.
+Exkluderar avsnitt om ”annan infor­
+mation” som ingår i samma dokument
+som hållbarhetsrapporten, revisorn
+läser dock sådan information för att
+kontrollera om det föreligger väsent­
+liga fel eller oförenligheter i ”annan
+information” och kommunicerar med
+företagsledningen om sådana ofören­
+ligheter skulle förekomma.
+// 1166 //
+/ Översiktlig granskning
+Vilka standarder gäller
+för granskningen?
+ENLIGT CSRD SKA Europeiska kommissionen anta standarder för
+översiktlig granskning senast i oktober 2026. Under denna övergångs­
+period får medlemsstaterna tillämpa nationella standarder vilket i
+Sverige motsvaras av RevR 19 Revisorns översiktliga granskning av den
+lagstadgade hållbarhetsrapporten. På global nivå avser IAASB att under
+2024 anta en helt ny standard för hållbarhetsgranskning, ISSA 5000.
+Den standard som antas av Europeiska kommissionen kan komma att
+bygga på ISSA 5000 men med vissa säreuropeiska anpassningar.
+// 1177 //
+/ Översiktlig granskning
+Vad innebär modifierade
+revisorsuttalanden?
+ATT REVISORN LÄMNAR ett uttalande som är omodifierat innebär att
+revisorn inte har identifierat några felaktigheter som, enligt revisorns
+professionella bedömning, skulle påverka de beslut som en användare
+fattar på grundval av informationen i hållbarhetsrapporten. Revisorns
+omodifierade uttalande kan uttryckas på följande sätt:
+/ Grundat på vår översiktliga granskning har det inte framkommit några
+omständigheter som ger oss anledning att anse att informationen i
+hållbarhetsrapporten som omfattas av vår översiktliga granskning inte,
+i allt väsentligt, är upprättad i enlighet med årsredovisningslagen.
+/// 111888 ///
+/ Översiktlig granskning
+OM REVISORN HAR identifierat väsentliga fel, eller varit begränsad i sin UPPLYSNING AV
+SÄRSKILD BETYDELSE
+granskning, måste revisorn modifiera sitt uttalande. Beroende på felets
+eller begränsningens karaktär och allvarlighetsgrad gör revisorn olika / Revisorn kan också
+modifieringar: välja att lämna en
+upplysning av särskild
+betydelse ­ en sådan
+1. U TTALANDE MED RESERVATION. När revisorn bedömer att hållbar­
+upplysning är dock
+hetsrapporten innehåller väsentliga felaktigheter som inte är av avgö­
+ingen modifiering
+rande betydelse, dvs. inte är genomgripande för hållbarhetsrapporten
+och har inte någon
+som helhet, lämnar revisorn ett uttalande med reservation. Detta påverkan på revisorns
+gäller också om det förekommer begränsningar i inriktningen eller uttalanden. Upplys­
+omfattningen av revisorns granskning och revisorn bedömer att effek­ ningen syftar till att
+uppmärksamma de
+terna av begränsningarna skulle kunna vara väsentliga, men inte är av
+avsedda användarna
+avgörande betydelse. Ett uttalande med reservation formuleras ”med
+på ett förhållande
+undantag för” effekterna eller de möjliga effekterna av det förhållande
+som presenteras eller
+som reservationen avser. upplysning som lämnas
+i hållbarhetsrapporten
+2. U TTALANDE MED AVVIKANDE MENING. När revisorn bedömer att som, enligt revisorns
+bedömning, är av sådan
+hållbarhetsrapporten innehåller väsentliga felaktigheter lämnar revi­
+betydelse att det är
+sorn ett uttalande med avvikande mening om felen har en spridd
+grundläggande för de
+effekt på hållbarhetsrapporten eller omfattar stora delar av hållbar­
+avsedda användarnas
+hetsrapporten, dvs. om de är avgörande betydelse. Ett uttalande
+förståelse.
+med avvikande mening formuleras ”På grund av (de skäl som anges
+granskningsberättelsen) visar vår översiktliga granskning att hållbar­
+hetsrapporten inte är upprättad i enlighet med årsredovisningslagen”.
+3. I NGET UTTALANDE GÖRS. Om revisorn inte kan inhämta tillräckliga
+och ändamålsenliga bevis finns en begränsning av inriktning och
+omfattning. Revisorn ska då avstå från att lämna ett uttalande om
+effekterna av begränsningen skulle kunna vara väsentliga och av
+avgörande betydelse.
+// 1199 //
+/ Översiktlig granskning
+Granskningens genomförande
+Bolaget
+Bolaget behöver etablera
+Samlar in och
+processer för intern kvali­
+sammanställer data
+tetssäkring och kontroller.
+Beakta att revisorn
+behöver ges möjlighet
+Ansvarar för kvalitet på såväl internt
+att genomföra gransk­
+producerad som köpt information
+ning eller inhämta rapport
+från servicebyrån.
+Revisorn
+Detaljgranskning och
+Revisorn genomför granskningsåtgärder utifrån testning kan aktualise­
+riskbedömning och väsentlighetsnivåer ras utöver översiktliga
+granskningsåtgärder.
+Hållbarhetsrapportering
+Kvalitativ bedömning respektive
+består till stor del av
+kvantitativa väsenlighetsnivåer
+kvalitativ information.
+// 2200 //
+/ Översiktlig granskning
+Granskningens genomförande
+REVISORN SKA:
+/ U tvärdera identifierade felaktigheter.
+/ Inhämta företagsledningens uttalanden.
+/ Beakta efterföljande händelser.
+/ R apportera resultatet av granskningen genom ett uttalande med
+begränsad säkerhet i granskningsberättelsen.
+/ B rister i interna kontrollmiljön kan leda till mer omfattande granskning
+och testning, det vill säga när översiktliga granskningsåtgärder som
+förfrågningar och analys inte är möjliga eller inte kan ge tillräckliga
+granskningsbevis.
+/ Tänk på att även om företaget har god kontroll på egen data, kan
+bristande kontroll på data eller bristande tillgång till data i dotterbolag
+eller hos andra aktörer i värdekedjan eller köpt data, innebära begräns­
+ningar i granskningen.
+/ U pprätthåll löpande kommunikation mellan revisorn och det rapporte­
+rande företaget. På så sätt kan oklarheter redas ut i tidigt skede och
+nyckelsteg i rapporteringsprocessen kan stämmas av.
+/ T änk på kopplingen till den finansiella rapporteringen och att i nvolvera
+finansavdelningen i rapporteringsprocessen för att säkerställa att
+informationen i hållbarhetsrapporten inte är motstridig med informatio­
+nen i årsredovisningens övriga delar.
+// 2211 //
+/ Översiktlig granskning
+Förbered er för
+granskningen!
+/ Se till att organisation och ansvarsområden är lämpligt utformade.
+/ Etablera en process för granskningen motsvarande den för revision
+av de finansiella rapporterna.
+/ Sätt upp organisation och IT­system för datainsamling.
+/ Upprätta interna kontroller för att säkerställa informationens kvalitet.
+/ Säkerställ spårbarhet och integritet i data och dokumentation.
+/ ESRS innehåller infasningslättnader som innebär att vissa upplys­
+ningar inte behöver lämnas under en övergångsperiod. Företaget kan
+ändå behöva förbereda sig i god tid för att kunna uppfylla alla rappor­
+teringskrav när de träder i kraft.
+// 2222 //
+FAR är en branschorganisation inom redovisning, revision och rådgivning, och
+är ett av Sveriges största privata utbildningsföretag inom ekonomiområdet med
+cirka 300 årliga utbildningstillfällen. FAR har cirka 5 000 medlemmar och drygt
+900 anslutna medlemsföretag. FAR:s medlemmar är auktoriserade revisorer,
+redovisningskonsulter, skatterådgivare, lönekonsulter och specialister samt
+små och stora företag inom redovisning, revision och rådgivning.
+FAR, juni 2024

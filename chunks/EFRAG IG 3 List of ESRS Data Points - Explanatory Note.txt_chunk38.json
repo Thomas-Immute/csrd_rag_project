@@ -1,0 +1,5 @@
+{
+    "id": "EFRAG IG 3 List of ESRS Data Points - Explanatory Note.txt_chunk38",
+    "text": "paragraph 23.\n• Integer – integral data type, only non-decimal positive numbers.\n• Monetary – decimal number representing currency.\n• Percent – percentage.\n• Gyear – date (year only).\n• Date – date (day, month, year).\n• Mass – the mass item type represents the mass of an object that can be\nmeasured.\n• Area – the area item type is used to indicate that an element represents an area\n(e.g., hectare).\n• Decimal – numbers; might also include intensity rates, which require the",
+    "source": "EFRAG IG 3 List of ESRS Data Points - Explanatory Note.txt"
+}

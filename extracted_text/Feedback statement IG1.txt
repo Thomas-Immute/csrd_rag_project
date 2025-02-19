@@ -1,0 +1,221 @@
+This report has been prepared for the convenience of European constituents by the EFRAG Secretariat and has not been subject to review by either the EFRAG SRB or the EFRAG SR Technical Expert Group.
+Page 1 of 12
+Feedback statement – EFRAG IG 1: Materiality Assessment
+Disclaimer
+This Feedback Statement has been prepared by the EFRAG Secretariat to summarise the main comments received by EFRAG on its draft implementation
+guidance and explain how those comments were considered by EFRAG during its technical discussions leading to the publication of its implementation
+guidance.
+The content of this Feedback Statement does not constitute any form of authoritative material, advice or opinion and does not represent the official views
+of EFRAG or any individual member of the EFRAG SRB or EFRAG SR TEG.
+About EFRAG
+EFRAG’s mission is to serve the European public interest in both financial and sustainability reporting by developing and promoting European views in the
+field of corporate reporting. EFRAG builds on and contributes to progress in corporate reporting. In its sustainability reporting activities, EFRAG provides
+technical advice to the European Commission in the form of draft European Sustainability Reporting Standards (ESRS) elaborated under a robust due process
+and supports the effective implementation of ESRS. EFRAG seeks input from all stakeholders and obtains evidence about specific European circumstances
+throughout the standard-setting process. Its legitimacy is built on excellence, transparency, governance, due process, public accountability and thought
+leadership. This enables EFRAG to speak convincingly, clearly, and consistently, and to be recognised as the European voice in corporate reporting and a
+contributor to global progress in corporate reporting.
+EFRAG is funded by the European Union through the Single Market Programme in which the EEA-EFTA countries (Norway, Iceland and Liechtenstein) as well
+as Kosovo participate. Any views and opinions expressed here are, however, those of the author(s) only and do not necessarily reflect those of the European
+Union, the European Commission or of countries that participate in the Single Market Programme. Neither the European Union, the European Commission
+nor the countries participating in the Single Market Programme can be held responsible for them.
+May 2024 Page 2 of 12
+Feedback statement – EFRAG IG 1: Materiality Assessment
+Table of contents
+Introduction ................................................................................................ 4
+Objective of this feedback statement ...................................................... 4
+Background .............................................................................................. 4
+General overview of comments received from respondents .................. 4
+EFRAG’s final Implementation Guidance ................................................ 5
+Development of the principle of unbiased assessment .......................... 6
+Qualitative characteristics of information ............................................... 7
+Clarification of the architecture of the ESRS ........................................... 8
+Specific reference to governance considerations .................................. 10
+Inclusion of relevant sources ................................................................. 11
+Other miscellaneous amendments ....................................................... 12
+May 2024 Page 3 of 12
+Feedback statement – EFRAG IG 1: Materiality Assessment
+Introduction
+Objective of this feedback statement General overview of comments received from respondents
+The objective of this Feedback Statement is to describe how the comments EFRAG received and analysed 104 responses to the online survey and seven
+received in the public feedback were discussed within EFRAG’s governing general comment letters from respondents. These comment letters are
+bodies, the EFRAG SR TEG and EFRAG SRB, and subsequently considered for available on EFRAG’s website. For more details on the detailed public
+the final version of the ESRS IG 1: Materiality Assessment. This Feedback feedback, please refer to Paper 06-03 of the EFRAG SRB meeting on 20
+Statement addresses how EFRAG has implemented the changes following March 2024.
+the public’s comments and suggestions and the rationale for implementing
+The responses and comment letters received came from national standard-
+those changes. In addition, this feedback statement illustrates the main
+setters, business associations, NGOs, preparers, users and assurance
+differences between the draft IG 1 and the final version of the IG 1.
+providers.
+Background
+The following points summarise the main comments and suggestions
+On 22 December 2023, EFRAG published its first three draft ESRS collected from the respondents’ feedback:
+Implementation Guidance documents, with a deadline for public feedback
+- necessity to further clarify the weight of the results of the
+set to 2 February 2024. The documents are non-authoritative and support
+subsidiaries’ materiality assessment at a group level, including the
+the implementation of ESRS.
+use of a unified threshold at a group level
+The aim of IG 1 Materiality Assessment (MAIG) is to support the
+- approach to supportable and objective evidence
+implementation activities of preparers and other parties using or analysing
+ESRS reports with regard to the double materiality assessment (referred to - linking materiality assessment to ESRS 1 paragraph 114
+as ‘materiality assessment’, ‘assessment’ or ‘MA’ in this document). As
+- gross and net impacts for environmental matters
+there is no single solution for all undertakings in terms of designing
+processes and adopting methodologies, the MAIG provides tools and - clarification of the role of stakeholder engagement within the
+mechanisms for undertakings to comply with the ESRS while taking full financial materiality process
+account of their specific facts and circumstances. It also includes a number
+- inclusion of governance requirements from ESRS 2 GOV disclosures
+of FAQs that succinctly cover various implementation questions that
+in relation to the materiality assessment
+undertakings may have in relation to the materiality assessment exercise.
+- use of additional sources for the materiality assessment
+- further guidance and illustrations to be included.
+May 2024 Page 4 of 12
+Feedback statement – EFRAG IG 1: Materiality Assessment
+Overall, the respondents provided valuable and detailed comments on the - clarification of the role of mitigation, remediation and prevention
+various sections of the draft Implementation Guidance and the FAQs. actions in the impacts to be considered for the materiality
+Further guidance was requested on specific areas, such as threshold assessment
+definitions, or examples of the objective criteria to be used in the
+- addition of specific references to governance disclosures that stem
+materiality assessment exercise.
+from ESRS 2 GOV-2 and that relate to the materiality assessment
+The final MAIG considered and implemented all appropriate editorial
+- inclusion of additional sources that could serve as an input to the
+changes and suggestions from the public consultation that enhanced the
+materiality assessment
+readability and understandability of the document, including the
+comments that referred to the provided visuals and examples in green - other miscellaneous amendments from feedback received.
+boxes. These changes are not addressed in this document.
+In addition, it was acknowledged that further examples of material impacts,
+risks and opportunities and detailed illustrations of the various steps of the
+materiality assessment could be included in a future iteration of this
+EFRAG’s final Implementation Guidance
+implementation guidance. Further research is required, and it will be
+considered in the future workplan subject to prioritisation.
+Following the discussions in the EFRAG SR TEG and SRB meetings, the
+EFRAG Secretariat amended EFRAG IG 1: Materiality Assessment. The main
+changes can be summarised as follows:
+- new section included for impact materiality: Section 3.6.3
+Considerations for groups and subsidiaries. This section is
+developed under the principle of unbiased assessment, and it
+covers the subsidiary exemption
+- clarification of the concept of objective and supportable evidence.
+This is aligned with the qualitative characteristics of information
+- clarification of the architecture of the ESRS in drafting non-ESRS
+sustainability information that could be included in the
+sustainability statement
+May 2024 Page 5 of 12
+Feedback statement – EFRAG IG 1: Materiality Assessment
+Development of the principle of unbiased assessment
+Respondents’ comments EFRAG’s final position and decision
+Several respondents recommended EFRAG to clarify whether a matter that is A new section was added to Chapter 3.6 to reflect the matter of unbiased
+assessed as material from an impact perspective at a subsidiary level would also assessment and to further consider the concept of significant differences from the
+automatically be considered material at a higher consolidated group level. subsidiary exemption. The section included the principle following the ESRS
+Delegated Act provision on this matter in practical terms (i.e., a coordinated
+It was also noted that the illustrative example within the green box in Chapter
+approach to Materiality Assessment at a group level while pursuing an unbiased
+3.6.2 on page 31 lacks clarity regarding the effect on group materiality.
+identification of impacts). The EFRAG SRB and EFRAG SR TEG added the concept
+of conglomerates and investment groups in this section and further developed the
+concept of application of thresholds for group materiality with some examples.
+Such examples distinguished between the matters that could be aggregated at a
+group level (for example, pollution) from those where aggregation was not suited
+(for example, violation of human rights).
+Regarding the relevant illustrative example, it was highlighted that the extent to
+which the subsidiary impact will be an input at the group level materiality would
+depend on the interplay of the subsidiary impact with the group. The revised draft
+was linked with ESRS 1 paragraphs 102, 103 and 104.
+Reference in the final IG 1
+Page 32, newly added Section 3.6.3 Considerations for groups and subsidiaries;
+page 46, FAQ 13 Performing the impact materiality assessment when the
+undertaking operates in different sectors.
+May 2024 Page 6 of 12
+Feedback statement – EFRAG IG 1: Materiality Assessment
+Qualitative characteristics of information
+Respondents’ comments EFRAG’s final position and decision
+Regarding evidence to inform the materiality assessment, respondents noted that The wording of this section was fine-tuned within the context of ESRS 1 Qualitative
+the ESRS do not explicitly indicate a preference between qualitative and characteristics of information.
+quantitative information (refer to FAQ 10).
+Reference in the final IG 1
+Page 9, paragraph 28; page 44, FAQ 10 Should the assessment of IROs rely on
+quantitative information?
+May 2024 Page 7 of 12
+Feedback statement – EFRAG IG 1: Materiality Assessment
+Clarification of the architecture of the ESRS
+Respondents’ comments EFRAG’s final position and decision
+Several respondents raised concerns on the potential contradiction between EFRAG provided clarification on the wording. An explanation regarding the application
+paragraph 25 and ESRS 1 paragraph 114. of ESRS 1 paragraph 114 stating the possibility of adding other sustainability
+Clarification was also requested as to whether immaterial information can also be information was developed.
+disclosed in the sustainability statement.
+Reference in the final IG 1
+Page 9, paragraph 25.
+May 2024 Page 8 of 12
+Feedback statement – EFRAG IG 1: Materiality Assessment
+Mitigation actions in the materiality assessment
+Respondents’ comments EFRAG’s final position and decision
+The public consultation revealed that there was a need to better define the EFRAG clarified the extent to which mitigation actions may be considered in the
+concepts and scope of gross and net impacts as well as to clarify whether FAQ 23 materiality assessment and amended the examples. The question was reformulated,
+is also applicable to risks and opportunities. and the terms gross and net were replaced by pre-mitigation, remediation or
+prevention actions.
+Respondents proposed to consider mitigation actions for potential impacts along
+with the need to address the interplay with existing regulation related to Reference in the final IG 1
+mitigation. Concerns on a potential contradiction between paragraph 228 and
+Page 54, FAQ 23 Are remediation and mitigation actions considered in the material
+paragraph 231 were raised.
+assessment for environmental impacts?
+Clarification was also requested on the potential conflict between paragraph 228
+and paragraph 230 regarding actual impacts.
+May 2024 Page 9 of 12
+Feedback statement – EFRAG IG 1: Materiality Assessment
+Specific reference to governance considerations
+Respondents’ comments EFRAG’s final position and decision
+Respondents suggested enhancing the materiality assessment process by A specific reference to ESRS 2 GOV was added in the materiality assessment
+including the role of management and governance in the validation of the analysis. process in Chapter 3.
+While EFRAG recognises the importance of including management in the
+validation of the analysis, no further changes were implemented with regard to
+the management dimension.
+Reference in the final IG 1
+Page 24, Section 3.3 Step C. Assessment and determination of material IROs
+related to sustainability matters; page 26, newly added paragraph 100, Section 3.4
+Step D. Reporting.
+May 2024 Page 10 of 12
+Feedback statement – EFRAG IG 1: Materiality Assessment
+Inclusion of relevant sources
+Respondents’ comments EFRAG’s final position and decision
+For the materiality assessment, it was suggested to include other tools and EFRAG clarified that it is possible to use additional sources as inputs provided that
+external sources for guidance in relation to the identification of matters. the result is aligned with the ESRS requirements. An emphasis is put on those
+sources that are interoperable with the ESRS.
+Reference in the final IG 1
+Page 35, Section 4.1 Leveraging the GRI standards; page 38, Section 4.4 Leveraging
+other frameworks or sources created.
+May 2024 Page 11 of 12
+Feedback statement – EFRAG IG 1: Materiality Assessment
+Other miscellaneous amendments
+Respondents’ comments EFRAG’s final position and decision
+Respondents proposed the introduction de facto of a hierarchy of stakeholder EFRAG provided editorial clarification on the role of consultation in the guidance
+engagement going beyond Set 1. as well as on the role of user engagement through the financial materiality lens.
+FAQ 25 related to Art. 8 Taxonomy was significantly streamlined, and two examples
+Conflicting views were shared regarding the suggestion that financial materiality were removed. The EFRAG SR TEG recommended the SRB to conduct further
+is linked to engagement with users (refer to paragraph 112). research in the future in this area. EFRAG will consider issuing specific
+implementation guidance or educational material on this, with possible input from
+Further guidance was also requested on value chain along with a clearer definition the Platform on Sustainable Finance. Minor clarifications have been added to FAQ
+and application of thresholds as well as the use of judgment in setting them. 5, FAQ 6, FAQ 7 and FAQ 21. Minor edits have also been made to figures 1(b), 1(c),
+Engagement with stakeholders on prioritisation, among other types of 3 and 4.
+engagement, is deemed to lack clarity (refer to sections 3.5 and 5.4). Respondents
+Reference in the final IG 1
+asked for additional practical examples on the steps to be followed in the
+materiality assessment. Page 28, paragraphs 108, 111 and 112 of Section 3.5 Role and approach to
+stakeholders in the materiality assessment process;
+page 29, figure 4 and Section 3.6 Deep dive into impact materiality – Setting
+thresholds;
+page 34, paragraph 134 of Section 3.7 Deep dive into financial materiality – Setting
+thresholds (consistent with Section 3.5 Amendments);
+page 47, Section 5.4 FAQ on stakeholder engagement: impact materiality;
+page 14, paragraph 37, paragraph 54, figures 1(b) and (c) in Section 2.1
+Implementing the concept of double materiality; and
+page 56, FAQ 25 What is the relationship between taxonomy eligible activities and
+materiality?
+May 2024 Page 12 of 12

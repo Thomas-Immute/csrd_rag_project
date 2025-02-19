@@ -1,0 +1,1867 @@
+Page 1 of 23
+Disclaimer
+This Mapping of sustainability matters to topical disclosures (Q&A ID 177) by EFRAG provides
+non-authoritative and accompanies the European Sustainability Reporting Standards (ESRS), as
+stipulated in Article 19a and 29a of Directive 2013/34/EU (the Accounting Directive). This
+means that if anything in this document appears to contradict any requirement or explanation
+in ESRS, ESRS take precedence. This Mapping of sustainability matters to topical disclosures
+(Q&A ID 177) is issued following EFRAG’s due process for such non-authoritative documents
+and under the sole responsibility of EFRAG.
+EFRAG assumes no responsibility or liability whatsoever for the content or any consequences
+or damages directly, indirectly or incidentally arising from following the advice or guidance
+contained in this document. Users of this document are advised to exercise their own judgment
+in applying ESRS. Information contained in this document should not be substituted for the
+services of an appropriately qualified professional.
+This Mapping of sustainability matters to topical disclosures (Q&A ID 177) has been developed
+for use by large listed and unlisted companies that are subject to ESRS. It is therefore not
+intended for use by non-listed small- and medium-sized enterprises (SMEs), which may use the
+upcoming Voluntary SME standard.
+This Mapping of sustainability matters to topical disclosures (Q&A ID 177) relates to the sector
+agnostic ESRS as adopted by the European Commission on 31 July 2023. Sector-specific
+standards may add sector specifications.
+The content of Mapping of sustainability matters to topical disclosures (Q&A ID 177) has been
+drafted to provide an answer to a specific technical question and cannot be directly extended
+by analogy to a different fact pattern.
+About EFRAG
+EFRAG’s mission is to serve the European public interest in both financial and sustainability
+reporting by developing and promoting European views in the field of corporate reporting.
+EFRAG builds on and contributes to progress in corporate reporting. In its sustainability
+reporting activities, EFRAG provides technical advice to the European Commission in the form
+of draft European Sustainability Reporting Standards (ESRS) elaborated under a robust due
+process and supports the effective implementation of ESRS. EFRAG seeks input from all
+stakeholders and obtains evidence about specific European circumstances throughout the
+standard-setting process. Its legitimacy is built on excellence, transparency, governance, due
+process, public accountability and thought leadership. This enables EFRAG to speak
+convincingly, clearly, and consistently, and be recognised as the European voice in corporate
+reporting and a contributor to global progress in corporate reporting.
+EFRAG is funded by the European Union through the Single Market Programme in which the
+EEA-EFTA countries (Norway, Iceland and Liechtenstein), as well as Kosovo participate. Any
+views and opinions expressed are however those of the author(s) only and do not necessarily
+reflect those of the European Union, the European Commission or of countries that participate
+in the Single Market Programme. Neither the European Union, the European Commission nor
+countries participating in the Single market Programme can be held responsible for them.
+© 2024 EFRAG All rights reserved. Reproduction and use rights are strictly limited. For further
+details please contact efragsecretariat@efrag.org
+Page 2 of 23
+Explanation – ID 177 –
+Mapping sustainability matters with disclosure requirements
+Table of content
+ESRS 2 General disclosures ......................................................................................... 4
+Questions related to all Disclosure Requirements .......................................................................... 4
+ID 177 – Mapping sustainability matters (ESRS 1 AR 16) with Disclosure Requirements........... 4
+Page 3 of 23
+ESRS 2 General disclosures
+ESRS 2 General disclosures
+Questions related to all Disclosure Requirements
+Question ID 177 – Mapping sustainability matters (ESRS 1 AR 16) with
+Disclosure Requirements
+Release date
+November 2024
+Question asked
+Is there a mapping link between the sustainability matters listed in ESRS 1 paragraph AR 16 and the
+Disclosure Requirements in the topical standards or must judgement be used in deciding the
+disclosures required for a material sustainability matter?
+Key terms
+Mapping sustainability matters; Disclosure Requirements
+ESRS reference
+ESRS 1 paragraphs 25, 30, and AR 16
+Background
+ESRS 1 paragraph 25 states: ‘Performing a materiality assessment (see sections 3.4 Impact materiality
+and 3.5 Financial materiality) is necessary for the undertaking to identify the material impacts, risk and
+opportunities to be reported.’
+ESRS 1 paragraph 30 states: ‘When the undertaking concludes that a sustainability matter is material
+as a result of its materiality assessment on which ESRS 2 IRO-1, IRO-2 and SBM-3 set Disclosure
+Requirements, it shall:
+(a) disclose information according to the Disclosure Requirements (including Application
+Requirements) related to that specific sustainability matter in the corresponding topical and
+sector-specific ESRS’.
+ESRS 1 paragraph AR 16 (containing a list of sustainability matters) states: ‘When performing its
+materiality assessment, the undertaking shall consider the following list of sustainability matters
+covered in the topical ESRS. When, as a result of the undertaking’s materiality assessment (see ESRS 2
+IRO-1), a given sustainability matter in this list is assessed to be material, the undertaking shall report
+according to the corresponding Disclosure Requirements of the relevant topical ESRS.’
+IG 1 Materiality Assessment paragraphs 77 and 78 state:
+‘77. The process of identification of the potential matters may start with the screening of the list of
+matters summarised in ESRS 1 paragraph AR 16 and then be complemented with additional
+entity-specific matters …
+78. The undertaking may also develop a “long” list of impacts, risks and opportunities relevant to its
+business model and upstream / downstream value chain and aggregate them following the
+Page 4 of 23
+structure provided in ESRS 1 paragraph AR 16 …Then, the undertaking could compare the
+matters identified with the list in ESRS 1 AR 16 for completeness. The two approaches may be
+combined.’
+Disclaimer on how to use this mapping
+This explanation is not intended to be used as a tool to support the assessment of the materiality of
+sustainable topics (or matters), but it can be helpful once the material matters have been determined
+to support preparers to identify the Disclosure Requirements and datapoints that are linked to the
+matters (topics, subtopics and sub-subtopics) assessed as being material.
+ESRS 1 paragraph AR 16 shall be considered when performing the materiality assessment. The
+materiality of each subtopic or sub-subtopic should not necessarily be assessed, when at the related
+topical level, the entire topic is assessed as not material, respectively; the materiality of each sub-
+subtopic should not necessarily be assessed when at the related sub-topic level, the entire sub-topic is
+assessed as not material. This is also to say that topics, subtopic or sub-subtopics shall be assessed as
+not material when no material impacts, risks or opportunities are identified within them.
+If the undertaking has assessed entity-specific matters not listed in ESRS 1 paragraph AR 16 as material,
+then ESRS 1 paragraphs 11 and 30 (b), AR 1 to 5 and ESRS 1 Chapter 10.1 apply (see also IG 1 Materiality
+Assessment Chapter 4 How can other sources be leveraged?).
+The mapping in this explanation does not imply an automatism relating to the conclusion on the
+materiality of a metric when the related matter has been deemed material. It is still possible for the
+undertaking to conclude that a metric is not material to itself despite it pertaining to a material matter.
+Conversely, some metrics may be related to more than one subtopic. The assessment of the materiality
+of information requires the exercise of judgment.
+The mapping in this explanation is based on the assumption that the relationship between sustainability
+matters across two different topical ESRS (for instance, the relationship of Climate Change and
+Biodiversity, or the relationship between Biodiversity and Affected communities) or the relationship
+between sustainability matters within one topic (for instance, the relationship between Climate change
+adaptation and Energy – (both ESRS E1), or the relationship between Collective Bargaining and
+adequate wages – (both ESRS S1)) have been evidenced by the undertaking at the level of the
+materiality assessment and that such interrelations will be reflected when assessing the materiality of
+information. For example, if an undertaking has identified negative material impacts related to ESRS S3
+Affected Communities due to negative material impacts on ESRS E4 Biodiversity connected to the
+undertaking, this relationship would be identified when performing the materiality assessment
+described in ESRS 2 IRO-1. Another example is where pollution of water (ESRS E2) limits the availability
+of clean water (ESRS E3) and poses a threat to the state of ecosystems (ESRS E4) and water and
+sanitation access from communities (ESRS S3). Those links may influence the preparers’ approach to
+identifying interrelated Disclosure Requirements when performing the materiality assessment as per
+ESRS 2 IRO-1.
+Answer
+If a sustainability matter (i.e. topic, subtopic or sub-subtopic) listed in ESRS 1 paragraph AR 16 is
+assessed as being material given that a material impact, risk or opportunity has been identified for that
+matter, the general process to determine the information to disclose can be described as follows:
+(a) for policies, actions and targets the undertaking shall include the information required by the
+corresponding Disclosure Requirements in topical standards as well as the information
+required by ESRS 2 Minimum Disclosure Requirements on policies, actions and targets in
+compliance with ESRS 1 paragraph 33;
+Page 5 of 23
+(b) For metrics, the undertaking shall assess the materiality of information in compliance with
+ESRS 1 paragraph 31 and 34. Assessing the materiality of information helps determine which
+metrics (or which datapoints of metrics Disclosure Requirements) are material and as such
+should be disclosed. if a Disclosure Requirement contains a number of metrics datapoints, the
+undertaking may conclude that one or more of those datapoints are not material given its
+specific facts and circumstances (for example ESRS E2 Disclosure Requirement E2-4 - Pollution
+of air, water and soil that contain a number of datapoints).
+To support the application of ESRS 1 paragraph 30, this explanation articulates the relationship
+between the sustainability matters described in ESRS 1 paragraph AR 16, and the Disclosure
+Requirements in the topical standards. In addition to disclosing information from topical ESRS, the
+undertaking shall also include entity-specific information when this is necessary (ESRS 1 paragraph 11).
+This explanation includes a flowchart, narrative content and mapping tables.
+The mapping is aimed at supporting undertakings in determining the Disclosure Requirements
+(including the associated Application Requirements for such disclosures; refer to EFRAG’s IG3, ‘List of
+ESRS datapoints for a detailed mapping’) related to a specific material sustainability matter in the
+corresponding topical ESRS as required in ESRS 1 paragraph 30.
+The mapping tables cover the topical standards. They do not include:
+(a) ESRS 1 General Requirements;
+(b) ESRS 2 General Disclosures, as ESRS 2 disclosures are to be disclosed irrespective of the
+outcome of the materiality assessment (ESRS 1 paragraph 29). By extension, they do not
+include the ESRS 2 IRO-1related disclosures that are included in the topical standards (refer
+to the environmental topics), for which the treatment specified in ESRS 2 paragraph 2 is
+applicable.; or
+(c) entity-specific (and sector-specific) matters whereby the undertaking shall add metrics if it
+concludes that ‘an impact, risk or opportunity is not covered or not covered with sufficient
+granularity by an ESRS but is material due to specific facts and circumstances’ (refer to ESRS
+1 paragraph 11 and 30 (b)).
+For metrics, which can be either quantitative or qualitative, there is no systematic ‘one-to-one’
+relationship between a matter (as captured by ESRS 1 paragraph AR 16) and a topical Disclosure
+Requirement.
+Some metrics provide information that support the understanding of any of the related subtopics or sub-
+subtopics in a topical standard. This is the case, for instance, for ESRS S1-6 and S1-7 on the
+characteristics of own workforce or S1-17 on incidents, complaints and severe human rights impacts
+where own workforce or any related subtopic or sub-subtopic is assessed to be material for the
+undertaking.
+Some metrics are directly related to one specific subtopic or sub- subtopic. This is the case, for instance,
+for:
+(a) the subtopic Management of relationships with suppliers including payment practices,
+which is related to ESRS G1-6 Payment practice;
+(b) many sub-subtopics of ESRS S1, which are directly covered by specific Disclosure
+Requirements. For instance, the sub-subtopic health and safety is directly related to the
+Disclosure Requirement S1-14 Health and safety; and
+(c) the subtopic Microplastics for which the relevant metric is embedded in the broader
+Disclosure Requirement ESRS E2-4 Pollution of air, water and soil.
+Page 6 of 23
+The social standards ESRS S2 to S4 do not have standardised metrics beyond the Disclosure
+Requirements of policies, actions and targets nor do the corresponding provisions in ESRS 2 MDR-P,
+MDR-A, or MDR-T.
+The mapping in this document takes these differences of architecture of topical standards into
+account. It provides an overview of the direct links that exist between matters and Disclosure
+Requirements or datapoints where such direct links exist.
+The mapping of ESRS 1 paragraph AR 16 to Disclosure Requirements does not link matters addressed
+in datapoints except in the case where subtopics or sub-subtopics are directly mentioned in a
+datapoint (and not in the title of the Disclosure Requirements). This is the case, for instance, for
+microplastics in ESRS E2, for water withdrawals and water discharges in ESRS E3 or for waste in ESRS E5.
+Fig 1: Flowchart for determining the Disclosure Requirements once the material sustainability matters
+from ESRS 1 paragraph AR 16 have been identified (to note: this flowchart does not cover entity-specific
+metrics disclosures)
+Mapping tables
+The tables below map ESRS 1 paragraph AR 16 to the respective ESRS Disclosure Requirements. They do
+not cover information regarding where in the sustainability statement the information shall be
+disclosed.
+The mapping is only meant to direct links from a subtopic in AR 16 to DRs in topical ESRS. It is to be
+noted that sustainability matters in ESRS 1 paragraph AR 16 are often interrelated. Based on the facts
+and circumstances of an undertaking, the materiality of a specific subtopic or sub-subtopic of a topical
+ESRS can trigger reporting requirements in other topical ESRS (please refer to the Disclaimer section of
+this explanation).
+In this Section, we illustrate the disclosure requirement that are connected to a specific matter/topic,
+i.e. that have to be considered in the assessment performed under paragraph 34 of ESRS 1 when a
+given matter/topic is material, in order to ultimately determine which datapoints are reported.
+E1 Climate Change
+The following can be noted:
+Page 7 of 23
+(a) The subtopics of energy and climate change mitigation are closely linked. The datapoints in the
+Disclosure Requirement E5-1 Energy Consumption and mix cover aspects (energy use) linked
+to climate change mitigation; therefore they are connected to climate change mitigation
+(b) E1-1 Transition plan is connected to climate change mitigation
+(c) Disclosure Requirements or datapoints regarding financial resilience (ESRS paragraphs to be
+included) are connected to both climate change mitigation and adaptation
+(d) E1-7 GHG removals and GHG mitigation projects financed through carbon credits is not
+expected to be disclosed unless the undertaking uses such financing tools
+(e) E1-8 Internal carbon pricing is expected to be disclosed only when the undertaking has
+implemented such mechanism.
+AR 16 ESRS Explanatory notes
+Topic Subtopic Disclosure Requirement
+DR related to ESRS 2 Integration of sustainability-related Performance related to GHG emission reduction
+GOV-3 performance in incentive schemes targets
+E1-1 Transition plan for climate change Transition plan relates to climate change
+mitigation mitigation
+DR related to ESRS 2 Material impacts, risks and Material IROs, including resilience, in relation to
+SBM-3 opportunities and their interaction climate change mitigation
+with strategy and business model
+DR related to ESRS 2 Description of the processes to Description of the processes to identify and assess
+IRO-1 identify and assess material climate- material climate change mitigation-related
+related impacts, risks and impacts (i.e. GHG emissions) and transition risks
+opportunities and opportunities
+n
+o To note: ESRS 2 IRO-1 related DR is mandatory /
+it not subject to materiality assessment
+a
+g
+it E1-2 Policies related to climate change Policies related to climate change mitigation
+im
+mitigation and adaptation
+e e
+g g
+n n E1-3 Actions and resources in relation to Actions and resources in relation to climate change
+a h a h climate change policies mitigation policies
+c
+e
+c
+e E1-4 Targets related to climate change Specifically, GHG emission reduction targets
+t a m t a m mitigation and adaptation
+ilC ilC E1-5 Energy consumption and mix Energy consumption and mix, energy intensity
+1
+E E1-6 Gross Scopes 1, 2, 3 and Total GHG
+S
+R emissions
+S
+E
+E1-7 GHG removals and GHG mitigation
+projects financed through carbon
+credits
+E1-8 Internal carbon pricing
+E1-9 Anticipated financial effects from Anticipated financial effects from material climate-
+material physical and transition risks related transition risks and potential climate-
+and potential climate-related related opportunities (relates to financial
+opportunities materiality)
+e
+DR related to ESRS 2 Material impacts, risks and Material climate-related impacts, risks and
+g
+nn
+SBM-3 opportunities and their interaction opportunities, resilience of strategy and business
+ao with strategy and business model model in relation to climate change adaptation
+hit
+ca
+et
+p
+DR related to ESRS 2 Description of the processes to Process to identify climate-related physical and
+t aa IRO-1 identify and assess material climate- transition risks and opportunities, transition risks
+md
+a related impacts, risks and and opportunities where they relate to climate
+ilC opportunities change adaptation
+Page 8 of 23
+E1-2 Policies related to climate change Policies related to climate change adaptation
+mitigation and adaptation
+E1-3 Actions and resources in relation to Actions and resources in relation to climate change
+climate change policies adaptation policies
+E1-4 Targets related to climate change Targets related to climate change adaptation
+mitigation and adaptation
+E1-9 Anticipated financial effects from Anticipated financial effects from material climate-
+material physical and transition risks related physical and transition risks and potential
+and potential climate-related climate-related opportunities (relates to financial
+opportunities materiality)
+Transition risks and opportunities where they
+relate to climate change adaptation
+DR related to ESRS 2 Material impacts, risks and Material climate-related IROs of strategy and
+SBM-3 opportunities and their interaction business model if these IROs are based on energy-
+with strategy and business model related events (availability of renewable energy,
+energy price fluctuations, new legislation, etc.)
+DR related to ESRS 2 Description of the processes to Process to identify and assess material climate-
+IRO-1 identify and assess material climate- related impacts and transition risks and
+related impacts, risks and opportunities if these IROs are based on energy-
+opportunities related events (availability of renewable energy,
+energy price fluctuations, new legislation, etc.)
+y E1-2 Policies related to climate change Policies related to energy efficiency and renewable
+g r mitigation and adaptation energy deployment
+e
+n
+E E1-3 Actions and resources in relation to Actions and resources in relation to energy
+climate change policies efficiency and renewable energy deployment
+E1-4 Targets related to climate change Targets related to energy, for example, efficiency
+mitigation and adaptation or renewable energy deployment
+E1-5 Energy consumption and mix Energy consumption and mix, energy intensity
+E1-9 Anticipated financial effects from Anticipated financial effects from material physical
+material physical and transition risks and transition risks and potential climate-related
+and potential climate-related opportunities (relates to financial materiality)
+opportunities
+E2 Pollution
+AR 16 ESRS Explanatory notes
+Topic Subtopic Disclosure Requirement
+DR related to Description of the processes to Description of the processes to identify and assess
+ESRS 2 IRO-1 identify and assess material pollution- material IROs related to pollution of air, water or soil
+related impacts, risks and
+To note: ESRS 2 IRO-1 related DR is mandatory / not
+opportunities
+lio subject to materiality assessment
+s
+d E2-1 Policies related to pollution MDR-P: Policies related to pollution of air, water or
+n
+n
+a soil
+o it r e E2-1 paragraph 15: (a) Disclosure of how policy
+u t
+llo a
+w
+addresses mitigating negative impacts related to
+P
+2
+E
+S R
+S
+,r
+ia
+f o
+n
+E2-2 A poct lli uo tn ios
+n
+and resources related to
+p
+M
+soo
+D
+il ll Ru -t Aio :n
+A
+o cf
+t
+ia oi nr,
+s
+w reat lae tr
+e
+a dn d
+to
+s o pi ol
+llution of air, water or
+E o
+it E2-2 paragraph AR15: Information about action plans
+u that have been implemented at site-level (pollution)
+llo
+P E2-3 Targets related to pollution MDR-T: Targets related to pollution of air, water or
+soil
+E2-3 paragraph 23(a)(b)(c): Disclosure of how target
+relates to prevention and control of air pollutants and
+Page 9 of 23
+respective specific loads, emissions to water and
+respective specific loads, pollution to soil and
+respective specific loads
+E2-3 paragraph AR 18: Information about targets that
+have been implemented at site-level (pollution)
+E2-4 Pollution of air, water and soil Amounts of pollutant emissions
+E2-6 Anticipated financial effects from Anticipated financial effects from material pollution-
+pollution-related impacts, risks and related risks and opportunities (relates to financial
+opportunities materiality)
+DR related to Description of the processes to Description of the processes to identify and assess
+ESRS 2 IRO-1 identify and assess material pollution- material impacts, risks and opportunities related to
+related impacts, risks and pollution of living organisms and food resources
+s e opportunities
+c To note: ESRS 2 IRO-1 related DR is mandatory / not
+r
+u subject to materiality assessment
+o
+s
+e E2-1 Policies related to pollution Policies related to pollution of living organisms and
+r
+d food resources
+o
+o f E2-2 Actions and resources related to MDR-A: Actions related to pollution of living
+d pollution organisms and food resources
+n
+a
+s E2-2 paragraph AR 15: Information about action plans
+m
+that have been implemented at site-level (pollution)
+s
+in
+a E2-3 Targets related to pollution MDR-T: Targets related to pollution of living
+g r organisms and food resources
+o
+g E2-3 paragraph AR 18: Information about targets that
+n
+iv have been implemented at site-level (pollution)
+il
+f o N/A Metrics Undertakings shall consider disclosing entity-specific
+n information where pollution of living organisms and
+o it food resources are assessed as material. The
+u provisions of ESRS2 MDR-M apply.
+llo
+P E2-6 Anticipated financial effects from Anticipated financial effects from material risks and
+pollution-related impacts, risks and opportunities related to pollution of living organisms
+opportunities and food resources (relates to financial materiality)
+DR related to Description of the processes to Description of the processes to identify and assess
+ESRS 2 IRO-1 identify and assess material pollution- material impacts, risks and opportunities related to
+related impacts, risks and substances of concern
+opportunities
+To note: ESRS 2 IRO-1 related DR is mandatory / not
+subject to materiality assessment
+E2-1 Policies related to pollution MDR-P: Policies related to substances of concern (or
+n
+very high concern)
+r
+e E2-1 paragraph 15(b): Disclosure of how policy
+n
+c
+n addresses substituting and minimising use of
+ro
+ec substances of concern and phasing out of substances
+c n h g of very high concern
+o cih
+f y E2-2 Actions and resources related to MDR-A: Actions related to substances of concern
+o s er e v pollution E2-2 paragraph AR 15: Information about action plans
+c n f o that have been implemented at site-level (pollution)
+a s
+t s b ue c n
+a
+E2-3 Targets related to pollution M veD ryR h-T ig: hT a cr og ne ct es r r ne )l ated to substances of concern (or
+St
+s b E2-3 paragraph 23(d): Disclosure of how target relates
+u to prevention and control of substances of concern
+S
+and substances of very high concern
+E2-3 paragraph AR 18: Information about targets that
+have been implemented at site-level (pollution)
+E2-5 Substances of concern and substances Production, use, distribution, commercialisation and
+of very high concern import/export of substances of concern and
+substances of very high concern
+Page 10 of 23
+E2-6 Anticipated financial effects from Anticipated financial effects from material risks and
+pollution-related impacts, risks and opportunities if those originate from substances of
+opportunities concern (or very high concern; relates to financial
+materiality)
+DR related to Description of the processes to Description of the processes to identify and assess
+ESRS 2 IRO-1 identify and assess material pollution- material impacts, risks and opportunities related to
+related impacts, risks and microplastics
+opportunities
+To note: ESRS 2 IRO-1 related DR is mandatory / not
+subject to materiality assessment
+E2-1 Policies related to pollution Policies related to microplastics
+E2-2 Actions and resources related to MDR-A: Actions related to microplastics
+s
+c pollution
+it E2-2 paragraph AR 15: Information about action plans
+s
+a that have been implemented at site-level (pollution)
+lp
+o
+r E2-3 Targets related to pollution MDR-T: Targets related to microplastics
+c
+iM
+E2-3 paragraph AR 18: Information about targets that
+have been implemented at site-level (pollution)
+E2-4 Pollution of air, water and soil Amounts of microplastics generated or used
+See datapoint: ESRS E2 paragraph 28(b)
+E2-6 Anticipated financial effects from Anticipated financial effects from material risks and
+pollution-related impacts, risks and opportunities if those originate from microplastics
+opportunities (relates to financial materiality)
+E3 Water and Marine resources
+AR 16 ESRS Explanatory notes
+Topic Subtopic Sub-subtopic Disclosure Requirement
+DR related to Description of the processes to identify Description of the processes to identify
+ESRS 2 IRO-1 and assess material water and marine and assess material water-related impacts,
+Water consumption
+resources-related impacts, risks and risks and opportunities
+and/or opportunities
+To note: ESRS 2 IRO-1 related DR is
+water withdrawals mandatory / not subject to materiality
+assessment
+and/or
+s e E3-1 Policies related to water and marine MDR-P: Policies related to water
+c water discharges resources
+r u ESRS E3-1 paragraph 12(a): Disclosure of
+o s how policy addresses water management
+e
+r
+e
+ESRS E3-1 paragraph 13: Disclosure of
+n reasons for not having adopted policy in
+ir
+a
+m r
+areas of high-water stress
+e
+d t a E3-2 Actions and resources related to water Actions and resources related to water
+n W and marine resources
+a
+r
+e E3-3 Targets related to water and marine For targets related to water withdrawals
+t
+a resources and water discharges: see ESRS E3 AR 23 to
+W
+AR 25 (optional datapoints)
+3
+E
+S
+Water consumption E3-4 Water consumption For metrics on water consumption and
+R water risk areas see paragraph AR 28 et
+S
+E seq.
+Water withdrawals E3-4 Water consumption For metrics on water withdrawals see
+paragraph AR 32 (optional datapoint)
+Water discharges E3-4 Water consumption For metrics on water discharges see
+paragraph AR 32 (optional datapoint) and
+definition of discharges in glossary
+Page 11 of 23
+Water consumption E3-5 Anticipated financial effects from water Anticipated financial effects from material
+and marine resources-related impacts, water-related risks and opportunities
+and/or
+risks and opportunities (relates to financial materiality).
+water withdrawals
+and/or
+water discharges
+DR related to Description of the processes to identify Description of the processes to identify
+ESRS 2 IRO-1 and assess material water and marine and assess material marine resources-
+resources-related impacts, risks and related impacts, risks and opportunities
+opportunities
+To note: ESRS 2 IRO-1 related DR is
+Water discharges in
+mandatory / not subject to materiality
+the oceans
+s assessment
+e
+c
+r E3-1 Policies related to water and marine Policies related to marine resources
+u
+o and/or resources
+s
+e
+r
+e
+E3-2 Actions and resources related to water Actions related to marine resources
+n and marine resources
+ir Extraction and use
+a M of marine resources E3-3 Targets related to water and marine Targets related to marine resources
+resources
+E3-5 Anticipated financial effects from water Anticipated financial effects from material
+and marine resources-related impacts, marine resources-related risks and
+risks and opportunities opportunities (relates to financial
+materiality)
+E4 Biodiversity and ecosystems
+The table below for ESRS E4 has not been split by sub-topic and sub-sub-topic given the approach of
+the disclosures of this Standard. The metrics are not specific to a sub-topic or sub-sub-topic and apply
+to any material sub-topic or sub-sub-topic identified.
+AR 16 ESRS
+Topic Subtopic Disclosure Requirement Explanatory note
+Sub-sub-
+topic
+E4-1 Transition plan and consideration of biodiversity and
+ecosystems in strategy and business model
+s
+DR related to ESRS Material impacts, risks and opportunities and their
+m 2 SBM-3 interaction with strategy and business model
+e
+t s DR related to ESRS Description of processes to identify and assess material To note: ESRS 2 IRO-1 related DR is
+y
+s 2 IRO-1 biodiversity and ecosystem-related impacts, risks and mandatory / not subject to materiality
+o
+c e
+d n
+s
+c ip
+s c ip
+o t E4-2
+o Pop lp ico ir et su rn eit laie ts
+e d to biodiversity and ecosystems
+a Es Ss Re Ss s Em 4e -2n t
+paragraph 23(a): Disclosure of
+a o- how policy relates to sustainability matters
+y t is b ut -b u s
+-
+for biodiversity and ecosystems
+r e
+v id
+s
+y n
+Ab u
+s
+y
+E hS oR wS pE o4 li- c2
+y
+rp ea fr ea rg sr ta op ph
+r
+oA dR
+u
+1 ct2 i:
+o
+nD ,i s sc ol uo rs cu inre
+g
+oo rf
+o n consumption of raw materials
+iB A
+4 ESRS E4-2 paragraph AR 16(d): Disclosure of
+E
+S
+how policy enables the mitigation of the
+R contribution to material biodiversity loss
+S
+E drivers
+E4-3 Actions and resources related to biodiversity and
+ecosystems
+Page 12 of 23
+E4-4 Targets related to biodiversity and ecosystems ESRS E4-4 paragraph 32(c): Disclosure of
+how target relates to biodiversity and
+ecosystem impacts, dependencies, risks
+and opportunities identified in relation to
+own operations as well as upstream and
+downstream value chain
+ESRS E4-4 paragraph 32(d): Disclosure of
+geographical scope of target
+E4-5 Impact metrics related to biodiversity and ecosystems ESRS E4-5, paragraph 33: the undertaking
+change shall report metrics related to its material
+impacts on biodiversity and ecosystems.
+The undertaking shall report relevant
+metrics for land-use change, freshwater-
+use change and/or sea-use change. The
+undertaking may choose which metric to
+disclose by selecting from a range of
+different metrics described in paragraph 38
+of ESRS E4. The undertaking may report
+metrics related to the sustainability matters
+‘invasive alien species’, ‘impacts on the
+state of species’ and ‘impacts on the extent
+and conditions of ecosystems’.
+E4-6 Anticipated financial effects from biodiversity and Anticipated financial effects from material
+ecosystem-related impacts, risks and opportunities biodiversity and ecosystems-related risks
+and opportunities (relates to financial
+materiality)
+E5 Resource use and circular economy
+AR 16 ESRS
+Topic Subtopic Disclosure Requirement Explanatory notes
+DR related to Description of the processes to identify and Process to identify and assess material resources inflows
+ESRS 2 IRO-1 assess material resource use and circular (including resource use), risks and opportunities
+economy-related impacts, risks and
+To note: ESRS 2 IRO-1 related DR is mandatory / not
+opportunities
+subject to materiality assessment
+E5-1 Policies related to resource use and circular Policies related to resources inflows, including resource
+y m e economy use
+s
+o u
+n
+o c e e c r u
+E5-2 A anct di o cn irs
+c
+ua ln ard er ce os no ou mrc ye s related to resource use M infD loR w-A s:
+(
+inA cc lt ui do in ns
+g
+ra en sd
+o
+ur re ceso uu sr ec )e s related to resources
+r a o s ESRS E5-2 paragraph 20(a): Disclosure of how action
+lu
+c
+r
+e
+r
+g
+c teo cv he nrs
+ic
+ah
+l
+i ag nh de r
+b
+il oe lv oe gl is
+c
+ao
+l
+f
+m
+are teso riu ar lsc e
+a
+ne df f wic aie ten rc y in use of
+ic n
+d
+id
+ESRS E5-2 paragraph 20(a): Disclosure of how resources
+n u
+a lc cover higher levels of resource efficiency in use of
+e s
+u
+n i
+,s
+technical and biological materials and water
+e w ESRS E5-2 paragraph 20(b): Disclosure of how action
+c r u o lf covers higher rates of use of secondary raw materials
+o n
+s e R i s e c E coS vR eS r E h5 ig-2 h ep ra rr aa tg er sa p oh f u2 s0 e( b o) f: sD ecis oc nlo ds au rr ye r ao wf h mow at er re is ao lsu rces
+E
+S
+R5 r u o
+s e
+E coS vR eS
+r
+sE a5 p-2
+p
+lip ca ar tia og nr a op fh
+c
+i2 rc0 u(c la):
+r
+dD eis sc iglo ns u ar ne
+d
+o hf
+ig
+hh eo rw
+r
+aa tect si o on
+f
+S R Reuse, Repair, Refurbishing, Remanufacture,
+E
+Repurposing and Recycling
+ESRS E5-2 paragraph 20(c): Disclosure of how resources
+cover application of circular design and higher rates of
+Reuse, Repair, Refurbishing, Remanufacture,
+Repurposing and Recycling
+Page 13 of 23
+ESRS E5-2 paragraph 20(d): Disclosure of how action
+covers application of circular business practices
+ESRS E5-2 paragraph 20(d): Disclosure of how resources
+cover application of circular business practices
+E5-3 Targets related to resource use and circular MDR-T: Targets related to resources inflows (including
+economy resource use)
+ESRS E5-3 paragraph 24: Disclosure of how target relates
+to resource inflows
+ESRS E5-3 paragraph 24(a): Disclosure of how target
+relates to increase of circular product design
+ESRS E5-3 paragraph 24(b): Disclosure of how target
+relates to increase of circular material use rate
+ESRS E5-3 paragraph 24(c): Disclosure of how target
+relates to minimisation of primary raw material
+ESRS E5-3 paragraph 24(d): Disclosure of how target
+relates to sustainable sourcing and use of renewable
+resources
+ESRS E5-3 paragraph 24(f): Disclosure of how target
+relates to other matters related to resource use or circular
+economy
+E5-4 Resources inflows
+E1-6 Anticipated financial effects from resource use Anticipated financial effects from resources inflows
+and circular economy-related impacts, risks and (including resource use) related impacts, risks and
+opportunities opportunities (relates to financial materiality)
+DR related to Description of the processes to identify and Process to identify and assess material resource outflows-
+s t ESRS 2 IRO-1 assess material resource use and circular related impacts, risks and opportunities
+c
+u economy-related impacts, risks and
+d opportunities
+o
+r
+p
+o
+E5-1 Policies related to resource use and circular Policies related to resource outflows
+t economy
+d
+e t as e c E5-2 Actions and resources related to resource use Actions and resources related to resource outflows
+leiv and circular economy
+r sr e
+s E5-3 Targets related to resource use and circular MDR-T: Targets related to resource outflows
+w
+o d n economy
+lfa ESRS E5-3 paragraph 24: Disclosure of how target relates
+t u to resource outflows
+o
+e E5-5 Resources outflows Products and services: paragraphs 34(b), 36 to 40
+c
+r
+u
+o E5-6 Anticipated financial effects from resource use Anticipated financial effects from resource outflows-
+s e and circular economy-related impacts, risks and related impacts, risks and opportunities (relates to
+R opportunities financial materiality)
+DR related to Description of the processes to identify and Process to identify and assess material waste-related
+ESRS 2 IRO-1 assess material resource use and circular impacts, risks and opportunities
+economy-related impacts, risks and
+opportunities
+E5-1 Policies related to resource use and circular Policies related to waste
+economy
+E5-2 Actions and resources related to resource use MDR-A: Actions and resources related to waste
+e and circular economy
+t s ESRS E5-2 paragraph 20(e): Disclosure of how action
+a W covers actions taken to prevent waste generation in
+upstream and downstream value chain
+ESRS E5-2 paragraph 20(e): Disclosure of how resources
+cover actions taken to prevent waste generation in
+upstream and downstream value chain
+ESRS E5-2 paragraph 20(f): Disclosure of how action
+covers optimisation of waste management in line with
+waste hierarchy
+Page 14 of 23
+ESRS E5-2 paragraph 20(f): Disclosure of how resources
+cover optimisation of waste management in line with
+waste hierarchy
+E5-3 Targets related to resource use and circular MDR-T: Targets related to waste
+economy
+ESRS E5-3 paragraph 24(e): Disclosure of how target
+relates to waste management
+E5-5 Resources outflows Waste: paragraphs 34(a), 35,36, 40
+E1-6 Anticipated financial effects from resource use Anticipated financial effects from waste-related impacts,
+and circular economy-related impacts, risks and risks and opportunities (relates to financial materiality)
+opportunities
+S1 to S4 Policies, Actions and Targets (PAT) and Processes
+The table below maps ESRS paragraph AR 16 matters (topic, sub- and sub-subtopics) to ESRS S1 to S4
+Disclosure requirements related to policies, actions and targets and processes.
+S1 Own workforce
+The topic covers fundamental rights that are classified as sub-subtopics in ESRS S1 and
+ESRS S2 which are interconnected. Such connections are not explicit in the ESRS S1 and
+are presented in the table below. When mapping the disclosures to report, the sub-
+subtopics and/or metrics related to fundamental rights should be considered when
+determining what to disclose if the topic own workforce is considered material (refer to
+the table below), as they cover different aspects of the matter own workforce, and as
+such, they all relate to own workforce as a topic.
+In addition, the metrics on S1-6, S1-7 and S1-17 are mapped to the own workforce directly. In the case
+of S1-6 and S1-7, these provide contextual information that supports the understanding of the
+information reported in the other ESRS S1 disclosures, and they form the basis for calculation of other
+metrics, as noted in the objective of the two disclosures.
+AR 16 ESRS
+Topic Sub-topic Disclosure Requirement Explanatory note
+Sub-sub-
+topic
+S1-1 Policies related to own MDR-P: Policies
+n s workforce / workers in the and
+e
+c r o f k r o w
+n w O
+1 S
+S R S E
+ia h c
+e
+u la v e h t
+n i s r e
+k r o
+W 2 S
+S
+s e it
+in
+u m m o c
+d e t c e
+f f A
+3 S S R
+S
+d n e d n a
+s r e m u
+s n
+o C 4 S
+Sr e s u
+-
+b
+us sc i yp no
+At - b
+us sc i ybp nuo Ast --
+S
+S
+S2
+3
+4-
+-
+-1
+1
+1
+v
+c
+aoa nl
+m
+du e
+em
+nc
+u
+dh
+n
+-a
+i
+utin
+sie
+e/
+s
+ra s/f f ce oc nte sud
+m ers
+E
+p
+i E A
+A a s
+p
+d p
+wn
+ulS
+Sr
+o
+o
+oR
+R o
+odo
+cR
+R
+l
+c l
+n
+ri
+i
+ih1
+1v
+uS
+Sg
+c
+c
+kei
+3
+0
+y
+i
+e
+m
+es
+e
+;
+:
+,S
+ai
+n
+rp
+S
+so
+eI1 E sso
+f
+o3
+n
+nS- du
+t
+rl-
+4
+/s
+R
+i tch
+e1
+is
+c
+soSf
+lte y
+ap
+c
+ao
+p
+h
+d
+fS
+lpp
+a
+tr
+e
+b
+a
+foe
+e3 er
+oa
+op
+tu
+s
+a d-
+cr
+l
+upr
+t4
+si
+oga
+tc
+e
+r
+al er
+i
+fg
+e typ
+ev
+s
+t
+a
+dor
+s a
+i
+e
+dp
+sa
+ei
+r
+nn
+fohp
+t
+ca
+oo
+yct
+he
+oh
+g
+wi
+fl
+rin
+sA
+mu
+r
+c
+e
+nag
+n
+dR
+s
+q1
+map
+o e
+a5
+ush w1
+odt
+un
+p:
+i
+1
+rrt
+d
+n1
+oei
+e
+a; n8
+i
+rD
+c
+a
+m
+tk g
+k
+; tE
+ie
+ed
+a e
+efsE eS
+os
+d
+n
+stSR
+nc
+b
+r
+hr
+eRr
+cS
+t
+/e
+r oe
+ri
+s
+eoS
+p
+s
+a
+f
+f
+c
+S
+as
+ot
+S
+lo
+o
+2ii
+d
+/f4no
+r
+t
+n
+- sem-
+dg
+hn
+4
+u
+v
+s4
+r
+ie
+u
+ai
+s
+s
+m
+op dp
+t
+c
+mlo
+uafa oa
+lp
+of
+bi ea
+err
+c
+na
+saa
+ru rs a
+ucp
+o
+sgg
+cmt
+bt
+ro
+r ar
+a
+hs
+e
+aaa
+i
+denl
+l
+ai
+o
+nippc
+n
+e
+od t
+inn
+dhh
+yy
+rt f-
+RER end-users
+S S
+E E
+ESRS S1-4 paragraph 20; ESRS S2-4 paragraph 17;
+ESRS S3-4 paragraph 16; ESRS S4-4 paragraph 16:
+Page 15 of 23
+Description of relevant human rights policy
+commitments
+S1-2 Processes for engaging with
+own workforce / workers in
+S2-2
+the value chain/ affected
+S3-2 communities / consumers
+and end users
+S4-2
+S1-3 Processes to remediate
+negative impacts and
+S2-3
+channels for own workforce
+S3-3 / workers in the value
+chain/ affected
+S4-3
+communities / consumers
+and end users
+S1-4 Taking action on material MDR-A: Actions and resources
+impacts on own workforce / and
+S2-4
+workers in the value chain/
+ESRS S1-4 paragraph 38(a); ESRS S2-4 paragraph
+S3-4 affected communities / 32(a); ESRS S3-4 paragraph 32(a); ESRS S4-4
+paragraph 31(a): Description of actions taken,
+consumers and end users,
+S4-4 planned or underway to prevent or mitigate (or
+and approaches to remediate) material negative impacts on own
+managing material risks and workforce / value chain workers / affected
+communities
+pursuing material
+opportunities related to ESRS S1-4 paragraph AR 40(b), ESRS S2-4 paragraph
+AR 36(b), ESRS S3-4 paragraph AR 34(b) ESRS S4-4
+own workforce / workers in
+paragraph AR 33(b): Disclosure of intended or
+the value chain/ affected achieved positive outcomes of programmes or
+processes for people in own workforce / value chain
+communities / consumers
+workers / affected communities / consumers and
+and end users, and end users
+effectiveness of those
+ESRS S1-4 paragraph 35; ESRS S2-4 paragraph 30;
+actions ESRS S3-4 paragraph 30; ESRS S4-4 paragraph 28:
+Disclosure of how action is taken to address material
+negative and positive impacts and to manage
+material risks and pursue material opportunities
+related to own workforce / value chain workers /
+affected communities / consumers and end users,
+and effectiveness of those actions
+Disclosure of aspects of policy that satisfy
+requirements of disclosure of policies related to own
+workforce / value chain workers / affected
+communities / consumers and end users
+S1-5 Targets related to MDR-T: Targets
+managing material negative and
+S2-5
+impacts, advancing positive
+ESRS S1-5 paragraph 44; ESRS S2-5 paragraph 39;
+S3-5 impacts, and managing ESRS S3-5 paragraph 39; ESRS S4-5 paragraph 38:
+S4-5 material risks and Disclosure of time-bound and outcome-oriented
+opportunities targets
+ESRS S1-5 paragraph 47; ESRS S2-5 paragraph 42;
+ESRS S3-5 paragraph 42; ESRS S4-5 paragraph 41:
+Disclosure of process for setting time-bound and
+outcome-oriented targets
+ESRS S2-5 paragraph 42(a); ESRS S3-5 paragraph
+42(a); ESRS S4-5 paragraph 41(a): Disclosure of how
+Page 16 of 23
+value chain workers / affected communities /
+consumers and end users, their legitimate
+representatives or credible proxies were engaged
+directly in setting targets
+ESRS S1-5 paragraph AR 49(b); ESRS S2-5 paragraph
+AR 45(b); ESRS S3-5 paragraph AR 44(b); ESRS S4-5
+paragraph AR 42(b): Disclosure of stability of target
+over time in terms of definitions and methodologies
+to enable comparability
+S1 Own workforce – Metrics
+The topic covers fundamental rights that are classified as sub-sub-topics in ESRS S1 and ESRS S2 which
+are interconnected. Such connections are not explicit in the ESRS S1 standard and have been included
+in the table below. In other words, when mapping the disclosures to report, the sub-sub-topics and/or
+metrics related to fundamental rights should be considered for materiality assessment when the topic
+Own Workforce is considered material (refer to the table below), as they cover different aspects of the
+matter own workforce and as such, they all relate to own workforce as a topic.
+In addition, the metrics on S1-6, S1-7 and S1-17 are mapped to the Own Workforce directly. In the case
+of S1-6 and S1-7, these provide contextual information that supports the understanding of the
+information reported in the other ESRS S1 disclosures and these form the basis for calculation of other
+metrics as noted in the objective of the two disclosures.
+AR 16 ESRS Explanatory notes
+Topic Subtopic Sub-subtopic Disclosure Requirement
+Any sub- S1-6 Characteristics These metrics are mapped to ESRS S1 as a
+whole (i.e. all connected to the topic own
+subtopics of the
+workforce) or to any subtopic/sub-
+undertaking’s subtopic. They are to be considered when
+employees defining what to report in relation to any
+subtopic/sub-subtopic.
+S1-7 Characteristics
+c of non-
+ip
+o employee
+t
+b
+e
+u
+s
+workers in the
+c y undertaking’s
+r o n
+f k A own workforce
+r
+o
+w S1-17 Incidents,
+n
+w complaints and
+O
+1
+severe human
+S
+S
+rights impacts
+R
+S
+E When own workforce is S1-8 Freedom of These are the subtopics that address the
+fundamental rights and the associated
+assessed as material as a association and
+S1-9 metrics. Each of them covers an aspect of
+whole collective the topic own workforce. They are all
+S1-10 bargaining related to the topic of ESRS S1 own
+workforce as a whole.
+(including social
+S1-11
+dialogue),
+S1-12 adequate wages,
+social
+S1-14
+Page 17 of 23
+protection,
+health and
+safety and
+diversity
+Secure S1-11 Social protection For issues other than social protection
+available in case of ‘challenging life events’
+employment
+(e.g. access to health care, allowances,
+etc.) undertakings shall consider disclosing
+entity-specific information
+Working time ESRS 1 paragraph 11 Undertakings shall consider disclosing
+entity specific information where working
+time is assessed as material
+Adequate wages S1-10 Adequate wages
+Social dialogue S1-8 Collective
+bargaining
+coverage and
+social dialogue
+Freedom of S1-8 Collective
+s
+n association, the bargaining
+o
+it existence of coverage and
+id
+n works councils social dialogue
+o
+gc and the
+n
+ik information,
+r
+o consultation and
+W
+participation
+rights of workers
+Collective S1-8 Collective
+bargaining, bargaining
+including rate of coverage and
+workers covered social dialogue
+by collective
+agreements
+Work-life S1-15 Work-life
+balance balance metrics
+Health and S1-14 Health and
+safety safety metrics
+r Gender equality S1-16 Remuneration
+o
+f
+s
+and equal pay metrics (pay gap
+e
+it for work of and total
+in
+u equal value remuneration)
+t
+r
+o
+p Training and S1-13 Training and
+p
+o skills skills
+d nlla
+development development
+a
+t metrics
+n
+e
+m
+Employment S1-12 Persons with
+t
+a
+e and inclusion of disabilities
+r
+t
+la persons with
+u
+q disabilities
+E
+Page 18 of 23
+Measures S1-17 Incidents, Undertakings shall consider disclosing
+entity-specific information where violence
+against violence complaints and
+and harassment is assessed as material. The
+and harassment severe human provisions of ESRS 2 MDR-M apply.
+in the workplace rights impacts
+Diversity S1-9 Diversity metrics Note also interrelation with S1-12 and S1-
+16
+Child labour Metrics Undertakings shall consider disclosing
+entity-specific information where child
+labour is assessed as material. The
+provisions of ESRS 2 MDR-M apply.
+Forced labour Metrics Undertakings shall consider disclosing
+entity-specific information where forced
+labour is assessed as material. The
+provisions of ESRS 2 MDR-M apply.
+Other
+Adequate Metrics Undertakings shall consider disclosing
+work-
+entity-specific information where adequate
+housing
+related housing is assessed as material. The
+rights provisions of ESRS 2 MDR-M apply.
+Privacy Metrics Undertakings shall consider disclosing
+entity-specific information where adequate
+housing is assessed as material. The
+provisions of ESRS 2 MDR-M apply.
+S2 Workers in the value chain – Metrics
+Where the preparer has assessed S2 topics or subtopics as material, the preparer is advised to consider
+the relevance of entity-specific metrics disclosure and/or future disclosure requirements embedded in
+sector standards to come.
+AR 16 ESRS Explanatory notes
+Topic Subtopic Sub-subtopic Disclosure
+Requirement
+Secure employment Metrics Undertakings shall consider
+disclosing entity-specific information
+for each subtopic or sub-subtopic
+Working time
+assessed as material. The provisions
+of ESRS 2 MDR-M apply.
+Adequate wages
+Social dialogue
+s
+n Freedom of association,
+o
+it the existence of works
+id
+n councils and the
+o
+c
+g
+information, consultation
+n
+ik and participation rights of
+r
+o workers
+W
+Collective bargaining,
+including rate of workers
+covered by collective
+agreements
+Work-life balance
+Page 19 of 23
+Health and safety
+lla Gender equality and Metrics U enn td ite yr -t sa pk ein cig fs
+ic
+s h ina fll
+o
+c ro mn as tid ioe nr d fi os rc lo es ain chg
+r equal pay for work of
+o subtopic or sub-subtopic assessed as
+f s
+e
+equal value material. The provisions of ESRS 2
+it MDR-M apply.
+in Training and skills
+u
+t development
+r
+o
+p
+p Employment and
+o
+d inclusion of persons with
+n
+a disabilities
+t
+n
+e
+m Measures against
+t
+a violence and harassment
+e
+ESRS S2 r t in the workplace
+Workers la
+u
+in the q Diversity
+E
+value
+Child labour Metrics Undertakings shall consider disclosing
+chain entity-specific information for each
+Forced labour subtopic or sub-subtopic assessed as
+material. The provisions of ESRS 2
+Other Adequate housing MDR-M apply.
+work-
+related Water and sanitation
+rights
+Privacy
+S3 Affected communities – Metrics
+Where the preparer has assessed S3 topics or subtopics as material, the preparer is advised to consider
+the relevance of entity-specific metrics disclosure and/or future disclosure requirements embedded in
+sector standards to come.
+AR 16 ESRS Explanatory notes
+Topic Subtopic Sub-subtopic Disclosure
+Requirement
+la Adequate housing Metrics Undertakings shall consider
+ic disclosing entity-specific
+o
+s information for each subtopic or
+,c
+im s th
+Adequate food
+sub-subtopic assessed as material.
+og The provisions of ESRS 2 MDR-M
+n
+o c
+e
+ir
+la
+r u
+W ater and sanitation apply.
+’s
+e
+itin
+u
+mtlu
+c
+d
+n
+a
+L Sa en cud r-r ite yl -a rt ee ld
+at
+i em dp acts
+m
+impacts
+o
+C
+la Freedom of expression Metrics Undertakings shall consider
+’s
+e
+it
+in
+uc it
+ilo
+p
+d
+s
+t h
+g
+F reedom of assembly
+d
+i
+s
+Tn
+u
+his
+f
+b
+eoc
+-
+l
+r
+so
+m
+pus rbi
+a
+on
+tt
+vg
+oio
+i
+spn
+ii oc
+n
+f ao
+ss
+r
+s
+oee
+fs
+a
+s
+Ec
+e
+She
+d
+R
+n
+Ss
+at
+u
+sit
+2
+by
+m
+t- Mos ap
+p
+t
+De
+i ec
+Rc
+r
+ii -af
+o
+Mi lc
+r
+.
+m
+m
+on
+a
+livir
+I rm ighp ta sc t ds
+e
+o fen
+n
+h du em rsa n apply.
+Cic
+Page 20 of 23
+ESRS S3 Free, prior and Metrics Undertakings shall consider
+disclosing entity-specific
+Affected informed consent
+Rights of information for each subtopic or
+communities sub-subtopic assessed as material.
+indigenous Self-determination
+The provisions of ESRS 2 MDR-M
+peoples apply.
+Cultural rights
+S4 Consumers and end users – Metrics
+Where the preparer has assessed S4 topics or subtopics as material, the preparer is advised to
+consider the relevance of entity-specific metrics disclosure and/or future disclosure
+requirements embedded in sector standards to come.
+AR16 ESRS Explanatory notes
+Topic Subtopic Sub-subtopic Disclosure Requirement
+Privacy Metrics Undertakings shall consider
+n o ita
+d
+me rt oa fle nr-
+I
+s
+re
+m u s n o c ro
+f
+s
+tc
+a
+p
+md n e ros /r de ns u a- F
+A
+inr
+c
+fe
+c
+oe
+e
+rd
+s
+mso am
+ti
+oo
+t
+nf
+o
+e xp (r qe uss ai lo itn
+y )
+d
+i s T an u
+phis
+f b
+peoc
+-
+ll
+r p
+yso
+m u
+.rs obi an vttg
+oi io s
+pe
+in
+oin
+c
+nft
+o a
+sit
+r
+sy
+o
+se- fes
+a
+Esp
+c s
+Se
+h e
+Rc
+ds
+Sif
+u
+i
+a
+2c
+b s t M mop Dai Rtc e -o Mrir a l.
+ESRS S4 i
+Consumers
+d
+Health and safety Metrics Undertakings shall consider
+an ud
+se
+e rn
+s
+d fo
+y
+te fa s
+la
+nn
+e
+ro
+/ d n a
+s
+res re
+s u
+Security of a person
+d
+i
+s T
+an
+u
+phis
+f
+b
+peoc
+-
+ll
+r
+yso
+m
+pu
+.s rbi
+a
+on
+tt
+vg
+oio
+i p
+sn
+ii oc
+nf ao
+s
+sr
+s
+oee
+fs
+a
+s
+Ec
+e
+Sh
+de
+R
+n
+Sas
+t
+u
+si 2t by mt-
+o
+Ms app
+t
+Die
+ec
+Rc
+r
+ii -af
+o
+Mi lc
+r
+.
+om
+s re Pu
+s n Protection of children
+o
+c
+Social Non-discrimination Metrics Undertakings shall consider
+inclusion of disclosing entity-specific
+consumers Access to products and information for each subtopic or
+and/or end sub-subtopic assessed as material.
+services
+users The provisions of ESRS 2 MDR-M
+apply.
+Responsible marketing
+practices
+G1 Business conduct
+AR 16 ESRS Explanatory notes
+Topic Subtopic Sub- Disclosure Requirement
+subtopic
+Corporate G1-1 Business conduct ESRS G1 paragraph 9: Disclosure of how
+s culture
+policies and corporate corporate culture is established, developed,
+s e culture promoted and evaluated
+n
+is ut c
+u
+Business G1-1 Business conduct ESRS G1 paragraph 7: Policies with respect
+B 1d
+n
+conduct p cuo ll ti uci re es and corporate to business conduct.
+Go ESRS G1 paragraph 10(a): mechanisms to
+S
+Rc
+identify, report and investigate unlawful
+S behaviour or contradicting code of conduct
+E
+or similar.
+Page 21 of 23
+ESRS G1 paragraph 10(e): whether
+procedures to investigate business conduct
+incidents including corruption and bribery
+ESRS G1 paragraph 10(g): policy for training
+Protection of G1-1 Business conduct ESRS G1 paragraph 10(c): Disclosure of how
+policies and corporate whistleblowers are protected
+whistle-
+culture
+blowers (d) if no policy, it shall state this and provide
+plans for reimplementation.
+But note paragraph 11 under transposed
+Directive.
+Animal G1-1 Business conduct ESRS G1 paragraph 10(f): Policies related to
+policies and corporate animal welfare
+welfare
+culture
+Metrics Undertakings shall consider disclosing
+entity-specific information / metrics where
+animal welfare is assessed as material. The
+provisions of ESRS 2 MDR-M apply.
+Political G1-1 Business conduct Policies related to political engagement,
+policies and corporate including lobbying
+engagement
+culture
+G1-5 Political influence and ESRS G1 paragraph 27: Disclosure of
+lobbying activities activities and commitments related to
+exerting political influence, including
+lobbying activities related to material
+impacts, risks and opportunities
+ESRS G1 paragraph 29(a): representative(s)
+in AMSB responsible for oversight.
+G1-5 Political influence ESRS G1 paragraph 29(b): total monetary
+value of political contributions and, if
+relevant, how it was estimated.
+ESRS G1 paragraph 30: appointment of
+members of AMSB in current year who held
+comparable position in public
+administration (including regulators) in
+previous year.
+G1-5 Lobbying activities ESRS G1 paragraph 29(c): main topics
+covered by its lobbying activities and its
+positions as well as linkage to its materiality
+assessment.
+ESRS G1 paragraph 29(d): its registration
+number if registered in the EU Transparency
+Register or similar.
+Management G1-1 Business conduct ESRS G1 paragraph 15(a): Information
+policies and corporate about approach to relationships with
+of
+culture suppliers
+relationships
+G1-2 Management of ESRS G1 paragraph 14: Description of policy
+with
+relationships with to prevent late payments
+suppliers suppliers
+ESRS G1 paragraph 15(b): Disclosure of how
+including
+social and environmental criteria are taken
+payment into account for selection of suppliers
+practices G1-6 Payment practices ESRS G1 paragraph 33(a): average time to
+pay an invoice
+b) description of standard payment terms
+and alignment with these
+c) number of outstanding legal proceedings
+for late payments, and
+d) sufficient context of the above.
+Page 22 of 23
+Prevention G1-1 Business conduct ESRS G1 paragraph 10(b): Policies related to
+policies and corporate corruption and bribery and, if no policies
+and
+Corruption culture are consistent with UNCAC, the undertaking
+detection is to state this and whether it has plans to
+and bribery
+including implement and a timetable.
+training ESRS G1 paragraph 10(h): functions most at
+risk in respect of corruption and bribery.
+and /or
+G1-3 Prevention and ESRS G1 paragraph 16: information about
+Incidents detection of corruption its system to prevent and detect,
+and bribery investigate and respond to allegations or
+incidents relating to corruption and bribery,
+including training. Details in paragraphs 18
+to 21.
+G1-4 Confirmed incidents of ESRS G1 paragraph 24(a): number of
+corruption or bribery convictions and amount of fines;
+b) actions taken to address breaches in
+procedures.
+Voluntary disclosures in paragraph 25.
+Page 23 of 23

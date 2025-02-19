@@ -1,0 +1,1898 @@
+Europeiska unionens SV
+officiella tidning C-serien
+C/2024/6792 13.11.2024
+Kommissionens tillkännagivande om tolkningen av vissa rättsliga bestämmelser i
+direktiv 2013/34/EU (redovisningsdirektivet), direktiv 2006/43/EG (revisionsdirektivet), förordning
+(EU) nr 537/2014 (revisionsförordningen), direktiv 2004/109/EG (insynsdirektivet), kommissionens
+delegerade förordning (EU) 2023/2772 (första uppsättningen europeiska standarder för
+hållbarhetsrapportering) och förordning (EU) 2019/2088 (förordningen om hållbarhetsupplysningar)
+vad gäller hållbarhetsrapportering
+(C/2024/6792)
+Denna uppsättning vanliga frågor klargör tolkningen av vissa bestämmelser om hållbarhetsrapportering som genom
+direktivet om företagens hållbarhetsrapportering (direktiv (EU) 2022/2464) införts i redovisningsdirektivet
+(direktiv 2013/34/EU), revisionsdirektivet (direktiv 2006/43/EG), revisionsförordningen (förordning (EU) nr 537/2014)
+och insynsdirektivet (direktiv 2004/109/EG) i syfte att underlätta företagens genomförande av dem. Dessutom klargörs
+vissa bestämmelser i förordningen om hållbarhetsupplysningar (förordning (EU) 2019/2088).
+Denna uppsättning vanliga frågor innehåller också ett begränsat antal klargöranden om tolkningen av vissa bestämmelser i
+den första uppsättningen europeiska standarder för hållbarhetsrapportering (ESRS) (kommissionens delegerade förordning
+(EU) 2023/2772), där rättslig tolkning från kommissionens sida har ansetts nödvändig. Företag och andra berörda parter
+kan också ha nytta av den vägledning för genomförande av ESRS som publicerats av Efrag, det rådgivande organ med flera
+berörda parter som har till uppgift att ge kommissionen råd om ESRS(1).
+Genom denna uppsättning vanliga frågor avser kommissionen att underlätta för berörda parter att uppfylla de lagstadgade
+kraven på ett kostnadseffektivt sätt och säkerställa att den rapporterade informationen om hållbarhet är användbar och
+jämförbar. Genom att ge företagen större klarhet och säkerhet kommer denna uppsättning vanliga frågor att bidra till
+kommissionens mål att minska företagens administrativa bördor i samband med hållbarhetsrapporteringen(2).
+Kommissionen kan vid behov uppdatera svaren på dessa frågor.
+Svaren på de vanliga frågorna i detta tillkännagivande klargör de bestämmelser som redan finns i den tillämpliga
+lagstiftningen. De utvidgar inte på något sätt de rättigheter och skyldigheter som följer av den lagstiftningen och inför inte
+heller några ytterligare krav. Dessa vanliga frågor är endast avsedda att hjälpa företagen att genomföra de relevanta rättsliga
+bestämmelserna. Endast Europeiska unionens domstol har behörighet att tolka EU-rätten med avgörande verkan. De
+synpunkter som uttrycks i tillkännagivandet föregriper inte den ståndpunkt som Europeiska kommissionen kan komma
+att inta i unionens eller enskilda nationers domstolar.
+Innehållsförteckning
+Sida
+Avsnitt I – Förteckning över relevanta termer och tillämplig lagstiftning .........................................3
+Avsnitt II – Översikt över de krav på hållbarhetsrapportering som införs genom direktivet om företagens
+hållbarhetsrapportering...................................................................................................4
+HÅLLBARHETSKRAV FÖR RAPPORTERANDE FÖRETAG ............................................................5
+KRAV PÅ LAGSTADGADE REVISORER OCH OBEROENDE LEVERANTÖRER AV KVALITETSGRANSK­
+NINGSTJÄNSTER .....................................................................................................13
+(1) www.efrag.orgEfrag har publicerat en genomförandevägledning om väsentlighetsbedömning, om rapportering om värdekedjan och
+om förteckningen över datapunkter i ESRS. Efrag arbetar för närvarande med att ta fram en genomförandevägledning om
+klimatomställningsplaner. Dessutom har Efrag inrättat en onlineplattform för frågor och svar där företag och andra berörda parter kan
+skicka in tekniska frågor om ESRS.
+(2) För att effektivisera rapporteringsskyldigheterna har kommissionen fullt ut utnyttjat sin befogenhet enligt artikel 3.13 i redovisningsdi­
+rektivet för att anta kommissionens delegerade direktiv (EU) 2023/2775 av den 17 oktober 2023 om ändring av Europaparlamentets
+och rådets direktiv 2013/34/EU (EUT L, 2023/2775, 21.12.2023), i syfte att inflationsjustera storlekskriterierna för definitionen av
+mikroföretag, små, medelstora och stora företag eller koncerner. Detta har minskat antalet företag som omfattas av kraven på
+hållbarhetsrapportering enligt redovisningsdirektivet – och följaktligen enligt artikel 8 i förordning (EU) 2020/852 (taxonomifö­
+rordningen).
+ELI: http://data.europa.eu/eli/C/2024/6792/oj 1/43
+SV
+EUT C, 13.11.2024
+Avsnitt III – Vanliga frågor om hållbarhetsinformation som ska rapporteras enligt artiklarna 19a/29a i
+redovisningsdirektivet (individuell och konsoliderad hållbarhetsförklaring) ........................................15
+TILLÄMPNINGSOMRÅDE OCH TILLÄMPNINGSDATUM............................................................15
+REGLER FÖR UNDANTAG............................................................................................19
+ESRS...................................................................................................................23
+VÄRDEKEDJA .........................................................................................................24
+UPPLYSNINGAR ENLIGT ARTIKEL 8 I TAXONOMIFÖRORDNINGEN...............................................27
+SPRÅKKRAV ..........................................................................................................27
+DIGITALISERING (FORMAT OCH DIGITAL MÄRKNING)............................................................28
+OFFENTLIGGÖRANDE................................................................................................28
+TILLSYN...............................................................................................................29
+Avsnitt IV – Vanliga frågor om hållbarhetsinformation som rapporteras enligt artikel 40a i redovisningsdi­
+rektivet ....................................................................................................................29
+TILLÄMPNINGSOMRÅDE OCH TILLÄMPNINGSDATUM............................................................29
+ESRS...................................................................................................................30
+UPPLYSNINGAR ENLIGT ARTIKEL 8 I TAXONOMIFÖRORDNINGEN...............................................30
+REGLER FÖR UNDANTAG............................................................................................31
+SPRÅK OCH FORMAT ................................................................................................31
+OFFENTLIGGÖRANDE................................................................................................31
+TILLSYN...............................................................................................................32
+Avsnitt V – Vanliga frågor om kvalitetsgranskning av hållbarhetsrapportering ...................................32
+GODKÄNNANDE AV LAGSTADGADE REVISORER OCH REVISIONSFÖRETAG....................................32
+ACKREDITERING OCH GODKÄNNANDE AV OBEROENDE LEVERANTÖRER AV KVALITETSGRANSK­
+NINGSTJÄNSTER .....................................................................................................34
+ACKREDITERAD OBEROENDE TREDJE PART........................................................................35
+OBEROENDE LEVERANTÖRER AV KVALITETSGRANSKNINGSTJÄNSTER .........................................35
+KVALITETSGRANSKNINGSLEVERANTÖRER FRÅN TREDJELAND..................................................36
+KONFIDENTIALITET ..................................................................................................36
+KVALITETSGRANSKNINGSTJÄNSTER ...............................................................................36
+ARVODEN.............................................................................................................36
+KVALITETSGRANSKNING AV HÅLLBARHETSFÖRKLARINGAR SOM UPPRÄTTATS I ENLIGHET MED
+ARTIKLARNA 19a OCH 29a I REDOVISNINGSDIREKTIVET ........................................................37
+ANDRA TJÄNSTER ÄN KVALITETSGRANSKNINGSTJÄNSTER......................................................39
+KVALITETSGRANSKNING AV EN HÅLLBARHETSRAPPORT SOM UPPRÄTTAS I ENLIGHET MED ARTIKEL 40a I
+REDOVISNINGSDIREKTIVET .........................................................................................39
+Avsnitt VI – Vanliga frågor om immateriella nyckelresurser.........................................................40
+Avsnitt VII – Ytterligare vanliga frågor om krav på tredjelandsföretag ..............................................41
+Avsnitt VIII – Vanliga frågor om förordningen om hållbarhetsupplysningar.........................................42
+2/43 ELI: http://data.europa.eu/eli/C/2024/6792/oj
+SV
+EUT C, 13.11.2024
+AVSNITT I
+FÖRTECKNING ÖVER RELEVANTA TERMER OCH TILLÄMPLIG LAGSTIFTNING
+Term Definition / rättsakt
+Redovisningsdirektivet Direktiv 2013/34/EU(1).
+Revisionsdirektivet Direktiv 2006/43/EG(2).
+Revisionsförordningen Förordning (EU) nr 537/2014(3).
+Bolagsrättsdirektivet Direktiv (EU) 2017/1132(4).
+Direktivet om företagens Direktiv (EU) 2022/2464(5).
+hållbarhetsrapportering
+Paketet om en europeisk gemensam — Förordning (EU) 2023/2859 om inrättande av en europeisk gemensam
+åtkomstpunkt åtkomstpunkt som ger centraliserad tillgång till allmänt tillgänglig information
+som är relevant för finansiella tjänster, kapitalmarknader och hållbarhet
+(förordningen om en europeisk gemensam åtkomstpunkt)(6).
+— Förordning (EU) 2023/2869 om ändring av vissa förordningar vad gäller
+inrättandet av den europeiska gemensamma åtkomstpunkten och denna
+åtkomstpunkts funktionssätt(7).
+— Direktiv (EU) 2023/2864 om ändring av vissa direktiv vad gäller inrättandet av
+den europeiska gemensamma åtkomstpunkten och denna åtkomstpunkts
+funktionssätt(8).
+Delegerad förordning om Esef Kommissionens delegerade förordning (EU) 2019/815 om det europeiska enhetliga
+elektroniska rapporteringsformatet (Esef)(9).
+ESRS för börsnoterade små och Europeiska standarder för hållbarhetsrapportering (ESRS) som ska användas av
+medelstora företag (LSME ESRS) börsnoterade små och medelstora företag, utom mikroföretag, som ett alternativ till
+ESRS vid upprättandet av deras hållbarhetsförklaring enligt 19a i
+redovisningsdirektivet. Dessa ESRS ska antas av kommissionen på grundval av
+artikel 29c i redovisningsdirektivet.
+ESRS för vissa tredjelandsföretag Europeiska standarder för hållbarhetsrapportering (ESRS) som ska användas av
+tredjelandsföretag som omfattas av artikel 40a i redovisningsdirektivet vid
+upprättandet av deras hållbarhetsrapport. Dessa ESRS ska antas av kommissionen på
+grundval av artikel 40b i redovisningsdirektivet.
+ESRS Europeiska standarder för hållbarhetsrapportering (ESRS) som ska användas av
+företag som omfattas av artiklarna 19a och 29a i redovisningsdirektivet vid
+upprättandet av deras hållbarhetsförklaring i enlighet med artiklarna 19a och 29a i
+redovisningsdirektivet. Dessa ESRS omfattar både den första uppsättningen
+sektorsövergripande ESRS (som har antagits genom kommissionens delegerade
+förordning (EU) 2023/2772(10)) och sektorsspecifika ESRS (som ska antas av
+kommissionen senast den 30 juni 2026).
+Små och medelstora företag Små och medelstora företag enligt definitionen i artikel 3.1, 3.2 och 3.3 i
+redovisningsdirektivet.
+Förordningen om Förordning (EU) 2019/2088(11).
+hållbarhetsupplysningar
+Hållbarhetsrapport för vissa Hållbarhetsinformation som ska rapporteras enligt artikel 40a i
+tredjelandsföretag redovisningsdirektivet.
+Hållbarhetsförklaring Hållbarhetsinformation som ska rapporteras enligt artiklarna 19a (individuell
+hållbarhetsförklaring) och 29a (konsoliderad hållbarhetsförklaring) i
+redovisningsdirektivet.
+Taxonomiförordningen Förordning (EU) 2020/852(12).
+Insynsdirektivet Direktiv 2004/109/EG(13).
+ELI: http://data.europa.eu/eli/C/2024/6792/oj 3/43
+SV
+EUT C, 13.11.2024
+(1) Europaparlamentets och rådets direktiv 2013/34/EU av den 26 juni 2013om årsbokslut, koncernredovisning och rapporter i vissa
+typer av företag, om ändring av Europaparlamentets och rådets direktiv 2006/43/EG och om upphävande av rådets direktiv
+78/660/EEG och 83/349/EEG (EUT L 182, 29.6.2013, s. 19).
+(2) Europaparlamentets och rådets direktiv 2006/43/EG av den 17 maj 2006om lagstadgad revision av årsredovisning, årsbokslut och
+koncernredovisning och om ändring av rådets direktiv 78/660/EEG och 83/349/EEG samt om upphävande av rådets direktiv
+84/253/EEG (EUT L 157, 9.6.2006, s. 87).
+(3) Europaparlamentets och rådets förordning (EU) nr 537/2014 av den 16 april 2014om särskilda krav avseende lagstadgad revision av
+företag av allmänt intresse och om upphävande av kommissionens beslut 2005/909/EG (EUT L 158, 27.5.2014, s. 77).
+(4) Europaparlamentets och rådets direktiv (EU) 2017/1132 av den 14 juni 2017om vissa aspekter av bolagsrätt (EUT L 169, 30.6.2017,
+s. 46).
+(5) Europaparlamentets och rådets direktiv (EU) 2022/2464 av den 14 december 2022om ändring av förordning (EU) nr 537/2014,
+direktiv 2004/109/EG, direktiv 2006/43/EG och direktiv 2013/34/EU vad gäller företagens hållbarhetsrapportering (EUT L 322,
+16.12.2022, s. 15).
+(6) Europaparlamentets och rådets förordning (EU) 2023/2859 av den 13 december 2023om inrättande av en europeisk gemensam
+åtkomstpunkt som ger centraliserad tillgång till allmänt tillgänglig information som är relevant för finansiella tjänster,
+kapitalmarknader och hållbarhet (EUT L, 2023/2859, 20.12.2023, ELI: http://data.europa.eu/eli/reg/2023/2859/oj).
+(7) Europaparlamentets och rådets förordning (EU) 2023/2869 av den 13 december 2023om ändring av vissa förordningar vad gäller
+inrättandet av den europeiska gemensamma åtkomstpunkten och denna åtkomstpunkts funktionssätt (EUT L, 2023/2869,
+20.12.2023, ELI: http://data.europa.eu/eli/reg/2023/2869/oj).
+(8) Europaparlamentets och rådets direktiv (EU) 2023/2864 av den 13 december 2023 om ändring av vissa direktiv vad gäller
+inrättandet av den europeiska gemensamma åtkomstpunkten och denna åtkomstpunkts funktionssätt (EUT L, 2023/2864,
+20.12.2023, ELI: http://data.europa.eu/eli/dir/2023/2864/oj).
+(9) Kommissionens delegerade förordning (EU) 2019/815 av den 17 december 2018 om komplettering av Europaparlamentets och
+rådets direktiv 2004/109/EG vad gäller tekniska tillsynsstandarder för specificering av ett enhetligt elektroniskt rapporteringsformat
+(EUT L 143, 29.5.2019, s. 1).
+(10) Kommissionens delegerade förordning (EU) 2023/2772 av den 31 juli 2023om komplettering av Europaparlamentets och rådets
+direktiv 2013/34/EU vad gäller standarder för hållbarhetsrapportering (EUT L, 2023/2772, 22.12.2023, ELI: http://data.europa.eu/
+eli/reg_del/2023/2772/oj).
+(11) Europaparlamentets och rådets förordning (EU) 2019/2088 av den 27 november 2019om hållbarhetsrelaterade upplysningar som
+ska lämnas inom den finansiella tjänstesektorn (EUT L 317, 9.12.2019, s. 1).
+(12) Europaparlamentets och rådets förordning (EU) 2020/852 av den 18 juni 2020om inrättande av en ram för att underlätta hållbara
+investeringar och om ändring av förordning (EU) 2019/2088 (EUT L 198, 22.6.2020, s. 13).
+(13) Europaparlamentets och rådets direktiv 2004/109/EG av den 15 december 2004 om harmonisering av insynskraven angående
+upplysningar om emittenter vars värdepapper är upptagna till handel på en reglerad marknad och om ändring av direktiv
+2001/34/EG (EUT L 390, 31.12.2004, s. 38).
+AVSNITT II
+ÖVERSIKT ÖVER DE KRAV PÅ HÅLLBARHETSRAPPORTERING SOM INFÖRS GENOM DIREKTIVET OM
+FÖRETAGENS HÅLLBARHETSRAPPORTERING
+Genom direktivet om företagens hållbarhetsrapportering (direktiv (EU) 2022/2464) har nya krav på hållbarhetsrap­
+portering införts för vissa företag genom ändringar i redovisningsdirektivet (direktiv 2013/34/EU), revisionsdirektivet
+(direktiv 2006/43/EG), revisionsförordningen (förordning (EU) nr 537/2014) och insynsdirektivet (direktiv 2004/109/EG).
+Sammantaget(3)innebär dessa krav på hållbarhetsrapportering att vissa företag är skyldiga att offentliggöra hållbarhetsin­
+formation, som måste upprättas i enlighet med särskilda standarder för hållbarhetsrapportering och, i tillämpliga fall, följa
+ett digitalt format. Denna hållbarhetsinformation omfattas av ett krav på kvalitetsgranskning och måste offentliggöras
+tillsammans med den tillhörande kvalitetsgranskningsrapporten.
+Generellt gäller dessa krav på hållbarhetsrapportering för företag som omfattas av lagstiftningen i en medlemsstat(4)och
+som är
+— stora företag,
+(3) Detta är en översikt över de viktigaste kraven på hållbarhetsrapportering. Relevanta rapporteringskrav för företag som omfattas av
+lagstiftningen i en medlemsstat: artiklarna 19a, 29a och 40a i redovisningsdirektivet. För en mer detaljerad beskrivning av varje krav,
+se punkterna nedan.
+(4) Detta är en översikt över de företag som omfattas av dessa krav på hållbarhetsrapportering. För en mer detaljerad beskrivning av de
+företag som omfattas av varje krav, se punkterna nedan.
+4/43 ELI: http://data.europa.eu/eli/C/2024/6792/oj
+SV
+EUT C, 13.11.2024
+— små och medelstora företag (utom mikroföretag) med överlåtbara värdepapper som är upptagna till handel på en
+reglerad marknad i EU, och
+— moderföretag i stora koncerner.
+Kraven gäller också för företag som omfattas av lagstiftningen i ett tredjeland och som antingen har överlåtbara
+värdepapper som är upptagna till handel på en reglerad marknad i EU (utom mikroföretag) eller som har verksamhet inom
+unionens territorium över vissa tröskelvärden(5).
+Reglerna för att fastställa ett företags storlek och omfattningen av konsolideringen för hållbarhetsrapportering bygger på de
+befintliga reglerna för finansiell rapportering, som anges i de nationella åtgärder som införlivar det befintliga redovisnings­
+direktivet. Redovisningsdirektivets tröskelvärden för att fastställa storleken på varje kategori av företag anges i rutan längst
+ned i nedanstående flödesschema för att identifiera tillämpliga krav på hållbarhetsrapportering och tillämpningsdatum.
+Tillämpningsdatumet för dessa krav på hållbarhetsrapportering varierar beroende på det specifika rapporteringskravet och
+på företagskategori. Det specifika tillämpningsdatumet för varje krav anges i avsnittet ”Hållbarhetskrav för rapporterande
+företag” nedan.
+Eftersom dessa krav införs genom ett direktiv är de specifika regler som gäller för företag de som anges i den nationella
+lagstiftning som införlivar redovisningsdirektivet, ändrat genom direktivet om företagens hållbarhetsrapportering(6)samt
+genom kommissionens delegerade direktiv (EU) 2023/2775(7) som inflationsjusterar de storlekskriterier som är
+tillämpliga på definitionen av mikroföretag, små, medelstora och stora företag eller koncerner, vilket därför minskar antalet
+företag som omfattas av hållbarhetsrapportering och, i viss utsträckning, krav på finansiell rapportering.
+Direktivet om företagens hållbarhetsrapportering reglerar inte frivillig hållbarhetsinformation som lämnas av företag som
+inte ingår i tillämpningsområdet för direktivet om företagens hållbarhetsrapportering (t.ex. små och medelstora företag
+som inte har några värdepapper upptagna till handel på en reglerad marknad i EU) och som inte omfattas av obligatoriska
+krav på unionsnivå.
+HÅLLBARHETSKRAV FÖR RAPPORTERANDE FÖRETAG
+1. Upprättande, kvalitetsgranskning och offentliggörande av hållbarhetsinformation som ska rapporteras enligt
+artiklarna 19a och 29a i redovisningsdirektivet (hållbarhetsförklaring)
+1.1 Hållbarhetsinformation som ska rapporteras på individuell nivå enligt artikel 19a i redovisningsdirektivet (hållbarhets­
+förklaring)
+Enligt artikel 19a i redovisningsdirektivet ska företag som omfattas av lagstiftningen i en medlemsstat och som
+är
+— stora företag(8), eller
+(5) Relevanta rapporteringskrav för företag som omfattas av lagstiftningen i ett tredjeland: artikel 4.5 i insynsdirektivet (som korshänvisar
+till artiklarna 19a och 29a i redovisningsdirektivet) och artikel 40a i redovisningsdirektivet.
+(6) Reglerna om utformningen av och innehållet i den hållbarhetsförklaring som företagen upprättar anges i de delegerade akter som
+specificerar de relevanta europeiska standarderna för hållbarhetsrapportering (ESRS). Dessa standarder antas genom förordningar och
+är därför direkt tillämpliga för företagen utan att medlemsstaterna behöver införliva dem.
+(7) Kommissionens delegerade direktiv (EU) 2023/2775 av den 17 oktober 2023 om ändring av Europaparlamentets och rådets
+direktiv 2013/34/EU vad gäller ändringar av storlekskriterier för mikroföretag, små och medelstora företag, stora företag eller
+koncerner (EUT L, 2023/2775, 21.12.2023, ELI: http://data.europa.eu/eli/dir_del/2023/2775/oj).
+(8) Enligt definitionen i artikel 3.4 i redovisningsdirektivet, ändrat genom kommissionens delegerade direktiv (EU) 2023/2775.
+ELI: http://data.europa.eu/eli/C/2024/6792/oj 5/43
+SV
+EUT C, 13.11.2024
+— små och medelstora företag(9), utom mikroföretag(10), med överlåtbara värdepapper(11)som är upptagna
+till handel på en reglerad marknad i EU,
+rapportera hållbarhetsinformation på individuell nivå (individuell hållbarhetsförklaring) om företagets
+inverkan på hållbarhetsfrågor och om hur hållbarhetsfrågor påverkar företagets utveckling, resultat och
+ställning.
+Den individuella hållbarhetsförklaringen ska uppfylla följande krav:
+(i) Den ska ingå i ett särskilt avsnitt i företagets förvaltningsberättelse.
+(ii) Den ska upprättas i enlighet med de europeiska standarder för hållbarhetsrapportering (ESRS) som
+antagits genom kommissionens delegerade akter(12). Små och medelstora företag (utom mikroföretag)
+med överlåtbara värdepapper som är upptagna till handel på en reglerad marknad i EU får alternativt
+upprätta sin individuella hållbarhetsförklaring i enlighet med en särskild uppsättning proportionella
+ESRS(13) som antagits genom kommissionens delegerade akter (ESRS för börsnoterade små och
+medelstora företag)(14).
+(iii) Den måste märkas i enlighet med en digital taxonomi(15) som antagits genom en ändring av
+kommissionens delegerade förordning om det europeiska enhetliga elektroniska rapporteringsformatet
+(Esef)(16), och den förvaltningsberättelse som innehåller hållbarhetsförklaringen ska upprättas i XHTML-
+format(17).
+(iv) Den ska vara föremål för kvalitetsgranskning(18), som ska utföras av lagstadgade revisorer eller, om en
+medlemsstat tillåter det, av oberoende leverantörer av kvalitetsgranskningstjänster, på grundval av
+kvalitetsgranskningsstandarder för begränsad säkerhet(19).
+(v) Den förvaltningsberättelse som innehåller hållbarhetsförklaringen ska offentliggöras i enlighet med de
+befintliga reglerna för offentliggörande av förvaltningsberättelser(20), tillsammans med uttalandet om
+kvalitetsgranskning av hållbarhetsförklaringen(21).
+(9) Enligt definitionen i artikel 3.1, 3.2 och 3.3 i redovisningsdirektivet, ändrat genom kommissionens delegerade direktiv
+(EU) 2023/2775.
+(10) Enligt definitionen i artikel 3.1 i redovisningsdirektivet, ändrat genom kommissionens delegerade direktiv (EU) 2023/2775.
+(11) Enligt definitionen i artikel 4.1.44 i Europaparlamentets och rådets direktiv 2014/65/EU av den 15 maj 2014 om marknader för
+finansiella instrument och om ändring av direktiv 2002/92/EG och av direktiv 2011/61/EU. Överlåtbara värdepapper omfattar bl.a.
+aktier i företag och andra former av värdepapperiserade skuldförbindelser.
+(12) Artikel 29b i redovisningsdirektivet. Dessa ESRS omfattar både den första uppsättningen sektorsövergripande ESRS (som har antagits
+genom kommissionens delegerade förordning (EU) 2023/2772) och sektorsspecifika ESRS (som ska antas av kommissionen senast
+den 30 juni 2026).
+(13) Artikel 19a.6 i redovisningsdirektivet.
+(14) Artikel 29c i redovisningsdirektivet.
+(15) En ”digital taxonomi” är en uppsättning regler (som kommer att antas genom en ändring av kommissionens delegerade
+förordning 2019/815) som anger hur informationen i hållbarhetsförklaringen – som måste ingå i en förvaltningsberättelse upprättad i
+XHTML-format – ska märkas för att hållbarhetsförklaringen ska bli maskinläsbar.
+(16) Kommissionens delegerade förordning (EU) 2019/815 av den 17 december 2018 om komplettering av Europaparlamentets och rådets
+direktiv 2004/109/EG vad gäller tekniska tillsynsstandarder för specificering av ett enhetligt elektroniskt rapporteringsformat
+(EUT L 143, 29.5.2019, s. 1).
+(17) Artikel 29d i redovisningsdirektivet.
+(18) Artikel 34 i redovisningsdirektivet.
+(19) Enligt artikel 26a i direktivet om företagens hållbarhetsrapportering ska kvalitetsgranskningen av hållbarhetsrapporteringen utföras i
+enlighet med de kvalitetsgranskningsstandarder för begränsad säkerhet som ska antas av kommissionen senast den 1 oktober 2026
+(och som för närvarande håller på att utarbetas). Medlemsstaterna får dock tillämpa nationella standarder, förfaranden eller krav för
+kvalitetsgranskning så länge kommissionen inte har antagit en kvalitetsgranskningsstandard som täcker samma ämnesområde.
+(20) De krav på hållbarhetsrapportering som anges i redovisningsdirektivet, ändrat genom direktivet om företagens hållbarhetsrap­
+portering, ändrar inte den befintliga tidsfrist för offentliggörande av förvaltningsberättelser som anges i artikel 30 i redovisningsdi­
+rektivet, dvs. senast tolv månader efter balansdagen.
+(21) Artikel 30 i redovisningsdirektivet.
+6/43 ELI: http://data.europa.eu/eli/C/2024/6792/oj
+SV
+EUT C, 13.11.2024
+Dessa krav måste uppfyllas enligt följande stegvisa tillvägagångssätt(22):
+— För räkenskapsår som börjar den 1 januari 2024eller senare (dvs. för offentliggörande 2025): stora företag som
+är företag av allmänt intresse(23)och som på balansdagen i genomsnitt har haft över 500 anställda under
+räkenskapsåret.
+— För räkenskapsår som börjar den 1 januari 2025 eller senare (dvs. för offentliggörande 2026): övriga stora
+företag (dvs. stora företag som inte är ”företag av allmänt intresse och som på balansdagen i genomsnitt
+har haft över 500 anställda under räkenskapsåret”).
+— För räkenskapsår som börjar den 1 januari 2026eller senare (dvs. för offentliggörande 2027):
+— små och medelstora företag (utom mikroföretag) med överlåtbara värdepapper som är upptagna till
+handel på en reglerad marknad i EU,
+— små och icke-komplexa institut(24), förutsatt att de är antingen stora företag eller små och medelstora
+företag (utom mikroföretag) med överlåtbara värdepapper som är upptagna till handel på en reglerad
+marknad i EU,
+— captivebolag för försäkring(25)och captivebolag för återförsäkring(26), förutsatt att de är antingen stora
+företag eller små och medelstora företag (utom mikroföretag) med överlåtbara värdepapper som är
+upptagna till handel på en reglerad marknad i EU.
+Små och medelstora företag (utom mikroföretag) med överlåtbara värdepapper som är upptagna till handel på
+en reglerad marknad i EU får välja att inte uppfylla dessa krav till och med räkenskapsår som inleds före den
+1 januari 2028, förutsatt att de i förvaltningsberättelsen kortfattat anger varför hållbarhetsrapportering inte har
+lämnats(27).
+Företag är undantagna från skyldigheten att offentliggöra en individuell hållbarhetsförklaring om informationen
+ingår i ett moderföretags konsoliderade hållbarhetsförklaring, förutsatt att vissa villkor är uppfyllda när det
+gäller innehållet i det undantagna företagets förvaltningsberättelse och moderföretagets offentliggörande av
+hållbarhetsinformationen(28). Stora företag med värdepapper upptagna till handel på en reglerad marknad i EU
+– inklusive små och icke-komplexa institut, captivebolag för försäkring och captivebolag för återförsäkring
+samt tredjelandsföretag – kan inte utnyttja detta undantag(29).
+1.2 Hållbarhetsinformation som ska rapporteras på konsoliderad nivå enligt artikel 29a i redovisningsdirektivet (konsoliderad
+hållbarhetsförklaring)
+Enligt artikel 29a i redovisningsdirektivet ska ett företag som omfattas av lagstiftningen i en medlemsstat och
+som är moderföretag i en stor koncern(30) lämna hållbarhetsinformation på konsoliderad nivå (konsoliderad
+hållbarhetsförklaring) om företagets inverkan på hållbarhetsfrågor och om hur hållbarhetsfrågor påverkar
+företagets utveckling, resultat och ställning.
+Den konsoliderade hållbarhetsförklaringen ska uppfylla samma krav som anges för den individuella hållbarhets­
+förklaringen (punkt 1.1 ovan, leden i–v)(31).
+(22) Artikel 5.2 första stycket i direktivet om företagens hållbarhetsrapportering.
+(23) Enligt definitionen i artikel 2.1 i redovisningsdirektivet.
+(24) Definieras i artikel 4.1.145 i förordning (EU) nr 575/2013.
+(25) Definieras i artikel 13.2 i direktiv 2009/138/EG.
+(26) Definieras i artikel 13.5 i direktiv 2009/138/EG.
+(27) Artikel 19a.7 i redovisningsdirektivet.
+(28) Dessa villkor anges i artikel 19a.9 i redovisningsdirektivet. Se även fråga 19.
+(29) Artikel 19a.10 i redovisningsdirektivet.
+(30) Enligt definitionen i artikel 3.7 i redovisningsdirektivet.
+(31) Den konsoliderade hållbarhetsförklaringen kan dock endast upprättas med tillämpning av ESRS. Moderföretag i stora koncerner som
+är små och medelstora företag med överlåtbara värdepapper som är upptagna till handel på en reglerad marknad i EU får inte använda
+ESRS för börsnoterade små och medelstora företag.
+ELI: http://data.europa.eu/eli/C/2024/6792/oj 7/43
+SV
+EUT C, 13.11.2024
+Dessa krav måste uppfyllas enligt följande stegvisa tillvägagångssätt(32):
+— För räkenskapsår som börjar den 1 januari 2024eller senare (dvs. för offentliggörande 2025): företag av allmänt
+intresse som är moderföretag i en stor koncern som på balansdagen, på koncernnivå, i genomsnitt har haft
+över 500 anställda under räkenskapsåret.
+— För räkenskapsår som börjar den 1 januari 2025 eller senare (dvs. för offentliggörande 2026): övriga
+moderföretag i en stor koncern (dvs. moderföretag i en stor koncern som inte är ”företag av allmänt
+intresse och/eller vars koncern på balansdagen, på koncernnivå, i genomsnitt inte har haft över 500
+anställda under räkenskapsåret”).
+Ett moderföretag som offentliggör en konsoliderad hållbarhetsförklaring är undantaget från skyldigheten att
+offentliggöra sin individuella hållbarhetsförklaring(33). Ett moderföretag som också är dotterföretag är
+undantaget från skyldigheten att offentliggöra en konsoliderad hållbarhetsförklaring om informationen ingår i
+ett annat moderföretags konsoliderade hållbarhetsförklaring eller konsoliderade hållbarhetsrapportering,
+förutsatt att vissa villkor är uppfyllda när det gäller innehållet i det undantagna företagets förvaltningsberättelse
+och moderföretagets offentliggörande av hållbarhetsinformationen(34). Stora företag med värdepapper
+upptagna till handel på en reglerad marknad i EU – inklusive små och icke-komplexa institut, captivebolag för
+försäkring och captivebolag för återförsäkring samt tredjelandsföretag – kan inte utnyttja detta undantag(35).
+1.3 Hållbarhetsinformation som ska rapporteras på individuell nivå (hållbarhetsförklaring) eller – för moderföretag i stora
+koncerner – på konsoliderad nivå (konsoliderad hållbarhetsförklaring) enligt artikel 4.5 i insynsdirektivet av emittenter av
+överlåtbara värdepapper som är upptagna till handel på en reglerad marknad i EU)
+Enligt artikel 4.5 i insynsdirektivet, som korshänvisar till artiklarna 19a och 29a i redovisningsdirektivet, ska
+emittenter av överlåtbara värdepapper som är upptagna till handel på en reglerad marknad i EU(36)(oavsett om
+de omfattas av lagstiftningen i en medlemsstat eller av lagstiftningen i ett tredjeland), utom mikroföretag, i sina
+årliga redovisningar inkludera en förvaltningsberättelse som innehåller hållbarhetsinformation på individuell
+nivå (hållbarhetsförklaring) eller – för moderföretag i stora koncerner – på konsoliderad nivå (konsoliderad
+hållbarhetsförklaring) i enlighet med samma krav som anges i punkt 1.1 ovan, leden i–v. Reglerna för
+offentliggörande är de som fastställts för den årliga redovisningen enligt artikel 4 i insynsdirektivet(37).
+Emittenter av överlåtbara värdepapper som är upptagna till handel på en reglerad marknad i EU och som är
+stora företag eller små och medelstora företag (utom mikroföretag) eller moderföretag i stora koncerner enligt
+definitionerna i redovisningsdirektivet, måste också offentliggöra en förvaltningsberättelse i enlighet med de
+krav som anges i redovisningsdirektivet och som specificeras i punkterna 1.1 och 1.2 ovan. Undantagsregler
+enligt artiklarna 19a.8 och 19a.9 i redovisningsdirektivet gäller också.
+Dessa krav måste uppfyllas enligt följande stegvisa tillvägagångssätt(38):
+— För räkenskapsår som börjar den 1 januari 2024eller senare (dvs. för offentliggörande 2025): emittenter som är
+stora företag och som på balansdagen i genomsnitt har haft över 500 anställda under räkenskapsåret, samt
+emittenter som är moderföretag i en stor koncern och som på balansdagen, på koncernnivå, i genomsnitt
+har haft över 500 anställda under räkenskapsåret.
+(32) Artikel 5.2 första stycket i direktivet om företagens hållbarhetsrapportering.
+(33) Artikel 29a.7 i redovisningsdirektivet.
+(34) Dessa villkor anges i artikel 29a.8 i redovisningsdirektivet. Se även fråga 19.
+(35) Artikel 29a.9 i redovisningsdirektivet.
+(36) Enligt definitionen i artikel 2 a och d i insynsdirektivet.
+(37) De krav på hållbarhetsrapportering som anges i insynsdirektivet, ändrat genom direktivet om företagens hållbarhetsrapportering,
+ändrar inte den befintliga tidsfrist för offentliggörande av den årliga redovisningen (som inkluderar förvaltningsberättelsen) som anges
+i artikel 4.1 i insynsdirektivet, dvs. senast fyra månader efter balansdagen.
+(38) Artikel 5.2 tredje stycket i direktivet om företagens hållbarhetsrapportering.
+8/43 ELI: http://data.europa.eu/eli/C/2024/6792/oj
+SV
+EUT C, 13.11.2024
+— För räkenskapsår som börjar den 1 januari 2025eller senare (dvs. för offentliggörande 2026): övriga emittenter
+som är stora företag, samt övriga emittenter som är moderföretag i en stor koncern.
+— För räkenskapsår som börjar den 1 januari 2026eller senare (dvs. för offentliggörande 2027):
+— emittenter som är små och medelstora företag (utom mikroföretag),
+— emittenter som definieras som små och icke-komplexa institut, förutsatt att de är stora företag eller små
+och medelstora företag (utom mikroföretag) med överlåtbara värdepapper som är upptagna till handel
+på en reglerad marknad i EU, och
+— emittenter som definieras som captivebolag för försäkring och captivebolag för återförsäkring,
+förutsatt att de är antingen stora företag eller små och medelstora företag (utom mikroföretag) med
+överlåtbara värdepapper som är upptagna till handel på en reglerad marknad i EU.
+2. Upprättande, kvalitetsgranskning och offentliggörande av hållbarhetsinformation som ska rapporteras enligt
+artikel 40a i redovisningsdirektivet (hållbarhetsrapport för vissa tredjelandsföretag)
+Enligt artikel 40a i redovisningsdirektivet och när det gäller ett tredjelandsföretag som genererat en nettoomsättning i
+unionen på mer än 150 miljoner euro (för vart och ett av de två senaste på varandra följande räkenskapsåren) och
+som har ett dotterföretag i unionen som omfattas av artiklarna 19a/29a i redovisningsdirektivet, eller, om det inte
+finns något sådant dotterföretag, en filial i unionen som genererat en nettoomsättning på mer än 40 miljoner euro
+(under det föregående räkenskapsåret), ska dotterföretaget eller filialen offentliggöra och göra hållbarhetsinformation
+tillgänglig på koncernnivå för moderföretaget i tredjelandet.
+Denna hållbarhetsrapport som ska lämnas enligt artikel 40a i redovisningsdirektivet har ett begränsat innehåll jämfört
+med den ”hållbarhetsförklaring” som ska lämnas enligt artiklarna 19a/29a i redovisningsdirektivet. Viss information
+som krävs i hållbarhetsförklaringen krävs inte i hållbarhetsrapporten, i synnerhet information om motståndskraft,
+möjligheter och risker, eftersom avsikten framför allt är att fokusera hållbarhetsrapporten på hållbarhetsinverkan(39).
+Hållbarhetsrapporten ska uppfylla följande krav:
+— Den ska upprättas i enlighet med ESRS för vissa tredjelandsföretag som antagits genom kommissionens delegerade
+akter(40).
+— Den ska vara föremål för kvalitetsgranskning(41).
+— Den ska offentliggöras av de berörda dotterföretag eller filialer som är etablerade eller belägna i unionen
+tillsammans med uttalandet om kvalitetsgranskning av hållbarhetsrapporten(42).
+Om moderföretaget i tredjeland upprättar hållbarhetsrapporten i enlighet med ESRS (i stället för ESRS för vissa
+tredjelandsföretag) behöver dotterföretaget eller filialen inte upprätta hållbarhetsrapporten i enlighet med ESRS för
+vissa tredjelandsföretag. I detta fall skulle undantagen enligt artikel 19a.9 och artikel 29a.8 vara tillämpliga.
+Dessa krav måste uppfyllas för varje räkenskapsår som inleds den 1 januari 2028eller senare(43).
+(39) Artikel 40a.1 i redovisningsdirektivet: ”[…] hållbarhetsrapport som omfattar den information som anges i leden a iii–v och b–f och, i
+tillämpliga fall, artikel 29a.2 h.”
+(40) Artiklarna 40a.2 första stycket och 40b i redovisningsdirektivet. Tidsfristen för kommissionen att anta ESRS för vissa
+tredjelandsföretag förlängdes till den 30 juni 2026 genom Europaparlamentets och rådets direktiv (EU) 2024/1306 av den 29 april
+2024 om ändring av direktiv 2013/34/EU vad gäller tidsfristerna för antagande av standarder för hållbarhetsrapportering för vissa
+sektorer och vissa tredjelandsföretag (EUT L, 2024/1306, 8.5.2024, ELI: http://data.europa.eu/eli/dir/2024/1306/oj).
+(41) Artikel 40a.3 i redovisningsdirektivet.
+(42) Artikel 40d i redovisningsdirektivet.
+(43) Artikel 5.2 andra stycket i direktivet om företagens hållbarhetsrapportering: ”Medlemsstaterna ska vidta de åtgärder som är nödvändiga
+för att följa artikel 1.14 för räkenskapsår som börjar den 1 januari 2028 eller senare.”
+ELI: http://data.europa.eu/eli/C/2024/6792/oj 9/43
+SV
+EUT C, 13.11.2024
+Flödesschema för att identifiera de tillämpliga kraven på hållbarhetsrapportering för varje typ av företag och det specifika
+tillämpningsdatumet
+Flödesschemat nedan visar processen för att fastställa om ett företag omfattas av krav på hållbarhetsrapportering och från
+och med vilket räkenskapsår.
+10/43 ELI: http://data.europa.eu/eli/C/2024/6792/oj
+ELI:
+http://data.europa.eu/eli/C/2024/6792/oj
+11/43
+EUT
+C,
+13.11.2024
+SV
+Tidsplan för tillämpning av kraven på hållbarhetsrapportering
+Tabellen nedan visar de olika tillämpningsdatumen för de olika typerna av företag som omfattas av hållbarhetsrapportering.
+Räkenskapsår Räkenskapsår Räkenskapsår Räkenskapsår Räkenskapsår
+2024 2025 2026 2027 2028
+(rapportering 2025) (rapportering 2026) (rapportering 2027) (rapportering 2028) (rapportering 2029)
+Stora företag som är företag av allmänt Individuell Individuell Individuell Individuell Individuell
+intresse (inklusive emittenter i tredjeland) > hållbarhetsförklaring hållbarhetsförklaring hållbarhetsförklaring hållbarhetsförklaring hållbarhetsförklaring
+500 anställda i genomsnitt under (ESRS) (ESRS) (ESRS) (ESRS) (ESRS)
+räkenskapsåret
+Företag av allmänt intresse (inklusive Konsoliderad Konsoliderad Konsoliderad Konsoliderad Konsoliderad
+emittenter i tredjeland) som är moderföretag i hållbarhetsförklaring hållbarhetsförklaring hållbarhetsförklaring hållbarhetsförklaring hållbarhetsförklaring
+en stor koncern > 500 anställda i genomsnitt (ESRS) (ESRS) (ESRS) (ESRS) (ESRS)
+på koncernnivå under räkenskapsåret
+Stora företag (inklusive emittenter i tredjeland) ej tillämpligt Individuell Individuell Individuell Individuell
+som inte är ”företag av allmänt intresse > 500 hållbarhetsförklaring hållbarhetsförklaring hållbarhetsförklaring hållbarhetsförklaring
+anställda i genomsnitt under räkenskapsåret” (ESRS) (ESRS) (ESRS) (ESRS)
+Moderföretag i en stor koncern (inklusive ej tillämpligt Konsoliderad Konsoliderad Konsoliderad Konsoliderad
+emittenter i tredjeland) som inte är ”företag av hållbarhetsförklaring hållbarhetsförklaring hållbarhetsförklaring hållbarhetsförklaring
+allmänt intresse > 500 anställda i genomsnitt (ESRS) (ESRS) (ESRS) (ESRS)
+på koncernnivå under räkenskapsåret”
+Börsnoterade små och medelstora företag, ej tillämpligt ej tillämpligt Individuell Individuell Individuell
+små och icke-komplexa institut, captivebolag hållbarhetsförklaring hållbarhetsförklaring hållbarhetsförklaring
+för (åter)försäkring (inklusive emittenter i (ESRS eller LSME (ESRS eller LSME (ESRS eller LSME ESRS)
+tredjeland) ESRS)(*) ESRS)(*)
+Dotterföretag som omfattas av direktivet om ej tillämpligt ej tillämpligt ej tillämpligt ej tillämpligt Hållbarhetsrapport
+företagens hållbarhetsrapportering (eller, om (ESRS för vissa
+sådana saknas, EU-filialer med en tredjelandsföretag eller
+nettoomsättning i unionen > 40 miljoner ESRS)
+euro) till icke-börsnoterade tredjelandsföretag
+med en nettoomsättning i unionen > 150
+miljoner euro
+(*) möjligt undantag
+12/43
+ELI:
+http://data.europa.eu/eli/C/2024/6792/oj
+SV
+EUT
+C,
+13.11.2024
+SV
+EUT C, 13.11.2024
+KRAV PÅ LAGSTADGADE REVISORER OCH OBEROENDE LEVERANTÖRER AV KVALITETSGRANSKNINGSTJÄNSTER
+1. Kvalitetsgranskning av hållbarhetsinformation som ska rapporteras enligt artiklarna 19a och 29a i
+redovisningsdirektivet (hållbarhetsförklaring)
+Enligt artikel 34.1 andra stycket aa i redovisningsdirektivet ska varje företag som omfattas av hållbarhetsrapportering
+enligt artiklarna 19a och 29a i redovisningsdirektivet inhämta ett uttalande om kvalitetsgranskning av den hållbarhets­
+förklaring som ingår i förvaltningsberättelsen(44).
+Från och med det första året då kraven på hållbarhetsrapportering tillämpas måste detta uttalande om kvalitets­
+granskning grundas på ett bestyrkandeuppdrag där uttalandet lämnas med begränsad säkerhet vad gäller hållbarhets­
+förklaringens uppfyllande av följande krav(45):
+— De krav på hållbarhetsrapportering som anges i redovisningsdirektivet (inbegripet huruvida hållbarhetsrappor­
+teringen överensstämmer med de ESRS som antagits enligt artikel 29b/29c i redovisningsdirektivet, den process
+som företaget genomför för att identifiera den information som rapporteras enligt dessa ESRS och efterlevnaden
+av kravet på att märka hållbarhetsrapportering i enlighet med artikel 29d i redovisningsdirektivet).
+— De rapporteringskrav som anges i artikel 8 i taxonomiförordningen.
+Enligt artikel 26a i revisionsdirektivet ges kommissionen befogenhet att anta standarder för kvalitetsgranskning av
+hållbarhetsrapportering för begränsad säkerhet senast den 1 oktober 2026(46).
+Kommissionen ges befogenhet att anta standarder för kvalitetsgranskning av hållbarhetsrapportering för rimlig
+säkerhet senast den 1 oktober 2028, efter en bedömning för att avgöra om rimlig säkerhet är möjlig för revisorer och
+företag(47).
+I avvaktan på att kommissionen antar kvalitetsgranskningsstandarder på detta ämnesområde får medlemsstaterna
+tillämpa nationella standarder, förfaranden eller krav för kvalitetsgranskning som täcker detta ämnesområde(48).
+Enligt artikel 34 i redovisningsdirektivet får ett uttalande om hållbarhetsrapporteringen avges av följande kategorier av
+kvalitetsgranskningsleverantörer:
+— Den lagstadgade revisor som granskar det berörda företagets finansiella rapporter(49).
+(44) Artikel 34.1 andra stycket aa i redovisningsdirektivet: ”De lagstadgade revisorerna eller revisionsföretagen ska även […] aa) i tillämpliga
+fall, avge ett uttalande grundat på ett bestyrkandeuppdrag med begränsad säkerhet vad gäller hållbarhetsrapporteringens uppfyllande
+av kraven i detta direktiv […].”
+(45) Artikel 34.1 andra stycket aa i redovisningsdirektivet: ”De lagstadgade revisorerna eller revisionsföretagen ska även […] aa) i tillämpliga
+fall, avge ett uttalande grundat på ett bestyrkandeuppdrag med begränsad säkerhet vad gäller hållbarhetsrapporteringens uppfyllande
+av kraven i detta direktiv, inbegripet huruvida hållbarhetsrapporteringen överensstämmer med de standarder för hållbarhetsrap­
+portering som antagits enligt artikel 29b eller 29c, den process som företaget genomför för att identifiera den information som
+rapporteras enligt dessa standarder för hållbarhetsrapportering och efterlevnaden av kravet på att märka hållbarhetsrapportering i
+enlighet med artikel 29d, och vad gäller uppfyllandet av rapporteringskraven i artikel 8 i förordning (EU) 2020/852 […].”
+(46) Artikel 26a.1 och 26a.3 första stycket i revisionsdirektivet: ”Medlemsstaterna ska kräva att lagstadgade revisorer och revisionsföretag
+genomför kvalitetsgranskning av hållbarhetsrapportering i enlighet med de kvalitetsgranskningsstandarder som antagits av
+kommissionen […]. Kommissionen ska senast den 1 oktober 2026 anta delegerade akter […] i syfte att tillhandahålla kvalitetsgransk­
+ningsstandarder för begränsad säkerhet som fastställer de åtgärder som revisorn eller revisorerna och revisionsföretaget eller revisions­
+företagen ska vidta för att dra slutsatser om kvalitetsgranskningen av hållbarhetsrapportering, inbegripet uppdragsplanering,
+riskövervägande och riskrespons, och vilken typ av slutsatser som ska ingå i kvalitetsgranskningsrapporten om hållbarhetsrap­
+portering, eller, när så är lämpligt, i revisionsberättelsen […].”
+(47) Artikel 26a.3 andra stycket i revisionsdirektivet: ”Kommissionen ska senast den 1 oktober 2028 anta delegerade akter […] i syfte att
+tillhandahålla kvalitetsgranskningsstandarder för rimlig säkerhet, efter en bedömning för att avgöra om rimlig säkerhet är möjlig för
+revisorer och företag. Med beaktande av resultaten av den bedömningen och om så är lämpligt ska det i dessa delegerade akter anges
+från och med vilket datum det uttalande som avses i artikel 34.1 andra stycket aa ska baseras på ett bestyrkandeuppdrag där uttalandet
+lämnas med rimlig säkerhet som bygger på dessa kvalitetsgranskningsstandarder för rimlig säkerhet.”
+(48) Artikel 26a.2 första stycket i revisionsdirektivet: ”Medlemsstaterna får tillämpa nationella standarder, förfaranden eller krav för
+kvalitetsgranskning så länge kommissionen inte har antagit en kvalitetsgranskningsstandard som täcker samma ämnesområde.”
+(49) Artikel 34.1 första stycket i redovisningsdirektivet: ”Medlemsstaterna ska se till att de finansiella rapporterna för företag av allmänt
+intresse samt medelstora och stora företag är granskade av en eller flera lagstadgade revisorer eller revisionsföretag som godkänts av
+medlemsstaterna för att utföra lagstadgad revision enligt direktiv 2006/43/EG.”
+ELI: http://data.europa.eu/eli/C/2024/6792/oj 13/43
+SV
+EUT C, 13.11.2024
+— En annan lagstadgad revisor än den som granskar de finansiella rapporterna (om detta är tillåtet enligt en
+medlemsstat)(50).
+— En oberoende leverantör av kvalitetsgranskningstjänster (om detta är tillåtet enligt en medlemsstat)(51).
+Om en medlemsstat beslutar att tillåta en oberoende leverantör av kvalitetsgranskningstjänster att avge ett uttalande
+om kvalitetsgranskning av hållbarhetsrapporteringen, ska den också tillåta en annan lagstadgad revisor än den eller de
+som utför den lagstadgade revisionen av finansiella rapporter att göra detta(52).
+2. Kvalitetsgranskning av hållbarhetsinformation som ska rapporteras enligt artikel 40a i redovisningsdirektivet
+(hållbarhetsrapport för vissa tredjelandsföretag)
+Enligt artikel 40a.3 första stycket i redovisningsdirektivet ska de dotterföretag eller filialer som omfattas av hållbarhets­
+rapportering enligt artikel 40a i redovisningsdirektivet inhämta ett uttalande om kvalitetsgranskning av hållbarhets­
+rapporten(53). Moderföretaget i tredjeland ansvarar för att lämna uttalandet om kvalitetsgranskning av hållbarhets­
+rapporten till det berörda dotterföretaget eller den berörda filialen(54).
+Detta uttalande om kvalitetsgranskning ska avse hållbarhetsrapportens uppfyllande av de relevanta kraven i
+redovisningsdirektivet, däribland hållbarhetsrapportens efterlevnad av ESRS som har antagits i enlighet med
+artikel 40b i redovisningsdirektivet.
+Detta uttalande om kvalitetsgranskning ska göras av en eller flera personer eller ett eller flera företag som är
+auktoriserade att avge ett uttalande om kvalitetsgranskning av hållbarhetsrapportering enligt tredjelandsföretagets eller
+en medlemsstats nationella rätt(55).
+3. Kvalitetsgranskningsleverantörer: villkor för att tillhandahålla kvalitetsgranskning av hållbarhetsrap­
+portering
+Om lagstadgade revisorer eller revisionsföretag som är godkända för att utföra revision av finansiella rapporter i en
+medlemsstat vill bli godkända för att tillhandahålla kvalitetsgranskning av hållbarhetsrapportering, måste de efterleva
+de nationella åtgärder som införlivar de relevanta krav som anges i revisionsdirektivet när det gäller kvalitetsgranskning
+av hållbarhetsrapportering.
+Dessa krav omfattar särskilt utbildningskrav, yrkesexamen, teoretiska kunskapsprov, praktisk utbildning och
+fortbildning. Det är inte obligatoriskt att uppfylla dessa krav om den lagstadgade revisorn eller revisionsföretaget inte
+tillhandahåller kvalitetsgranskning av hållbarhetsrapportering.
+Lagstadgade revisorer som är godkända före den 1 januari 2026– som antingen var godkända före den 1 januari 2024
+eller som den 1 januari 2024 genomgick godkännandeförfarandet – och som även vill utföra kvalitetsgranskning av
+hållbarhetsrapportering behöver inte uppfylla dessa krav, men behöver ändå skaffa sig nödvändig kunskap genom
+fortbildning(56).
+(50) Artikel 34.3 i redovisningsdirektivet. ”Medlemsstaterna får tillåta en annan lagstadgad revisor eller ett annat revisionsföretag än den,
+det eller de som utför den lagstadgade revisionen av finansiella rapporter att lämna det uttalande som avses i punkt 1 andra stycket aa.”
+(51) Artikel 34.4 första stycket i redovisningsdirektivet: ”[…] Medlemsstaterna får tillåta en oberoende leverantör av kvalitetsgransknings­
+tjänster som är etablerad på deras territorium att lämna det uttalande som avses i punkt 1 andra stycket aa […].”
+(52) Artikel 34.4 sjätte stycket i redovisningsdirektivet: ”Om en medlemsstat, i enlighet med det första stycket, beslutar att tillåta en
+oberoende leverantör av kvalitetsgranskningstjänster att avge det uttalande som avses i punkt 1 andra stycket aa ska den också tillåta
+en annan lagstadgad revisor än den eller de som utför den lagstadgade revisionen av finansiella rapporter att göra detta, enligt vad som
+föreskrivs i punkt 3.”
+(53) Artikel 40a.3 första stycket i redovisningsdirektivet: ”Medlemsstaterna ska kräva att den hållbarhetsrapport som avses i punkt 1
+offentliggörs tillsammans med ett uttalande om kvalitetsgranskning […].”
+(54) Artikel 40a.3 andra stycket i redovisningsdirektivet: ”Om tredjelandsföretaget inte lämnar ett uttalande om kvalitetsgranskning i
+enlighet med första stycket ska dotterföretaget eller filialen utfärda ett uttalande om att tredjelandsföretaget inte har tillhandahållit det
+nödvändiga uttalandet om kvalitetsgranskning.”
+(55) Artikel 40a.3 första stycket i redovisningsdirektivet: ”Medlemsstaterna ska kräva att den hållbarhetsrapport som avses i punkt 1
+offentliggörs tillsammans med ett uttalande om kvalitetsgranskning som gjorts av en eller flera personer eller ett eller flera företag
+som är auktoriserade att lämna ett uttalande om kvalitetsgranskning av hållbarhetsrapportering enligt tredjelandsföretagets eller en
+medlemsstats nationella rätt.”
+(56) Artikel 14a i revisionsdirektivet.
+14/43 ELI: http://data.europa.eu/eli/C/2024/6792/oj
+SV
+EUT C, 13.11.2024
+Oberoende leverantörer av kvalitetsgranskningstjänster får tillhandahålla kvalitetsgranskning av hållbarhetsrap­
+portering om det tillåts av en medlemsstat(57)och på följande villkor:
+— Den oberoende leverantören av kvalitetsgranskningstjänster är ackrediterad för kvalitetsgranskning av hållbarhets­
+rapportering i enlighet med förordning (EG) nr 765/2008(58)(59).
+— Den oberoende leverantören av kvalitetsgranskningstjänster uppfyller krav som är likvärdiga med dem som anges i
+revisionsdirektivet för lagstadgade revisorer i unionen för att utföra kvalitetsgranskning av hållbarhetsrap­
+portering(60). Dessa krav gäller särskilt a) utbildning och examination, b) fortbildning, c) system för kvalitets­
+kontroll, d) yrkesetik, opartiskhet, objektivitet, konfidentialitet och tystnadsplikt, e) utnämning och entledigande,
+f) utredningar och sanktioner, g) organisationen av det arbete som ska utföras av oberoende leverantörer av
+kvalitetsgranskningstjänster, särskilt med avseende på tillräckliga resurser och tillräcklig personal och
+upprätthållande av kundkontoregister och dokumentation, och h) rapportering av oegentligheter.
+Från och med den 6 januari 2027 ska en medlemsstat som tillåter oberoende leverantörer av kvalitetsgransknings­
+tjänster att utföra kvalitetsgranskningstjänster för hållbarhetsrapportering på sitt territorium tillåta oberoende
+leverantörer av kvalitetsgranskningstjänster som är etablerade i en annan medlemsstat att utföra kvalitetsgranskning
+av hållbarhetsrapportering på sitt territorium(61).
+Revisorer och revisionsföretag från tredjeland som tillhandahåller kvalitetsgranskning av hållbarhetsrapportering för
+företag som är etablerade i ett tredjeland och vars överlåtbara värdepapper är upptagna till handel på en EU-reglerad
+marknad i en medlemsstat måste vara registrerade i den medlemsstaten(62).
+AVSNITT III
+VANLIGA FRÅGOR OM HÅLLBARHETSINFORMATION SOM SKA RAPPORTERAS ENLIGT
+ARTIKLARNA 19A/29A I REDOVISNINGSDIREKTIVET (INDIVIDUELL OCH KONSOLIDERAD
+HÅLLBARHETSFÖRKLARING)
+TILLÄMPNINGSOMRÅDE OCH TILLÄMPNINGSDATUM
+1) Vilket räkenskapsår avgör när ett företag ingår i en viss storlekskategori av företag: räkenskapsåret för
+rapporteringsåret eller räkenskapsåret före rapporteringsåret?
+(57) Artikel 34.4 första stycket i redovisningsdirektivet.
+(58) Europaparlamentets och rådets förordning (EG) nr 765/2008 av den 9 juli 2008 om krav för ackreditering och upphävande av
+förordning (EEG) nr 339/93 (EUT L 218, 13.8.2008, s. 30).
+(59) Artikel 2.20 i redovisningsdirektivet: ”oberoende leverantör av kvalitetsgranskningstjänster: ett organ för bedömning av överensstämmelse
+som ackrediterats i enlighet med Europaparlamentets och rådets förordning (EG) nr 765/2008 för den specifika verksamhet avseende
+bedömning av överensstämmelse som avses i artikel 34.1 andra stycket aa i detta direktiv.”
+(60) Artikel 34.4 första stycket i redovisningsdirektivet: ”Medlemsstaterna får tillåta en oberoende leverantör av kvalitetsgranskningstjänster
+som är etablerad på deras territorium att lämna det uttalande som avses i punkt 1 andra stycket aa, förutsatt att denna oberoende
+leverantör av kvalitetsgranskningstjänster omfattas av krav som är likvärdiga med dem i Europaparlamentets och rådets
+direktiv 2006/43/EG vad gäller kvalitetsgranskning av hållbarhetsrapportering enligt definitionen i artikel 2.22 i det direktivet,
+framför allt krav avseende a) utbildning och examination, som säkerställer att oberoende leverantörer av kvalitetsgranskningstjänster förvärvar
+nödvändig sakkunskap om hållbarhetsrapportering och kvalitetsgranskning av hållbarhetsrapportering, b) fortbildning, c) system för kvalitets­
+kontroll, d) yrkesetik, opartiskhet, objektivitet, konfidentialitet och tystnadsplikt, e) utnämning och entledigande, f) utredningar och sanktioner, g)
+organisationen av arbetet när det gäller oberoende leverantörer av kvalitetsgranskningstjänster, särskilt med avseende på tillräckliga resurser och
+personal och upprätthållande av kundkontoregister och dokumentation, och h) rapportering av oegentligheter.
+(61) Artikel 34.5 första stycket i redovisningsdirektivet: ”Från och med den 6 januari 2027 ska en medlemsstat som har utnyttjat den
+valmöjlighet som föreskrivs i punkt 4 (värdmedlemsstaten) tillåta oberoende leverantörer av kvalitetsgranskningstjänster som är
+etablerade i en annan medlemsstat än värdmedlemsstaten (hemmedlemsstaten) att utföra kvalitetsgranskning av hållbarhetsrap­
+portering.”
+(62) Artikel 45 i revisionsdirektivet.
+ELI: http://data.europa.eu/eli/C/2024/6792/oj 15/43
+SV
+EUT C, 13.11.2024
+Reglerna för att fastställa storleken på ett företag för hållbarhetsrapporteringsändamål bygger på de befintliga regler för
+finansiell rapportering som gäller för företaget på grundval av den medlemsstat där det har sitt säte(63). Dessa regler
+anges i de nationella åtgärder som införlivar det befintliga redovisningsdirektivet.
+2) Om ett företag under ett visst räkenskapsår utvecklas så att det uppfyller kriterierna för att ingå i en annan
+företagskategori, måste det då börja rapportera hållbarhetsinformation enligt de regler som gäller för den
+nya kategorin för samma räkenskapsår eller först efter det att kriterierna har uppfyllts under två på varandra
+följande räkenskapsår?
+Reglerna för att fastställa storlekskategorin för ett företag för hållbarhetsrapporteringsändamål, när företaget utvecklas
+under ett visst räkenskapsår, bygger på de befintliga reglerna för finansiell rapportering (se även fråga 1). Dessa regler
+anges i de nationella åtgärder som införlivar det befintliga redovisningsdirektivet.
+3) Hur beräknas det genomsnittliga antalet anställda för att företaget ska kunna kategoriseras enligt
+redovisningsdirektivet?
+Unionslagstiftningen reglerar inte beräkningen av det genomsnittliga antalet anställda för företagets kategorisering
+enligt redovisningsdirektivet. Medlemsstaterna kan dock ha antagit nationella regler eller gett vägledning i denna fråga.
+Om det inte finns några nationella regler eller någon nationell vägledning kan företagen använda artikel 5 i
+kommissionens rekommendation av den 6 maj 2003 om definitionen av mikroföretag samt små och medelstora
+företag(64) som vägledning för att beräkna antalet anställda, som en proxyvariabel för det genomsnittliga antalet
+anställda: ”[…] Personalstyrkan motsvarar antalet årsarbetskrafter, det vill säga antalet personer som på heltid arbetat i
+företaget eller för företagets räkning under hela referensåret. Det arbete som utförs av personer som inte har arbetat
+hela året, som har arbetat deltid, oberoende av varaktighet, eller som utfört säsongsarbete skall beräknas som delar av
+årsarbetskrafter. Personalstyrkan utgörs av a) löntagarna, b) de personer som arbetar för företaget och som har en
+underordnad ställning i förhållande till detta och som i nationell rätt jämställs med löntagare, c) de ägare som driver
+företaget, d) de delägare som utövar en regelbunden verksamhet i företaget och som erhåller ekonomiska förmåner
+från företaget. Lärlingar och studerande under yrkesutbildning som omfattas av lärlings- eller yrkesutbildningsavtal
+skall inte räknas in vid beräkningen av personalstyrkan. Den tid som utgörs av mödraledighet eller föräldraledighet
+skall inte räknas in.”
+4) Är små och medelstora företag utan överlåtbara värdepapper upptagna till handel på en reglerad marknad i
+EU skyldiga att rapportera hållbarhetsinformation enligt artiklarna 19a/29a i redovisningsdirektivet?
+Små och medelstora företag utan överlåtbara värdepapper upptagna till handel på en reglerad marknad i EU är inte
+skyldiga att rapportera hållbarhetsinformation på individuell nivå enligt artikel 19a i redovisningsdirektivet
+(individuell hållbarhetsförklaring). De är dock skyldiga att rapportera hållbarhetsinformation på konsoliderad nivå
+enligt artikel 29a i redovisningsdirektivet (konsoliderad hållbarhetsförklaring), om de är moderföretag i en stor
+koncern(65). Artikel 29a i redovisningsdirektivet är tillämplig oavsett moderföretagets storlek.
+5) Är kreditinstitut och försäkringsföretag skyldiga att rapportera hållbarhetsinformation enligt artiklarna 19a
+och 29a i redovisningsdirektivet oavsett deras rättsliga form?
+(63) När det gäller företag med värdepapper som är upptagna till handel är de tillämpliga reglerna för finansiell rapportering de som gäller i
+hemmedlemsstaten enligt definitionen i artikel 2.1 i i insynsdirektivet (dvs. den medlemsstat där företaget har sitt säte eller en av de
+medlemsstater där företaget har sina värdepapper upptagna till handel på en reglerad marknad i EU).
+(64) Kommissionens rekommendation av den 6 maj 2003 om definitionen av mikroföretag samt små och medelstora företag (EUT L 124,
+20.5.2003, s. 36).
+(65) Enligt definitionen i artikel 3.7 i redovisningsdirektivet.
+16/43 ELI: http://data.europa.eu/eli/C/2024/6792/oj
+SV
+EUT C, 13.11.2024
+Ja, det är de. Enligt artikel 1.3 i redovisningsdirektivet ingår kreditinstitut(66) och försäkringsföretag(67), inbegripet
+kooperativ och ömsesidiga företag, i tillämpningsområdet för artikel 19a i redovisningsdirektivet (individuell
+hållbarhetsförklaring) oavsett rättslig form, om de är stora företag eller små och medelstora företag (utom
+mikroföretag) med överlåtbara värdepapper som är upptagna till handel på en reglerad marknad i EU. De ingår också i
+tillämpningsområdet för artikel 29a i redovisningsdirektivet (konsoliderad hållbarhetsförklaring) oavsett rättslig form,
+om de är moderföretag i en stor koncern.
+I enlighet med artikel 1.3 b andra meningen i redovisningsdirektivet får medlemsstaterna välja att helt eller delvis inte
+tillämpa kraven på hållbarhetsrapportering på vissa kreditinstitut(68).
+6) Är andra finansinstitut än försäkringsföretag och kreditinstitut skyldiga att rapportera hållbarhetsin­
+formation enligt artiklarna 19a/29a i redovisningsdirektivet?
+Ja, det är de. Andra finansinstitut än försäkringsföretag och kreditinstitut ingår i tillämpningsområdet för artiklarna
+19a och 29a i redovisningsdirektivet om de uppfyller båda följande krav:
+— De är företag som är registrerade som en typ av företag som förtecknas i bilaga I eller II till redovisningsdi­
+rektivet(69).
+— De är antingen stora företag eller små och medelstora företag (utom mikroföretag) med överlåtbara värdepapper
+som är upptagna till handel på en reglerad marknad i EU (artikel 19a i redovisningsdirektivet) och/eller
+moderföretag i en stor koncern (artikel 29a i redovisningsdirektivet).
+7) Om ett litet och icke-komplext institut för närvarande är skyldigt att rapportera icke-finansiell information
+enligt direktiv 2014/95/EU (direktivet om icke-finansiell rapportering), måste det fortsätta att rapportera
+icke-finansiell information i enlighet med bestämmelserna i direktivet om icke-finansiell rapportering fram
+till dess att direktivet om företagens hållbarhetsrapportering börjar tillämpas på små och icke-komplexa
+institut (dvs. från och med räkenskapsår som börjar den 1 januari 2026eller senare)?
+Ja, det måste det. Enligt artikel 5.2 i direktivet om företagens hållbarhetsrapportering ska ett litet och icke-komplext
+institut som är ett stort företag eller ett litet eller medelstort företag (utom mikroföretag) med överlåtbara värdepapper
+som är upptagna till handel på en reglerad marknad i EU rapportera hållbarhetsinformation i enlighet med ESRS (eller,
+alternativt, ESRS för börsnoterade små och medelstora företag) från och med räkenskapsåret 2026. Ett litet och icke-
+komplext institut som för närvarande är skyldigt att rapportera icke-finansiell information enligt artikel 19a i
+redovisningsdirektivet införd genom direktiv 2014/95/EU (direktivet om icke-finansiell rapportering)(70) (dvs.
+eftersom det, förutom att vara ett kreditinstitut, också är ett stort företag som på balansdagen överskrider kriteriet om
+ett genomsnittligt antal på 500 anställda under räkenskapsåret) skulle därför behöva fortsätta att rapportera enligt
+direktivet om icke-finansiell rapportering tills direktivet om företagens hållbarhetsrapportering blir tillämpligt på små
+och icke-komplexa institut (dvs. från och med räkenskapsåret 2026).
+8) Om ett litet och icke-komplext institut är ett moderföretag i en stor koncern, kan detta institut då utnyttja
+undantaget i artikel 19a.6 i redovisningsdirektivet och upprätta hållbarhetsrapportering i enlighet med ESRS
+för börsnoterade små och medelstora företag?
+(66) Enligt definitionen i artikel 4.1.1 i Europaparlamentets och rådets förordning (EU) nr 575/2013.
+(67) I den mening som avses i artikel 2.1 i rådets direktiv 91/674/EEG.
+(68) Artikel 1.3 b andra meningen i redovisningsdirektivet: ”Medlemsstaterna får välja att inte tillämpa de samordningsåtgärder som avses i
+första stycket i den här punkten på de företag som förtecknas i artikel 2.5.2–2.5.23 i Europaparlamentets och rådets
+direktiv 2013/36/EU.”
+(69) Artikel 1.1 i redovisningsdirektivet: ”1. De samordningsåtgärder som detta direktiv föreskriver ska vidtas i fråga om bestämmelserna i
+medlemsstaternas lagar eller andra författningar om de företagsformer som förtecknas a) i bilaga I, b) i bilaga II, om alla direkta eller
+indirekta delägare i företaget som i övrigt har obegränsat ansvar i själva verket har begränsat ansvar, på grund av att dessa delägare är
+företag som i) är av den typ som förtecknas i bilaga I, eller ii) inte omfattas av lagstiftningen i en medlemsstat men har en rättslig form
+som är jämförbar med de former som förtecknas i bilaga I. […].”
+(70) Europaparlamentets och rådets direktiv 2014/95/EU av den 22 oktober 2014 om ändring av direktiv 2013/34/EU vad gäller vissa
+stora företags och koncerners tillhandahållande av icke-finansiell information och upplysningar om mångfaldspolicy (EUT L 330,
+15.11.2014, s. 1).
+ELI: http://data.europa.eu/eli/C/2024/6792/oj 17/43
+SV
+EUT C, 13.11.2024
+Om ett företag (oavsett storlek eller specifik typ, t.ex. inbegripet små och icke-komplexa institut) är moderföretag i en
+stor koncern måste det offentliggöra en konsoliderad hållbarhetsförklaring enligt artikel 29a i redovisningsdirektivet
+som upprättats i enlighet med ESRS. Möjligheten att använda ESRS för börsnoterade små och medelstora företag i
+enlighet med artikel 19a.6 i redovisningsdirektivet gäller endast för små och medelstora företag (utom mikroföretag)
+med värdepapper som är upptagna till handel på en reglerad marknad i EU och för små och icke-komplexa institut,
+captivebolag för försäkring eller captivebolag för återförsäkring (förutsatt att de antingen är stora företag eller små och
+medelstora företag (utom mikroföretag) med värdepapper som är upptagna till handel på en reglerad marknad i EU) vid
+upprättandet av deras individuella hållbarhetsförklaring. (Se även fråga 10).
+9) Om ett litet och icke-komplext institut är moderföretag i en stor koncern, när måste det börja rapportera
+hållbarhetsinformation?
+Om ett litet och icke-komplext institut är moderföretag i en stor koncern måste det offentliggöra en konsoliderad
+hållbarhetsrapportering med användning av ESRS antingen från och med räkenskapsåret 2024 (om det lilla och icke-
+komplexa institutet är ett företag av allmänt intresse som på balansdagen, på koncernnivå, i genomsnitt har haft över
+500 anställda under räkenskapsåret) eller från och med räkenskapsåret 2025 (i alla andra fall).
+10) Om ett litet och icke-komplext institut är moderföretag i en stor koncern men inte är skyldigt att upprätta
+koncernredovisning på grund av att alla dess dotterföretag är av ringa betydelse, är detta institut ändå
+skyldigt att upprätta och offentliggöra en konsoliderad hållbarhetsförklaring?
+Nej. Artikel 29a i redovisningsdirektivet gäller för moderföretag i stora koncerner. Om ett moderföretag i en stor
+koncern är undantaget från att upprätta och offentliggöra en koncernredovisning enligt artikel 23.10 i redovisningsdi­
+rektivet (dvs. för att det endast har dotterföretag som är av ringa betydelse, både var för sig och tillsammans, eller för att
+alla dess dotterföretag kan undantas från koncernredovisning enligt artikel 23.9 i redovisningsdirektivet), behöver detta
+moderföretag dock inte upprätta och offentliggöra en konsoliderad hållbarhetsförklaring. I den mån ett sådant
+moderföretag självt är ett stort företag enligt definitionen i artikel 3.4 i redovisningsdirektivet och därför skulle ingå i
+tillämpningsområdet för artikel 19a i redovisningsdirektivet, måste det företaget emellertid upprätta och offentliggöra
+en individuell hållbarhetsförklaring i enlighet med artikel 19a i redovisningsdirektivet. Denna individuella hållbarhets­
+förklaring måste beakta företagets dotterföretag när den rapporterar om dess värdekedja i enlighet med ESRS.
+11) Är företag för kollektiva investeringar i överlåtbara värdepapper (fondföretag) och alternativa
+investeringsfonder (AIF-fonder) skyldiga att rapportera hållbarhetsinformation enligt artiklarna 19a och 29a
+i redovisningsdirektivet?
+Nej. Enligt artikel 1.4 i redovisningsdirektivet är fondföretag och AIF-fonder undantagna från att rapportera
+hållbarhetsinformation enligt redovisningsdirektivet även om dessa finansiella produkter ingår i tillämpningsområdet
+för redovisningsdirektivet(71).
+12) Är företag som förvaltar företag för kollektiva investeringar i överlåtbara värdepapper (fondföretag) och
+alternativa investeringsfonder (AIF-fonder) skyldiga att rapportera hållbarhetsinformation enligt artiklarna
+19a och 29a i redovisningsdirektivet?
+Artikel 1.4 i redovisningsdirektivet syftar till att undanta fondföretag och AIF-fonder från kraven på hållbarhetsrap­
+portering enligt artiklarna 19a och 29a i redovisningsdirektivet.
+Företag som förvaltar fondföretag och AIF-fonder skulle dock omfattas av skyldigheterna i fråga om hållbarhetsrap­
+portering enligt artiklarna 19a och 29a i redovisningsdirektivet om de uppfyller villkoren avseende rättslig form enligt
+artikel 1.1 i redovisningsdirektivet och om de uppfyller kriterierna för företagsstorlek enligt artiklarna 19a och 29a i
+redovisningsdirektivet.
+(71) Artikel 1.4 i redovisningsdirektivet: ”De samordningsåtgärder som föreskrivs i artiklarna 19a, 29a och 29d ska inte tillämpas på de
+finansiella produkter som förtecknas i artikel 2.12 b [dvs. fondföretag] och f [dvs. AIF-fonder] i Europaparlamentets och rådets
+förordning (EU) 2019/2088 [dvs. förordningen om hållbarhetsupplysningar].”
+18/43 ELI: http://data.europa.eu/eli/C/2024/6792/oj
+SV
+EUT C, 13.11.2024
+13) Är börshandlade fonder och fastighetsfonder (REIT) skyldiga att rapportera hållbarhetsinformation enligt
+artiklarna 19a och 29a i redovisningsdirektivet?
+För börshandlade fonder, eftersom dessa finansiella produkter är etablerade som företag för kollektiva investeringar i
+överlåtbara värdepapper (fondföretag) eller alternativa investeringsfonder (AIF-fonder), gäller samma undantag som
+för fondföretag och AIF-fonder (se fråga 11). För börsnoterade fastighetsfonder, i den mån de uppfyller villkoren i
+artikel 4.1 a i direktiv 2011/61/EU(72) för att betraktas som AIF-fonder, gäller samma undantag som för AIF-fonder
+(se fråga 11).
+14) Är pensionsfonder skyldiga att rapportera hållbarhetsinformation enligt artiklarna 19a och 29a i
+redovisningsdirektivet?
+Om en pensionsfond är registrerad som en typ av företag som anges i bilaga I eller II till redovisningsdirektivet(73)och
+omfattas av artiklarna 19a och 29a i redovisningsdirektivet, måste den i sin förvaltningsberättelse inkludera en
+hållbarhetsförklaring. Till skillnad från företag för kollektiva investeringar i överlåtbara värdepapper (fondföretag) eller
+alternativa investeringsfonder (AIF-fonder) omfattas pensionsfonder inte av undantaget från kraven på hållbarhetsrap­
+portering i artikel 1.4 i redovisningsdirektivet.
+15) Är den hållbarhetsförklaring som offentliggörs i förvaltningsberättelsen av en emittent av överlåtbara
+värdepapper som är upptagna till handel på en reglerad marknad i EU att betrakta som ”obligatorisk
+information” enligt artikel 2.1 k i insynsdirektivet?
+Ja, det är den. I artikel 2.1 k i insynsdirektivet definieras obligatorisk information som bl.a. ”all information som
+emittenten eller varje annan person som ansökt om att få ett värdepapper upptaget till handel på en reglerad marknad
+utan emittentens samtycke är skyldig att offentliggöra enligt detta direktiv [dvs. insynsdirektivet] […]”. Enligt
+artikel 4.5 i insynsdirektivet är emittenter skyldiga att offentliggöra en hållbarhetsförklaring, som därför är att betrakta
+som ”obligatorisk information”.
+16) Vilka företag kan välja att inte fullgöra skyldigheten att rapportera hållbarhetsinformation för räkenskapsår
+som börjar före den 1 januari 2028enligt artikel 19a.7 i redovisningsdirektivet?
+Enligt artikel 19a.7 i redovisningsdirektivet får små och medelstora företag (utom mikroföretag) med överlåtbara
+värdepapper som är upptagna till handel på en reglerad marknad i EU besluta att inte rapportera hållbarhetsin­
+formation enligt artikel 19a i redovisningsdirektivet för räkenskapsår som börjar före den 1 januari 2028 (t.ex. för
+räkenskapsåren 2026 och 2027). I sådana fall ska de små och medelstora företagen dock i sin förvaltningsberättelse
+kortfattat ange varför hållbarhetsrapportering saknas.
+Detta undantag gäller även små och icke-komplexa institut samt captivebolag för försäkring och captivebolag för
+återförsäkring, förutsatt att de är små och medelstora företag (utom mikroföretag) med överlåtbara värdepapper som
+är upptagna till handel på en reglerad marknad i EU.
+REGLER FÖR UNDANTAG
+17) Om ett moderföretag rapporterar hållbarhetsinformation på konsoliderad nivå enligt artikel 29a i
+redovisningsdirektivet (konsoliderad hållbarhetsförklaring), måste det då rapportera information om
+centrala resultatindikatorer i enlighet med artikel 19.1 tredje stycket i redovisningsdirektivet i sin
+förvaltningsberättelse för koncernen?
+(72) Europaparlamentets och rådets direktiv 2011/61/EU av den 8 juni 2011 om förvaltare av alternativa investeringsfonder samt om
+ändring av direktiv 2003/41/EG och 2009/65/EG och förordningarna (EG) nr 1060/2009 och (EU) nr 1095/2010 (EUT L 174,
+1.7.2011, s. 1).
+(73) Artikel 1.1 i redovisningsdirektivet.
+ELI: http://data.europa.eu/eli/C/2024/6792/oj 19/43
+SV
+EUT C, 13.11.2024
+Nej. Enligt artikel 19.1 tredje stycket i redovisningsdirektivet(74), som reglerar den individuella förvaltningsberättelsen,
+ska information om centrala resultatindikatorer lämnas i den individuella förvaltningsberättelsen. Enligt artikel 29.1 i
+redovisningsdirektivet(75), som reglerar förvaltningsberättelsen för koncernen, ska förvaltningsberättelsen för
+koncernen åtminstone innehålla den information som krävs enligt artiklarna 19 och 20 i redovisningsdirektivet.
+Eftersom artikel 29a.7 i redovisningsdirektivet(76)undantar företag från att lämna upplysningar om centrala resultatin­
+dikatorer i samband med den individuella förvaltningsberättelsen (enligt artikel 19.1 tredje stycket i redovisningsdi­
+rektivet) om de har följt artikel 29a.1–29a.5, och eftersom innehållet i förvaltningsberättelsen för koncernen enligt
+artikel 29.1 också ska omfatta de upplysningar som krävs enligt artikel 19.1, skulle undantaget också gälla företagets
+förvaltningsberättelse för koncernen enligt artikel 29a.
+18) Om ett litet eller medelstort företag med värdepapper som är upptagna till handel på en reglerad marknad i
+EU väljer att frivilligt upprätta och offentliggöra en konsoliderad hållbarhetsförklaring enligt artikel 29a i
+redovisningsdirektivet, ska det då undantas från att upprätta och offentliggöra sin individuella hållbarhets­
+förklaring enligt artikel 19a i redovisningsdirektivet?
+Ja, det ska det. Ett litet eller medelstort företag med värdepapper som är upptagna till handel på en reglerad marknad i
+EU som frivilligt offentliggör den konsoliderade hållbarhetsförklaring som avses i artikel 29a i redovisningsdirektivet
+ska undantas från att upprätta och offentliggöra den individuella hållbarhetsförklaring som avses i artikel 19a i
+redovisningsdirektivet, förutsatt att den konsoliderade hållbarhetsförklaringen upprättas i enlighet med ESRS.
+19) Vilka är förutsättningarna för att ett dotterföretag som omfattas av artiklarna 19a/29a i redovisningsdi­
+rektivet ska kunna undantas från skyldigheten att lämna hållbarhetsinformation enligt artiklarna 19a/29a i
+redovisningsdirektivet (hållbarhetsförklaring)?
+Enligt artiklarna 19a.9 och 29a.8 i redovisningsdirektivet ska ett företag som är ett dotterföretag undantas från de
+skyldigheter som anges i artikel 19a.1–19a.4 i redovisningsdirektivet (eller artikel 29a.1–29a.5 i redovisningsdirektivet
+om dotterföretaget självt är ett mellanliggande moderföretag i en stor koncern), om detta företag och dess dotterföretag
+ingår i en förvaltningsberättelse för koncernen för ett moderföretag som upprättats i enlighet med artiklarna 29
+och 29a i redovisningsdirektivet (eller i den konsoliderade hållbarhetsrapportering för ett moderföretag i tredjeland
+som upprättats i enlighet med ESRS eller på ett sätt som är likvärdigt med ESRS).
+Detta undantag omfattas av alla de villkor som anges i artikel 19a.9 andra stycket i redovisningsdirektivet (eller
+artikel 29a.8 andra stycket i redovisningsdirektivet om dotterföretaget självt är ett mellanliggande moderföretag i en
+stor koncern). Förvaltningsberättelsen för det undantagna företaget ska särskilt innehålla namn och säte för det
+moderföretag som rapporterar informationen på koncernnivå, en eller flera webblänkar till moderföretagets
+förvaltningsberättelse för koncernen eller dess konsoliderade hållbarhetsrapportering samt upplysningar om att
+företaget är undantaget från skyldigheten att offentliggöra den individuella hållbarhetsförklaringen (eller den
+konsoliderade hållbarhetsförklaringen, om dotterföretaget självt är ett mellanliggande moderföretag i en stor koncern).
+Om moderföretaget är etablerat i ett tredjeland ska dess konsoliderade hållbarhetsrapportering och uttalandet om
+kvalitetsgranskning offentliggöras i enlighet med lagstiftningen i den medlemsstat som dotterföretaget omfattas av,
+(74) Artikel 19.1 tredje stycket i redovisningsdirektivet: ”I den utsträckning som behövs för att förstå företagets utveckling, resultat eller
+ställning ska analysen innefatta både de finansiella och, där så är lämpligt, icke-finansiella centrala resultatindikatorer som är relevanta
+för den aktuella verksamheten, inklusive information rörande miljö- och personalfrågor. Förvaltningsberättelsens analys ska där så är
+lämpligt innehålla hänvisningar till och ytterligare upplysningar om de belopp som tas upp i årsbokslutet.”
+(75) Artikel 29.1 i redovisningsdirektivet: ”Förvaltningsberättelsen för koncernen ska, utöver eventuella andra uppgifter som krävs enligt
+andra bestämmelser i detta direktiv, åtminstone innehålla de upplysningar som krävs enligt artiklarna 19 och 20, med beaktande av
+den anpassning som är nödvändig med hänsyn till de särdrag som utmärker en förvaltningsberättelse för koncernen i förhållande till
+en [annan typ av] förvaltningsberättelse, på ett sätt som underlättar bedömningen av ställningen i de företag som omfattas [av]
+konsolideringen i sin helhet.”
+(76) Artikel 29a.7 i redovisningsdirektivet: ”Ett moderföretag som uppfyller skyldigheterna i punkterna 1–5 i denna artikel ska anses ha
+uppfyllt skyldigheterna i artiklarna 19.1 tredje stycket och 19a.”
+20/43 ELI: http://data.europa.eu/eli/C/2024/6792/oj
+SV
+EUT C, 13.11.2024
+och de upplysningar som anges i artikel 8 i taxonomiförordningen (som omfattar den verksamhet som dotterföretaget
+bedriver) ska ingå antingen i förvaltningsberättelsen för dotterföretaget eller i den konsoliderade hållbarhetsrap­
+portering som moderföretaget i tredjelandet upprättar.
+Om en medlemsstat kräver att en översättning av förvaltningsberättelsen för koncernen eller den konsoliderade
+hållbarhetsrapporteringen för moderföretaget ska tillhandahållas, ska en sådan översättning antingen vara bestyrkt
+(t.ex. av översättaren eller av den myndighet som ansvarar för att bestyrka översättningar i den relevanta
+medlemsstaten) eller innehålla ett uttalande som anger att den inte är bestyrkt.
+Enligt artiklarna 19a.10 och 29a.9 i redovisningsdirektivet kan stora företag med värdepapper som är upptagna till
+handel på en reglerad marknad i EU – även om de är små och icke-komplexa institut, captivebolag för försäkring och
+captivebolag för återförsäkring och även om de är tredjelandsföretag – inte utnyttja detta undantag.
+20) Måste moderföretagets förvaltningsberättelse för koncernen/konsoliderade hållbarhetsrapportering redan
+vara offentliggjord när dess dotterföretag offentliggör sin egen förvaltningsberättelse för att dotterföretaget
+ska vara undantaget från att offentliggöra sin egen hållbarhetsförklaring?
+Nej. För att dotterföretaget ska undantas från att offentliggöra sin egen hållbarhetsförklaring i enlighet med artiklarna
+19a.9 eller 29a.8 i redovisningsdirektivet måste den förvaltningsberättelse som dotterföretaget offentliggör innehålla
+en webblänk till moderföretagets förvaltningsberättelse för koncernen eller dess konsoliderade hållbarhetsrap­
+portering(77). Om förvaltningsberättelsen för koncernen eller den konsoliderade hållbarhetsrapporteringen ännu inte
+är tillgänglig vid tidpunkten för offentliggörandet av dotterföretagets förvaltningsberättelse, kan det dotterföretag som
+åberopar undantaget i sin förvaltningsberättelse hänvisa till en allmän webblänk där de relevanta dokumenten
+kommer att finnas tillgängliga i framtiden. Dotterföretaget i unionen kan t.ex. överväga att inhämta en försäkran från
+moderföretaget om att det garanterar de åtaganden som dotterföretaget har gjort och offentliggöra denna försäkran
+tillsammans med sin förvaltningsberättelse inom den tidsfrist som fastställts av den egna medlemsstaten.
+21) Måste moderföretagets förvaltningsberättelse för koncernen eller dess konsoliderade hållbarhetsrapportering
+finnas tillgänglig på ett språk som godtas av den medlemsstat vars nationella lagstiftning dotterföretaget
+omfattas av för att dotterföretaget ska undantas från skyldigheten att offentliggöra sin egen hållbarhets­
+förklaring?
+Den medlemsstat vars nationella lagstiftning dotterföretaget omfattas av får kräva att moderföretagets förvaltningsbe­
+rättelse för koncernen (eller, i tillämpliga fall, moderföretagets konsoliderade hållbarhetsrapportering) offentliggörs på
+ett språk som den medlemsstaten godtar och att alla nödvändiga översättningar till ett sådant språk tillhandahålls. I
+detta fall måste dessa krav vara uppfyllda för att dotterföretaget ska kunna undantas från skyldigheten att offentliggöra
+sin egen hållbarhetsförklaring(78).
+22) Hur ska det undantagna dotterföretaget rapportera att det är undantaget?
+(77) Artikel 19a.9 andra stycket a ii och artikel 29a.8 andra stycket a ii i redovisningsdirektivet: ”Webblänkarna till moderföretagets
+förvaltningsberättelse för koncernen eller, där så är tillämpligt, till moderföretagets hållbarhetsrapportering för koncernen, enligt vad
+som avses i första stycket i denna punkt, och till det uttalande om kvalitetsgranskning som avses i artikel 34.1 andra stycket aa i detta
+direktiv eller det uttalande om kvalitetsgranskning som avses i led b i detta stycke.”
+(78) Artiklarna 19a.9 tredje stycket och 29a.8 tredje stycket i redovisningsdirektivet.
+ELI: http://data.europa.eu/eli/C/2024/6792/oj 21/43
+SV
+EUT C, 13.11.2024
+Enligt artiklarna 19a.9 och 29a.8 i redovisningsdirektivet ska det undantagna dotterföretaget i sin förvaltningsbe­
+rättelse lämna upplysningar om att det är undantaget från skyldigheten att offentliggöra en individuell hållbarhets­
+förklaring (eller en konsoliderad hållbarhetsförklaring, om dotterföretaget självt är ett mellanliggande moderföretag i
+en stor koncern)(79).
+23) Bör förvaltningsberättelsen för det undantagna dotterföretaget ha ett särskilt format för offentliggörande?
+Om ett dotterföretag utnyttjar undantaget i artikel 19a.9 eller 29a.8 i redovisningsdirektivet gäller de allmänna reglerna
+om offentliggörande av förvaltningsberättelsen, inklusive skyldigheten att lämna förvaltningsberättelsen till det
+nationella företagsregistret enligt artikel 30 i redovisningsdirektivet jämförd med bestämmelserna i avdelning I kapitel
+III i bolagsrättsdirektivet. De digitala kraven för hållbarhetsrapportering i artikel 29d i redovisningsdirektivet gäller
+inte. Om det dotterföretag som utnyttjar undantaget i artikel 19a.9 eller 29a.8 i redovisningsdirektivet har överlåtbara
+värdepapper som är upptagna till handel på en reglerad marknad i EU, måste det också uppfylla de allmänna krav som
+anges i artikel 4 i insynsdirektivet för offentliggörande av förvaltningsberättelsen i den årliga redovisningen (dvs.
+användning av det europeiska enhetliga elektroniska rapporteringsformat (Esef) som fastställs i den delegerade
+förordningen om Esef och offentliggörande av den årliga redovisningen inom fyra månader från räkenskapsårets slut).
+24) Kan stora företag som är upptagna till handel på en reglerad marknad i EU utnyttja undantagen enligt
+artiklarna 19a.9 och 29a.8 i redovisningsdirektivet?
+Nej. Enligt artiklarna 19a.10 och 29a.9 i redovisningsdirektivet kan stora företag med överlåtbara värdepapper som är
+upptagna till handel på en reglerad marknad i EU – även om de är små och icke-komplexa institut, captivebolag för
+försäkring och captivebolag för återförsäkring och även om de är tredjelandsföretag – inte undantas från skyldigheten
+att rapportera hållbarhetsinformation. De måste därför rapportera hållbarhetsinformation i enlighet med artikel 4.5 i
+insynsdirektivet och artiklarna 19a/29a i redovisningsdirektivet.
+25) Hur kan ett företag fullgöra skyldigheten att upprätta och offentliggöra en individuell eller konsoliderad
+hållbarhetsförklaring när det inte är skyldigt att upprätta och offentliggöra en individuell förvaltningsbe­
+rättelse eller en förvaltningsberättelse för koncernen?
+Ett företag som ska rapportera hållbarhetsinformation och som inte är skyldigt att upprätta och offentliggöra en
+individuell förvaltningsberättelse eller en förvaltningsberättelse för koncernen får offentliggöra den individuella eller
+konsoliderade hållbarhetsförklaringen i ett separat dokument. Denna princip gäller även för den konsoliderade
+hållbarhetsrapporteringen från ett moderföretag i tredjeland för dess dotterföretag som ska undantas enligt artiklarna
+19a.9 och 29a.8 i redovisningsdirektivet.
+Det separata dokumentet – som innehåller den individuella eller konsoliderade hållbarhetsförklaringen – måste dock
+uppfylla de krav på format och märkning som anges i artikel 29d i redovisningsdirektivet(80).
+26) Hur kan ett företag fullgöra skyldigheten att upprätta och offentliggöra en konsoliderad hållbarhetsförklaring
+när det är undantaget från att upprätta en koncernredovisning?
+(79) Artikel 19a.9 andra stycket a iii och artikel 29a.8 andra stycket a iii i redovisningsdirektivet: ”Upplysningar om att företaget är
+undantaget från de skyldigheter som anges i punkterna 1–4 i denna artikel.”
+(80) Artikel 29d i redovisningsdirektivet: ”1. De företag som omfattas av kraven i artikel 19a i detta direktiv ska utarbeta sin förvaltningsbe­
+rättelse i det elektroniska rapporteringsformat som specificeras i artikel 3 i kommissionens delegerade förordning (EU) 2019/815 (26)
+och märka sin hållbarhetsrapportering, inbegripet de upplysningar som föreskrivs i artikel 8 i förordning (EU) 2020/852, i enlighet
+med det elektroniska rapporteringsformat som specificeras i den delegerade förordningen. 2. De moderföretag som omfattas av
+kraven i artikel 29a ska utarbeta sin förvaltningsberättelse för koncernen i det elektroniska rapporteringsformat som specificeras i
+artikel 3 i delegerad förordning (EU) 2019/815 och märka sin hållbarhetsrapportering, inbegripet de upplysningar som föreskrivs i
+artikel 8 i förordning (EU) 2020/852, i enlighet med det elektroniska rapporteringsformat som specificeras i den delegerade
+förordningen.”
+22/43 ELI: http://data.europa.eu/eli/C/2024/6792/oj
+SV
+EUT C, 13.11.2024
+Ett företag som ska upprätta och offentliggöra en konsoliderad hållbarhetsförklaring utan att behöva upprätta och
+offentliggöra motsvarande koncernredovisning behöver i den konsoliderade hållbarhetsförklaringen ta med den
+finansiella information som är nödvändig för att förstå företagets inverkan på hållbarhetsfrågor och hur
+hållbarhetsfrågor påverkar företagets utveckling, resultat och ställning(81).
+ESRS
+27) Vilken uppsättning av europeiska standarder för hållbarhetsrapportering (ESRS) ska företag använda för att
+upprätta hållbarhetsinformation enligt artiklarna 19a och 29a i redovisningsdirektivet?
+Alla företag som omfattas av artiklarna 19a och 29a i redovisningsdirektivet ska som standard använda de europeiska
+standarder för hållbarhetsrapportering som antagits i enlighet med artikel 29b i redovisningsdirektivet (ESRS). Den
+första uppsättningen ESRS antogs av Europeiska kommissionen genom kommissionens delegerade förordning
+(EU) 2023/2772 av den 31 juli 2023.
+Vid upprättandet av den individuella hållbarhetsförklaringen enligt artikel 19a i redovisningsdirektivet får små och
+medelstora företag (utom mikroföretag) med överlåtbara värdepapper som är upptagna till handel på en reglerad
+marknad i EU, samt små och icke-komplexa institut, captivebolag för försäkring och captivebolag för återförsäkring,
+alternativt använda de proportionella ESRS som kommer att antas enligt artikel 29c i redovisningsdirektivet (ESRS för
+börsnoterade små och medelstora företag). Se även fråga 28.
+28) Vilka företag får använda ESRS för börsnoterade små och medelstora företag för att upprätta sin individuella
+hållbarhetsförklaring som ett alternativ till de ESRS som antagits enligt artikel 29b i redovisningsdirektivet?
+De företag som får använda ESRS för börsnoterade små och medelstora företag för att upprätta sin individuella
+hållbarhetsförklaring är
+— små och medelstora företag (utom mikroföretag) med överlåtbara värdepapper som är upptagna till handel på en
+reglerad marknad i EU,
+— små och icke-komplexa institut(82), förutsatt att de antingen är i) stora företag eller ii) små och medelstora företag
+(utom mikroföretag) med överlåtbara värdepapper som är upptagna till handel på en reglerad marknad i EU,
+(81) Detta resonemang bygger på artikel 19a.3 tredje stycket och artikel 29a.3 tredje stycket i redovisningsdirektivet: ”I tillämpliga fall ska
+den information som avses i punkterna 1 och 2 också innehålla hänvisningar till, och ytterligare redogörelser för, annan information
+som ingår i förvaltningsberättelsen i enlighet med artikel 19 och de belopp som rapporteras i årsredovisningen eller årsbokslutet.”
+Med ”i tillämpliga fall” avses situationer där finansiella rapporter inte upprättas och offentliggörs av företaget.
+(82) Definieras i artikel 4.1.145 i förordning (EU) nr 575/2013 som ”ett institut som uppfyller samtliga nedanstående villkor: a) Det är inte
+ett stort institut. b) Det totala värdet av dess tillgångar på individuell nivå eller, i tillämpliga fall, på konsoliderad nivå i enlighet med
+denna förordning och direktiv 2013/36/EU har under de fyra år som föregår den aktuella årliga rapporteringsperioden i genomsnitt
+varit lika med eller mindre än tröskelvärdet 5 miljarder EUR. Medlemsstaterna får sänka det tröskelvärdet. c) Det omfattas inte av
+några skyldigheter eller omfattas av förenklade skyldigheter avseende planer för återhämtning och resolution i enlighet med artikel 4 i
+direktiv 2014/59/EU. d) Dess handelslagerverksamhet är att betrakta som liten i enlighet med artikel 94.1. e) Det totala värdet av dess
+derivatpositioner som innehas i avsikt att bedriva handel är inte högre än 2 % av de totala tillgångarna i och utanför balansräkningen,
+och det totala värdet av derivatpositioner är inte högre än 5 %, varvid båda värdena beräknas i enlighet med artikel 273a.3. f) Över
+75 % av både institutets totala tillgångar och skulder på gruppnivå, i båda fallen exklusive exponeringar inom gruppen, är kopplade
+till verksamheter där motparterna är belägna i Europeiska ekonomiska samarbetsområdet. g) Institutet använder inte internmodeller
+för att uppfylla tillsynskraven i enlighet med denna förordning utom för dotterbolag som använder interna modeller utvecklade på
+gruppnivå, förutsatt att gruppen omfattas av de krav på offentliggörande som fastställs i artikel 433a eller artikel 433c på gruppnivå.
+h) Institutet har inte invänt mot en klassificering som ett litet och icke-komplext institut till den behöriga myndigheten. i) Den
+behöriga myndigheten har inte beslutat att institutet på grundval av en analys av dess storlek, sammankopplingar, komplexitet eller
+riskprofil inte kan betraktas som ett litet och icke-komplext institut.” Dessa institut kan omfattas av definitionen av stora företag om
+de uppfyller tröskelvärdena enligt artikel 3.7 i redovisningsdirektivet.
+ELI: http://data.europa.eu/eli/C/2024/6792/oj 23/43
+SV
+EUT C, 13.11.2024
+— captivebolag för försäkring(83), förutsatt att de antingen är i) stora företag, eller ii) små och medelstora företag
+(utom mikroföretag) med överlåtbara värdepapper som är upptagna till handel på en reglerad marknad i EU, och
+— captivebolag för återförsäkring(84), förutsatt att de antingen är i) stora företag, eller ii) små och medelstora företag
+(utom mikroföretag) med värdepapper som är upptagna till handel på en reglerad marknad i EU.
+VÄRDEKEDJA
+29) ESRS kräver att företag använder uppskattningar om de inte kan erhålla all nödvändig information om
+värdekedjan efter att ha gjort rimliga ansträngningar för att göra detta (ESRS 1, Allmänna krav, punkt 69).
+Vad innebär ”rimliga ansträngningar”?
+Begreppet rimliga ansträngningar används för att avgöra när ett företag ska rapportera en uppskattning av information
+om värdekedjan i stället för att rapportera information som samlats in från aktörer i dess värdekedja.
+I punkt 65 i ESRS 1 (Allmänna krav) anges syftet med att inkludera information om värdekedjan i hållbarhetsförk­
+laringen. Där anges att ”[f]öretaget ska inkludera väsentlig information om värdekedjan när detta är nödvändigt a) för
+att användare av hållbarhetsförklaringarna ska kunna förstå företagets väsentliga konsekvenser, risker och möjligheter,
+och/eller b) för att framställa en uppsättning information som uppfyller de kvalitativa egenskaperna för information (se
+tillägg B i denna standard)”.
+I punkt 68 i ESRS 1 (Allmänna krav) anges följande: ”Företagets förmåga att framskaffa den information om
+värdekedjan i tidigare och senare led som behövs kan variera beroende på olika faktorer, såsom företagets
+kontraktsmässiga arrangemang, hur pass stor kontroll det utövar över verksamheterna utanför konsolideringens
+omfattning, eller dess köpkraft. När företaget inte har möjlighet att kontrollera verksamheterna i sin värdekedja i
+tidigare och/eller senare led och sina affärsförbindelser, kan det vara svårare att få fram värdekedjeinformation.”
+I punkt 69 i ESRS 1 (Allmänna krav) anges följande: ”Det finns omständigheter när företaget inte kan samla
+information om sin värdekedja i tidigare och senare led i enlighet med punkt 63 efter att ha gjort rimliga
+ansträngningar för att göra detta. I sådana fall ska företaget uppskatta vilken information som ska rapporteras om dess
+värdekedja i tidigare och senare led, genom att använda all rimlig och underbyggbar information, såsom
+genomsnittliga uppgifter från sektorn och andra substitutmått.”
+I punkt 70 i ESRS 1 (Allmänna krav) erkänns att det kan vara svårt att erhålla information om värdekedjan när den
+relevanta aktören i värdekedjan är ett litet eller medelstort företag eller ett annat företag som inte omfattas av
+rapporteringskraven i direktivet om företagens hållbarhetsrapportering.
+I punkt 71 i ESRS 1 (Allmänna krav) görs en åtskillnad mellan rapportering av policyer, åtgärder och mål samt
+rapportering av mått. När det gäller policyer, åtgärder och mål anges att företaget ska rapportera information om
+värdekedjan ”i den utsträckning dessa policyer, åtgärder och mål faktiskt inkluderar aktörer i värdekedjan”. När det
+gäller mått anges att ”företaget i många fall, i synnerhet för miljöfrågor där det finns substitutmått tillgängliga, [kan]
+följa rapporteringskraven utan att samla in uppgifter från aktörerna i sin värdekedja i tidigare och senare led, särskilt
+från små och medelstora företag, t.ex. när företaget beräknar sina växthusgasutsläpp inom scope 3.”
+I punkt 72 klargörs följande: ”Om man inkluderar uppskattningar som gjorts med hjälp av genomsnittliga värden i
+sektorn eller andra substitutmått får det inte resultera i information som inte uppfyller de kvalitativa egenskaperna för
+information (se kapitel 2 och avsnitt 7.2 Källor till osäkerhet i uppskattning och utfall i denna standard).”
+(83) Definieras i artikel 13.2 i direktiv 2009/138/EG.
+(84) Definieras i artikel 13.5 i direktiv 2009/138/EG.
+24/43 ELI: http://data.europa.eu/eli/C/2024/6792/oj
+SV
+EUT C, 13.11.2024
+Företaget bör fastställa vad som utgör rimliga ansträngningar enligt punkt 69 i ESRS 1 (Allmänna krav) med hänsyn till
+sina specifika fakta och omständigheter samt villkoren i den externa miljö där det är verksamt. Vad som utgör rimliga
+ansträngningar kommer därför sannolikt att variera från företag till företag.
+Det förväntas att företagen oftare kommer att använda sig av uppskattningar under de första år som rapporter­
+ingskraven tillämpas och att användningen av uppskattningar kommer att bli mindre vanlig i takt med att förmågan
+hos företagen och aktörerna i företagens värdekedjor att dela hållbarhetsinformation förbättras med tiden.
+I samtliga fall bör företaget överväga om användningen av uppskattningar sannolikt kommer att påverka kvaliteten på
+den rapporterade informationen. Användningen av uppskattningar kan under vissa omständigheter förbättra
+kvaliteten på den rapporterade informationen, t.ex. om det bidrar till att säkerställa att informationen om
+konsekvenser, risker och möjligheter är neutral, eller om den insamlade informationen inte skulle vara tillräckligt
+tillförlitlig. Under sådana omständigheter skulle användningen av uppskattningar bidra till en mer trogen återgivning
+av de företeelser som informationen avser att återge, och det är därför mer sannolikt att det rapporterande företaget
+använder uppskattningar. Under andra omständigheter kan användningen av uppskattningar minska kvaliteten på den
+rapporterade informationen, till exempel om den resulterar i information som är mindre korrekt och/eller mindre
+fullständig och därför resulterar i en mindre trogen återgivning av de företeelser som den avser att återge.
+Vid beaktande av företagets specifika fakta och omständigheter och villkoren i den externa miljö där det är verksamt
+för att fastställa vad som utgör rimliga ansträngningar, kan följande kriterier ge användbar vägledning. Vart och ett av
+dessa kriterier kan i sig vara tillräckligt för att fastställa att rimliga ansträngningar har gjorts, eller så kan kriterierna
+tillämpas i kombination.
+— Det rapporterande företagets storlek och resurser i förhållande till omfattningen av och komplexiteten i
+dess värdekedja. Vad som utgör rimliga ansträngningar för ett större företag med stora resurser kanske inte
+anses vara rimligt för ett mindre företag med vanligtvis mindre resurser. Företagets storlek och resurser bör också
+beaktas i förhållande till omfattningen av och komplexiteten i dess värdekedja. Exempelvis kan vad som utgör
+rimliga ansträngningar för ett större företag med ett stort antal leverantörer för flera olika produkter och/eller
+med leveranskedjor i flera led anses vara orimligt för ett mindre företag med en lika komplex värdekedja.
+— Det rapporterande företagets tekniska beredskap att samla in information om värdekedjan. Exempelvis
+kan vad som utgör rimliga ansträngningar för ett mycket stort företag med stor tidigare erfarenhet av att samla in
+hållbarhetsinformation från aktörer i sin värdekedja inte anses vara rimligt för ett mindre företag utan sådan
+tidigare erfarenhet. Företagens tekniska beredskap att samla in information om värdekedjan förväntas bli bättre
+med tiden.
+— Tillgången till verktyg för att få åtkomst till och dela information om värdekedjan. Vad som utgör rimliga
+ansträngningar kan påverkas av tillgången till effektiva och allmänt använda verktyg, inklusive digitala verktyg,
+för att dela information om värdekedjan mellan företag. Tillgången till sådana verktyg kommer sannolikt att vara
+begränsad under de första åren av tillämpning av ESRS men bör förbättras med tiden, bland annat till följd av de
+frivilliga standarder för hållbarhetsrapportering för små och medelstora företag som för närvarande utarbetas av
+Efrag. Detta innebär att det är mer sannolikt att företag kommer att använda sig av uppskattningar under de
+första år då de tillämpar ESRS än under senare rapporteringscykler.
+— Storlek på och resurser hos aktören i värdekedjan. Vad som utgör rimliga ansträngningar kan påverkas av
+storleken på och resurserna hos den aktör i värdekedjan från vilken information förväntas. Särskilt små och
+medelstora företag kanske inte har de resurser som krävs för att enkelt och snabbt tillhandahålla den information
+som kan vara av intresse för det rapporterande företaget, vilket i sin tur gör det svårare för det rapporterande
+företaget att samla in nödvändig information om värdekedjan från små och medelstora företag. Om aktören i
+värdekedjan är ett litet eller medelstort företag är det därför mer sannolikt att det rapporterande företaget måste
+använda sig av uppskattningar. I allmänhet bör det rapporterande företagets användning av rimliga
+ansträngningar inte leda till förväntningar på att aktören i värdekedjan ska göra orimliga ansträngningar.
+ELI: http://data.europa.eu/eli/C/2024/6792/oj 25/43
+SV
+EUT C, 13.11.2024
+— Den tekniska beredskapen hos aktören i värdekedjan. Vad som utgör rimliga ansträngningar kan påverkas av
+den tekniska beredskapen hos aktören i värdekedjan att tillhandahålla hållbarhetsinformation. Den tekniska
+beredskapen hos aktörerna i värdekedjan bör förbättras med tiden, vilket innebär att det är mer sannolikt att
+företag kommer att använda sig av uppskattningar under de första år då de tillämpar ESRS än under senare
+rapporteringscykler.
+— Grad av inflytande och köpkraft. Vad som utgör rimliga ansträngningar kan påverkas av det rapporterande
+företagets befintliga kontrollnivå över aktören i värdekedjan och av det rapporterande företagets relativa köpkraft
+jämfört med andra företag. Exempelvis kan det krävas mindre ansträngningar för att få information från en aktör
+i värdekedjan som delvis ägs av det rapporterande företaget eller som genererar en stor andel av sin egen
+omsättning genom försäljning till det rapporterande företaget. Detta innebär att det är mer sannolikt att företagen
+kommer att använda sig av uppskattningar när det gäller aktörer i värdekedjan som de inte delvis äger eller för
+vilka de endast står för en liten del av omsättningen.
+— Aktörens närhet i värdekedjan, kopplat till graden av inflytande. Närheten mellan aktören i värdekedjan och
+det rapporterande företaget kan vara en faktor att ta hänsyn till vid fastställandet av vad som utgör rimliga
+ansträngningar, eftersom det vanligtvis krävs mindre ansträngningar för att få information från en primär
+leverantör eller en direktkund än från andra aktörer i värdekedjan. Detta innebär att det är mer sannolikt att
+företagen kommer att använda sig av uppskattningar när det gäller aktörer i värdekedjan som inte är primära
+leverantörer eller direktkunder.
+30) Vad kan små och medelstora företag förvänta sig i form av begäranden om hållbarhetsinformation till följd av
+direktivet om företagens hållbarhetsrapportering och ESRS?
+I punkterna 132 och 133 i ESRS 1 (Allmänna krav) anges övergångsbestämmelser som begränsar den information om
+värdekedjan som företag inom tillämpningsområdet för direktivet om företagens hållbarhetsrapportering måste
+rapportera och/eller samla in från aktörer i sin värdekedja under de första tre åren(85). I vilken utsträckning små och
+medelstora företag ombes att lämna hållbarhetsinformation av företag till följd av direktivet om företagens hållbarhets­
+rapportering och ESRS kommer under de första tre åren av genomförandet att påverkas starkt av huruvida företag som
+ingår i tillämpningsområdet för direktivet om företagens hållbarhetsrapportering använder sig av dessa övergångsbe­
+stämmelser för rapportering om värdekedjan.
+Trots de övergångsbestämmelser som avses ovan bör små och medelstora företag förvänta sig att företag som omfattas
+av direktivet om företagens hållbarhetsrapportering gör ”rimliga ansträngningar” för att från aktörerna i företagens
+värdekedjor samla in den information som de behöver för att följa ESRS. I enlighet med svaret på föregående fråga är
+storleken och resurserna, den tekniska beredskapen och närheten till aktören i värdekedjan några av de kriterier som
+kan användas för att fastställa vad som utgör ”rimliga ansträngningar”. Mindre små och medelstora företag som aldrig
+frivilligt har rapporterat hållbarhetsinformation, som inte är kopplade till allvarlig negativ inverkan och som inte är
+primära leverantörer eller kunder till företag som omfattas av direktivet om företagens hållbarhetsrapportering bör
+därför, åtminstone under de första åren då rapporteringskraven tillämpas, vara mindre utsatta för förväntningar på att
+ha och dela hållbarhetsinformation. Större små och medelstora företag som tidigare har rapporterat hållbarhetsin­
+formation (t.ex. för att de tillämpar Emas eller andra certifierings- eller rapporteringssystem för miljö eller hållbarhet)
+och små och medelstora företag som är primära leverantörer eller kunder till företag som omfattas av direktivet om
+företagens hållbarhetsrapportering kan vara utsatta för högre förväntningar på att ha och dela hållbarhetsinformation.
+(85) Punkt 132: ”Under de första tre åren då företaget rapporterar hållbarhet enligt ESRS ska företaget, om en del av den nödvändiga
+informationen om värdekedjan i tidigare och senare led inte är tillgänglig, förklara de insatser som gjorts för att erhålla informationen
+om värdekedjan i tidigare och senare led, anledningarna till att den informationen inte kunde anskaffas samt företagets planer för att
+skaffa sådan information i framtiden.” Punkt 133: ”För att ta hänsyn till de svårigheter som företag kan stöta på vid insamling av
+information och för att begränsa bördan för små och medelstora företag som ingår i värdekedjan, gäller under de första tre åren då ett
+företag rapporterar hållbarhet enligt ESRS: a) att företaget, vid upplysningar om policyer, åtgärder och mål i enlighet med ESRS2 och
+andra ESRS, får begränsa information om värdekedjan i tidigare och senare led till den information som finns tillgänglig internt, såsom
+uppgifter som företaget redan har tillgång till och allmänt tillgänglig information och b) att företaget när upplysningar om mått lämnas
+inte är skyldigt att inkludera värdekedjeinformation i tidigare och senare led, med undantag för datapunkter som härrör från annan
+EU-lagstiftning, enligt förteckningen i tillägg B till ESRS 2.”
+26/43 ELI: http://data.europa.eu/eli/C/2024/6792/oj
+SV
+EUT C, 13.11.2024
+Efrag utarbetar för närvarande två standarder för hållbarhetsrapportering för små och medelstora företag: en
+obligatorisk för börsnoterade små och medelstora företag och en frivillig för icke börsnoterade små och medelstora
+företag. ESRS för börsnoterade små och medelstora företag kommer att fastställa den högsta nivå av hållbarhetsin­
+formation som ESRS kan kräva att ett företag som omfattas av direktivet om företagens hållbarhetsrapportering
+inhämtar från små och medelstora företag i sin värdekedja. ESRS för icke börsnoterade små och medelstora företag
+kommer att utformas för att bli en referenspunkt för alla aktörer på marknaden, för att säkerställa att rapporteringsin­
+satserna för företag som omfattas av direktivet om företagens hållbarhetsrapportering och företag som inte omfattas av
+direktivet om företagens hållbarhetsrapportering är proportionerliga.
+31) Till vilken tidpunkt gäller övergångsperioden för utlämnande av information i värdekedjan? Bör startdatumet
+för den treåriga övergångsperioden vara olika för olika typer av företag?
+I kapitel 10.2 i ESRS 1 finns övergångsbestämmelser till kapitel 5 om värdekedjor. Övergångsperioden för att lämna
+information som krävs från värdekedjan gäller för de tre första räkenskapsåren som rapporteringskraven tillämpas, för
+varje företag. Om ett företag t.ex. omfattas av artiklarna 19a eller 29a i redovisningsdirektivet från och med
+räkenskapsåret 2024, kan det utnyttja övergångsperioden för rapportering om värdekedjan för räkenskapsåren 2024,
+2025 och 2026.
+UPPLYSNINGAR ENLIGT ARTIKEL 8 I TAXONOMIFÖRORDNINGEN
+32) Måste företagen inkludera upplysningar enligt artikel 8 i taxonomiförordningen i sin hållbarhetsförklaring?
+Ja, företag som omfattas av artiklarna 19a eller 29a i redovisningsdirektivet måste inkludera upplysningar enligt
+artikel 8 i taxonomiförordningen i sina hållbarhetsförklaringar.
+33) Om ett litet eller medelstort företag med överlåtbara värdepapper som är upptagna till handel på en reglerad
+marknad i EU utnyttjar det tvååriga undantaget från hållbarhetsrapportering fram till 2028, måste det då
+fortfarande inkludera upplysningar enligt artikel 8 i taxonomiförordningen i sin förvaltningsberättelse?
+Nej. Artikel 8 i taxonomiförordningen gäller för alla företag som är skyldiga att upprätta och offentliggöra en
+hållbarhetsförklaring enligt artiklarna 19a och 29a i redovisningsdirektivet. Om ett litet eller medelstort företag (utom
+mikroföretag) med överlåtbara värdepapper som är upptagna till handel på en reglerad marknad i EU beslutar att inte
+inkludera en hållbarhetsförklaring i sin förvaltningsberättelse enligt artikel 19a.7 i redovisningsdirektivet – där
+upplysningar enligt artikel 8 i taxonomiförordningen skulle behöva inkluderas – är det dock inte skyldigt att lämna
+upplysningar enligt artikel 8 i taxonomiförordningen.
+34) Måste företag i sin förvaltningsberättelse inkludera de upplysningar som ska lämnas enligt artikel 8 i
+taxonomiförordningen även om de är undantagna från att upprätta och offentliggöra en hållbarhetsförklaring
+enligt artiklarna 19a.9 och 29a.8 i redovisningsdirektivet?
+Ja, men endast om deras moderföretag är etablerat i ett tredjeland och upplysningar enligt artikel 8 i taxonomiför­
+ordningen inte ingår i moderföretagets konsoliderade hållbarhetsrapportering. Om ett företag utnyttjar undantaget
+från skyldigheten att lämna in en hållbarhetsförklaring enligt artiklarna 19a.9 eller 29a.8 i redovisningsdirektivet och
+moderföretaget är etablerat i ett tredjeland, måste upplysningar enligt artikel 8 i taxonomiförordningen, som omfattar
+den verksamhet som bedrivs av det undantagna dotterföretag som är etablerat i unionen och dess dotterföretag, ingå i
+förvaltningsberättelsen för det undantagna dotterföretaget eller i den konsoliderade hållbarhetsrapportering som
+upprättas av det moderföretag som är etablerat i ett tredjeland(86).
+SPRÅKKRAV
+35) På vilket språk ska hållbarhetsförklaringen upprättas och offentliggöras?
+(86) Artikel 19a.9 andra stycket c i redovisningsdirektivet.
+ELI: http://data.europa.eu/eli/C/2024/6792/oj 27/43
+SV
+EUT C, 13.11.2024
+Företag som omfattas av artiklarna 19a och 29a i redovisningsdirektivet ska offentliggöra förvaltningsberättelsen
+(inklusive hållbarhetsförklaringen), tillsammans med det revisionsuttalande och den rapport som lämnats av den
+lagstadgade revisor eller det revisionsföretag som avses i artikel 34 i redovisningsdirektivet, i enlighet med artikel 30.1
+i redovisningsdirektivet, som hänvisar till de lagar som fastställs av varje medlemsstat i enlighet med avdelning I kapitel
+III i bolagsrättsdirektivet. I synnerhet klargörs följande i artikel 21 i bolagsrättsdirektivet: ”1. De handlingar och
+uppgifter som ska offentliggöras enligt artikel 14 ska upprättas och ges in på ett av de språk som tillåts enligt de
+språkregler som gäller i den medlemsstat i vilken den akt som avses i artikel 16.1 har lagts upp.” Det språk som
+företagen ska använda för att offentliggöra hållbarhetsförklaringen i förvaltningsberättelsen måste därför vara ett språk
+som anges i den relevanta medlemsstatens lagstiftning och som fastställts i enlighet med artikel 21 i bolagsrättsdi­
+rektivet.
+Om ett företag som omfattas av artiklarna 19a och 29a i redovisningsdirektivet har värdepapper som är upptagna till
+handel på en reglerad marknad i EU, måste det också fullgöra de skyldigheter att lämna upplysningar om förvaltnings­
+berättelsen som anges i insynsdirektivet. Språkreglerna för ”obligatorisk information”, som inkluderar förvaltningsbe­
+rättelsen som en del av den årliga redovisningen, fastställs av varje medlemsstat i enlighet med artikel 20 i
+insynsdirektivet.
+DIGITALISERING (FORMAT OCH DIGITAL MÄRKNING)
+36) Vilka är kraven på digitalt format för en förvaltningsberättelse som innehåller en hållbarhetsförklaring?
+Enligt artikel 29d i redovisningsdirektivet ska företag som ska utföra hållbarhetsrapportering upprätta sin förvaltnings­
+berättelse (på konsoliderad nivå, i tillämpliga fall) i det elektroniska rapporteringsformat som anges i artikel 3 i den
+delegerade förordningen om Esef (dvs. XHTML) och märka sin hållbarhetsförklaring i förvaltningsberättelsen i enlighet
+med den digitala taxonomi som ska specificeras genom en ändring av den delegerade förordningen om Esef.
+37) Måste företag också märka upplysningar enligt artikel 8 i taxonomiförordningen?
+Ja, det måste de. Enligt artikel 29d i redovisningsdirektivet ska företag som måste offentliggöra en hållbarhetsförklaring
+i sin förvaltningsberättelse märka sin hållbarhetsförklaring, inklusive de upplysningar som föreskrivs i artikel 8 i
+taxonomiförordningen, i enlighet med den digitala taxonomi som ska specificeras genom en ändring av den
+delegerade förordningen om Esef.
+38) Vilka är de formatkrav som företagen måste uppfylla i avvaktan på att Europeiska kommissionen antar en
+digital taxonomi för märkning av hållbarhetsrapporten?
+Enligt artikel 29d i redovisningsdirektivet ska företag som måste offentliggöra en hållbarhetsförklaring i sin
+förvaltningsberättelse upprätta sin förvaltningsberättelse i det elektroniska rapporteringsformat som anges i artikel 3 i
+den delegerade förordningen om Esef (dvs. XHTML) och märka hållbarhetsförklaringen i förvaltningsberättelsen i
+enlighet med den specifika digitala taxonomi som kommer att antas genom en ändring av den delegerade
+förordningen om Esef. Fram till dess att denna digitala taxonomi antas behöver företagen inte märka sina hållbarhets­
+förklaringar. Med tanke på att hållbarhetsförklaringen kommer att bli maskinläsbar först när den både ingår i ett
+XHTML-dokument och har märkts enligt en digital taxonomi, är företagen inte heller skyldiga att upprätta
+förvaltningsberättelsen i XHTML förrän den digitala taxonomin har antagits.
+OFFENTLIGGÖRANDE
+39) Vilken är tidsfristen för offentliggörande av en förvaltningsberättelse som innehåller hållbarhetsförklaringen?
+I artikel 30 i redovisningsdirektivet anges reglerna för offentliggörande av förvaltningsberättelsen (som i relevanta fall
+inkluderar den hållbarhetsförklaring som upprättas enligt artiklarna 19a/29a i redovisningsdirektivet), vilken måste
+offentliggöras tillsammans med uttalandet/rapporten om kvalitetsgranskning senast tolv månader efter balansdagen
+för det räkenskapsår som berättelsen upprättas för, enligt vad som föreskrivs av varje medlemsstat.
+28/43 ELI: http://data.europa.eu/eli/C/2024/6792/oj
+SV
+EUT C, 13.11.2024
+Företag som är emittenter av värdepapper upptagna till handel på en reglerad marknad i EU måste också offentliggöra
+sin årliga redovisning (som inkluderar förvaltningsberättelsen och därmed hållbarhetsförklaringen) senast fyra
+månader efter utgången av varje räkenskapsår, enligt artikel 4.5 i insynsdirektivet, som korshänvisar till artiklarna 19a
+och 29a i redovisningsdirektivet.
+TILLSYN
+40) Vilka myndigheter ansvarar för tillsynen över efterlevnaden av kraven på hållbarhetsförklaringar som
+upprättas i enlighet med artiklarna 19a och 29a i redovisningsdirektivet?
+Direktivet om företagens hållbarhetsrapportering innebär inga ändringar av EU:s befintliga tillsynssystem, enligt vilket
+medlemsstaterna ska ha infört sanktioner som är effektiva, proportionella och avskräckande för de fall där företag med
+begränsat ansvar brister i efterlevnaden (artikel 51 i redovisningsdirektivet) och inrätta en nationell tillsynsmyndighet
+med befogenheter att övervaka huruvida emittenter av överlåtbara värdepapper som är upptagna till handel på en
+reglerad marknad i EU efterlever reglerna (artiklarna 28 och följande i insynsdirektivet). Detta innebär att företagens
+efterlevnad av kraven på hållbarhetsrapportering kommer att omfattas av det nationella sanktionssystem som finns
+för förvaltningsberättelsen för företag med begränsat ansvar (enligt redovisningsdirektivet) och för emittenter av
+överlåtbara värdepapper som är upptagna till handel på en reglerad marknad i EU (enligt insynsdirektivet). När det
+gäller emittenter av överlåtbara värdepapper som är upptagna till handel på en reglerad marknad i EU ska Esma i
+enlighet med artikel 28d i insynsdirektivet även utfärda riktlinjer för de nationella behöriga myndigheternas tillsyn
+över hållbarhetsrapporteringen.
+Under alla omständigheter måste den hållbarhetsförklaring som ska ingå i förvaltningsberättelsen enligt artikel 34 i
+redovisningsdirektivet alltid vara föremål för en kvalitetsgranskning av en lagstadgad revisor, eller av en oberoende
+leverantör av kvalitetsgranskningstjänster om detta är tillåtet enligt en medlemsstat.
+AVSNITT IV
+VANLIGA FRÅGOR OM HÅLLBARHETSINFORMATION SOM RAPPORTERAS ENLIGT ARTIKEL 40A I
+REDOVISNINGSDIREKTIVET
+TILLÄMPNINGSOMRÅDE OCH TILLÄMPNINGSDATUM
+41) Måste det yttersta moderföretaget i tredjeland ha en viss rättslig form för att ingå i tillämpningsområdet för
+artikel 40a i redovisningsdirektivet?
+Nej. Den rättsliga formen för det yttersta moderföretaget i tredjeland är irrelevant vid tillämpningen av artikel 40a i
+redovisningsdirektivet.
+42) Vilka är skyldigheterna för dotterföretaget eller filialen i EU enligt artikel 40a i redovisningsdirektivet? Är
+dotterföretag/filialer i EU skyldiga att upprätta en hållbarhetsrapport eller bara att offentliggöra och
+tillgängliggöra den hållbarhetsrapport som upprättats av deras moderföretag?
+Om ett tredjelandsföretag omfattas av artikel 40a i redovisningsdirektivet måste dess dotterföretag eller filial i EU
+offentliggöra och tillgängliggöra en hållbarhetsrapport på uppdrag av sitt moderföretag i tredjeland. Skyldigheten att
+upprätta hållbarhetsrapporten faller inte uttryckligen på dotterföretaget eller filialen i EU. Det innebär att
+moderföretaget i tredjeland kan upprätta rapporten, som sedan ska offentliggöras och göras tillgänglig av
+dotterföretaget eller filialen i EU, antingen genom att den registreras i ett företagsregister i EU eller genom att den
+offentliggörs på dess webbplats. Alternativt får dotterföretaget eller filialen i EU upprätta, offentliggöra och göra
+rapporten tillgänglig på uppdrag av sitt moderföretag i tredjeland.
+ELI: http://data.europa.eu/eli/C/2024/6792/oj 29/43
+SV
+EUT C, 13.11.2024
+43) Måste varje dotterföretag eller filial i EU offentliggöra en hållbarhetsrapport enligt artikel 40a i redovisnings­
+direktivet? Eller räcker det att endast ett av dotterföretagen eller en av filialerna i EU offentliggör rapporten
+och att de övriga endast tillhandahåller en länk till hållbarhetsrapporten?
+Enligt artikel 40a i redovisningsdirektivet ska minst en hållbarhetsrapport offentliggöras av ett dotterföretag eller en
+filial i varje medlemsstat (”Medlemsstaterna ska kräva att ett dotterföretag som är etablerat på deras territorium […]”).
+För att undvika dubbelrapportering från dotterföretag och filialer till samma tredjelandsföretag får medlemsstaterna
+tillåta att ett dotterföretag eller en filial som är etablerat/etablerad eller beläget/belägen inom deras territorium fullgör
+skyldigheten i artikel 40a i redovisningsdirektivet genom att tillhandahålla en länk till den hållbarhetsrapport som
+offentliggjorts av ett annat dotterföretag eller en annan filial inom unionen till tredjelandsföretaget.
+ESRS
+44) Vilka ESRS ska användas vid upprättandet av en hållbarhetsrapport enligt artikel 40a i redovisningsdi­
+rektivet?
+Den hållbarhetsrapport som avses i artikel 40a i redovisningsdirektivet ska upprättas i enlighet med de standarder för
+hållbarhetsrapportering som ska antas enligt artikel 40b i redovisningsdirektivet.
+Genom undantag medges i artikel 40a.2 andra stycket i redovisningsdirektivet att hållbarhetsrapporten får upprättas i
+enlighet med de standarder för hållbarhetsrapportering som antagits enligt artikel 29b i redovisningsdirektivet
+(dvs. ESRS) eller på ett sätt som är likvärdigt med de standarder för hållbarhetsrapportering som antagits enligt
+artikel 29b i redovisningsdirektivet, vilket fastställs genom ett kommissionsbeslut om likvärdighet. Denna
+bestämmelse ska läsas på så sätt att ett moderföretag i tredjeland som omfattas av artikel 40a i redovisningsdirektivet
+kan välja att offentliggöra en konsoliderad hållbarhetsförklaring enligt artikel 29a i redovisningsdirektivet (upprättad i
+enlighet med de standarder som antagits enligt artikel 29b), i stället för att låta sitt dotterföretag eller sin filial i EU
+offentliggöra en hållbarhetsrapport på koncernnivå enligt artikel 40a i redovisningsdirektivet. I så fall skulle de
+undantag för dotterföretaget i EU som anges i artiklarna 19a.9 och 29a.8 i redovisningsdirektivet vara tillämpliga.
+45) Vad händer om dotterföretaget/filialen i EU inte lyckas samla in all nödvändig information för att upprätta
+hållbarhetsrapporten?
+Om inte all nödvändig information tillhandahålls ska dotterföretaget eller filialen upprätta, offentliggöra och
+tillgängliggöra hållbarhetsrapporten, med all information som dotterföretaget eller filialen förfogar över, erhållit eller
+förvärvat, och utfärda ett uttalande om att tredjelandsföretaget inte har gjort den nödvändiga informationen tillgänglig
+(artikel 40a.2 fjärde stycket i redovisningsdirektivet).
+UPPLYSNINGAR ENLIGT ARTIKEL 8 I TAXONOMIFÖRORDNINGEN
+46) Måste företag inkludera upplysningar enligt artikel 8 i taxonomiförordningen i den hållbarhetsrapport som
+upprättas enligt artikel 40a i redovisningsdirektivet?
+Nej. Företag som rapporterar i enlighet med artikel 40a i redovisningsdirektivet behöver inte inkludera upplysningar
+enligt artikel 8 i taxonomiförordningen i hållbarhetsrapporten.
+47) Om ett moderföretag i tredjeland som omfattas av artikel 40a i redovisningsdirektivet väljer att upprätta och
+offentliggöra en konsoliderad hållbarhetsförklaring som upprättats i enlighet med ESRS i stället för en
+hållbarhetsrapport, är detta moderföretag i tredjeland skyldigt att rapportera upplysningar enligt artikel 8 i
+taxonomiförordningen?
+Ett moderföretag i tredjeland som omfattas av artikel 40a i redovisningsdirektivet och som väljer att offentliggöra en
+konsoliderad hållbarhetsförklaring som upprättats i enlighet med ESRS i stället för en hållbarhetsrapport behöver inte
+rapportera enligt artikel 8 i taxonomiförordningen.
+30/43 ELI: http://data.europa.eu/eli/C/2024/6792/oj
+SV
+EUT C, 13.11.2024
+För att dotterföretag inom unionen till detta moderföretag i tredjeland ska kunna undantas från sina krav på
+hållbarhetsrapportering enligt artiklarna 19a/29a i redovisningsdirektivet (om dessa dotterföretag inom unionen
+omfattas av krav på hållbarhetsrapportering enligt artiklarna 19a/29a i redovisningsdirektivet) måste dock
+upplysningar enligt artikel 8 i taxonomiförordningen som omfattar den verksamhet som bedrivs av dessa
+dotterföretag inom unionen ingå i deras egen förvaltningsberättelse eller i den konsoliderade hållbarhetsrapportering
+som utförs av moderföretaget i tredjeland(87).
+REGLER FÖR UNDANTAG
+48) Kan de dotterföretag inom unionen som omfattas av artikel 40a i redovisningsdirektivet dra nytta av
+undantagsbestämmelserna enligt artiklarna 19a.9 och 29a.8 i redovisningsdirektivet?
+Den hållbarhetsförklaring som upprättas i enlighet med artiklarna 19a/29a i redovisningsdirektivet och den
+hållbarhetsrapport som upprättas i enlighet med artikel 40a i redovisningsdirektivet har olika innehåll och omfattas
+av olika bestämmelser.
+Om ett dotterföretag inom unionen offentliggör en hållbarhetsrapport på koncernnivå för sitt moderföretag i
+tredjeland i enlighet med bestämmelserna i artikel 40a befriar det därför inte dotterföretaget inom unionen självt eller
+dess egna dotterföretag från att fullgöra rapporteringsskyldigheterna enligt artiklarna 19a och/eller 29a.
+Ett moderföretag i tredjeland som ingår i tillämpningsområdet för artikel 40a kan dock välja att offentliggöra en
+konsoliderad hållbarhetsförklaring enligt artikel 29a (upprättad i enlighet med de standarder för hållbarhetsrap­
+portering som antagits enligt artikel 29b eller på ett sätt som är likvärdigt med dessa standarder för hållbarhetsrap­
+portering) i stället för att låta sitt dotterföretag i EU eller sin filial i EU offentliggöra en hållbarhetsrapport på
+koncernnivå enligt artikel 40a. I detta fall undantas dotterföretaget i EU från skyldigheten att offentliggöra hållbarhets­
+rapporten enligt artikel 40a, förutsatt att de villkor som anges i artiklarna 19a.9 och 29a.8 är uppfyllda.
+SPRÅK OCH FORMAT
+49) På vilket språk ska hållbarhetsrapporten offentliggöras?
+Språkreglerna för hållbarhetsrapporten fastställs av varje medlemsstat i enlighet med artikel 21 i bolagsrättsdirektivet.
+50) Vilka är formatkraven för den hållbarhetsrapport som ska lämnas enligt artikel 40a i redovisningsdirektivet?
+Redovisningsdirektivet kräver inte något särskilt format för offentliggörandet av hållbarhetsrapporten. Enligt
+artikel 33a – som infördes genom direktiv (EU) 2023/2864 angående funktionssättet för den europeiska
+gemensamma åtkomstpunkten(88)– ska dock dotterföretag och filialer som omfattas av artikel 40a lämna hållbarhets­
+rapporten i ett format som data kan extraheras från tillsammans med relevanta åtföljande metadata till det
+insamlingsorgan som utsetts av medlemsstaten(89). Kommissionen har också befogenhet att anta genomföran­
+deåtgärder för att specificera ytterligare metadata som ska åtfölja hållbarhetsrapporten och för att kräva ett
+maskinläsbart format.
+OFFENTLIGGÖRANDE
+51) När ska företagen/filialerna offentliggöra hållbarhetsrapporten?
+(87) Artikel 19a.9 andra stycket c och artikel 29a.8 andra stycket c i redovisningsdirektivet.
+(88) Europaparlamentets och rådets direktiv (EU) 2023/2864 av den 13 december 2023 om ändring av vissa direktiv vad gäller inrättandet
+av den europeiska gemensamma åtkomstpunkten och denna åtkomstpunkts funktionssätt (EUT L, 2023/2864, 20.12.2023, ELI:
+http://data.europa.eu/eli/dir/2023/2864/oj).
+(89) Artikel 33a i redovisningsdirektivet, ändrad genom paketet om en europeisk gemensam åtkomstpunkt.
+ELI: http://data.europa.eu/eli/C/2024/6792/oj 31/43
+SV
+EUT C, 13.11.2024
+Enligt artikel 40d.1 i redovisningsdirektivet ska dotterföretag och filialer som avses i artikel 40a.1 i redovisningsdi­
+rektivet offentliggöra hållbarhetsrapporten – tillsammans med uttalandet om kvalitetsgranskning och, i tillämpliga fall,
+det uttalande som avses i artikel 40a.2 fjärde stycket i redovisningsdirektivet – inom tolv månader från balansdagen för
+det räkenskapsår för vilket rapporten upprättas.
+TILLSYN
+52) Vilka myndigheter ansvarar för tillsynen över efterlevnaden av kraven på hållbarhetsrapport?
+Direktivet om företagens hållbarhetsrapportering innebär inga ändringar av det befintliga sanktionssystemet enligt
+redovisningsdirektivet, enligt vilket medlemsstaterna ska ha infört sanktioner som är effektiva, proportionella och
+avskräckande för de fall där företag som omfattas av kraven i redovisningsdirektivet brister i efterlevnaden(90).
+Företagens efterlevnad av kraven på hållbarhetsrapportering omfattas därför av det nationella sanktionssystem som
+gäller för förvaltningsberättelsen för de företag som omfattas av redovisningsdirektivet. Under alla omständigheter
+måste hållbarhetsrapporten alltid vara föremål för kvalitetsgranskning av en kvalitetsgranskningsleverantör enligt
+artikel 40a.3 i redovisningsdirektivet(91).
+AVSNITT V
+VANLIGA FRÅGOR OM KVALITETSGRANSKNING AV HÅLLBARHETSRAPPORTERING
+GODKÄNNANDE AV LAGSTADGADE REVISORER OCH REVISIONSFÖRETAG
+53) Ska fysiska personer som utför lagstadgad revision för ett revisionsföretags räkning uppfylla villkoren i
+artiklarna 4 och 6–12 i revisionsdirektivet, inklusive de ytterligare särskilda kraven i artiklarna 7.2, 8.3, 10.1
+andra stycket och 14.2 fjärde stycket i revisionsdirektivet? Ska fysiska personer som innehar rösträtt i ett
+revisionsföretag även uppfylla villkoren i artiklarna 4 och 6–12 i revisionsdirektivet, inklusive de ytterligare
+särskilda kraven i artiklarna 7.2, 8.3, 10.1 andra stycket och 14.2 fjärde stycket i revisionsdirektivet, även om
+revisionsföretaget inte planerar att tillhandahålla kvalitetsgranskning av hållbarhetsrapportering? Hur är det
+med kraven på de fysiska personer som ingår i revisionsföretagets förvaltnings- eller ledningsorgan?
+I artikel 3 i revisionsdirektivet – som reglerar godkännandet av lagstadgade revisorer och revisionsföretag – föreskrivs
+att behöriga myndigheter får godkänna lagstadgade revisorer och revisionsföretag endast om vissa villkor är uppfyllda.
+De villkor för godkännande av lagstadgade revisorer som anges i artikel 3.3 i revisionsdirektivet korshänvisar till
+artiklarna 4 och 6–10 i revisionsdirektivet, medan de villkor för godkännande av revisionsföretag som anges i
+artikel 3.4 i revisionsdirektivet korshänvisar till artiklarna 4 och 6–12 i revisionsdirektivet.
+Formuleringen i artikel 4 i revisionsdirektivet om gott anseende är tillräckligt bred för att även gälla kvalitetsgranskning
+av hållbarhetsrapportering, medan artiklarna 6–12 i revisionsdirektivet har ändrats så att de uttryckligen gäller
+kvalitetsgranskning av hållbarhetsrapportering.
+(90) Artikel 51 i redovisningsdirektivet: ”Medlemsstaterna ska fastställa sanktioner vid överträdelser av de nationella bestämmelser som
+antas i enlighet med detta direktiv och vidta alla nödvändiga åtgärder för att se till att de genomförs. Sanktionerna ska vara effektiva,
+proportionella och avskräckande.”
+(91) Artikel 40a.3 första stycket: ”Medlemsstaterna ska kräva att den hållbarhetsrapport […] offentliggörs tillsammans med ett uttalande
+om kvalitetsgranskning som gjorts av en eller flera personer eller ett eller flera företag som är auktoriserade att lämna ett uttalande om
+kvalitetsgranskning av hållbarhetsrapportering enligt tredjelandsföretagets eller en medlemsstats nationella rätt.”
+32/43 ELI: http://data.europa.eu/eli/C/2024/6792/oj
+SV
+EUT C, 13.11.2024
+Om lagstadgade revisorer eller revisionsföretag vill bli godkända för att tillhandahålla kvalitetsgranskning av
+hållbarhetsrapportering måste de uppfylla alla relevanta krav i nationell lagstiftning som införlivar revisionsdirektivet
+när det gäller kvalitetsgranskning av hållbarhetsrapportering, inklusive de som avses i artikel 3.4 i revisionsdirektivet.
+Det är inte obligatoriskt att uppfylla kraven för kvalitetsgranskning av hållbarhetsrapportering för att en lagstadgad
+revisor eller ett revisionsföretag som inte tillhandahåller kvalitetsgranskning av hållbarhetsrapportering ska kunna
+godkännas enligt artikel 3 i revisionsdirektivet.
+54) Vilka är godkännandekraven för kvalitetsgranskning av hållbarhetsrapportering för lagstadgade revisorer
+som var godkända före den 1 januari 2024eller som den 1 januari 2024genomgick godkännandeförfarandet?
+För att lagstadgade revisorer ska kunna tillhandahålla kvalitetsgranskning av hållbarhetsrapportering måste de vara
+godkända och sedan uppfylla de ytterligare kraven för hållbarhet.
+Mer specifikt, enligt artikel 14a tredje stycket i revisionsdirektivet, behöver de lagstadgade revisorer som godkänts före
+den 1 januari 2026– som antingen var godkända före den 1 januari 2024eller som den 1 januari 2024genomgick
+godkännandeförfarandet – och som även vill utföra kvalitetsgranskning av hållbarhetsrapportering inte följa artiklarna
+7.2, 8.3, 10.1 andra stycket och 14.2 fjärde stycket i revisionsdirektivet, men de måste ändå förvärva nödvändig
+kunskap genom fortbildning.
+55) Kan lagstadgade revisorer som godkänts före den 1 januari 2026ansöka om att på obestämd tid bli godkända
+för kvalitetsgranskning av hållbarhetsrapportering? Vilka krav skulle gälla för deras godkännande?
+Enligt artikel 14a tredje stycket i revisionsdirektivet ska lagstadgade revisorer som godkänts före den 1 januari 2026
+och som vill utföra kvalitetsgranskning av hållbarhetsrapportering förvärva nödvändig kunskap om hållbarhetsrap­
+portering och kvalitetsgranskning av hållbarhetsrapportering, inklusive de ämnesområden som anges i artikel 8.3 i
+revisionsdirektivet, genom den fortbildning som avses i artikel 13 i revisionsdirektivet. Enligt artikel 14a i revisionsdi­
+rektivet krävs inte att ytterligare examinationer eller förvärv av denna kunskap ska göras innan godkännandet erhålls.
+Revisionsdirektivet anger inte några tidsfrister för lagstadgade revisorer som godkänts före den 1 januari 2026 att
+ansöka om att utföra kvalitetsgranskning av hållbarhetsrapportering i enlighet med dessa krav.
+56) För att en lagstadgad revisor eller en praktikant även ska godkännas för att utföra kvalitetsgranskning av
+hållbarhetsrapportering, kommer den treåriga praktiska utbildning som krävs enligt artikel 10.1 första
+stycket i revisionsdirektivet att behöva omfatta åtta månaders praktisk utbildning inom området för kvalitets­
+granskning av hållbarhetsrapportering, eller kommer den att behöva förlängas med ytterligare åtta månader?
+För att en lagstadgad revisor eller en praktikant även ska godkännas för att utföra kvalitetsgranskning av hållbarhets­
+rapportering måste den treåriga praktiska utbildning som krävs enligt artikel 10.1 första stycket i revisionsdirektivet
+att behöva omfatta åtta månaders praktisk utbildning om kvalitetsgranskning av årlig och konsoliderad hållbarhetsrap­
+portering eller om andra hållbarhetsrelaterade tjänster.
+Den lagstadgade revisor eller praktikant som redan har slutfört den treåriga praktiska utbildningen vid tidpunkten för
+ansökan om godkännande att utföra kvalitetsgranskning av hållbarhetsrapportering måste genomföra en ytterligare
+period på åtta månaders praktisk utbildning om kvalitetsgranskning av årlig och konsoliderad hållbarhetsrapportering
+eller om andra hållbarhetsrelaterade tjänster.
+I artikel 14a första och andra stycket i revisionsdirektivet undantas följande kategorier av yrkesutövare från detta krav:
+lagstadgade revisorer som var godkända eller erkända för att utföra lagstadgade revisioner före den 1 januari 2024och
+personer som den 1 januari 2024genomgick godkännandeförfarandet, förutsatt att de slutför detta förfarande senast
+den 1 januari 2026. Enligt artikel 14a tredje stycket i revisionsdirektivet kommer dessa yrkesutövare fortfarande att
+behöva förvärva den nödvändiga kunskapen genom fortbildning.
+ELI: http://data.europa.eu/eli/C/2024/6792/oj 33/43
+SV
+EUT C, 13.11.2024
+57) Enligt artikel 10.1 andra stycket i revisionsdirektivet ska, för att en lagstadgad revisor eller en praktikant även
+ska godkännas för att utföra kvalitetsgranskning av hållbarhetsrapportering, minst åtta månader av den
+praktiska utbildning som avses i första stycket ägnas åt kvalitetsgranskning av årlig och konsoliderad
+hållbarhetsrapportering eller åt andra hållbarhetsrelaterade tjänster. Vad är den korrekta tolkningen av
+”andra hållbarhetsrelaterade tjänster”?
+”Andra hållbarhetsrelaterade tjänster” bör förstås som andra tjänster relaterade till hållbarhetsrapportering än kvalitets­
+granskning. De kan till exempel omfatta konsulttjänster om hållbarhetsrapporter och upprättande av hållbarhets­
+rapporter.
+58) Kan en lagstadgad revisor som godkänts för att utföra lagstadgade revisioner före den 1 januari 2024 i
+medlemsstat A godkännas för att utföra kvalitetsgranskning av hållbarhetsrapportering i medlemsstat B,
+trots att den lagstadgade revisorn inte är godkänd för att utföra kvalitetsgranskning av hållbarhetsrap­
+portering i medlemsstat A? Måste denna revisor för registrering i medlemsstat B vara registrerad som
+lagstadgad revisor och som leverantör av kvalitetsgranskningstjänster, eller kan denna revisor endast vara
+registrerad som leverantör av kvalitetsgranskningstjänster?
+För registrering i medlemsstat B måste den lagstadgade revisorn vara godkänd som lagstadgad revisor i den
+medlemsstaten (se artiklarna 3.1 och 14.1 i revisionsdirektivet). Om så är fallet och revisorn vill bli registrerad som
+leverantör av kvalitetsgranskningstjänster kommer övergångsbestämmelserna enligt artikel 14a i revisionsdirektivet
+att gälla i medlemsstat B (se även fråga 54). Godkännande som leverantör av kvalitetsgranskningstjänster i
+medlemsstat A krävs inte.
+59) En lagstadgad revisor som är godkänd för att utföra lagstadgade revisioner efter den 1 januari 2024 i
+medlemsstat A, och som också är godkänd för att utföra kvalitetsgranskning av hållbarhetsrapportering i den
+medlemsstaten, vill registreras i medlemsstat B. Måste den lagstadgade revisorn i detta fall vara registrerad i
+medlemsstat B som revisor och som leverantör av kvalitetsgranskningstjänster, eller kan denna lagstadgade
+revisor endast vara registrerad som leverantör av kvalitetsgranskningstjänster?
+Den lagstadgade revisorn ska vara registrerad som lagstadgad revisor och som leverantör av kvalitetsgransknings­
+tjänster i medlemsstat B. De enda enheter som kan vara registrerade som leverantörer av kvalitetsgranskningstjänster
+utan att vara revisorer är de oberoende leverantörerna av kvalitetsgranskningstjänster.
+ACKREDITERING OCH GODKÄNNANDE AV OBEROENDE LEVERANTÖRER AV KVALITETSGRANSKNINGSTJÄNSTER
+60) Kan fysiska personer ackrediteras som oberoende leverantörer av kvalitetsgranskningstjänster?
+Ja, det kan de. I artikel 2.23 i revisionsdirektivet och artikel 2.20 i redovisningsdirektivet definieras oberoende
+leverantörer av kvalitetsgranskningstjänster som ”ett organ för bedömning av överensstämmelse som ackrediterats i
+enlighet med Europaparlamentets och rådets förordning (EG) nr 765/2008 för den specifika verksamhet avseende
+bedömning av överensstämmelse som avses i artikel 34.1 andra stycket aa i direktiv 2013/34/EU”. I förordning (EG)
+nr 765/2008 definieras också ett organ för bedömning av överensstämmelse som ”ett organ som utför bedömning av
+överensstämmelse, bland annat kalibrering, provning, certifiering och kontroll”.
+Samtidigt som förordning (EG) nr 765/2008 endast hänvisar till ackreditering av organ, bör det erinras om att
+oberoende leverantörer av kvalitetsgranskningstjänster inte ingår i det avsedda tillämpningsområdet för den
+förordningen. Begreppet organ bör tolkas så att det omfattar fysiska personer, för att säkerställa lika villkor för
+oberoende leverantörer av kvalitetsgranskningstjänster och lagstadgade revisorer.
+61) Oberoende leverantörer av kvalitetsgranskningstjänster som är etablerade i en medlemsstat kan utföra
+kvalitetsgranskning av hållbarhetsrapportering på det territoriet, förutsatt att de omfattas av krav som är
+likvärdiga med dem som anges i revisionsdirektivet. Måste likvärdigheten i kraven även omfatta artikel 3a i
+revisionsdirektivet?
+Enligt artikel 34.4 i redovisningsdirektivet måste oberoende leverantörer av kvalitetsgranskningstjänster uppfylla krav
+som är likvärdiga med dem i revisionsdirektivet för att de ska kunna utföra kvalitetsgranskning av hållbarhetsrap­
+portering. Dessa krav omfattar den icke uttömmande förteckning som anges i artikel 34.4 i redovisningsdirektivet och
+en bedömning av likvärdigheten med kvalitetsgranskning av hållbarhetsrapportering enligt definitionen i artikel 2.22 i
+revisionsdirektivet.
+34/43 ELI: http://data.europa.eu/eli/C/2024/6792/oj
+SV
+EUT C, 13.11.2024
+För att säkerställa lika konkurrensvillkor mellan oberoende leverantörer av kvalitetsgranskningstjänster och
+lagstadgade revisorer ska oberoende leverantörer av kvalitetsgranskningstjänster också uppfylla registreringskrav som
+är likvärdiga med de krav som anges i artikel 3a i revisionsdirektivet.
+ACKREDITERAD OBEROENDE TREDJE PART
+62) Vad är en ”ackrediterad oberoende tredje part” som avses i artiklarna 34.6 i redovisningsdirektivet och 37.3 i
+revisionsdirektivet?
+Skäl 63 i direktivet om företagens hållbarhetsrapportering lyder: ”Medlemsstaterna bör säkerställa att när ett företag
+enligt unionsrätten ska låta delar av sin hållbarhetsrapportering kontrolleras av en ackrediterad oberoende tredje part,
+bör rapporten från den ackrediterade oberoende tredje parten göras tillgänglig antingen som en bilaga till förvaltnings­
+berättelsen eller på annat sätt som är tillgängligt för allmänheten. Sådant tillgängliggörande av den rapporten bör inte
+föregripa resultatet av uttalandet om kvalitetsgranskning, som tredjepartskontrollen bör stå fri från. Det bör inte
+medföra dubbelarbete mellan den revisor eller den oberoende leverantören av kvalitetsgranskningstjänster som avger
+uttalandet om kvalitetsgranskning och den ackrediterade oberoende tredje parten.”
+En ”ackrediterad oberoende tredje part” är en enhet, vanligtvis en annan expert än den lagstadgade revisorn eller den
+oberoende leverantören av kvalitetsgranskningstjänster, som avger ett uttalande om kvalitetsgranskning av hållbarhets­
+förklaringen och som kan verifiera delar av hållbarhetsrapporteringen, t.ex. utsläpp av växthusgaser. Direktivet om
+företagens hållbarhetsrapportering kräver transparens när det gäller resultaten av detta arbete och att det inte sker
+dubbelarbete med det arbete som utförs av de lagstadgade revisorerna eller de oberoende leverantörerna av kvalitets­
+granskningstjänster(92).
+OBEROENDE LEVERANTÖRER AV KVALITETSGRANSKNINGSTJÄNSTER
+63) Kommer en oberoende leverantör av kvalitetsgranskningstjänster som är etablerad inom en annan
+medlemsstats territorium att kunna utföra uppgifter i en medlemsstat som inte tillåter oberoende
+leverantörer av kvalitetsgranskningstjänster att utföra kvalitetsgranskning av hållbarhetsrapportering inom
+sitt territorium?
+Nej. En oberoende leverantör av kvalitetsgranskningstjänster som är etablerad inom en annan medlemsstats
+territorium kommer inte att kunna tillhandahålla kvalitetsgranskning av hållbarhetsrapportering i en medlemsstat
+som inte tillåter oberoende leverantörer av kvalitetsgranskningstjänster att utföra kvalitetsgranskning av hållbarhets­
+rapportering inom sitt territorium.
+Enligt artikel 34.4 första stycket i redovisningsdirektivet har medlemsstaterna möjlighet att tillåta oberoende
+leverantörer av kvalitetsgranskningstjänster som är etablerade inom deras territorium att avge ett uttalande om
+kvalitetsgranskning av hållbarhetsrapportering, förutsatt att dessa oberoende leverantörer av kvalitetsgransknings­
+tjänster omfattas av krav som är likvärdiga med de krav som fastställs i revisionsdirektivet för lagstadgade revisorer
+som utför kvalitetsgranskning av hållbarhetsrapportering. Enligt artikel 34.5 första stycket i redovisningsdirektivet
+krävs att endast medlemsstater som har utnyttjat denna möjlighet kan tillåta oberoende leverantörer av kvalitetsgransk­
+ningstjänster som är etablerade i en annan medlemsstat att utföra kvalitetsgranskning av hållbarhetsrapportering på
+deras territorium.
+64) Om den oberoende leverantören av kvalitetsgranskningstjänster är etablerad i en annan medlemsstat, vem
+kommer att ha tillsynsbefogenheter för det arbete som utförs av den oberoende leverantören av kvalitets­
+granskningstjänster?
+Om den oberoende leverantören av kvalitetsgranskningstjänster utför kvalitetsgranskning av hållbarhetsrapportering
+på en annan medlemsstats territorium (värdmedlemsstat), ska den medlemsstat där den oberoende leverantören av
+kvalitetsgranskningstjänster är etablerad (hemmedlemsstat) ansvara för tillsynen av det arbete som utförs av den
+oberoende leverantören av kvalitetsgranskningstjänster, såvida inte värdmedlemsstaten beslutar att övervaka den
+kvalitetsgranskning av hållbarhetsrapportering som oberoende leverantörer av kvalitetsgranskningstjänster utför på
+dess territorium(93). Om värdmedlemsstaten beslutar att övervaka kvalitetsgranskning av hållbarhetsrapportering som
+utförs på dess territorium av oberoende leverantörer av kvalitetsgranskningstjänster som är registrerade i en annan
+medlemsstat, ska värdmedlemsstaten i) inte införa strängare krav eller ansvar för sådana oberoende leverantörer av
+kvalitetsgranskningstjänster än vad som enligt nationell lagstiftning anges för kvalitetsgranskning av hållbarhetsrap­
+portering som utförs av oberoende leverantörer av kvalitetsgranskningstjänster eller revisorer som är etablerade i den
+värdmedlemsstaten, och ii) informera andra medlemsstater om sitt beslut att övervaka kvalitetsgranskning av
+hållbarhetsrapportering som utförs av oberoende leverantörer av kvalitetsgranskningstjänster som är etablerade i
+andra medlemsstater.
+(92) Artikel 34.6 i redovisningsdirektivet och artikel 37.3 andra stycket i revisionsdirektivet.
+(93) Artikel 34.5 i redovisningsdirektivet.
+ELI: http://data.europa.eu/eli/C/2024/6792/oj 35/43
+SV
+EUT C, 13.11.2024
+65) När en medlemsstat har tillåtit oberoende leverantörer av kvalitetsgranskningstjänster att etablera sig på dess
+territorium, får nationella företag då automatiskt anlita oberoende leverantörer av kvalitetsgransknings­
+tjänster för att utföra kvalitetsgranskning av hållbarhetsrapportering?
+Ja, företag kommer att tillåtas att anlita oberoende leverantörer av kvalitetsgranskningstjänster för kvalitetsgranskning
+av sin hållbarhetsförklaring när en medlemsstat har tillåtit oberoende leverantörer av kvalitetsgranskningstjänster att
+utföra kvalitetsgranskning av hållbarhetsrapportering.
+KVALITETSGRANSKNINGSLEVERANTÖRER FRÅN TREDJELAND
+66) Kan oberoende leverantörer av kvalitetsgranskningstjänster från tredjeland tillhandahålla kvalitets­
+granskning av hållbarhetsrapportering i unionen?
+Enligt artikel 34.4 i redovisningsdirektivet kan oberoende leverantörer av kvalitetsgranskningstjänster som är
+etablerade inom en medlemsstats territorium tillåtas att tillhandahålla kvalitetsgranskning av hållbarhetsrapportering.
+Definitionen av oberoende leverantör av kvalitetsgranskningstjänster enligt artikel 2.23 i revisionsdirektivet och
+artikel 2.20 i redovisningsdirektivet kräver ackreditering i enlighet med förordning (EG) nr 765/2008. Den
+förordningen avser visserligen endast ackreditering av organ som är etablerade inom en medlemsstats territorium,
+men det bör erinras om att oberoende leverantörer av kvalitetsgranskningstjänster inte ingår i förordningens avsedda
+tillämpningsområde. Oberoende leverantörer av kvalitetsgranskningstjänster utför kvalitetsgranskningstjänster för
+hållbarhetsrapportering. Systemet för godkännande av oberoende leverantörer av kvalitetsgranskningstjänster måste
+därför tolkas mot bakgrund av medlemsstaternas åtaganden inom ramen för Gats (allmänna tjänstehandelsavtalet
+inom ramen för Världshandelsorganisationen) och unionens bilaterala avtal. När det gäller oberoende leverantörer av
+kvalitetsgranskningstjänster måste förordning (EG) nr 765/2008 följaktligen tolkas på ett sådant sätt att oberoende
+leverantörer av kvalitetsgranskningstjänster från tredjeland tillåts tillhandahålla kvalitetsgranskning av hållbarhetsrap­
+portering i enlighet med medlemsstaternas åtaganden.
+KONFIDENTIALITET
+67) Är konfidentialitetskraven i artikel 23 i revisionsdirektivet även tillämpliga på yrkesutövare som utför
+kvalitetsgranskning av hållbarhetsrapportering?
+Ja, det är de. Konfidentialitetskraven i artikel 23 i revisionsdirektivet är även tillämpliga på yrkesutövare som utför
+kvalitetsgranskning av hållbarhetsrapportering. Om medlemsstaten har tillåtit en oberoende leverantör av kvalitets­
+granskningstjänster eller en annan lagstadgad revisor än den som reviderar de finansiella rapporterna att utföra
+kvalitetsgranskning av hållbarhetsrapportering, bör dessa enheter för kvalitetsgranskning kunna utbyta information
+för att samordna sig på lämpligt sätt.
+KVALITETSGRANSKNINGSTJÄNSTER
+68) Vad är innebörden av begreppet hållbarhetsanalys som används i artikel 8.3 b i revisionsdirektivet?
+Begreppet hållbarhetsanalys används som en parallell till räkenskapsanalys i revisionsdirektivet för lagstadgade revisorer.
+Medan ”räkenskapsanalys” avser en bedömning av livskraften, stabiliteten och lönsamheten i en verksamhet, en
+delverksamhet eller ett projekt, bör ”hållbarhetsanalys” betraktas som en bedömning av de hållbarhetsfrågor som
+påverkar en verksamhet och de hållbarhetsfrågor som verksamheten kan påverka.
+ARVODEN
+69) Skulle det anses strida mot artikel 25 i revisionsdirektivet om arvodena för kvalitetsgranskning av
+hållbarhetsrapportering sänks om samma lagstadgade revisor även utför den lagstadgade revisionen?
+Enligt artikel 25 i revisionsdirektivet ska medlemsstaterna säkerställa att arvodena för lagstadgad revision och kvalitets­
+granskning av hållbarhetsrapportering inte påverkas eller styrs av tillhandahållandet av ”ytterligare tjänster” till det
+granskade företaget, och detta uttryck bör förstås som ”andra tjänster än lagstadgad revision och kvalitetsgranskning
+av hållbarhetsrapportering”. Artikeln reglerar inte förhållandet mellan arvodena för lagstadgad revision och för
+kvalitetsgranskning av hållbarhetsrapportering.
+36/43 ELI: http://data.europa.eu/eli/C/2024/6792/oj
+SV
+EUT C, 13.11.2024
+KVALITETSGRANSKNING AV HÅLLBARHETSFÖRKLARINGAR SOM UPPRÄTTATS I ENLIGHET MED ARTIKLARNA
+19A OCH 29A I REDOVISNINGSDIREKTIVET
+70) Om vad ska en kvalitetsgranskningsleverantör avge ett uttalande enligt artikel 34.1 i redovisningsdirektivet?
+Enligt artikel 34.1 andra stycket aa i redovisningsdirektivet ska varje företag som omfattas av hållbarhetsrapportering
+enligt artiklarna 19a och 29a i redovisningsdirektivet inhämta ett uttalande om kvalitetsgranskning av sin hållbarhets­
+förklaring.
+Detta uttalande om kvalitetsgranskning grundar sig på ett bestyrkandeuppdrag där uttalandet lämnas med begränsad
+säkerhet vad gäller hållbarhetsförklaringens uppfyllande av följande krav:
+— De krav på hållbarhetsrapportering som anges i redovisningsdirektivet (inbegripet huruvida hållbarhetsrappor­
+teringen överensstämmer med de ESRS som antagits enligt artikel 29b/29c i redovisningsdirektivet, den process
+som företaget genomför för att identifiera den information som rapporteras enligt dessa ESRS – dvs. processen
+för bedömning av dubbel väsentlighet – och efterlevnaden av kravet på att märka hållbarhetsrapportering i
+enlighet med artikel 29d i redovisningsdirektivet).
+— De rapporteringskrav som anges i artikel 8 i taxonomiförordningen.
+Kvalitetsgranskningsleverantörerna förväntas utföra förfaranden som gör det möjligt för dem att dra slutsatsen att de
+inte har fått kännedom om något som ger dem anledning att tro att den information som ingår i hållbarhetsförk­
+laringen inte i alla väsentliga avseenden är rättvisande i enlighet med ESRS såsom de antagits av unionen och att
+hållbarhetsförklaringen inte uppfyller de rättsliga kraven på märkning av hållbarhetsinformation (dvs. den digitala
+märkningen) och de rättsliga kraven i artikel 8 i taxonomiförordningen.
+Den första delen av slutsatsen avseende en rättvisande bild, i alla väsentliga avseenden, i enlighet med ESRS innebär ett
+uttalande om
+— huruvida företagets hållbarhetsförklaring, inbegripet processen för att identifiera den information som rapporteras
+(dvs. bedömningen av dubbel väsentlighet), är förenlig med ESRS, och
+— huruvida resultatet av denna process har lett till att företagets alla väsentliga hållbarhetsrelaterade inverkningar,
+risker och möjligheter har redovisats i enlighet med ESRS.
+71) Enligt punkt 121 i ESRS 1 (Allmänna krav) får företaget införliva upplysningar i hållbarhetsförklaringen
+genom hänvisning till den rapport som företaget utarbetat enligt EU:s miljölednings- och miljörevi­
+sionsordning (Emas), dvs. förordning (EU) nr 1221/2009. Denna bestämmelse gäller under förutsättning att
+villkoren i punkt 120 uppfylls, däribland att de upplysningar som införlivas genom hänvisning är
+underställda minst samma säkerhetsnivå som hållbarhetsförklaringen. Är företagets rapport som utarbetats
+enligt EU:s miljölednings- och miljörevisionsordning (Emas), dvs. förordning (EU) nr 1221/2009, underställd
+minst samma säkerhetsnivå som hållbarhetsförklaringen?
+Enligt artikel 34.1 andra stycket aa i redovisningsdirektivet ska varje företag som omfattas av hållbarhetsrapportering
+enligt artiklarna 19a och 29a i redovisningsdirektivet inhämta ett uttalande om kvalitetsgranskning som grundar sig
+på ett bestyrkandeuppdrag där uttalandet lämnas med begränsad säkerhet. Företagets rapport som utarbetats
+enligt EU:s miljölednings- och miljörevisionsordning (Emas), dvs. förordning (EU) nr 1221/2009, är föremål för en
+validering som utförs av en miljökontrollant, och denna validering kan anses ligga på minst samma säkerhetsnivå som
+kravet på uttalande med begränsad säkerhet enligt direktivet om företagens hållbarhetsrapportering.
+72) Om två olika lagstadgade revisorer utför revisionen av de finansiella rapporterna och kvalitetsgranskningen
+av hållbarhetsförklaringen, vilken av de två ska då avge uttalandet om huruvida förvaltningsberättelsen är
+konsistent med de finansiella rapporterna?
+ELI: http://data.europa.eu/eli/C/2024/6792/oj 37/43
+SV
+EUT C, 13.11.2024
+Enligt artikel 34.1 andra stycket a i i redovisningsdirektivet ska den lagstadgade revisor eller det revisionsföretag som
+utför den lagstadgade revisionen av de finansiella rapporterna avge ett uttalande om huruvida förvaltningsberättelsen
+är konsistent med de finansiella rapporterna för samma räkenskapsår. Om en annan lagstadgad revisor eller ett annat
+revisionsföretag än den eller det som utför den lagstadgade revisionen av de finansiella rapporterna ansvarar för att
+avge ett uttalande om kvalitetsgranskning av hållbarhetsrapporteringen, är den lagstadgade revisor eller det
+revisionsföretag som ansvarar för revisionen av de finansiella rapporterna fortfarande ansvarig för att avge ett
+uttalande om överensstämmelsen mellan förvaltningsberättelsen och de finansiella rapporterna för samma
+räkenskapsår.
+73) I vilket dokument måste uttalandet om kvalitetsgranskning ingå?
+I kvalitetsgranskningsrapporten(94). Om uttalandet om kvalitetsgranskning avges av samma revisor som utför
+revisionen av de finansiella rapporterna, får medlemsstaterna tillåta revisorerna att inkludera uttalandet om kvalitets­
+granskning som ett separat avsnitt i revisionsberättelsen.
+74) Hur ska kvalitetsgranskningsrapporten offentliggöras? Finns det några formatkrav för kvalitetsgransknings­
+rapporten?
+Unionsrätten kräver för närvarande inte något särskilt format för revisionsberättelsen och/eller dess underskrift. Enligt
+artikel 33a i redovisningsdirektivet, ändrat genom paketet om en europeisk gemensam åtkomstpunkt, ska företag dock
+lämna in kvalitetsgranskningsrapporten till det relevanta insamlingsorganet för den europeiska gemensamma
+åtkomstpunkten när de offentliggör den och använda ett format som data kan extraheras från (eller ett maskinläsbart
+format, om så krävs enligt unionsrätten eller nationell lagstiftning), tillsammans med relevanta åtföljande metadata.
+Kommissionen har också befogenhet att anta genomförandeåtgärder för att specificera ytterligare metadata som ska
+åtfölja kvalitetsgranskningsrapporten och för att kräva ett maskinläsbart format.
+75) Vilka kvalitetsgranskningsstandarder bör användas av kvalitetsgranskningsleverantörer av hållbarhetsförk­
+laringen i avvaktan på att Europeiska kommissionen antar kvalitetsgranskningsstandarder?
+Enligt artikel 26.1 andra stycket i revisionsdirektivet får medlemsstaterna tillämpa nationella revisionsstandarder,
+revisionsförfaranden och revisionskrav så länge som kommissionen inte har antagit en internationell revisionsstandard
+som täcker samma ämnesområde.
+Med tanke på de kvalitativa egenskaperna hos den information som krävs enligt ESRS 1 (kapitel 2 och tillägg B:
+relevans, trogen återgivning, jämförbarhet, verifierbarhet och förståelighet) och för att undvika fragmentering och
+säkerställa att praxis är så konsekvent som möjligt under denna övergångsperiod fram till dess att kvalitetsgransknings­
+standarder på unionsnivå antas, har kommissionen begärt att kommittén för europeiska tillsynsorgan för revisorer
+(Ceaob) under 2024 ska utarbeta icke-bindande riktlinjer för lagstadgade revisorer och andra leverantörer av kvalitets­
+granskningstjänster.
+76) Skulle det vara möjligt för medlemsstaterna att tillåta företag som omfattas av kraven i direktivet om
+företagens hållbarhetsrapportering att på frivillig basis ge ett uppdrag att avge ett uttalande baserat på en
+blandad form av kvalitetsgranskning (dvs. ett uttalande som lämnas med begränsad säkerhet för delar av
+hållbarhetsrapporteringen och ett uttalande som lämnas med rimlig säkerhet för andra delar av
+rapporteringen – t.ex. för specifika centrala resultatindikatorer)?
+Enligt artikel 34.1 andra stycket aa i redovisningsdirektivet ska uttalandet om kvalitetsgranskning av hållbarhetsrappor­
+teringen grundas på ett bestyrkandeuppdrag där uttalandet lämnas med begränsad säkerhet(95). Med tanke på att ett
+bestyrkandeuppdrag där uttalandet lämnas med rimlig säkerhet ger en högre säkerhetsnivå jämfört med ett bestyrkan­
+deuppdrag där uttalandet lämnas med begränsad säkerhet, hindrar inte direktivet om företagens hållbarhetsrap­
+portering ett företag från att frivilligt besluta att begära ett uttalande som lämnas med rimlig säkerhet för hela
+hållbarhetsrapporteringen eller delar av den. Detta beslut skulle fattas av företaget och inte av kvalitetsgranskningsle­
+verantören.
+(94) Artikel 28a i revisionsdirektivet.
+(95) Enligt artikel 26a i revisionsdirektivet ges kommissionen befogenhet att anta standarder för kvalitetsgranskning av hållbarhetsrap­
+portering för begränsad säkerhet senast den 1 oktober 2026. Kommissionen ges också befogenhet att anta standarder för kvalitets­
+granskning av hållbarhetsrapportering för rimlig säkerhet senast den 1 oktober 2028, efter en bedömning för att avgöra om rimlig
+säkerhet är möjlig för revisorer och företag.
+38/43 ELI: http://data.europa.eu/eli/C/2024/6792/oj
+SV
+EUT C, 13.11.2024
+77) Ska företag som frivilligt rapporterar hållbarhetsinformation i enlighet med ESRS (t.ex. små och medelstora
+företag som inte har värdepapper upptagna till handel på en reglerad marknad i EU) vara skyldiga att låta
+denna information bli föremål för kvalitetsgranskning?
+Direktivet om företagens hållbarhetsrapportering reglerar inte hållbarhetsrapportering som utförs på frivillig basis. Ett
+företag som utför hållbarhetsrapportering på frivillig basis är därför inte skyldigt att låta sin hållbarhetsinformation bli
+föremål för ett bestyrkandeuppdrag.
+ANDRA TJÄNSTER ÄN KVALITETSGRANSKNINGSTJÄNSTER
+78) Vilka är begränsningarna för icke-revisionstjänster när en lagstadgad revisor tillhandahåller kvalitetsgransk­
+ningstjänster enligt direktivet om företagens hållbarhetsrapportering till ett företag eller en koncern som
+inte är en kund för revision av finansiella rapporter?
+Enligt artikel 25c.1 i revisionsdirektivet får en lagstadgad revisor eller ett revisionsföretag som utför kvalitetsgranskning
+av hållbarhetsrapportering för ett företag av allmänt intresse – eller en medlem i nätverket – inte tillhandahålla
+företaget av allmänt intresse de förbjudna icke-revisionstjänster som avses i artikel 5.1 andra stycket b, c och e–k i
+revisionsförordningen.
+Enligt artikel 25c.2 i revisionsdirektivet får den lagstadgade revisorn eller revisionsföretaget tillhandahålla företaget av
+allmänt intresse andra icke-revisionstjänster än
+— de förbjudna icke-revisionstjänster som avses i punkt 1 i denna artikel, eller
+— I tillämpliga fall (dvs. när den lagstadgade revisorn även utför revision av finansiella rapporter), de förbjudna icke-
+revisionstjänster som avses i artikel 5.1 andra stycket i revisionsförordningen, eller
+— tjänster som av medlemsstaterna anses utgöra ett hot mot opartiskhet och självständighet enligt artikel 5.2 i den
+förordningen, med förbehåll för revisionskommitténs godkännande efter en korrekt bedömning av hoten mot
+opartiskhet och självständighet och skyddsåtgärder i enlighet med artikel 22b i revisionsdirektivet.
+Därför får revisionsföretaget,
+— när det endast utför kvalitetsgranskning av hållbarhetsrapportering för ett företag av allmänt intresse,
+tillhandahålla andra icke-revisionstjänster än de förbjudna som avses i artikel 5.1 andra stycket b, c och e–k i
+revisionsförordningen (eftersom de senare utgör en risk för revisionsföretagets opartiskhet och självständighet när
+det utför kvalitetsgranskning av hållbarhetsrapportering),
+— när det utför både en lagstadgad revision och kvalitetsgranskning av hållbarhetsrapportering för ett visst företag av
+allmänt intresse, tillhandahålla andra icke-revisionstjänster än de förbjudna som avses i artikel 5.1 andra stycket i
+revisionsförordningen (dvs. de förbjudna tjänster som avses i samtliga leden a–k, eftersom dessa tjänster utgör en
+risk för revisionsföretagets opartiskhet och självständighet både när det gäller kvalitetsgranskning av hållbarhets­
+rapportering enligt leden b, c och e–k och den lagstadgade revisionen enligt leden a–k).
+KVALITETSGRANSKNING AV EN HÅLLBARHETSRAPPORT SOM UPPRÄTTAS I ENLIGHET MED ARTIKEL 40a I
+REDOVISNINGSDIREKTIVET
+79) Vad händer om ett tredjelandsföretag inte lämnar något uttalande om kvalitetsgranskning till dotterföretaget/
+filialen i EU?
+Enligt artikel 40a.3 i redovisningsdirektivet ska dotterföretaget eller filialen, om tredjelandsföretaget inte lämnar något
+uttalande om kvalitetsgranskning, utfärda ett uttalande som anger detta.
+80) Hur ska ett uttalande om kvalitetsgranskning av en hållbarhetsrapport som upprättas i enlighet med
+artikel 40a i redovisningsdirektivet offentliggöras? Finns det några formatkrav?
+ELI: http://data.europa.eu/eli/C/2024/6792/oj 39/43
+SV
+EUT C, 13.11.2024
+Enligt artikel 40d.1 i redovisningsdirektivet ska det uttalande om kvalitetsgranskning av hållbarhetsrapporten som
+upprättas i enlighet med artikel 40a offentliggöras tillsammans med hållbarhetsrapporten – och, i tillämpliga fall, det
+uttalande som avses i artikel 40a.2 fjärde stycket i redovisningsdirektivet – inom tolv månader från balansdagen för
+det räkenskapsår för vilket rapporten upprättas, i enlighet med vad som föreskrivs av varje medlemsstat, i enlighet
+med artiklarna 14–28 i bolagsrättsdirektivet och, i relevanta fall, i enlighet med artikel 36 i det direktivet.
+Unionsrätten innehåller för närvarande inga särskilda formatkrav för uttalandet om kvalitetsgranskning. Enligt
+artikel 33a i redovisningsdirektivet – som infördes genom paketet om en europeisk gemensam åtkomstpunkt(96)– ska
+dock dotterföretag och filialer som omfattas av artikel 40a i redovisningsdirektivet lämna hållbarhetsrapporten till det
+insamlingsorgan som utsetts av medlemsstaten i ett format som data kan extraheras från, tillsammans med relevanta
+åtföljande metadata. Kommissionen har också befogenhet att anta genomförandeåtgärder för att specificera ytterligare
+metadata som ska åtfölja uttalandet om kvalitetsgranskning och för att kräva ett maskinläsbart format.
+AVSNITT VI
+VANLIGA FRÅGOR OM IMMATERIELLA NYCKELRESURSER
+81) Enligt artikel 19.1 fjärde stycket i redovisningsdirektivet ska företag rapportera information om immateriella
+nyckelresurser och redogöra för hur sådana resurser är en grundläggande förutsättning för företagets
+affärsmodell och hur sådana resurser är en källa till värdeskapande för företaget. Gäller detta
+upplysningskrav alla typer av immateriella nyckelresurser, inbegripet immateriella tillgångar som redovisas i
+balansräkningen?
+Artikel 19.1 fjärde stycket i redovisningsdirektivet är inte begränsad till information om immateriella nyckelresurser
+som inte redovisas som immateriella tillgångar i balansräkningen. Följaktligen gäller kravet för företagets samtliga
+immateriella nyckelresurser, inbegripet immateriella tillgångar som redovisas i balansräkningen.
+Denna helhetssyn gör det möjligt för användare att förstå hur företagets affärsmodell är beroende av immateriella
+nyckelresurser och deras relevans för företagets värdeskapande, oavsett om de skulle uppfylla kriterierna för
+redovisning och värdering enligt den tillämpliga redovisningsramen. Detta kommer att hjälpa användarna att bedöma
+företagets marknadsvärde.
+82) Vilka företag är skyldiga att lämna upplysningar om immateriella nyckelresurser i förvaltningsberättelsen?
+Gäller detta krav även kreditinstitut och försäkringsföretag, oavsett deras rättsliga form?
+Stora företag och börsnoterade små och medelstora företag (utom mikroföretag) ska rapportera information om
+immateriella nyckelresurser och redogöra för hur sådana resurser är en grundläggande förutsättning för företagets
+affärsmodell och hur sådana resurser är en källa till värdeskapande för företaget. Artikel 19 i redovisningsdirektivet är
+endast tillämplig på de typer av företag som avses i artikel 1.1 i redovisningsdirektivet, däribland kreditinstitut och
+försäkringsföretag som uppfyller villkoren i artikel 1.1 i redovisningsdirektivet. Denna information ska ingå i
+förvaltningsberättelsen (men inte nödvändigtvis i hållbarhetsförklaringen).
+83) Måste immateriella nyckelresurser ingå i hållbarhetsförklaringen?
+I artikel 19.1 i redovisningsdirektivet anges vilken information som ska ingå i företagets förvaltningsberättelse. Enligt
+artikel 19.1 fjärde stycket i redovisningsdirektivet ska information om immateriella nyckelresurser ingå i förvaltnings­
+berättelsen. Denna information behöver därför inte nödvändigtvis ingå i hållbarhetsförklaringen utan kan lämnas i ett
+annat avsnitt i förvaltningsberättelsen.
+(96) Särskilt genom Europaparlamentets och rådets direktiv (EU) 2023/2864 av den 13 december 2023 om ändring av vissa direktiv vad
+gäller inrättandet av den europeiska gemensamma åtkomstpunkten och denna åtkomstpunkts funktionssätt (EUT L, 2023/2864,
+20.12.2023, ELI: http://data.europa.eu/eli/dir/2023/2864/oj).
+40/43 ELI: http://data.europa.eu/eli/C/2024/6792/oj
+SV
+EUT C, 13.11.2024
+AVSNITT VII
+YTTERLIGARE VANLIGA FRÅGOR OM KRAV PÅ TREDJELANDSFÖRETAG
+84) Är tredjelandsföretag skyldiga att rapportera hållbarhetsinformation på individuell och/eller konsoliderad
+nivå (individuell/konsoliderad hållbarhetsförklaring) enligt artiklarna 19a/29a i redovisningsdirektivet?
+Utan att det påverkar tillämpningen av artikel 23 i insynsdirektivet är tredjelandsföretag skyldiga att rapportera
+hållbarhetsinformation på individuell och/eller konsoliderad nivå enligt artiklarna 19a/29a i redovisningsdirektivet,
+men endast om tredjelandsföretaget är en emittent av överlåtbara värdepapper som är upptagna till handel på en
+reglerad marknad i EU och undantaget mikroföretag.
+Emittenter i tredjeland måste inkludera hållbarhetsinformation i sin förvaltningsberättelse som en del av sin årliga
+redovisning, på grundval av artikel 4.5 i insynsdirektivet, som korshänvisar till artiklarna 19a och 29a i redovisningsdi­
+rektivet.
+85) Kan små och medelstora företag från tredjeland med överlåtbara värdepapper som är upptagna till handel på
+en reglerad marknad i EU undantas från skyldigheten att rapportera hållbarhetsinformation för räkenskapsår
+som börjar före den 1 januari 2028i enlighet med artikel 19a.7 i redovisningsdirektivet?
+Ja, undantagsbestämmelsen i artikel 19a.7 i redovisningsdirektivet gäller även för små och medelstora företag från
+tredjeland med överlåtbara värdepapper som är upptagna till handel på en reglerad marknad i EU (se fråga 16).
+86) Om ett moderföretag i tredjeland på frivillig basis offentliggör en konsoliderad hållbarhetsförklaring för att
+dess dotterföretag ska kunna utnyttja undantagen enligt artiklarna 19a.9 och 29a.8 i redovisningsdirektivet,
+måste då denna konsoliderade hållbarhetsförklaring ingå i en förvaltningsberättelse för koncernen eller kan
+den vara ett fristående dokument?
+Ett moderföretag i tredjeland som frivilligt följer artikel 29a i redovisningsdirektivet får inkludera den konsoliderade
+hållbarhetsförklaringen i ett separat dokument.
+87) Måste den konsoliderade hållbarhetsförklaring för moderföretaget i tredjeland som upprättas i enlighet med
+artikel 29a i redovisningsdirektivet omfatta alla dess dotterföretag eller endast dotterföretagen i EU?
+Reglerna för konsolidering av hållbarhetsförklaringen är desamma som för konsolidering av de finansiella rapporterna.
+Enligt artikel 22.6 i redovisningsdirektivet(97)ska den konsoliderade hållbarhetsförklaringen omfatta alla dotterföretag,
+oavsett var dotterföretagen har sitt säte.
+88) I avvaktan på kommissionens beslut om likvärdighet för tredjeländers hållbarhetsstandarder, hur kan ett
+tredjelandsföretag som inte är skyldigt att rapportera hållbarhetsinformation enligt unionsrätten medge att
+dess dotterföretag inom unionen undantas från hållbarhetsrapportering enligt artiklarna 19a och 29a i
+redovisningsdirektivet?
+Ett tredjelandsföretag som inte är skyldigt att rapportera hållbarhetsinformation enligt unionsrätten och som vill
+medge att dess dotterföretag inom unionen undantas från hållbarhetsrapportering enligt artiklarna 19a och 29a i
+redovisningsdirektivet får offentliggöra en konsoliderad hållbarhetsförklaring som upprättats i enlighet med ESRS.
+(97) Artikel 22.6 i redovisningsdirektivet: ”Utan att det påverkar tillämpningen av artikel 23.9 ska ett moderföretag och alla dess
+dotterföretag omfattas av en koncernredovisning oavsett var dotterföretagen har sitt säte.”
+ELI: http://data.europa.eu/eli/C/2024/6792/oj 41/43
+SV
+EUT C, 13.11.2024
+Alternativt ska medlemsstaterna, på grundval av artikel 48i.1 i redovisningsdirektivet, till och med räkenskapsår som
+avslutas den 6 januari 2030, tillåta att ett dotterföretag som omfattas av lagstiftningen i en medlemsstat och som
+omfattas av artiklarna 19a och 29a i redovisningsdirektivet och vars moderföretag omfattas av lagstiftningen i ett
+tredjeland upprättar och offentliggör en konsoliderad hållbarhetsförklaring enligt artikel 29a i redovisningsdirektivet,
+som omfattar alla direkta eller indirekta dotterföretag inom unionen till ett sådant moderföretag i tredjeland som
+omfattas av artiklarna 19a och 29a i redovisningsdirektivet. I artikel 48i.2 i redovisningsdirektivet anges att det
+dotterföretag inom unionen som upprättar den konsoliderade hållbarhetsrapporteringen ska vara ett av de
+dotterföretag inom unionen som genererade den största omsättningen i unionen under minst ett av de föregående fem
+räkenskapsåren, i tillämpliga fall på koncernnivå.
+Enligt artikel 48i.3 i redovisningsdirektivet leder upprättandet och offentliggörandet av den konsoliderade hållbarhets­
+förklaring som upprättas och offentliggörs av det dotterföretag inom unionen som avses i artikel 48i.1 i redovisnings­
+direktivet till att alla företag som omfattas av konsolideringen undantas från kravet på hållbarhetsrapportering,
+förutsatt att villkoren i artiklarna 19a.9 och 29a.8 är uppfyllda.
+89) Måste emittenter i tredjeland inkludera upplysningar enligt artikel 8 i taxonomiförordningen i sin
+hållbarhetsförklaring?
+Utan att det påverkar tillämpningen av artikel 23 i insynsdirektivet måste emittenter i tredjeland som rapporterar i
+enlighet med artikel 19a eller 29a i redovisningsdirektivet inkludera upplysningar enligt artikel 8 i taxonomiför­
+ordningen i sina hållbarhetsförklaringar.
+Enligt artikel 4.5 i insynsdirektivet ska emittenter i EU och tredjeland av överlåtbara värdepapper som är upptagna till
+handel på en reglerad marknad i EU (utom mikroföretag) upprätta sin förvaltningsberättelse i enlighet med artiklarna
+19, 19a, 20 och 29d.1 i redovisningsdirektivet (eller artiklarna 29, 29a och 29d.2 i redovisningsdirektivet när det
+gäller en förvaltningsberättelse för koncernen) och inkludera de specifikationer som antagits i enlighet med artikel 8.4
+i taxonomiförordningen, ”när den upprättas av de företag som avses i dessa bestämmelser”.
+I linje med medlagstiftarnas tydliga avsikt att utvidga kraven på hållbarhetsrapportering i redovisningsdirektivet (som
+endast gäller för EU-företag) till emittenter i EU och tredjeland, ska frasen ”när den upprättas av de företag som avses i
+dessa bestämmelser” tolkas som en hänvisning till de kategorier av företag som avses i artiklarna 19a och 29a i
+redovisningsdirektivet (dvs. stora företag, börsnoterade små och medelstora företag utom mikroföretag och
+moderföretag i stora koncerner). Eftersom insynsdirektivet är tillämpligt på alla emittenter i EU och tredjeland
+(inklusive mikroföretag) behövs denna mening för att säkerställa att börsnoterade mikroföretag inte omfattas av krav
+på hållbarhetsrapportering.
+Enligt artikel 8 i taxonomiförordningen ska företag som omfattas av artiklarna 19a eller 29a i redovisningsdirektivet
+offentliggöra hur och i vilken utsträckning företagets verksamheter är förknippade med ekonomiska verksamheter
+som ska anses vara miljömässigt hållbara. Av ordalydelsen i artikel 4.5 i insynsdirektivet framgår att om en emittent
+inom EU eller i tredjeland omfattas av krav på hållbarhetsrapportering enligt artiklarna 19a eller 29a i redovisningsdi­
+rektivet, ska den i sin förvaltningsberättelse inkludera upplysningar enligt artikel 8 i taxonomiförordningen.
+AVSNITT VIII
+VANLIGA FRÅGOR OM FÖRORDNINGEN OM HÅLLBARHETSUPPLYSNINGAR
+90) Får finansmarknadsaktörer anta att en indikator som rapporteras som icke-väsentlig av ett investeringsobjekt
+som omfattas av direktivet om företagens hållbarhetsrapportering inte bidrar till motsvarande indikator för
+huvudsakliga negativa konsekvenser i samband med upplysningar enligt förordningen om hållbarhetsupp­
+lysningar?
+Ja, det får de. Finansmarknadsaktörer får anta att en indikator som rapporteras som icke-väsentlig av ett
+investeringsobjekt som tillämpar ESRS inte bidrar till motsvarande indikator för huvudsakliga negativa konsekvenser i
+samband med upplysningar enligt förordningen om hållbarhetsupplysningar, dvs. värdet av den investeringen behöver
+inte inkluderas i täljaren för den givna indikatorn för huvudsakliga negativa konsekvenser enligt förordningen om
+hållbarhetsupplysningar.
+42/43 ELI: http://data.europa.eu/eli/C/2024/6792/oj
+SV
+EUT C, 13.11.2024
+Enligt artikel 29b.5 b i redovisningsdirektivet ska kommissionen, när den antar standarder för hållbarhetsrapportering,
+i största möjliga utsträckning beakta den information som finansmarknadsaktörer behöver för att fullgöra sina
+upplysningsskyldigheter enligt förordning (EU) 2019/2088 och de delegerade akter som antagits i enlighet med den
+förordningen.
+Till följd av den skyldighet som fastställs i direktivet om företagens hållbarhetsrapportering att ta hänsyn till
+finansmarknadsaktörernas informationsbehov är alla indikatorer som rapporteras som icke-väsentliga av ett
+investeringsobjekt som omfattas av kraven i direktivet om företagens hållbarhetsrapportering relevant information
+och kan anses inte bidra till de huvudsakliga negativa konsekvenserna enligt förordningen om hållbarhetsupplysningar.
+Finansmarknadsaktörer kommer att hitta denna information i rapporteringen enligt direktivet om företagens
+hållbarhetsrapportering eftersom ESRS 1 punkt 35 kräver att när ett företag anser att en specifik datapunkt som
+härrör från förordningen om hållbarhetsupplysningar inte är väsentlig, ska företaget uttryckligen ange att
+informationen är ”icke-väsentlig”(98).
+Dessutom krävs enligt ESRS 2 punkt 56 att företag som omfattas av direktivet om företagens hållbarhetsrapportering
+ska inkludera en tabell över alla datapunkter som härrör från annan EU-lagstiftning, inklusive förordningen om
+hållbarhetsupplysningar, med uppgift om var de finns i hållbarhetsförklaringen och ska ange ”icke-väsentlig” i tabellen
+för de datapunkter som företaget har bedömt som icke-väsentliga, i enlighet med ESRS 1 punkt 35.
+(98) Samma tillvägagångssätt används för datapunkter som härrör från annan EU-lagstiftning förtecknad i tillägg B till ESRS 2.
+ELI: http://data.europa.eu/eli/C/2024/6792/oj 43/43

@@ -1,0 +1,266 @@
+FAR - Frågor och svar om hållbarhetsgranskning
+Frågor och svar om hållbarhetsgranskning
+Nya regler om hållbarhetsrapportering trädde i kraft den 1 juli 2024 med anledning
+av EU:s ändrande redovisningsdirektiv (CSRD). De nya bestämmelserna innebär att
+hållbarhetsrapporten ska granskas översiktligt av en auktoriserad revisor med
+särskild behörighet. EU-kommissionen ska senast 1 oktober 2026 anta en europeisk
+standard för utförandet av den översiktliga granskningen. Under övergångsperioden
+ska RevR 19 tillämpas för granskning av hållbarhetsrapporter i Sverige.
+Allmänt om standarden
+När ska RevR 19 tillämpas för granskning av hållbarhetrapporten?
+Nya regler om hållbarhetsrapportering trädde i kraft den 1 juli 2024 med anledning
+av EU:s ändrande redovisningsdirektiv (CSRD). De nya bestämmelserna innebär att
+hållbarhetsrapporten ska granskas översiktligt av en auktoriserad revisor med
+särskild behörighet. EU-kommissionen ska senast 1 oktober 2026 anta en europeisk
+standard för utförandet av den översiktliga granskningen. Under övergångsperioden
+ska RevR 19 tillämpas för granskning av hållbarhetsrapporter i Sverige. De nya
+bestämmelserna om hållbarhetsrapportering införs stegvis för olika kategorier av
+företag. Bilaga 3 i RevR 19 anger när de nya bestämmelserna ska tillämpas för
+hållbarhetsrapportering och RevR 19 ska tillämpas vid granskningen.
+Rekommendationen ska tillämpas vid översiktlig granskning av den lagstadgade
+hållbarhetsrapporten som helhet och är inte tillämplig vid granskning av viss utvald
+hållbarhetsinformation.
+Förtida tillämpning
+Ska revisorn också lämna ett RevR 12-yttrande vid förtida tillämpning av de nya
+kraven i ÅRL?
+Revisorn behöver förvissa sig om huruvida företaget omfattas av de nu gällande,
+eller de tidigare gällande, bestämmelserna i ÅRL. Övergångsreglerna innebär att
+företag under en övergångsperiod fortsatt ska tillämpa de äldre bestämmelserna i
+ÅRL, detta omfattar även revisorns lagstadgade yttrande. Om företaget ännu inte
+omfattas av de nya reglerna ska revisorn tillämpa RevR 12 och ange ett yttrande i
+enlighet med de äldre bestämmelserna. Revisorn bör överväga att vara tydlig i sin
+kommunikation med kunden att hållbarhetsrapporten inte är bestyrkt.
+Se fråga "Vilka övergångsregler gäller för 2024" under Frågor och svar om CSRD
+Notera att yttrandet i RevR12, för tydlighetens skull, kan förtydliga att hänvisningen
+till ÅRL görs till den tidigare gällande versionen (dvs. i enlighet med den äldre
+lydelsen som gällde före den 1 juli 2024).
+Exempel: Revisorns yttrande avseende den lagstadgade hållbarhetsrapporten
+Det är styrelsen som har ansvaret för hållbarhetsrapporten på sidorna x2–y2 och för
+att den är upprättad i enlighet med årsredovisningslagen (i enlighet med den äldre
+lydelsen som gällde före den 1 juli 2024). Min (Vår) granskning har skett enligt FARs
+rekommendation RevR 12 Revisorns yttrande om den lagstadgade
+hållbarhetsrapporten. Detta innebär att min (vår) granskning av hållbarhetsrapporten
+har en annan inriktning och en väsentligt mindre omfattning jämfört med den
+inriktning och omfattning som en revision enligt International Standards on Auditing
+och god revisionssed i Sverige har. Jag (Vi) anser att denna granskning ger mig
+(oss) tillräcklig grund för mitt (vårt) uttalande. En hållbarhetsrapport har upprättats.
+Hur ska det lagstadgade yttrandet formuleras för 2024 om företaget i förtid frivilligt
+tillämpar de nya reglerna i ÅRL d.v.s. upprättar hållbarhetsrapporten enligt ESRS
+och EU:s gröna taxonomiförordning etc.?
+Om företaget önskar ett frivilligt bestyrkande enligt RevR 19 ska revisorn även avge
+det lagstadgade yttrandet enligt de äldre bestämmelserna som gäller under
+övergångsperioden. Revisorn ska därmed även avge ett yttrande enligt RevR 12.
+Om hållbarhetsrapporten ingår som en del av förvaltningsberättelsen lämnar revisorn
+RevR 12-yttrandet i revisionsberättelsen. Det frivilliga yttrandet enligt RevR 19
+lämnas separat. Observera att om kunden önskar att information i
+hållbarhetsrapporten ska granskas enligt RevR 19 behöver parterna även träffa en
+särskild överenskommelse om detta. Se fråga "Vilka övergångsregler gäller för 2024"
+på Vanliga frågor och svar om CSRD.
+Delade uppdrag
+Ska både den lagstadgade finansiella revisorn och hållbarhetsrevisorn göra en
+påteckningsmening på årsredovisningen?
+Ja. Enligt 27 § revisionslagen ska en revisor på årsredovisningen teckna en
+hänvisning till revisionsberättelsen. Av 27 a § revisionslagen följer att om företaget
+har mer än en revisor så gäller detta samtliga revisorer. Av 33 a § revisionslagen
+framgår att det som anges om revisorns påteckningsmening i 27 § och 27 a §
+revisionslagen också ska gälla för granskningsberättelsen. Av 33 b § revisionslagen
+framgår att motsvarande regler gäller även för granskningsberättelsen för
+koncernen.
+Exempel:
+"Min/Vår granskningsberättelse över den lagstadgade hållbarhetsrapporten har
+lämnats den 202X-XX-XX".
+Hur påverkas revisionsberättelsen respektive granskningsberättelsen av att företaget
+har utsett olika revisorer för uppdragen att genomföra revisionen respektive den
+översiktliga granskningen av hållbarhetsrapporten?
+Vid separata uppdrag finns ingen möjlighet att kombinera granskningsberättelsen
+med revisionsberättelsen. RevR 19 innehåller ett exempel på fristående
+granskningsberättelse. Den finansiella revisorn respektive hållbarhetsrevisorn anger
+i revisions- respektive granskningsberättelsen vilka delar av
+årsredovisningsdokumentet som varit föremål för sina respektive uppdrag. De olika
+parterna behöver även beakta vilka delar i årsredovisningen respektive
+hållbarhetsredovisningen som utgör "annan information" samt hänvisa till vart denna
+information finns under ett särskilt avsnitt i revisionsberättelsen.
+Annan information
+Vilka delar i årsredovisningen utgör "annan information" inom ramen för
+revisionen respektive den översiktliga granskningen?
+RevR 19 anger vilka delar av årsredovisningsdokumentet som utgör annan
+information samt kraven på revisorn vad gäller gransknings- och
+kommunikationsåtgärder avseende sådan information. I och med att
+hållbarhetsrapporten ska ingå som en del i förvaltningsberättelsen är också
+hållbarhetsrapporten en del av årsredovisningsdokumentet och därmed åligger det
+revisorn att läsa:
+den information som lämnas i de delar av förvaltningsberättelsen som inte
+avser hållbarhetsrapporten,
+eventuell annan frivilligt lämnad hållbarhetsinformation
+de finansiella rapporterna, och
+övrig annan information som finns i årsredovisningsdokumentet.
+Den finansiella revisorn ska beakta ISA 720 och observera att hållbarhetsrapporten
+utgör annan information inom ramen för revisionsuppdraget. Om några uppenbara
+oförenligheter identifieras diskuterar revisorn oförenligheterna och eventuella
+ändringar som behöver göras med de som är ansvariga för hållbarhetsrapporten
+och, vid behov, med företagets finansiella revisor.
+Utgör revisionsberättelsen annan information?
+Om det är olika revisorer som utför revisionen av de finansiella rapporterna och den
+översiktliga granskningen av hållbarhetsrapporten utgör revisionsberättelsen för
+årsredovisningen, koncernredovisningen och styrelsens och VDs förvaltning annan
+information. Är det samma revisor som utför båda granskningsuppdragen utgör dock
+inte revisionsberättelsen annan information.
+Utgör bolagsstyrningsrapporten annan information?
+Ja, bolagsstyrningsrapporten utgör annan information. Det är en skillnad mot
+revisionsuppdraget för de finansiella rapporterna där revisorn för
+bolagsstyrningsrapporten gör ett uttalande över dess förenlighet med
+årsredovisningens övriga delar. Motsvarande förenlighetsuttalande görs dock inte i
+granskningsberättelsen över hållbarhetsrapporten varav bolagsstyrningsrapporten
+då omfattas av hållbarhetsrevisorns granskning av annan information.
+Frivillig rapportering
+Kan RevR 19 tillämpas för granskning en fristående hållbarhetsrapport
+som upprättats frivilligt enligt kraven i ÅRL?
+Ja, RevR 19 kan tillämpas för granskningen men med hänsyn till att kravet på
+hållbarhetsrapportens placering frångår kraven i ÅRL och ESRS. FAR har tagit fram
+ett exempel på granskningsberättelse när ett företag väljer att frivilligt upprätta en
+hållbarhetsrapport enligt ÅRL men upprättar den som ett separat dokument. Se
+bilaga exempel 1
+För rapportmall på engelska se bilaga example 1
+Kan RevR 19 tillämpas för granskning av en hållbarhetsapport som
+upprättas frivilligt enligt kraven i ÅRL granskas enligt RevR 19?
+Ja. FAR:s uppfattning är att frivilligt upprättade hållbarhetsrapporter som följer
+lagkraven inkl. ESRS och som placeras i förvaltningsberättelsen omfattas av samma
+krav på granskning som en lagstadgad hållbarhetsrapport. Detta framgår av
+förarbetena till CSRDs implementering i svensk kontext. En hållbarhetsrapport som
+har upprättats frivilligt enligt lagkraven kan granskas i enlighet med RevR 19 (p
+3.108.) Se bilaga exempel 2 För rapportmall på engelska se bilaga example 2
+Granskning av bolagsstyrningsrapporten
+Påverkas granskningsuppdraget om hållbarhetsrapporten hänvisar till
+upplysningar i bolagsstyrningsrapporten?
+För att undvika dubbelrapportering tillåter ESRS 1 punkterna 119 och 120 att
+information som krävs enligt ett upplysningskrav i ESRS inkluderas i
+hållbarhetsrapporten genom hänvisning till bolagsstyrningsrapporten. För att en
+sådan hänvisning ska vara tillåten måste dock informationen i
+bolagsstyrningsrapporten vara granskad med minst samma bestyrkandegrad som
+hållbarhetsrapporten.
+I normalfallet kan hänvisning inte göras till bolagsstyrningsrapporten, eftersom det
+lagstadgade yttrandet om bolagsstyrningsrapporten har en lägre bestyrkandegrad
+jämfört med ett utlåtande med begränsad säkerhet. För att möjliggöra hänvisning
+behöver bolaget därför komma överens med sin revisor om en utökad granskning av
+bolagsstyrningsrapporten, enligt avsnitt 4 i RevR 16.
+ÅRL 6:8 tillåter att upplysningarna om mångfaldspolicy får lämnas i en
+hållbarhetsrapport i stället för i bolagsstyrningsrapporten. Bolagsstyrningsrapporten
+ska i så fall innehålla en hänvisning till hållbarhetsrapporten.
+Källor: ESRS 1 p 119-120 ÅRL 6 kap. 6 §
+Granskningsberättelsen
+Vad ska avsnittet "genomförda granskningsåtgärder" innehålla?
+Avsnittet "Revisorns ansvar" ska innehålla en kort beskrivning av att granskningen
+innefattat olika åtgärder en sammanfattning av det utförda arbetet. RevR 19 p 6.25
+anger att det är viktigt att sammanfattningen skrivs på ett objektivt sätt som ger
+avsedda användare möjlighet att förstå det arbete som utförts som grund för
+revisorns slutsats. Avsnittet ska inkludera exempel på genomförda
+granskningsåtgärder, inte hela arbetsplanen i detalj.
+Nedan följer ett exempel som kan ge vägledning till utformning av avsnittet.
+Observera att avsnittet ska anpassas till relevanta granskningsåtgärder som utförts i
+det enskilda uppdraget.
+Mina (Våra) granskningsåtgärder avseende den process som företaget har
+genomfört för att identifiera hållbarhetsinformation att rapportera inkluderade, men
+var inte begränsade till följande:
+Erhålla en förståelse för processen genom att:
+- Genomföra förfrågningar för att förstå källorna till den information som
+används av företagsledningen (t.ex. intressentdialoger, affärsplaner och
+strategidokument), och
+- Granska företagets interna dokumentation av sin process]; och
+Utvärdera om den information som erhållits från mina (våra) åtgärder om den
+process som implementerats av företaget överensstämmer med
+beskrivningen av processen i [not X] i hållbarhetsrapporten.
+Mina (Våra) granskningsåtgärder avseende hållbarbetsrapporten inkluderade, men
+var inte begränsade till följande:
+• Genom förfrågningar erhålla en allmän förståelse för den interna kontrollmiljön,
+rapporteringsprocesserna, och informationssystemen som är relevanta för
+upprättandet av informationen i hållbarhetsrapporten.
+• Utvärdera om information som identifierats som väsentlig genom den process som
+bolaget genomfört för att identifiera innehållet hållbarhetsrapporten också ingår.
+• Utvärdera om strukturen och presentationen av hållbarhetsrapporten är förenlig
+med kraven i ESRS;
+• [Genomföra [förfrågningar till relevant personal och] analytiska granskningsåtgärder
+avseende utvalda upplysningar i hållbarhetsrapporten];
+• [Utföra substansgranskningsåtgärder baserat på ett stickprov på utvalda
+upplysningar i hållbarhetsrapporten];
+• Genom förfrågningar och analytiska granskningsåtgärder inhämta underlag på
+metoderna för att ta fram väsentliga uppskattningar och framåtblickande information
+och på hur dessa metoder tillämpades;
+• Erhålla förståelse för processen för att identifiera ekonomiska verksamheter som
+omfattas av- och är förenliga med EU:s gröna taxonomi och de motsvarande
+upplysningarna i hållbarhetsrapporten. Granskningen av taxonomiupplysningarna
+inkluderade men var inte begränsade till följande granskningsåtgärder:
+- [Andra åtgärder som utförs avseende upplysningar som lämnas enligt EU:s gröna
+taxonomi]
+• [Infoga en sammanfattning av karaktären och omfattningen av eventuella andra
+åtgärder som utförts avseende upplysningar i hållbarhetsrapporten som ger
+ytterligare information som kan vara relevant för användarnas förståelse av det
+utförda arbetet för att stödja min (vår) slutsats och den bestyrkandenivå som
+erhållits.]
+När är det lämpligt att infoga stycket "begränsningar" i
+granskningsberättelsen?
+I FAR:s exempel över granskningsberättelser inkluderas en placeholder för avsnittet
+"Begränsningar" där revisorn kan infoga en beskrivning eventuella begränsningar
+som förknippas med mätningen av det underliggande granskningsobjektet mot
+kriterierna. Ett sådant exempel kan vara begränsningar avseende upplysningar om
+framåtblickande information enligt ESRS vilken upprättats med grund i antaganden
+om framtida händelser och åtgärder som till sin natur är mycket osäkra.
+Eftersom hållbarhetsrapporten kan omfatta relativt omfattande upplysningar
+avseende framåtblickande information kan det vara lämpligt att revisorn beskriver
+begränsningarna kopplade till denna information. Revisorn kan beskriva det faktum
+att den framåtblickande informationen bygger på antaganden om framtida händelser
+och åtgärder som till sin natur är mycket osäkra och revisorn inte kan uttala någon
+slutsats om det verkliga utfallet av de effekter som rapporteras i
+hållbarhetsrapporten.
+Revisorn bedömer vilka begränsningar som kan vara lämpliga att beskriva i
+granskningsberättelsen. Nedan följer ett illustrativt exempel. Observera att
+utformningen alltid måste anpassas till det enskilda granskningsuppdraget och att
+texten i granskningsberättelsen behöver vara tillräckligt specifik för att läsaren ska
+förstå vad upplysningen åsyftar.
+Begränsningar i upprättandet av hållbarhetsrapporten
+[Som framgår i [ange den specifika upplysningen i hållbarhetsrapporten], [ge en
+specifik beskrivning av eventuella betydande inneboende begränsningar som är
+förknippade med mätningen eller utvärderingen av hållbarhetsfrågorna mot de
+tillämpliga kriterierna].]
+Vid rapportering av framåtblickande information i enlighet med ESRS måste
+styrelsen [och verkställande direktören] för [Företaget XYZ AB] förbereda
+framåtblickande information utifrån angivna antaganden om händelser som kan
+inträffa i framtiden och möjliga framtida aktiviteter av [Företaget XYZ AB]. Faktiska
+utfall kommer sannolikt att bli annorlunda eftersom förväntade händelser ofta inte
+inträffar som förväntat.
+Engelsk översättning av stycket:
+Inherent limitations in preparing the sustainability statements
+[As discussed in [identify the specific disclosure in the sustainability statement],
+[provide a specific description of any significant inherent limitations associated with
+the measurement or evaluation of the sustainability matters against the applicable
+criteria].
+In reporting forward-looking information in accordance with ESRS, the board of
+directors [and the managing director] of [Company XYZ AB] are required to prepare
+the forward-looking information on the basis of disclosed assumptions about events
+that may occur in the future and possible future actions by [Company XYZ AB].
+Actual outcomes are likely to be different since anticipated events frequently do not
+occur as expected.
+När är det lämpligt att lämna "upplysningar av särskild betydelse" i
+granskningsberättelsen?
+Revisorn kan infoga en upplysning av särskild betydelse som rör ett förhållande som
+är presenterat- eller en upplysning som har lämnats om på ett riktigt sätt i
+hållbarhetsrapporten, om det enligt revisorn är så viktigt att det är grundläggande för
+användares förståelse av hållbarhetsrapporten. RevR 19 p 6.15 anger att det kan
+vara lämpligt att infoga en upplysning av särskild betydelse om det föreligger stora
+osäkerheter i uppskattningar och bedömningar och de inneboende mätnings- eller
+utvärderingsosäkerheterna bedöms vara grundläggande för användarnas förståelse
+av hållbarhetsinformationen.
+Revisorn bedömer om det finns några förhållanden som kan vara lämpliga att
+beskriva i granskningsberättelsen. Nedan följer ett illustrativt exempel. Observera att
+utformningen alltid måste anpassas till det enskilda granskningsuppdraget.
+Upplysning(ar) av särskild betydelse
+Som framgår i [ange den/de specifika upplysningen/-arna i hållbarhetsrapporten].
+[Utarbetandet av hållbarhetsrapporten kräver att styrelsen [och verkställande
+direktören] genomför en dubbel väsentlighetsanalys för att identifiera relevanta
+upplysningar. Detta inkluderar betydande bedömningar och val från styrelsen [och
+verkställande direktören]. Utmärkande för hållbarhetsapportering är också att
+redovisningen av denna typ av data innefattar uppskattningar och antaganden samt
+mätnings- och utvärderingsosäkerhet. Vid fastställandet av upplysningarna i
+hållbarhetsrapporten tolkar styrelsen [och verkställande direktören] odefinierade
+juridiska- och andra termer. Odefinierade juridiska- och andra termer kan tolkas
+olika, inklusive den juridiska överensstämmelsen av deras tolkning och är därför
+föremål för osäkerheter.]

@@ -1,0 +1,416 @@
+Riktlinjer från FAR 2025
+Frågor och svar om CSRD
+De som omfattas av EU:s nya direktiv för hållbarhetsrapportering, CSRD, är stora
+företag samt små och medelstora noterade företag. Kravet på större företag
+förväntas dock att spilla över även på mindre företag. Svaren i denna FAQ baseras
+på den kunskap och information som finns tillgänglig vid publiceringsdatum.
+Relationen mellan taxonomiförordningen, CSRD och
+ESRS
+Vilken är relationen mellan taxonomiförordningen, CSRD och ESRS?
+CSRD är EU:direktivet som införlivats i årsredovisningslagen. ÅRL anger vilka
+företag som träffas av kraven på rapportering. ESRS:erna definierar vad som ska
+rapporteras inom en rad områden i enlighet med årsredovisningslagen, och
+innehåller en placeholder för taxonomiinformation, dvs taxonomiinformationen ska
+inkluderas i hållbarhetsrapporten och inte som en egen
+rapportering.Taxonomiförordningen reglerar vad som ska rapporteras enligt
+taxonomin och när rapportering ska ske.
+Tidpunkt för reglernas ikraftträdande för olika typer av
+företag
+När börjar reglerna gälla?
+I enlighet med ÅRL börjar reglerna gälla stegvis enligt nedan;
+1 juli 2024 (de första rapporterna 2025 eller 2026) stora företag/koncern av allmänt
+intresse med mer än 500 anställda.
+1 januari 2025 (de första rapporterna 2026) för andra stora bolag, dvs. företag och
+koncerner som uppfyller mer än ett av följande villkor under vart och ett av de två
+senaste räkenskapsåren;
+medelantalet anställda har uppgått till mer än 250,
+balansomslutningen har uppgått till mer än 280 miljoner kronor,
+nettoomsättningen har uppgått till mer än 550 miljoner kronor
+1 januari 2026 (de första rapporterna 2027) för små och medelstora företag på
+reglerad marknad. För dessa bolag finns en möjlighet att förskjuta införandet med
+två år till 2028.
+1 januari 2026 för kreditinstitut (juridisk person) som definieras som stora företag
+eller är noterat på reglerad marknad och som i enlighet med
+kapitaltäckningsdirektivet (2019/876 art 4) uppfyller kriterierna för litet och
+icke-komplext enligt direktivet och som uppfyller mer än ett av följande villkor under
+vart och ett av de två senaste räkenskapsåren;
+medelantalet anställda har uppgått till mer än 250,
+balansomslutningen har uppgått till mer än 280 miljoner kronor,
+nettoomsättningen har uppgått till mer än 550 miljoner kronor
+För koncern gäller 1 juli 2024 eller 1 janauri 2025 beroende på om gruppen har mer
+eller mindre än 500 anställda och brutet räkenskapsår eller kalenderår),
+1 januari 2026 för captivebolag (bolag som endast täcker risker som är förknippade
+med den industri- eller handelsgrupp de ingår i) (juridisk person) som definieras som
+stora företag, och uppfyller mer än ett av följande villkor under vart och ett av de två
+senaste räkenskapsåren;
+medelantalet anställda har uppgått till mer än 250,
+balansomslutningen har uppgått till mer än 280 miljoner kronor,
+nettoomsättningen har uppgått till mer än 550 miljoner kronor
+1 januari 2028 (de första rapporterna 2029) för bolag utanför EU med
+filialer/dotterföretag av viss storlek.
+Vilka övergångsregler gäller för rapporteringen 2024?
+Se bilaga övergångsregler 2024 med exempel på vilka krav på rapportering som
+gäller i olika scenarier och för olika företagsformer.
+Vad gäller företag som har brutna räkenskapsår?
+De nya reglerna i årsredovisningslagen börjar gälla stegvis vilket innebär att
+rapporteringskravet tillämpas första gången för räkenskapsår som inleds från och
+med 1 juli 2024, eller 1 januari 2025, 2026 eller 2028 beroende vilken kategori
+företaget tillhör (se separat fråga "När börjar reglerna gälla")
+Exempel:
+För andra stora företag, med undantag för små och icke-komplexa institut och
+captiveföretag för försäkring respektive återförsäkring, ska rapporteringskravet
+tillämpas första gången för räkenskapsår som inleds närmast efter utgången av
+2024. Ett stort onoterat företag som har räkenskapsår 1 september - 31 augusti ska
+därmed rapportera för räkenskapsår 2025/2026 för första gången enligt
+årsredovisningslagen.
+För stora PIE-företag med fler än 500 anställda ska rapporteringskravet tillämpas
+första gången för räkenskapsår som inleds närmast efter utgången av 30 juni 2024.
+Ett sådant företag som har räkenskapsår 1 juli - 30 juni ska därmed rapportera för
+räkenskapsår 2024/2025 för första gången enligt årsredovisningslagen, och ett
+sådant företag med kalenderår som räkenskapsår rapporterar för räkenskapsår 2025
+för första gången.
+När börjar reglerna gälla för ett moderföretag i en koncern med fler än
+500 anställda i genomsnitt under räkenskapsåret 2023/2024 som
+noteras på reglerad marknad under räkenskapsår 2024/2025?
+Om ett stort företag som har fler än 500 anställda och har räkenskapsår som inleds
+fr.o.m. 1 juli 2024 noteras under räkenskapsåret 2024/2025 ska detta företag
+upprätta en hållbarhetsrapport enligt de nya reglerna i årsredovisningslagen
+inklusive taxonomirapportering för 2024/2025, även om noteringen sker under
+räkenskapsåret.
+Vad gäller om ett företag uppfyller två av tre tröskelvärden för de två
+senaste fastställda räkenskapsåren, men inte för innevarande år. Är
+företaget trots sin minskande verksamhet ändå skyldig att upprätta en
+lagstadgad hållbarhetsrapport? När upphör rapporteringskraven om
+företaget inte längre uppfyller gränsvärdena för att vara ett stort företag?
+Om bolaget överskrider tröskelvärdena för de två senast fastställda räkenskapsåren
+ska en hållbarhetsrapport upprättas. Hänsyn ska inte tas till innevarande år. Om
+företaget inte uppfyller gränsvärdena två fastställda räkenskapsår i rad upphör
+rapporteringsplikten.
+Företag som omfattas respektive undantas av
+rapporteringskraven
+Vilka företag ska tillämpa de nya reglerna?
+Följande företag ska tillämpa de nya reglerna. För en överblick av när reglerna ska
+tillämpas för olika företagskategorier, se frågan När börjar reglerna gälla?
+Alla aktiebolag med aktier och skuldebrev noterade på reglerade marknad i EU
+(inklusive små och medelstora företag men inga mikroföretag)
+Aktiebolag och handelsbolag vars samtliga direkta eller indirekta ägare är aktiebolag
+eller utländska företag som motsvarar aktiebolag, inkl. moderbolag i koncerner, som
+överskrider två av följande tre kriterier (avser de två senast fastställda
+räkenskapsåren)
+250 anställda under verksamhetsåret
+balansomslutning 280 miljoner kronor
+nettoomsättning 550 miljoner kronor
+Företag utanför EU som genererar en nettoomsättning på mer än 150 miljoner euro*
+och som har ett dotterföretag i EU som uppfyller de kriterier som gäller för
+EU-företag (dvs. som är noterade på den europeiska marknaden utom mikroföretag
+eller ligger inom tröskelvärdet för stora företag) eller en filial i EU som genererar mer
+än 40 miljoner euro* i nettoomsättning.
+Vilka företagstyper omfattas av reglerna och vilka företagsformer är
+undantagna från reglerna?
+Regler om hållbarhetsrapportering omfattar aktiebolag och handelsbolag vars
+samtliga direkta eller indirekta ägare är aktiebolag eller utländska företag som
+motsvarar aktiebolag, om dessa företag är av en viss storlek. Av de nya
+bestämmelserna följer också att endast finansiella holdingföretag som bedrivs som
+aktiebolag eller som vissa former av handelsbolag berörs av bestämmelserna om
+hållbarhetsrapport. Företagsformer som därmed inte omfattas av reglerna är
+ekonomiska föreningar, stiftelser, ideella föreningar, tjänstepensionsföretag och
+alternativa investeringsfonder.
+Med undantagna alternativa investeringsfonder avser detsamma som 1 kap. 2 §
+lagen (2013:561) om förvaltare av alternativa investeringsfonder. Undantaget gäller
+den alternativa investeringsfonden. Fondens förvaltare kan alltså omfattas av kravet
+på hållbarhetsrapport enligt andra bestämmelser.
+Omfattas även kommanditbolag av rapporteringskraven?
+Ja, kommanditbolag innefattas i kategorin handelsbolag vars samtliga direkta eller
+indirekta ägare är aktiebolag eller utländska företag som motsvarar aktiebolag.
+Omfattas alla små- och medelstora företag av allmänt intresse av
+rapporteringskravet?
+Vad gäller SME-företag hänvisar årsredovisningslagen till företag enligt
+redovisningsdirektivets artikel 2 p 1 a) vilket endast avser de företag som har
+värdepapper noterade på en reglerad marknad. Övriga finansiella företag, vilka
+anges i punkterna b-c, omfattas inte av rapporteringskravet. Mikroföretag omfattas
+däremot inte av rapporteringskraven.
+Vad är mikroföretag?
+Mikroföretag är företag som under vart och ett av de senaste räkenskapsåren inte
+överskrider åtminstone två av följande tre delvärden;
+a) medeltal anställda: 10,
+b) balansomslutning: 5 miljoner kr,
+c) nettoomsättning: 10 miljoner kr
+Vad gäller för de små icke-komplexa kreditinstitut enligt
+CRR-förordningen som också uppfyller gränsvärdena för stora företag
+enligt redovisningsdirektivet?
+Små icke-komplexa kreditinstitut definieras i CRR-förordningen (EU 575/2013).
+Enligt årsredovisningslagen får ett företag som är litet och icke-komplext enligt CRR
+och samtidigt definieras som ett stort företag enligt redovisningsdirektivet (EU
+2013/34 EU) rapportera enligt de särskilda standarder för SME-företag enligt artikel
+29 c i årsredovisningslagen. Rapporteringskravet för små icke-komplexa kreditinstitut
+inträder för räkenskapsår som inleds från och med 1 januari 2026.
+Det finns ingen möjlighet för stora företag att skjuta på rapporteringen till 2028
+genom att den. sk. opt-out möjligheten. Möjligheten att skjuta på rapporteringen till
+räkenskapsår som inleds från och med 1 januari 2028 gäller endast de företag som
+uppfyller redovisningsdirektivets definition för små- och medelstora företag.
+Möjligheten till senare tillämpning och förenklad rapporteirng gäller enbart för juridisk
+person, dvs. inte för en koncern.
+Vad gäller för banker och försäkringsföretag?
+Storlekskriterierna avseende antal anställda, nettoomsättning och balansomslutning
+gäller även för banker och försäkringsföretag och att två av dessa kriterier ska vara
+uppfyllda under de två senaste räkenskapsåren. Förutom för aktiebolag gäller kraven
+oavsett juridisk form, dvs. det gäller för sparbanker och ömsesidiga
+försäkringsföretag. Reglerna träder i kraft den 1 januari 2025.
+För sk captiveföretag gäller att ikraftträdandet kan skjutas upp ett år i likhet med vad
+som gäller för icke-komplexa kreditinstitut, dvs räkenskapsår som gäller från den 1
+januari 2026. Rapportering får även ske enligt de särskilda standarder för
+SME-företag enligt artikel 29 c i årsredovisningslagen., som är definierat i Direktiv
+2009/138 EG.
+Försäkringsföretag eller banker som har överlåtbara värdepapper upptagna till
+handel på en reglerad marknad där mer än ett av följande kriterier är uppfyllda under
+de två senaste räkenskapsåren ska upprätta en hållbarhetsrapport:
+10 anställda
+5 MSEK i balansomslutning
+10 MSEK i nettoomsättning
+Detta är samma som för övriga aktiebolag. Viss begränsning i
+upplysningskraven finns för dessa företag enligt ÅRL 6 kap 12 § g.
+OBS, kan i detta fall enbart vara aktiebolag, då andra juridiska former inte kan ha
+överlåtbara värdepapper upptagna till handel på en reglerad marknad.
+Ett dotterföretag kan hänvisa uppåt i koncernen om det omfattas av en
+hållbarhetsrapport hos överordnat bolag. Undantaget gäller dock inte ett bolag stora
+företag och vars överlåtbara värdepapper är upptagna till handel på en reglerad
+marknad ÅRL 6 kap 11§ a).
+Vad är ett captiveföretag?
+Ett captive företag definieras i Direktiv 2009/138 EG såsom ett försäkringsföretag
+som ägs endera av ett finansiellt företag annat än ett försäkrings- eller
+återförsäkringsföretag eller en grupp av försäkrings- eller återförsäkringsföretag
+enligt artikel 212.1 c eller av ett icke-finansiellt företag, och som syftar till att erbjuda
+försäkringsskydd uteslutande för risker i det företag eller de företag som
+captivebolaget tillhör eller i ett eller flera företag i den grupp som captivebolaget är
+en del av.
+Beräkning av gränsvärden
+Vad gäller för moderföretag som är ett sk. Investment entity och som
+tillämpar undantag för koncernredovisning enligt IFRS 10. Är
+moderföretaget skyldigt att upprätta hållbarbetsrapport för koncernen?
+Hur ska i så fall storlekskriterier för nettoomsättning, balansomslutning
+och antal anställda beräknas? Ska gränsvärdena baseras på uppgifterna
+i årsredovisningen eller på sidoordnad, traditionell, konsolidering?
+Enligt regeringens kommentarer i lagrådsremissen föreslås inga särskilda regler för
+företag som tillämpar IAS-förordningen. Dessa företag hänvisas till vad som för dem
+utgör nettoomsättning såsom detta definieras i redovisningsdirektivet. Motsvarande
+gäller frågan om vilken koncerndefinition som ska gälla för företag som tillämpar
+IAS-förordningen. Detta innebär att företaget utgår från redovisningen dvs. resultat-
+och balansräkningen.
+Företag som är noterade på marknader utanför Sverige
+Vilka rapporteringkrav gäller för företag med noterade värdepapper eller
+skuldebrev på en reglerad marknad utanför EES?
+Om ett svenskt företag har noterade aktier eller skuldebrev utanför EES området
+avgör det landets lagstifning vilka rapporteringskrav som gäller. Der är osannolikt att
+CSRD gäller i länder utanför EES området.
+Vilka rapporteringskrav gäller för företag med noterade värdepapper
+eller skuldebrev på reglerade marknadsplatser i flera olika länder inom
+EU?
+Respektive lands nationella rätt utifrån hur det införlivat transparensdirektivet. Den
+svenska hanteringen framgår av lagen om värdepappersmarknaden.
+Filialer
+Vad gäller för en svensk filial till ett utländskt företag?
+Direktivets rapporteringskrav omfattar också företag hemmahörande utanför EU som
+har betydande verksamhet i EU. Vissa europeiska dotterföretag och filialer till
+sådana tredjelandsföretag ska då upprätta, offentliggöra och tillgängliggöra
+hållbarhetsrapporterna.
+En filial ska offentliggöra och tillgängliggöra en hållbarhetsrapport, om
+företaget som bedriver näringsverksamhet genom filialen motsvarar ett
+svenskt aktieföretag men har sitt säte i tredjeland, och
+a) företaget inte har något dotterföretag av det slag som avses i ÅRL 7 kap.
+31 f § respektive g §, och
+b) företagets nettoomsättning i Europeiska unionen under vart och ett av de
+två senaste räkenskapsåren har uppgått till mer än 1,7 miljarder kronor, och
+filialens nettoomsättning under det senaste räkenskapsåret har uppgått till
+mer än 450 miljoner kronor.
+Koncerner och förutsättningar för att nyttja
+rapporteringsundantaget för dotterbolag
+Vilka företag måste enligt ÅRL upprätta en egen hållbarhetsrapport och
+vilka dotterbolag kan nyttja undantaget genom hänvisning till
+moderbolaget hållbarhetsrapport för koncernen (icke-finansiella bolag)
+Se koncernträdet
+Finns det möjlighet för dotterbolag som omfattas av ÅRL att hänvisa till
+ett moderbolags hållbarhetsrapport för koncernen?
+Ett dotterföretag behöver inte upprätta en hållbarhetsrapport om dotterföretaget och
+dotterföretagets samtliga dotterföretag omfattas av en hållbarhetsrapport som
+upprättats för koncernen och som är i överrensstämmelse med
+årsredovisningslagen. En hänvisning ska då göras till moderföretagets rapportering
+för koncernen.
+Undantaget omfattar inte stora dotterföretag som har aktier eller skuldebrev
+upptagna till handel på en reglerad marknad. Ett stort dotterföretag med noterade
+aktier eller skuldebrev är skyldigt att upprätta en egen hållbarhetsrapport. Noterade
+SME-bolag kan dock utnyttja undantaget och hänvisa till moderföretagets
+hållbarhetsrapport för koncernen.
+Är moderbolaget i en stor koncern skyldig att upprätta en
+hållbarhetsrapport för koncernen, även om moderbolaget är litet?
+Ett moderbolag i en stor koncern är skyldigt att upprätta en hållbarhetsrapport för
+hela koncernen oavsett moderbolagets storlek.
+Är det möjligt för ett stort företag av allmänt intresse (EU-PIE) som har
+noterade skuldebrev att hänvisa till en hållbarhetsrapport som ett
+moderföretag som också är ett stort företag av allmänt intresse (EU-PIE)
+har upprättat?
+Nej, stora dotterföretag som som har överlåtbara värdepapper upptagna till handel
+på en reglerad marknad undantas inte från kravet att upprätta en hållbarhetsrapport.
+Överlåtbara värdepapper, på engelska "securities" innefattar även noterade
+skuldebrev enligt MiFID-direktivet.
+Under vilka förutsättningar kan ett noterat SME företag hänvisa till
+koncernens hållbarhetsrapport?
+Ett noterat SME företag kan hänvisa till koncernens hållbarhetsrapport förutsatt att:
+Det noterade SME företaget inte utgör moderföretaget in en koncern som
+överskrider gränsvärdena för stora företag (250/280/550)
+Det noterade SME företaget omfattas av koncernens hållbarhetsrapport
+Att koncernens hållbarhetsrapport uppfyller kraven i årsredovisningslagen.
+Särskilt om hänvisning till tredjelandsföretag
+Finns det möjlighet för ett dotterföretag som omfattas av ÅRL att hänvisa
+till ett utländskt moderföretags hållbarhetsrapport för koncernen?
+För ett dotterföretag med ett moderföretag utanför EU finns en möjlighet att hänvisa
+till moderföretagets hållbarhetsrapport förutsatt att denna uppfyller kraven i ÅRL. I
+dagsläget finns inga andra internationella rapporteringsstandarder som uppfyller
+kraven i sin helhet.
+Vilka villkor måste vara uppfyllda för att ett dotterföretag ska kunna
+undantas från rapporteringskravet genom att hänvisa till en
+hållbarhetsrapport för koncernen som upprättas av ett moderbolag i
+tredjeland?
+ÅRL 6 kap 11 a § anger kraven för att ett dotterbolag med ett moderföretag utanför
+EU/EES ska kunna undantas från att göra en egen hållbarhetsrapport är att:
+Hållbarhetsrapporten för moderbolaget är gjord enligt EU:s
+hållbarhetsstandarder (ESRS) eller enligt andra standarder som
+EU-kommissionen bedömt som likvärdiga.
+Upplysningar om dotterbolaget som krävs enligt EU:s taxonomiförordning
+(2020/852) ingår i antingen dotterbolagets förvaltningsberättelse eller
+moderbolagets hållbarhetsrapport.
+Rapporten och granskningsutlåtandet för moderbolaget offentliggörs i enlighet
+med gällande regler.
+Av redovisningsdirektivets artikel 19a) p. 9b) framgår att uttalandet om
+kvalitetsgranskning av hållbarhetsrapporteringen för koncernen ska avges av en part
+som har bemyndigats att lämna uttalanden om kvalitetsgranskning av
+hållbarhetsrapportering enligt den lagstiftning som det moderföretaget lyder under.
+För att dotterbolag ska kunna nyttja undantaget bör det försäkra sig om att det
+omfattas av moderföretagets hållbarhetsrapport för koncernen.
+Kan ett svenskt dotterföretag med utländskt moderföretag hänvisa till
+moderföretagets "fiktiva" hållbarhetsrapport för koncernen om denna har
+upprättats av ett annat dotterföretag i koncernen?
+I övergångsbestämmelserna p 7 i ÅRL framgår att detta är möjligt till och med det
+räkenskapsår som inleds närmast efter utgången av 2028. Det dotterföretag som
+upprättar hållbarhetsrapporten för koncernen ska vara ett av de dotterföretag som
+genererat den högsta omsättningen inom EES inom något av de fem senaste
+räkenskapsåren.
+Granskningsuppdraget
+Vem får bestyrka hållbarhetsrapporteringen?
+Hållbarhetsrapporten ska granskas av en auktoriserad revisor med särskild
+behörighet. Ett företag får utse en annan auktoriserad revisor att granska
+hållbarhetsrapporten än den som valts för den lagstadgade revisonen av företagets
+bokföring, årsredovisning och styrelsens förvaltning.
+Vad krävs för att jag ska få den särskilda behörigheten?
+Förutsättningarna för att erhålla särskild behörighet reglereras genom förordningen
+om revisorer och Revisorsinspektionens föreskrifter.
+Den som kan erhålla behörighet att granska hållbarhetsrapporter är
+auktoriserad revisor, och
+har ägnat minst åtta månaders praktisk utbildninge åt granskning av
+hållbarhetsrapporter eller utförandet av andra hållbarhetsrelaterade tjänster.
+Den praktiska utbildningen kan antingen ingå som en del av den treåriga
+praktiska utbildningen eller som en del utöver denna och kan ha genomgåtts
+innan revisorsexamen avlagts eller helt eller delvis även efter att
+revisorsexamen har avlagts.
+Ansökan om behörighet sker skriftligen hos Revisorsinspektionen. Ansökan ska vara
+undertecknad av sökanden och innehålla ett intyg från arbetsgivare eller annan
+dokumentation som visar att sökanden har genomgått den praktisk utbildningen i p
+2.
+Uppgift om den särskilda behörigheten registreras i Revisorsinspektionens
+revisorsregister.
+Det tillkommer inte något ytterligare prov för erhålla den särskilda behörigheten men
+ordinarie revisorsexamen utökas från år 2026 till att omfatta även hållbarhet,
+inbegripet
+a) Rättsliga krav och standarder rörande upprättande av årlig
+hållbarhetsrapportering och hållbarhetsrapportering för koncernen.
+b) Hållbarhetsanalys.
+c) Förfaranden för tillbörlig aktsamhet med avseende på hållbarhetsfrågor.
+d) Rättsliga krav och standarder för kvalitetsgranskning av
+hållbarhetsrapportering som avses i artikel 26a
+Läs mer på revisorsinspektionens hemsida.
+Revisorsinspektionens föreskrifter anger att de hållbarhetsrelaterade
+ämnesområdena kan ha studerats med godkänt resultat antingen vid
+revisionsföretag och/eller universitet/högskola. Teoretisk utbildning vid
+revisionsföretag ska ha följt en utbildningsplan som är godkänd av
+Revisorsinspektionen. Utbildningsplanen ska baseras på lärandemål som syftar till
+att ge tillräckliga teoretiska kunskaper för att utföra revisionsverksamhet. FAR:s
+EtikR 5 Grundutbildning och lärandemål för revisorer arbets om med anledning av
+RI:s uppdaterade föreskrifter om och kommer även inkludera lärandemål som syftar
+till att säkerställa tillräckliga kunskaper inom ovan ämnesområden.
+Finns några övergångsbestämmelser för auktoriserade revisorer som
+önskar erhålla särskild behörighet?
+Övergångsbestämmelserna i förordningen om revisorer innebär att den revisor som
+är auktoriserad före den 1 januari 2026 är behörig att granska hållbarhetsrapporter.
+Detta innebär att det inte tillkommer någon ytterligare examination eller krav på åtta
+månaders praktisk utbildning men dock ett krav på att revisorn fortbildar sig inom
+hållbarhetsämnena. Också den som någon gång före den 1 juli 2024 har varit
+auktoriserad revisor och sedan återkommer till yrket får vid auktorisation automatiskt
+behörighet att granska hållbarhetsrapporter.
+Ett särskilt fortbildningskrav inom hållbarhet tillkommer för den som är behörig att
+granska hållbarhetsrapporter. Kravet omfattar minst 40 verifierbara timmar under den
+femårsperiod som närmast föregår en ansökan om fortsatt auktorisation. Den som är
+behörig att granska hållbarhetsrapporter ska alltså under en femårsperiod
+genomföra totalt 140 timmar verifierbar fortbildning, varav 40 avser hållbarhet.
+Avräkning från 40-timmarskravet får ske i de fall någon har haft behörighet endast
+under en del av den senaste femårsperioden.
+Ämnena inom hållbarhet, inbegriper:
+a) Rättsliga krav och standarder rörande upprättande av årlig hållbarhetsrapportering
+och hållbarhetsrapportering för koncernen.
+b) Hållbarhetsanalys.
+c) Förfaranden för tillbörlig aktsamhet med avseende på hållbarhetsfrågor.
+d) Rättsliga krav och standarder för kvalitetsgranskning av hållbarhetsrapportering
+som avses i artikel 26a.
+FAR:s EtikR 4 Vidareutbildning kommer att innehålla ytterligare information om de
+ämnesområden som får tillgodoräknas som fortbildning.
+Den revisor som har fått behörighet att granska hållbarhetsrapporter, men inte avser
+att använda sig av den behörigheten och därför inte heller vill fortbilda sig särskilt
+kan vända sig till Revisorsinspektionen och begära att behörigheten återkallas.
+Ska bolagsstämman särskilt utse den revisor som har i uppdrag att
+granska den lagstadgade hållbarhetsrapporten?
+Av lagkommentarerna i förarbetena framgår att om en revisor utses för granskning
+av enbart hållbarhetsrapporten, så ska denne vara utsedd av stämman. Om ett
+sådant uppdrag lämnas till flera revisorer, ska minst en av dessa vara utsedd av
+stämman. FAR anser, baserat på vad som framgår av förarbetena, att om bolaget
+önskar att den revisorn som ansvarar för den finansiella revisionen, också ska
+granska hållbarhetsrapporten behöver revisorn inte uttryckligen väljas för detta
+uppdrag vid årsstämman.
+Vilket uppdragsbrev, vilka allmänna villkor ska tillämpas?
+En revisor ska avtala villkoren för uppdraget med uppdragsgivaren. De avtalade
+villkoren för uppdraget ska anges i tillräcklig detalj i ett uppdragsbrev eller annan
+passande form av skriftligt avtal, skriftlig bekräftelse eller i lag eller annan författning.
+Villkoren att granska hållbarhetsrapporten kan framgå i ett separat uppdragsbrev
+eller i ett kombinerat uppdragsbrev som också omfattar det lagstadgade
+revisionsuppdraget.
+FAR håller på att ta fram en exempelmall för ett nytt kombinerat uppdragsbrev för
+uppdraget att granska den lagstadgade hållbarhetsrapporten som kan nyttjas. När
+den nya lagen har trätt i kraft anser FAR att det är de allmänna villkoren för revision
+som ska bifogas.
+Styrelsens ansvar
+Vilket ansvar har styrelsen och verkställande direktören för
+hållbarhetsrapporten?
+Hållbarhetsrapporten är en del av förvaltningsberättelsen i årsredovisningen. Det är
+aktiebolagets styrelse och den verkställande direktören som har ansvaret för
+räkenskapshandlingarna och förvaltningen och för att årsredovisningen upprättas i
+enlighet med tillämplig lag om årsredovisning (se 8 kap. 4 och 29 §§
+aktiebolagslagen [2005:551], ABL).
+Är det möjligt för styrelsen att delegera ansvaret för hållbarhetsrapporten
+till ett hållbarhetsutskott?
+Nej, styrelsen ansvarar för att hållbarhetsrapporten upprättas och offentliggörs i
+enlighet med kraven i årsredovisningslagen. Revisionsutskottets (eller
+hållbarhetsutskottets) uppgifter är att övervaka den finansiella rapporteringen och
+hållbarhetsrapporteringen, övervaka effektiviteten i intern kontroll, hålla sig
+informerat om revisorns granskning av rapporteringen, samt informera styrelsen om
+resultatet av detta arbete.
+Vilket ansvar för hållbarhetsrapporten har styrelsen i ett dotterföretag
+som använder sig av möjligheten att hänvisa till moderföretagets
+hållbarhetsrapport?
+Ansvaret för arbetet med hållbarhetsfrågor utgör en del av styrelsens ansvar för
+bolagets förvaltning. Det är styrelsens ansvar att säkerställa att förutsättningarna för
+hänvisning är uppfyllda.
+Av EU:s faq nr 20 framgår: För att det underställda företaget ska undantas från att
+publicera sin egen hållbarhetsrapport måste förvaltningsberättelsen som publiceras
+av det underställda företaget innehålla en webblänk till koncernens
+förvaltningsberättelse eller konsoliderade hållbarhetsrapportering. Om denna rapport
+inte är tillgänglig vid publiceringstidpunkten kan det underställda företaget hänvisa till
+en generell webblänk där de relevanta dokumenten kommer att finnas i framtiden.
+Det underställda EU-företaget kan överväga att erhålla en försäkran från
+moderföretaget om att det garanterar åtagandena.

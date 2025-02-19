@@ -1,0 +1,254 @@
+European Commission - Questions and answers
+Questions and Answers on the Adoption of European Sustainability
+Reporting Standards
+Brussels, 31 July 2023
+Why is the Commission adopting European Sustainability Reporting Standards (ESRS)?
+EU law requires all large companies and all listed companies (except listed micro-enterprises) to
+disclose information on what they see as the risks and opportunities arising from social and
+environmental issues, and on the impact of their activities on people and the environment. This helps
+investors, civil society organisations, consumers and other stakeholders to evaluate the sustainability
+performance of companies, as part of the European green deal.
+Nonetheless, there is ample evidence that the sustainability information that companies currently
+report is not sufficient. They often omit information that investors and other stakeholders think is
+important. Reported information can be hard to compare from company to company, and users of the
+information, such as investors, are often unsure whether they can trust it.
+Problems in the quality of sustainability reporting have knock-on effects. It means that investors lack
+a reliable overview of sustainability-related risks to which companies are exposed. Investors
+increasingly should be made aware about the impact of companies on people and the environment
+and their plans to reduce such impacts in the future. This knowledge will help them to meet their
+own disclosure requirements under the Sustainable Finance Disclosure Regulation (SFDR). More
+generally, if the market for green investments is to be credible, investors need to know about the
+sustainability impact of the companies in which they invest. Without such information, money cannot
+be channelled towards environmentally friendly activities.
+That is why, in line with the Corporate Sustainability Reporting Directive (CSRD), which outlines the
+obligation for companies to use standards to fulfil their legal sustainability reporting obligations, the
+Commission is adopting common standards which will help companies to communicate and
+manage their sustainability performance more efficiently and therefore to have better access to
+sustainable finance.
+The European Sustainability Reporting Standards (ESRS) will be mandatory for use by companies
+that are obliged by the Accounting Directive to report certain sustainability information. By requiring
+the use of common standards, the Accounting Directive, as amended by the CSRD in 2022, aims to
+ensure that companies across the EU report comparable and reliable sustainability information.
+Common standards are expected to help companies to reduce reporting costs in the medium and
+long term, by avoiding the use of multiple voluntary standards as this is the case today. Currently,
+problems in the quality of sustainability reporting create an accountability gap. High quality and
+reliable public reporting by companies will help create a culture of greater public accountability.
+How have the ESRS been developed?
+In accordance with the provisions of the Accounting Directive, as amended by the CSRD, the
+standards adopted by the Commission are based on technical advice (draft standards) from EFRAG.
+EFRAG (previously known as the European Financial Reporting Advisory Group) is an independent,
+multistakeholder advisory body, majority funded by the EU. Its draft standards are developed with
+the close involvement of investors, companies, auditors, civil society, trade unions, academics and
+national standard-setters.
+EFRAG submitted its draft standards to the Commission in November 2022, after having run a public
+consultation on initial draft standards earlier last year. Further to that consultation, EFRAG made
+substantial modifications to its initial drafts before submission to the Commission with a particular
+view on reducing administrative burden for companies, including reducing the number of reporting
+requirements by nearly half.
+Earlier this year, as required by the Accounting Directive, the Commission consulted Member States
+on the draft standards submitted by EFRAG, along with various EU bodies such as the 3 European
+Supervisory Authorities (the European Securities and Markets Authority, the European Banking
+Authority and the European Insurance and Occupational Pensions Authority),the European
+Environment Agency, the European Union Agency for Fundamental Rights, the European Central
+Bank, the Committee of European Auditing Oversight Bodies and the Platform on Sustainable
+Finance.
+In accordance with its Better Regulation Guidelines, the Commission also published the proposed
+final ESRS on the Have Your Say portal in early June for a 4-week period of public comment.
+What will companies have to report?
+As required by the Accounting Directive, as amended by the CSRD, the ESRS take a “double
+materiality” perspective – that is to say, they oblige companies to report both on their impacts on
+people and the environment, and on how social and environmental issues create financial risks and
+opportunities for the company.
+There are 12 ESRS, covering the full range of sustainability issues, in line with EFRAG's proposal:
+Group Number Subject
+Cross- ESRS 1 General Requirements
+cutting
+Cross- ESRS 2 General Disclosures
+cutting
+Environment ESRS E1 Climate
+Environment ESRS E2 Pollution
+Environment ESRS E3 Water and marine
+resources
+Environment ESRS E4 Biodiversity and
+ecosystems
+Environment ESRS E5 Resource use and circular
+economy
+Social ESRS S1 Own workforce
+Social ESRS S2 Workers in the value
+chain
+Social ESRS S3 Affected communities
+Social ESRS S4 Consumers and end users
+Governance ESRS G1 Business conduct
+ESRS 1 (“General Requirements”) sets general principles to be applied when reporting according to
+ESRS and does not itself set specific disclosure requirements. ESRS 2 (“General Disclosures”)
+specifies essential information to be disclosed irrespective of which sustainability matter is being
+considered. ESRS 2 is mandatory for all companies under the CSRD scope.
+All the other standards and the individual disclosure requirements and datapoints within them are
+subject to a materiality assessment. This means that the company will report only relevant
+information and may omit the information in question that is not relevant (“material”) for its
+business model and activity.
+Disclosure requirements subject to materiality are not voluntary. The information in question must
+be disclosed if it is material, and the undertaking's materiality assessment process is subject to
+external assurance in accordance with the provisions of the Accounting Directive. The standards
+require undertakings to perform a robust materiality assessment to ensure that all sustainability
+information necessary to meet the objectives and requirements of the Accounting Directive will be
+disclosed.
+If a company concludes that climate change is not a material topic and therefore does not report in
+accordance with that standard, it has to provide a detailed explanation of the conclusions of its
+materiality assessment with regard to climate change. This requirement reflects the fact that climate
+change has wide-ranging and systemic impacts across the economy.
+What modifications did the Commission make compared to the draft standards developed
+by EFRAG?
+The Commission made a number of modifications to the draft standards submitted by EFRAG. These
+modifications ensure that the standards are proportionate, without undermining the achievement of
+the policy objectives. The modifications fall into three main categories: phasing-in certain reporting
+requirements; giving companies more flexibility to decide exactly what information is relevant
+(“material”) in their circumstances; and making some of the proposed requirements voluntary.
+Firstly, the Commission has introduced some additional phase-in provisions for some of the
+reporting requirements, on top of certain phase-in provisions already proposed by EFRAG. These
+additional phase-ins mainly apply to companies with fewer than 750 employees. The costs of
+reporting are relatively higher for such companies compared to larger companies, and they have
+generally not previously been subject to sustainability requirements. The additional phase-in
+provisions give companies more time to prepare, allow them to spread the initial costs over a
+number of years and should result in higher quality reporting. The additional phase-ins focus on
+those reporting requirements considered more challenging for companies. They include certain
+reporting requirements on biodiversity and on various social issues. Depending on the topic, the new
+phase-in provisions postpone the corresponding reporting requirement for 1 or 2 years for the
+companies concerned.
+Secondly, the Commission has given companies more flexibility to decide exactly what information
+is relevant in their particular circumstances. This will avoid the costs associated with reporting
+information that may not be relevant. This is referred to as making more of the reporting
+requirements “subject to materiality” (i.e. it allows companies to omit information if it is not relevant
+in their particular circumstances), as opposed to being mandatory for all companies.
+EFRAG proposed that the majority of the standards would be subject to materiality assessment, but
+nevertheless proposed that the following be mandatory for all companies: the cross-cutting standard
+ESRS 2 (“General Disclosures”), which specifies essential information to be disclosed irrespective of
+which sustainability matter is being considered; the climate standard; some reporting requirements
+about the company's own workforce; and datapoints that correspond to information required by
+financial market participants, benchmark administrators and financial institutions for their own
+reporting purposes respectively under the Sustainable Finance Disclosure Regulation (SFDR), the
+Benchmarks Regulation (BMR) or the “pillar 3” disclosure requirements under the Capital
+Requirements Regulation (CRR). The Commission decided that all the reporting requirements should
+be subject to materiality, with the exception of ESRS 2.
+Thirdly, the Commission made a limited number of reporting requirements voluntary instead of
+mandatory. The draft standards submitted by EFRAG already included many voluntary datapoints.
+The Commission further converted a number of the mandatory datapoints proposed by EFRAG into
+voluntary datapoints. The datapoints concerned are those currently considered most challenging or
+costly for companies, such as reporting a biodiversity transition plan and certain indicators about
+self-employed people and agency workers in the undertaking's own workforce.
+What does the approach to materiality mean for coherence with other pieces of EU
+legislation on sustainable finance?
+ESRS contain a series of clearly identified datapoints that correspond to specific information that
+financial market participants, benchmark administrators and financial institutions need for their own
+reporting purposes respectively under the Sustainable Finance Disclosure Regulation (SFDR), the
+Benchmark Regulation (BMR) or the “pillar 3” disclosure requirements under the Capital
+Requirements Regulation (CRR).
+If a company concludes that a datapoint deriving from the SFDR, the BMR or the CRR is not material,
+it will have to explicitly state that the datapoint in question is “not material” rather than just
+reporting no information. In addition, companies will have to provide a table with all such datapoints,
+indicating where they are to be found in its sustainability statement or stating “not material” as
+appropriate.
+These provisions aim to facilitate the compliance of financial market participants, benchmarks
+administrators and financial institutions with their own disclosure obligations respectively under the
+SFDR, the BMR and the CRR.
+Further clarifications will be provided under the respective frameworks or related implementing
+standards regarding the approach to be taken when a company has assessed a datapoint derived
+from the SFDR, the BMR or the CRR as not material and has therefore stated “not material” in its
+reporting. Financial market participants and financial advisers may assume that any indicator
+reported as non-material by an investee company does not contribute to the corresponding indicator
+of principal adverse impacts in the context of the SFDR disclosures.
+What about SMEs?
+The Accounting Directive, as amended by the CSRD, imposes no new reporting requirements on
+SMEs, except listed SMEs.
+For listed SMEs, the Accounting Directive nevertheless provides for a proportionate reporting regime.
+Listed SMEs are not required to report sustainability information until financial year 2026, with the
+possibility of an additional two-year opt-out after that. In addition, listed SMEs may report according
+to separate, proportionate standards that will be less demanding than the full set of ESRS that the
+Commission has just adopted. EFRAG is currently developing the draft versions of the proportionate
+standards for listed SMEs.
+Some non-listed SMEs, which are not subject to any sustainability reporting requirements under the
+Accounting Directive, may nevertheless receive requests for sustainability information from
+customers, banks, investors or other stakeholders. EFRAG is therefore also developing simpler,
+voluntary standards for use by non-listed SMEs. These voluntary standards should enable non-listed
+SMEs to respond to request for sustainability information in an efficient and proportionate manner,
+and so facilitate their participation in the transition to a sustainable economy.
+In addition, the Accounting Directive states that the standards for listed SMEs will legally cap the
+information which ESRS can require large undertakings to obtain from SMEs in their value chains.
+This provision provides further safeguards against disproportionate trickle-down effects on reporting
+requirements on SMEs which are in the value-chains of larger companies.
+Where can companies get further guidance on the application of ESRS?
+EFRAG will periodically publish additional non-binding technical guidance on the application of ESRS.
+Given its expertise and its role, set out in the Accounting Directive as amended by the CSRD, as the
+Commission's technical advisor on the development of ESRS, EFRAG is very well placed to provide
+such guidance.
+The Commission has suggested that EFRAG prioritises the development of guidance on materiality
+assessment and on reporting with regard to value chains. EFRAG expects to publish draft guidance
+on these two issues for public consultation in the near future.
+EFRAG will shortly host a portal for technical questions that companies, or other stakeholders may
+have about the application of ESRS.
+Where appropriate, the Commission will consider providing guidance on questions concerning legal
+interpretation of the ESRS.
+EFRAG will continue its joint work with the ISSB on optimising the interoperability of overlapping
+ESRS and ISSB standards, which is relevant for companies required to use ESRS and that wish to
+comply in addition with ISSB standards.
+Are ESRS aligned with global standards?
+The Commission has worked to ensure a very high level of alignment between ESRS and the
+standards of the International Sustainability Standards Board (ISSB) and the Global Reporting
+Initiative (GRI).
+From the beginning of the development of draft ESRS by EFRAG, the GRI served as an important
+reference point, and many of the reporting requirements in ESRS were inspired by the GRI
+standards.
+The ESRS and the first two standards of the ISSB, which were published in June, have been
+developed in parallel. Intensive and constructive discussions between the Commission, EFRAG and
+the ISSB have ensured a very high degree of alignment where the two sets of standards overlap.
+Companies that are required to report in accordance with ESRS on climate change will to a very large
+extent report the same information as companies that will use the ISSB standard on climate-related
+disclosures. Climate change disclosures under ESRS will provide additional information on impacts
+relevant for users other than investors such as business partners, trade unions, social partners, and
+academics.
+The very high degree of alignment between ESRS and the two ISSB standards aim to prevent that
+companies required to report in accordance with ESRS and that wish to also comply with ISSB
+standards, would have to report separately under ISSB standards.
+With the adoption of the ESRS, the EU goes further than any other major jurisdiction to date in terms
+of integrating the ISSB standards into its own legal framework. In doing so, the EU makes a major
+contribution towards the development of a coherent global framework and towards the global
+comparability of reported sustainability information. The approach of integrating ISSB disclosure
+requirements into ESRS is also fully in line with the ambition of the recent IOSCO decision to
+endorse ISSB sustainability-related disclosure standards.
+At the same time, ESRS are consistent with the EU's own political ambitions with regard to
+sustainable finance and the European Green Deal. The ESRS contains topical standards covering the
+full range of environmental, social and governance issues, while the ISSB has so far published a
+detailed topical standard on climate only. In addition, and as required by the CSRD, ESRS explicitly
+require reporting on the company's impacts on people and the environment as well as reporting on
+how social and environmental issues create financial risks and opportunities for the company. The
+ISSB standards, in contrast, focus more exclusively on how social and environmental issues create
+financial risks and opportunities for the company.
+What happens next and when do companies have to apply European Sustainability
+Reporting Standards?
+The ESRS delegated act adopted by the Commission will be formally transmitted in the second half
+of August to the European Parliament and to the Council for scrutiny. The scrutiny period runs for
+two months, extendable by a further two months. The European Parliament or the Council may reject
+the delegated act, but they may not amend it.
+Companies will have to start reporting under ESRS according to the following timetable:
+Companies previously subject to the Non-Financial Reporting Directive (NFRD) (large listed
+companies, large banks and large insurance undertakings – all if they have more than 500
+employees), as well as large non-EU listed companies with more than 500 employees: financial
+year 2024, with first sustainability statement published in 2025.
+Other large companies, including other large non-EU listed companies: financial year 2025,
+with first sustainability statement published in 2026.
+Listed SMEs, including non-EU listed SMEs: financial year 2026, with first sustainability
+statements published in 2027. However, listed SMEs may decide to opt out of the reporting
+requirements for a further two years. The last possible date for a listed SME to start reporting
+is financial year 2028, with first sustainability statement published in 2029.
+In addition, non-EU companies that generate over EUR 150 million per year in the EU and that have
+in the EU either a branch with a turnover exceeding EUR 40 million or a subsidiary that is a large
+company or a listed SME will have to report on the sustainability impacts at the group level of that
+non-EU company as from financial year 2028, with first sustainability statement published in 2029.
+Separate standards will be adopted specifically for this case.
+For more information
+Implementing and delegated acts - CSRD
+QANDA/23/4043
+Press contacts:
+Arianna PODESTA (+32 2 298 70 24)
+Aikaterini APOSTOLA (+32 2 298 76 24)
+General public inquiries: Europe Direct by phone 00 800 67 89 10 11 or by email

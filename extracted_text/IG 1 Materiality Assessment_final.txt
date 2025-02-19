@@ -1,0 +1,2372 @@
+Page 1 of 55
+EFRAG IG 1: Materiality Assessment Implementation Guidance
+Disclaimer
+This implementation guidance is non-authoritative and accompanies the European
+Sustainability Reporting Standards (ESRS), as stipulated in Articles 19a and 29a of
+Directive 2013/34/EU (the Accounting Directive), but does not form part of them. This
+means that if anything in this guidance appears to contradict any requirement or
+explanation in ESRS, ESRS take precedence. This implementation guidance is issued
+following EFRAG’s due process for such non-authoritative documents and under the
+sole responsibility of EFRAG.
+EFRAG assumes no responsibility or liability whatsoever for the content or any
+consequences or damages directly, indirectly or incidentally arising from following the
+advice or guidance contained in this document. Users of this document are advised to
+exercise their own judgment in applying ESRS. Information contained in this document
+should not be substituted for the services of an appropriately qualified professional.
+This implementation guidance has been developed for use by large listed and unlisted
+companies that are subject to CSRD. It is therefore not intended for use by listed small
+and medium-sized enterprises which adopt future LSME standards and other (not listed)
+SMEs voluntarily reporting based on the future VSME standards.
+This implementation guidance relates to the sector-agnostic ESRS as adopted by the
+European Commission on 31 July 2023, and published in the Official Journal on 22
+December 2023. Sector-specific standards may add sector specifications to be followed
+by specific sectors.
+About EFRAG
+EFRAG’s mission is to serve the European public interest in both financial and
+sustainability reporting by developing and promoting European views in the field of
+corporate reporting. EFRAG builds on and contributes to progress in corporate
+reporting. In its sustainability reporting activities, EFRAG provides technical advice to
+the European Commission in the form of draft European Sustainability Reporting
+Standards (ESRS) elaborated under a robust due process and supports the effective
+implementation of ESRS. EFRAG seeks input from all stakeholders and obtains evidence
+about specific European circumstances throughout the standard-setting process. Its
+legitimacy is built on excellence, transparency, governance, due process, public
+accountability and thought leadership. This enables EFRAG to speak convincingly,
+clearly, and consistently, and be recognised as the European voice in corporate
+reporting and a contributor to global progress in corporate reporting.
+EFRAG is funded by the European Union through the Single Market Programme in
+which the EEA-EFTA countries (Norway, Iceland and Liechtenstein) as well as Kosovo
+participate. Any views and opinions expressed are, however, those of the author(s) only
+and do not necessarily reflect those of the European Union, the European Commission
+or of countries that participate in the Single Market Programme. Neither the European
+Union, the European Commission nor countries participating in the Single market
+Programme can be held responsible for them.
+May 2024 Page 2 of 55
+EFRAG IG 1: Materiality Assessment Implementation Guidance
+Table of contents
+Summary in 13 key points ..................................................................................... 5
+1. Introduction ...................................................................................................... 7
+Structure of the Guidance ......................................................................................... 7
+Cross-references to IG 2 ......................................................................................................................................... 8
+Acronyms and abbreviations used ........................................................................................................................ 8
+2. The ESRS approach to materiality ..................................................................... 9
+2.1 Implementing the concept of double materiality ............................................. 10
+2.2 Sustainability matters for the materiality assessment ................................... 15
+2.3 Criteria to determine the materiality of information ........................................ 17
+2.4 Scope of application of the materiality of information ................................... 17
+2.5 Datapoints derived from EU legislation ........................................................... 18
+2.6 Consideration for upstream/downstream value chain .................................... 19
+3. How is the materiality assessment performed? .............................................. 19
+3.1 Step A: Understanding the context .................................................................. 20
+3.2 Step B: Identification of the actual and potential impacts, risks and
+opportunities related to sustainability matters ..................................................... 21
+3.3 Step C: Assessment and determination of material IROs related to
+sustainability matters .............................................................................................. 23
+3.3.1 Impact materiality assessment ................................................................................................................... 23
+3.3.2 Financial materiality assessment ............................................................................................................... 24
+3.3.3 Consolidating impact and financial materiality outcomes, including their interaction ................... 25
+3.4 Step D: Reporting .............................................................................................. 25
+3.5 Role and approach to stakeholders in the materiality assessment process 26
+3.5.1 Financial materiality considerations ......................................................................................................... 27
+3.6 Deep dive into impact materiality – Setting thresholds .................................. 28
+3.6.1 Actual impacts .............................................................................................................................................. 29
+3.6.2 Potential impacts .......................................................................................................................................... 30
+3.6.3 Consideration for groups and subsidiaries ............................................................................................. 31
+3.7 Deep dive into financial materiality – Setting thresholds ............................... 33
+4. How can other sources be leveraged? ............................................................ 34
+4.1 Leveraging the GRI Standards .......................................................................... 34
+4.2 Leveraging the ISSB Standards ........................................................................ 35
+4.3 Leveraging international instruments of due diligence .................................. 36
+4.4 Leveraging other frameworks or sources ........................................................ 36
+5. Frequently asked questions (FAQs) ................................................................ 37
+5.1 FAQs on impact materiality ............................................................................... 37
+FAQ 1: Is impact materiality based on materiality for the undertaking or for stakeholders? ............... 37
+FAQ 2: What is meant by the undertaking being ‘connected’ to an impact? ............................................ 37
+FAQ 3: What are material IROs in the value chain? ...................................................................................... 38
+FAQ 4: Can positive impacts be netted against negative impacts? ............................................................ 38
+5.2 FAQs on financial materiality ....................................................................... 39
+May 2024 Page 3 of 55
+EFRAG IG 1: Materiality Assessment Implementation Guidance
+FAQ 5: Is the material information for financial statements the same as for the sustainability
+statement? ................................................................................................................................................................ 39
+FAQ 6: Is financial materiality for sustainability reporting limited to effects presented in financial
+statements? ............................................................................................................................................................... 40
+5.3 FAQs on the materiality assessment process ............................................ 41
+FAQ 7: How frequently should an undertaking update its sustainability materiality assessment? ........ 41
+FAQ 8: May the undertaking consider only the sustainability matters in ESRS 1 AR 16? ....................... 42
+FAQ 9: How to consider time horizon in the double materiality analysis? ................................................. 43
+FAQ 10: Should the assessment of IROs rely on quantitative information? ................................................ 43
+FAQ 11: Should the IRO dimensions of a sustainability matter be aggregated for the materiality
+assessment? .............................................................................................................................................................. 44
+FAQ 12: Should the materiality assessment be documented/evidenced? .................................................. 44
+FAQ 13: Performing the impact materiality assessment when the undertaking operates in different
+sectors ....................................................................................................................................................................... 45
+FAQ 14: Will the implementation of sector-specific standards create any new subtopics or sub-
+subtopics to be considered in the materiality assessment? ............................................................................ 46
+5.4 FAQs on stakeholder engagement - Impact materiality ............................ 46
+FAQ 15: Do the ESRS mandate to actively engage in dialogue with affected stakeholders for the
+materiality assessment process? .......................................................................................................................... 46
+FAQ 16: Can the undertaking prioritise some categories of stakeholders for the materiality
+assessment process? How? .................................................................................................................................... 46
+FAQ 17: What is the role of silent stakeholders and how should they be considered? .......................... 47
+5.5 FAQs on aggregation/disaggregation ......................................................... 48
+FAQ 18: Does the undertaking use the same criteria when defining the level of disaggregation across
+all IROs? ................................................................................................................................................................... 48
+FAQ 19: Is an IFRS or local GAAP segment an appropriate level of disaggregation for the
+materiality assessment? ......................................................................................................................................... 49
+5.6 FAQs on reporting ........................................................................................ 50
+FAQ 20: Do the ESRS require disclosure of severity for material impacts as well as likelihood and
+magnitude for material risks and opportunities? ............................................................................................. 50
+FAQ 21: If a matter is material from the financial (or impact) perspective only, shall disclosures cover
+all the requirements or only information about the relevant perspective? ................................................. 51
+FAQ 22: Is a multi-sector group required to include metrics for the entire group or only data related
+to the material IROs? ............................................................................................................................................. 51
+FAQ 23: Are remediation and mitigation actions considered in the materiality assessment of
+environmental impacts? ......................................................................................................................................... 53
+FAQ 24: Shall the undertaking also report on material matters where there are no actions? .............. 54
+5.7 FAQ on Art. 8 EU Taxonomy ........................................................................ 55
+FAQ 25: What is the relationship between taxonomy eligible activities and materiality? .................... 55
+May 2024 Page 4 of 55
+EFRAG IG 1: Materiality Assessment Implementation Guidance
+Summary in 13 key points
+1. The ESRS sustainability statement shall include relevant and faithful
+information about all impacts, risks and opportunities (also referred to as IROs)
+across environmental, social and governance matters determined to be
+material from the impact materiality perspective, the financial materiality
+perspective or both. The materiality assessment is the process by which the
+undertaking determines material information on sustainability IROs. This is
+achieved by the determination of material matters and material information to
+be reported. The performance of a materiality assessment based on objective
+criteria is pivotal to sustainability reporting. The undertaking will use
+judgement when applying the criteria, and the related explanations are
+expected to provide transparency from the undertaking to the users of the
+sustainability statement.
+2. The assessment considers the undertaking’s entire value chain, i.e., it includes
+the undertaking’s upstream and downstream value chain in addition to its own
+operations.
+3. Once the undertaking has identified an impact, risk or opportunity related to
+a sustainability matter as material, it firstly refers to the related Disclosure
+Requirements to identify the relevant information to be considered on the
+matter. Secondly, if the impact, risk or opportunity is not covered or
+insufficiently covered by the ESRS, the undertaking shall provide entity-specific
+disclosure on the matter. Relevance is the criterion to identify the information
+to be disclosed and is based on (a) the significance of the information in
+relation to the matter it depicts or (b) its decision-usefulness.
+4. Disclosure Requirements in ESRS 2 addressing cross-cutting matters are to be
+reported irrespective of the outcome of the materiality assessment. For
+policies, actions and targets, information shall either be disclosed according
+to the Disclosure Requirements or it shall be stated that the undertaking does
+not have policies, actions or targets related to the material sustainability
+matter. Metrics are subject to materiality assessment: the information defined
+in the relevant Disclosure Requirements shall be included when the
+undertaking has assessed the metrics to be material and it is omitted if this is
+not the case. Having followed a structured materiality assessment, such an
+omission indicates to users that a metric is not material. Omissions are useful
+sustainability-related information, supporting the general coherence of the
+sustainability statement and, therefore, the fair coverage of sustainability
+matters. The omission is explicit for datapoints derived from other EU
+legislation (refer to ESRS 2 Appendix B for the list of these datapoints) and
+implicit in other cases.
+5. The ESRS do not mandate a specific process or sequence of steps to follow
+when performing the materiality assessment, and so this is left to the
+judgement of the undertaking. Whichever process is used, it should reflect the
+undertaking’s facts and circumstances.
+6. As an illustration, a materiality assessment that would meet the requirements
+of the ESRS could include the following steps:
+(a) understanding of the context;
+May 2024 Page 5 of 55
+EFRAG IG 1: Materiality Assessment Implementation Guidance
+(b) identification of actual and potential IROs related to sustainability
+matters;
+(c) assessment and determination of the material IROs related to
+sustainability matters; and
+(d) reporting.
+7. Engagement with affected stakeholders informs the materiality assessment
+process, and it is consistent with the practice suggested by the international
+instruments of due diligence referenced in the CSRD. This entails seeking
+input and feedback to understand concerns and evidence about actual and
+potential impacts of the undertaking on people and the environment. It also
+helps to substantiate the importance of the sustainability matters from the
+perspective of the affected stakeholder groups. However, the ESRS do not
+mandate specific behaviour on stakeholder engagement and do not pre-empt
+the content of the CSDDD currently under definition in the EU legislative
+process.
+8. The undertaking assesses the materiality of impacts for reporting purposes
+against criteria of severity and likelihood. This also includes setting
+appropriate quantitative and/or qualitative thresholds for reporting purposes.
+Severity is based on the scale, scope and irremediable character of negative
+impacts and the scale and scope of positive impacts.
+9. Material risks and opportunities for the undertaking generally derive either
+from impacts or from dependencies and other risk factors. Undertakings
+assess the materiality of their risks and opportunities based on appropriate
+quantitative and/or qualitative thresholds related to anticipated financial
+effects on performance, financial position cash flows and access to finance,
+including cost of capital.
+10. The due diligence process, per the related international instruments, can help
+an undertaking both (a) to identify and assess its actual and potential negative
+impacts as well as (b) to assess their materiality for reporting purposes based
+on the criteria of severity and likelihood.
+11. When undertakings perform an assessment under the GRI Universal
+Standards, the GRI assessment constitutes a good basis for the assessment of
+impacts under the ESRS.
+12. An undertaking that applies the ESRS is expected to be able to comply with
+the identification of sustainability-related information on risks and
+opportunities under IFRS Sustainability Disclosure Standards (also known as
+ISSB Standards). This reflects an alignment in scope between financial
+materiality in ISSB standards and the ESRS.
+13. Upon completing the materiality assessment process, the undertaking shall
+disclose:
+(a) the process to identify and assess its material IROs (ESRS 2 IRO-1);
+(b) the interaction of its material IROs with its strategy and business model
+(ESRS 2 SBM-3); and
+(c) the Disclosure Requirements under the ESRS covered by its
+sustainability statement (ESRS 2 IRO-2).
+May 2024 Page 6 of 55
+EFRAG IG 1: Materiality Assessment Implementation Guidance
+1. Introduction
+14. The objective of this non-authoritative Guidance is to support the
+implementation activities of preparers and others using or analysing ESRS
+reports with regard to the double materiality assessment (referred to as ‘the
+materiality assessment’, ‘the assessment’ and ‘the MA’ in this document).
+Hence, this Guidance does not introduce new provisions to the ESRS as these
+can only result from future standard-setting activities (e.g., future possible
+amendments to draft ESRS) conducted in accordance with EFRAG’s due
+process. Where content in this Guidance is seen to contradict the
+requirements in the ESRS, those requirements supersede.
+15. Due to the principles-based nature of the ESRS requirements – particularly on
+this topic – there is no single solution for all undertakings in respect of
+designing processes and adopting methodologies. Hence, this Guidance
+provides tools and mechanisms for undertakings to comply with the ESRS
+while taking full account of their specific facts and circumstances (including
+their business model, strategy, legal structure, complexity and governance).
+Therefore, the illustrations on how to apply the criteria in ESRS 1 General
+requirements and ESRS 2 General disclosures in this Guidance, including
+examples and depictions, do not constitute the only possible approach to
+implementing the ESRS requirements.
+16. The content of this document has been developed by EFRAG on the basis of
+the July 2023 Delegated Act on the ESRS adopted regulation, in accordance
+with the requirements of Articles 19a and 29a of the Directive 2013/34/EU
+(referred to as the ‘Accounting Directive’) as amended following the Corporate
+Sustainability Reporting Directive (referred to as ‘the CSRD’).
+17. This Guidance includes responses to FAQs on the interoperability with ISSB
+and GRI Universal Standards, illustrating the interactions between the
+corresponding materiality concepts and assessment processes when
+applicable.
+18. This Guidance also includes responses to FAQs related to international
+instruments and to reporting standards that will be useful when performing
+the materiality assessment and that are referenced in the CSRD. In the case of
+due diligence, these are the Guiding Principles on Business and Human Rights
+issued by the United Nations as well as the OECD Guidelines for Multinational
+Enterprises and the OECD Due Diligence Guidance for Responsible Business
+Conduct, which have been used as a basis for the preparation of this
+document. This Guidance acknowledges that market practice is currently
+developing for double materiality assessment and that there are still no
+examples of sustainability statements prepared under the ESRS.
+Structure of the Guidance
+19. This document is organised as follows:
+(a) Chapter 2 explains the ESRS approach to materiality;
+(b) Chapter 3 illustrates how the materiality assessment is performed;
+May 2024 Page 7 of 55
+EFRAG IG 1: Materiality Assessment Implementation Guidance
+(c) Chapter 4 explains how undertakings could take account of other
+frameworks/standards or sources; and
+(d) Chapter 5 complements chapters 2 to 4 with responses to FAQs on:
+i. impact materiality;
+ii. financial materiality;
+iii. the materiality assessment process;
+iv. stakeholder engagement;
+v. aggregation/disaggregation; and
+vi. reporting.
+Cross-references to IG 2
+20. To avoid duplication and reduce the length of this document, there is
+significant reference to the Value Chain Implementation Guidance (IG 2)
+developed by EFRAG. In-depth analysis and further examples of due diligence
+aspects related to the materiality assessment (as well as some VC aspects) are
+covered in that guidance more so than here.
+21. Please note that references to IG 2 are made in this blue colour, whereas
+references in green refer to this document.
+Acronyms and abbreviations used
+22. The acronyms in this document are used as follows:
+CSDDD – Corporate Sustainability Due
+Refer to the Delegated Act
+Diligence Directive
+Annex II: Acronyms and glossary of
+CSRD – Corporate Sustainability Reporting terms
+Directive
+Delegated Act – Commission Delegated
+Regulation supplementing Directive
+2013/34/EU as regards sustainability
+reporting standards
+DR – disclosure requirement
+ESRS – European Sustainability Reporting Standards
+GHG – greenhouse gases, or the GHG protocol
+GRI – Global Reporting Initiative
+IROs – impacts, risks and opportunities
+ISSB – International Sustainability Standards Board
+MA – materiality assessment
+IG 2 – Value Chain Implementation Guidance issued by EFRAG
+IG – Implementation Guidance issued by EFRAG
+OECD MNE– OECD Guidelines for Multinational Enterprises (also referred to
+as ‘the OECD Guidelines’)
+May 2024 Page 8 of 55
+EFRAG IG 1: Materiality Assessment Implementation Guidance
+SFDR – Sustainable Finance Disclosure Regulation1
+UNGP – United Nations Guiding Principles on Business and Human Rights.
+2. The ESRS approach to materiality
+23. The ESRS require that the sustainability statement include sustainability
+information related to material IROs identified through a MA process that
+applies the principles of double materiality.
+24. Double materiality covers both impact and financial materiality. Impact
+materiality pertains to the material information about the undertaking’s
+impacts on people or the environment related to a sustainability matter;
+financial materiality pertains to the material information about risks and
+opportunities related to a sustainability matter. The terms ‘material’ and
+‘materiality’ are used throughout the ESRS to refer to double materiality unless
+otherwise specified (also referred to in this document as ‘materiality’).
+25. The identification of the material matters is the starting point to determine the
+material information to be disclosed in the sustainability statement on material
+IROs related to those matters. Material IROs related to environmental, social
+and governance matters that are to be reported are those that arise in the
+undertaking’s own operations as well as in its upstream and downstream value
+chain. If the MA process is not appropriately designed, the undertaking may
+provide incomplete reporting (with material IROs not being disclosed).
+Following the provisions in ESRS 1 paragraph 114, in addition to the disclosure
+of material matters identified during the MA process, the undertaking may
+provide additional information stemming from other legislation as well as from
+generally accepted sustainability reporting standards and frameworks (for
+example, SASB Standards or GRI Standards). This may include additional
+information that is required by stakeholders.
+26. If the undertaking identifies a large number of IROs, it may prioritise them for
+management purposes. However, for reporting purposes this assessment
+should not exclude any material IROs, particularly when the undertaking has
+not addressed or fully addressed these material IROs through its policies,
+targets and action plans. This is useful information and shall therefore be
+included irrespective of whether actions have been taken, or are planned to
+be taken, to address them (refer to ESRS 2 MDR-P, MDR-A and MDR-T).
+27. ESRS 1 sets criteria for the materiality assessment but not specific thresholds
+to determine when a matter or information is material or not. Therefore, the
+assessment requires the exercise of judgement. The undertaking needs to set
+thresholds based on ESRS 1 criteria as well as its own specific facts and
+circumstances. The need for judgement will be higher whenever the
+information and evidence about the materiality of a given IRO is inconclusive.
+28. The sustainability statement shall be prepared according to the qualitative
+characteristics of information (refer to ESRS 1 and Appendix B). For materiality-
+assessment-related disclosures, relevance, faithful representation and
+1 Regulation (EU) 2019/2088 of the European Parliament and of the Council of 27 November 2019 on
+sustainability‐related disclosures in the financial services sector (Sustainable Finance Disclosures Regulation) (OJ L
+317, 9.12.2019, p. 1).
+May 2024 Page 9 of 55
+EFRAG IG 1: Materiality Assessment Implementation Guidance
+verifiability of information are particularly important. The materiality
+assessment should be based upon supportable evidence and rely to the
+maximum extent possible, on objective information, while implementing the
+impact materiality and financial materiality criteria specified in the ESRS (ESRS
+1 chapters 3.4 and 3.5).
+29. The ESRS require undertakings to disclose the materiality assessment process
+and its outcome. This includes the following information: methodologies and
+assumptions applied, the focus and extent of the process, and inputs. ESRS 2
+IRO-1 and IRO-2 also require transparency on the judgement exercised, i.e.
+quantitative or qualitative thresholds and other criteria used. Refer to Chapter
+3.6 Deep dive into impact materiality – Setting thresholds and Chapter 3.7
+Deep dive into financial materiality – Setting thresholds in this Guidance for
+more information.
+30. To meet the required qualitative characteristics of information (Appendix B of
+ESRS 1), the MA process (including criteria and thresholds applied as well as
+conclusions) should be consistent with internal and other external reporting.
+Consistency with sustainability management policies and actions is also
+required, including fulfilling sustainability-related laws and regulations.
+31. The undertaking may briefly explain the conclusions of its materiality
+assessment in relation to any omitted topic or topics. However, the
+undertaking is required to provide explanations if it concludes that it has no
+material IROs with respect to climate change and therefore omits disclosures
+required per ESRS E1 Climate Change. The undertaking shall also report on
+material matters that are not covered or that are covered insufficiently in the
+topical ESRS in the form of entity-specific information (ESRS 1 paragraph 11).
+32. Once the undertaking has identified the material matters, it then assesses the
+information to be reported for each material matter based on the materiality
+of information (ESRS 1 paragraphs 30, 31, 33 and 34). The concept of
+materiality of information applies to the requirements at a more granular level,
+i.e., at the Disclosure Requirement or the datapoint level. Refer to Chapter 2.3
+Criteria to determine the materiality of information and Chapter 2.4 Scope of
+application of the materiality of information. for more on this granular
+application of the concept.
+2.1 Implementing the concept of double materiality
+33. As discussed above, the CSRD requires that sustainability reporting be based
+on double materiality. A sustainability matter can be material from an impact
+perspective, from a financial perspective or from both (see ESRS 1 Chapter 3;
+refer to figure 1 (a) below).
+34. The ESRS include definitions of these two materiality dimensions. A
+sustainability matter is material from:
+(a) ‘an impact perspective when it pertains to the undertaking’s material
+actual or potential, positive or negative impacts on people or the
+environment over the short-, medium- and long-term. Impacts include
+those connected with the undertaking’s own operations and the
+upstream and downstream value chain, including through its products
+May 2024 Page 10 of 55
+EFRAG IG 1: Materiality Assessment Implementation Guidance
+and services, as well as through its business relationships’ (ESRS 1
+paragraph 43); and from
+(b) ‘a financial perspective if it triggers or could reasonably be expected to
+trigger material financial effects on the undertaking. This is the case
+when a sustainability matter generates risks or opportunities that have
+a material influence or that could reasonably be expected to have a
+material influence on the undertaking’s development, financial
+position, financial performance, cash flows, access to finance or cost of
+capital over the short-, medium- or long-term … The financial
+materiality assessment corresponds to the identification of information
+that is considered material for primary users of general-purpose
+financial reports in making decisions relating to providing resources to
+the entity. In particular, information is considered material for primary
+users of general-purpose financial reports if omitting, misstating or
+obscuring that information could reasonably be expected to influence
+decisions that they make on the basis of the undertaking’s sustainability
+statement’ (ESRS 1 paragraphs 49 and 48). In this document, the terms
+“risks” and “opportunities” are used to identify the financial risks and
+opportunities that are in the scope of financial materiality.’
+35. Impact materiality and financial materiality are often intertwined (refer to figure
+1(a) and 1(b) below). The undertaking’s impacts on people or the environment,
+combined with changes to strategy – including in investments – as well as in
+management decisions made to address such impacts, may give rise to risks
+and opportunities. Material risks and opportunities generally derive from
+impacts and dependencies.
+Figure 1(a). Double materiality – The scope is reflected by the red outline
+May 2024 Page 11 of 55
+EFRAG IG 1: Materiality Assessment Implementation Guidance
+Figure 1(b). Relationship between the materiality assessment and the undertaking’s
+business model, strategy and other decisions
+May 2024 Page 12 of 55
+EFRAG IG 1: Materiality Assessment Implementation Guidance
+Figure 1(c). Interaction between ESRS 1 paragraph AR 16 and the assessment of
+material impacts, risks and opportunities.
+36. A possible practical perspective in the MA process considering both impact
+and financial materiality is summarised below (refer to figure 1(b) above):
+(a) identification of impacts;
+(b) assessment of whether such impacts lead to risks and opportunities
+(refer to paragraph 37 below). This includes, but is not limited to, risks
+and opportunities that derive from dependencies on resources; and
+(c) identification of risks and opportunities not sourced from impacts (refer
+to paragraph 38 below for examples). This includes, but is not limited
+to, those risks and opportunities that derive from dependencies, where
+impacts do not affect that resource2.
+37. For most material impacts, a material risk and/or opportunity may emerge over
+time. The examples on next page include negative and positive impacts.
+2 The undertaking shall consider how it is affected by its dependencies on the availability of natural, human and
+social resources at appropriate prices and quality irrespective of its potential impacts on those resources (ESRS 1
+paragraph 40).
+May 2024 Page 13 of 55
+EFRAG IG 1: Materiality Assessment Implementation Guidance
+(a) An oil and gas undertaking
+Interaction between impact and
+identifies a material negative
+financial materiality
+impact from not consulting or
+Materiality of a matter is determined by
+reaching an agreement with
+either (i) material impacts or (ii) material
+indigenous people about
+risks and opportunities. A matter can also
+land use for extraction and
+be material from both perspectives.
+relocation of the community.
+At the reporting date, the When a matter is material due to impact
+undertaking does not expect materiality, the same material matter may
+protests from the indigenous or may not result in material risks and/or
+community. However, the material opportunities. Most of the
+community may later protest, material matters also give rise to financial
+halting the production site, risks and/or opportunities.
+causing material costs due to
+It is only when an undertaking identifies
+production days lost or the
+that material risks and/or opportunities
+abandonment of the project.
+exist that the undertaking discloses the
+(b) An undertaking has financial effects relating to the matter.
+discriminated based on
+However, where a matter is material due
+gender when promoting
+to its impacts only, the undertaking does
+employees during the
+not have to disclose risks and
+current reporting year. At the
+opportunities (or its related financial
+reporting date, the
+effects) that are not material.
+undertaking does not expect
+that the employees will pursue legal proceedings. However, the group
+of employees, individually or as a whole, may sue for financial
+compensation at a later stage on the grounds of gender discrimination
+and cause reputational damage to the undertaking.
+38. Material risks and opportunities also arise in the absence of material impacts
+connected to the undertaking, such as when they arise from dependencies on
+natural and human resources. Consider, for example, cases such as the
+following:
+(a) an undertaking is active in organic agriculture, which depends on
+pollinators. The number of pollinators is decreasing due to pesticide
+use by other agricultural entities locally;
+(b) an undertaking with a factory running on renewable energy producing
+low GHG emissions. The undertaking is located in a coastal erosion
+area and is exposed to climate-related physical risks, such as flooding
+or extreme weather; and
+(c) an undertaking that provides legal services to its customers may
+experience an elevated level of staff turnover caused by a local
+competitor offering higher salaries, even if both undertakings have
+adequate working conditions and practices. Therefore, the
+undertaking dependent on human capital may experience lower
+income until new staff is recruited.
+39. Sustainability-related regulatory developments that address systemic risks
+may affect the prospects of the undertaking’s business. For example, risks can
+arise from changes in the regulatory environment, such as a new pollution
+May 2024 Page 14 of 55
+EFRAG IG 1: Materiality Assessment Implementation Guidance
+abatement legislation that requires significant capital expenditure and
+exposes the undertaking to sanctions.
+40. Impact and financial materiality are two different but interrelated concepts,
+and the interconnections between them shall be considered. This
+consideration may require the application of judgement when organising the
+materiality assessment, including on whether or not the two processes should
+be divided in two or whether, should there be common steps among these
+processes, . However, there is merit to maximising synergies among the two
+processes to avoid gaps. Figure 1(c) above illustrates such synergies and how
+ESRS 1 AR 16 is a common denominator for both impact and financial
+materiality.
+2.2 Sustainability matters for the materiality assessment
+41. Sustainability matters are defined in the Annex 2 of the Delegated Act as
+environmental, social and human rights as well as governance factors,
+including sustainability factors defined in Article 2, point (24), of Regulation
+(EU) 2019/2088 (i.e., SFDR).
+42. The level of granularity of the matters to be considered ranges from topic to
+subtopic level and, in some cases, to sub-subtopic level. The following table is
+an extract from ESRS 1 AR 16 and sets out the relationship between topics,
+subtopics and sub-subtopics (refer also to Figure 3 below).
+Standard Topic Subtopic Sub-subtopic
+ESRS E3 • Water and marine • Water • Water consumption
+resources • Marine resources • Water withdrawals
+• Water discharges
+ESRS S1 • Own workforce • Other work-related • Child labour
+rights • Forced labour
+• Adequate housing
+• Privacy
+ESRS G1 • Business conduct • Corruption and • Prevention and detection
+bribery • Incidents
+43. As described in ESRS 1 paragraph 8, the three levels of granularity (i.e., topics,
+subtopics and sub-subtopics) are collectively called ‘sustainability matters’.
+44. To summarise:
+(a) the goal of the assessment is to identify the material IROs related to
+matters to be reported (ESRS 2 SBM 3);
+(b) the matter is assessed as material when material impacts and/or
+material risks or opportunities arise from it (ESRS 1 paragraph 43 and
+49); and
+(c) for each material matter, the undertaking determines the information
+to be reported in accordance with the cross-cutting or topical
+standards (ESRS 1 paragraph 30).
+45. The undertaking is required to disclose its material IROs, which are in turn
+mapped onto sustainability matters (i.e., topics, subtopics or sub-subtopics).
+In preparing its disclosure according to ESRS 2 SBM-3, the aggregation rules
+May 2024 Page 15 of 55
+EFRAG IG 1: Materiality Assessment Implementation Guidance
+defined in ESRS 1 Chapter 3.7 also apply, which means that the undertaking
+may aggregate information to the extent that it does not obscure material
+content (ESRS 1 chapter 3.7). For more on this, refer to figure 2 below.
+Figure 2. Relationships amongst various terms used
+46. The undertaking needs to identify whether a topic, subtopic or sub-subtopic
+is material from any of these two perspectives because the matter is associated
+with either an identified material impact, risk or opportunity or both.
+47. Once a matter has been identified as material, the undertaking refers to the
+DR in the respective topical ESRS to identify the information to be disclosed
+on the matter (ESRS 1 paragraphs 30 and 31). For example, if an undertaking
+concludes that health and safety of its own workforce is material due to the
+employees’ exposure to harmful chemical substances, it shall provide the
+required information. This includes the disclosure requirements in ESRS S1-1
+Policies, S1-4 Taking action, S1-5 Targets, and S1-14 Health and safety metrics.
+Similarly, if an undertaking concludes that pollution of water is material, it shall
+provide information under the DR in ESRS E2-1 Policies, E2-2 Actions and
+resources, E2-3 Targets, E2-4 Pollution of air, water and soil and E2-6
+Anticipated financial effects from material polluted-related risks and
+opportunities.
+48. In addition, as specified in paragraph 31, in some situations where a
+sustainability matter is identified as material but is not covered by a ESRS (see
+ESRS 1 paragraph AR 16 for a full list of matters) or not covered with sufficient
+granularity by it, the undertaking shall provide additional entity-specific
+disclosures (ESRS 1 paragraph 11).
+49. In summary, once a given matter is assessed to be material, the information to
+be disclosed is identified at the matter level following the datapoints of the
+relevant DR in the topical standards. However, the outcome of the materiality
+May 2024 Page 16 of 55
+EFRAG IG 1: Materiality Assessment Implementation Guidance
+assessment (ESRS 2 SBM-3) is to be disclosed at the level of impacts, risks and
+opportunities (or groups of them).
+2.3 Criteria to determine the materiality of information
+50. Determining the materiality of information is a step that follows from the
+identification of material matters to be reported on (see Chapter 3 Materiality
+assessment – how is it performed?), and it is applied at the more granular level
+of DRs or datapoints. ESRS 1 paragraphs 31 and 33 to 35 set requirements on
+how to assess the materiality of information.
+51. The criteria to determine the materiality of information is based on relevance
+(ESRS 1 paragraph 31): that is, on (a) the significance of the information in
+relation to the matter it depicts or its (b) decision-usefulness. This is relevant
+for the primary users of general-purpose financial information (i.e., financial
+materiality-focused) and/or for other users whose interest is on the
+undertaking’s impacts (i.e., impact materiality). In practice, information that is
+relevant under perspective (b) (decision-usefulness) is in most cases also
+relevant under perspective (a) (significance). However, there could be cases
+where a piece of information is significant to depict the impacts of the
+undertaking on people or the environment without necessarily being a
+relevant input for the users of the sustainability statement in its decision-
+making. When a matter is material from both an impact and a financial
+perspective, the information needs from the two groups of users (investors and
+others) will highly likely be the same in practice. In other cases, the information
+may differ (refer to FAQ 21 If a matter is material from the financial (or impact)
+perspective only, should disclosures cover all the requirements or only
+information about the relevant perspective?).
+52. In addition, the undertaking needs to apply the general requirements on
+fundamental qualitative characteristics of information (relevance and faithful
+representation) and the enhancing qualitative characteristics of information
+(comparability, verifiability and understandability) (ESRS 1 Appendix B).
+53. ESRS 2 IRO-2 requires an explanation of the determination of the information
+to be disclosed in relation to the material IROs (i.e., materiality of information),
+including the use of thresholds and/or how it has implemented the criteria in
+ESRS 1 Chapter 3.2 Material matters and materiality of information.
+54. An example of a materiality filter, when assessing which information in a topical
+standard has to be provided (materiality of information), applies in the case
+where the undertaking assesses labour rights (including collective bargaining)
+as material. In this particular case, the undertaking concludes that the
+datapoint under ESRS S1 paragraph 61 is not material information because all
+employees are covered by collective bargaining agreements, according to the
+disclosures of ESRS S1 paragraph 60(a)(b).
+2.4 Scope of application of the materiality of information
+55. The following paragraphs illustrate how the undertaking shall apply the filter
+of materiality of information (see ESRS 1 paragraphs 31, 33-35) when
+disclosing information on material sustainability matters.
+May 2024 Page 17 of 55
+EFRAG IG 1: Materiality Assessment Implementation Guidance
+56. The determination of the information to be reported for policies, actions and
+targets in relation to a material matter is set out in the list of Minimum
+Disclosure Requirements on policies, actions and targets (see Chapter 4.2
+Minimum Disclosure Requirements on policies and actions and Chapter 5
+Metrics and targets in ESRS 2); the information is not required for topics,
+subtopics or sub-subtopics that are not deemed material. The datapoints in
+the Minimum Disclosure Requirements depict the relevant information to a
+user to assess the policies, actions and targets in relation to a material matter.
+In addition, the filter of materiality of information (ESRS 1 paragraph 31) is
+applied in determining the granularity of the description of the policies,
+actions and targets. If the undertaking has not adopted policies, actions or
+targets to manage a given material matter, it has to state this much, but no
+additional information is required. There is also a voluntary disclosure on the
+timeline to adopt such policies, actions or targets (ESRS 1 paragraph 33).
+Reporting that the undertaking does not have policies, actions or targets for a
+material matter is per se a material piece of information – even if no other
+information is required.
+57. The determination of metrics to be reported is informed by the assessment of
+material information (‘shall include’ the information assessed to be material,
+ESRS 1 paragraph 34). This is performed first at the level of the DR and
+secondly at the level of the related datapoints located either in the DR3 or,
+when applicable, in Application Requirements. When the information required
+by a DR or a datapoint is assessed to be not material (per ESRS 1 paragraph
+31), and for datapoints not needed in order to meet the objective of the
+Disclosure Requirement, the undertaking ‘may omit’ such information (ESRS 1
+paragraph 34).
+58. The criteria to determine the materiality of information (ESRS 1 paragraph 31)
+are also expected to support the determination of entity-specific disclosures
+(ESRS 1 paragraph 30(b) and ESRS 1 paragraph 11 and paragraphs AR 1-5).
+This ensures that entity-specific disclosures meet the qualitative characteristics
+of information and include all material information.
+59. The DRs and datapoints in ESRS 2 are to be reported irrespective of the
+outcome of the materiality assessment. In this case, the criteria to assess the
+materiality of information (ESRS 1 paragraph 31) are expected to support the
+determination of the level of detail of narrative disclosure that is necessary to
+meet the Disclosure Requirements in ESRS 2 (ESRS 1 paragraph 31 refer to the
+‘applicable information’).
+2.5 Datapoints derived from EU legislation
+60. When the undertaking omits a datapoint derived from other EU legislation
+listed in ESRS 2 Appendix B List of datapoints in cross-cutting and topical
+standards that derive from other EU legislation because it is not considered
+material, the undertaking has to include an explicit statement saying that such
+a datapoint is ‘not material’. ESRS 2 paragraph 56 requires that the
+undertaking include in the sustainability statement a table of all the datapoints
+in ESRS 2 Appendix B List of datapoints in cross-cutting and topical standards
+3 For ESRS E1, this applies also for datapoints located in Application Requirements.
+May 2024 Page 18 of 55
+EFRAG IG 1: Materiality Assessment Implementation Guidance
+that derive from other EU legislation. Such table shall specify where the
+datapoints can be found in the statement, and for those that are omitted as
+not material, it shall report that the respective datapoint is not material. The
+majority of these datapoints in Appendix B are derived from the SFDR and are
+therefore used by financial market participants, who are also users of the
+sustainability statement. Hence, these datapoints may be relevant for these
+users and analysts.
+61. These datapoints are treated similarly to other datapoints for the purposes of
+assessing the information to be reported on a material matter – i.e., those
+related to policies, targets and actions follow ESRS 1 paragraph 33, and those
+related to metrics are omitted if not material (ESRS 1 paragraph 34).
+2.6 Consideration for upstream/downstream value chain
+62. The materiality assessment is also used to identify material IROs connected to
+the undertaking through its direct and indirect business relationships in the
+upstream and/or downstream value chain (for further details, seeIG 2 Value
+Chain Implementation Guidance).
+3. How is the materiality assessment performed?
+63. The ESRS do not mandate how the materiality assessment process shall be
+designed or conducted by an undertaking. This is because no one process
+would suit all types of economic activity, organisational structure, location of
+operations or upstream and downstream value chains of all undertakings
+applying the ESRS.
+64. Therefore, an undertaking shall design a process that is fit for these purposes
+based on its specific facts and circumstances, including consideration of the
+depth of the assessment, as per the requirements of ESRS 1 Chapter 3 and of
+the DRs regarding the materiality assessment and its outcome (see ESRS 2 IRO-
+1, IRO-2 and SBM-3). In any case, an undertaking shall consider the full scope
+of environmental, social and governance matters (i.e., sustainability matters)
+as listed in ESRS 1 paragraph AR16 as well as any other matter that is material
+from an entity-specific perspective.
+65. The undertaking’s materiality assessment shall reflect both the impact and
+financial materiality perspectives, as well as interconnections between the two,
+but need not perform two separate and independent processes. The
+identification of material impacts is generally a starting point since the financial
+materiality assessment benefits from the outcome of the impact materiality
+assessment (see ESRS 1 Chapter 3.3 Double materiality). The reason for this is
+that material impacts trigger in most cases material risks and opportunities.
+However, the undertaking shall also consider the possible matters that are
+financially material only and may develop a step or a series of actions that are
+specific to financial materiality. Finally, there may also be impacts deriving
+from risks and opportunities and from the way that those risks and
+opportunities are managed by the undertaking.
+66. By way of illustration, a materiality assessment aligned with the ESRS could
+follow the process outlined below, including four possible steps:
+May 2024 Page 19 of 55
+EFRAG IG 1: Materiality Assessment Implementation Guidance
+(a) Step A: Understanding the context;
+(b) Step B: Identification of the actual and potential IROs related to
+sustainability matters;
+(c) Step C: Assessment and determination of the material IROs related to
+sustainability matters; and
+(d) Step D: Reporting.
+Figure 3. Example of a materiality assessment process
+67. Chapter 5.3 FAQs on the materiality assessment process provides further
+guidance, with specific FAQs on the process.
+3.1 Step A: Understanding the context
+68. In this step, the undertaking develops an overview of its activities and business
+relationships, the context in which these take place and an understanding of
+its key affected stakeholders. This overview provides key inputs to identify the
+undertaking’s IROs.
+Activities and business relationships
+69. Activities and business relationships related to ESRS 2 SBM-1 are approached
+in terms of:
+(a) the analysis of the undertaking’s business plan, strategy, financial
+statements and, when applicable, other information provided to
+investors;
+(b) the undertaking’s activities, products/services and the geographic
+locations of these activities; and
+May 2024 Page 20 of 55
+EFRAG IG 1: Materiality Assessment Implementation Guidance
+(c) the mapping of the undertaking’s business relationships and upstream
+and/or downstream value chain, including type and nature of business
+relationships.
+Other contextual information
+70. There are other factors that can help identify particular sources of IROs, such
+as:
+(a) the analysis of the undertaking’s relevant legal and regulatory
+landscape; and
+(b) the analysis of published documentation, such as media reports,
+analysis of peers, existing sector-specific benchmarks and other
+publications on general sustainability trends as well as scientific
+articles.
+Understanding of affected stakeholders
+71. This is aimed at understanding which stakeholders are or are likely to be
+affected by the undertaking’s own operations and upstream and downstream
+value chain (see Chapter 3.5 Role and approach to stakeholders in the
+materiality assessment process). It also includes their views and interests
+(consistent with the disclosures per ESRS 2 SBM-2 Interests and views of
+stakeholders). Based on this, the undertaking can identify its key affected
+stakeholders. The following can be considered to aid such understanding:
+(a) an analysis of the existing stakeholder engagement initiatives (such as
+via communication, investor relations, business management, sales
+and procurement teams); and
+(b) a mapping of affected stakeholders across the undertaking’s activities
+and business relationships. Separate groups of affected stakeholders
+may be identified per activity, product or service and are to be
+prioritised for a particular sustainability matter (this mapping may be
+reviewed after Step B as needed).
+72. Chapter 5.4 FAQ on stakeholder engagement provides further guidance on
+the role of stakeholders.
+3.2 Step B: Identification of the actual and potential impacts,
+risks and opportunities related to sustainability matters
+73. In this step, the undertaking identifies the actual and potential impacts, risks
+and opportunities (IROs) relating to environmental, social and governance
+matters across its own operations and in its upstream and downstream value
+chain. The outcome will be a ‘long’ list of impacts, risks and opportunities for
+further assessment and analysis in subsequent steps (see section 3.3).
+74. The undertaking should use the list of the sustainability matters in ESRS 1
+paragraph AR16 to support this process and to ensure completeness. In some
+cases, it may also use the actual disclosure requirements and related
+Application Requirements in the topical standards; for example, the ESRS S1-
+10 metric on adequate wages and its accompanying calculation methodology
+May 2024 Page 21 of 55
+EFRAG IG 1: Materiality Assessment Implementation Guidance
+in ESRS S1 paragraph AR73 may help to assess whether the sub-subtopic
+‘adequate wages’ is material. It is equally important for the undertaking to
+consider entity-specific sustainability matters not covered in that list, if any.
+Currently, until the sector standards are issued, sector sustainability matters
+have to be identified and assessed as entity-specific matters. The available
+best practices, frameworks and/or other reporting standards, such as the IFRS
+industry-based guidance and GRI Sector Standards (ESRS 1 paragraph
+131(b)), are possible resources to be used for the identification of entity-
+specific matters, especially whilst the sector-specific standards are not issued.
+75. [Draft] EFRAG IG 3 – List of ESRS Datapoints released by EFRAG is not a
+checklist to identify material matters or IROs with, as it serves a different
+purpose. However, it can provide a useful inventory of the range of the
+sustainability matters covered by the ESRS topical standards at a more
+granular level (for example, metrics) than ESRS 1 paragraph AR 16.
+76. Ultimately, for each identified material IRO that is reported, the undertaking
+shall disclose whether it relates to either own operations and/or upstream or
+downstream value chain as well as the relevant time horizon for potential
+impacts and risks and opportunities, as per ESRS 1 Chapter 6.4 Definition of
+short-, medium- and long-term for reporting purposes.
+Approaches
+77. The process of identification of the potential matters may start with the
+screening of the list of matters summarised in ESRS 1 paragraph AR 16 and
+then be complemented with additional entity-specific matters. These may
+follow from either internal processes (e.g., due diligence, risk management or
+grievance mechanisms) or external sources, such as those described in
+paragraph 69 above and stakeholder engagement.
+78. The undertaking may also develop a ‘long’ list of impacts, risks and
+opportunities relevant to its business model and upstream/downstream value
+chain and aggregate them following the structure provided in ESRS 1
+paragraph AR 16. The approach detailed in paragraph 75 above could be
+effective for undertakings new to preparing the sustainability statement.
+Alternatively, an undertaking could start from the matters as informed by
+existing processes (e.g., GRI reporting or internal processes such as due
+diligence and risk management). Then, the undertaking could compare the
+matters identified with the list in ESRS 1 AR 16 for completeness. The two
+approaches may be combined.
+79. Regardless of the approach chosen to identify material sustainability matters,
+the purpose is to connect them to the corresponding IROs.
+80. The undertaking may aggregate or disaggregate the IROs at the most
+appropriate level according to its facts and circumstances. It should relate the
+names it uses (or used before ESRS implementation) for sustainability matters
+when these differ from the list in ESRS 1 AR 16.
+81. Chapter 5.5 FAQ on aggregation/disaggregation provides further guidance
+on aggregation/disaggregation.
+May 2024 Page 22 of 55
+EFRAG IG 1: Materiality Assessment Implementation Guidance
+3.3 Step C: Assessment and determination of material IROs
+related to sustainability matters
+82. In this step, the undertaking applies criteria for assessing impact and financial
+materiality in order to determine the material actual and potential impacts and
+the material risks and opportunities. This then forms the basis for determining
+material information based on the ESRS topical disclosure requirements.
+83. In ESRS 1 and ESRS 2, emphasis is being placed on setting appropriate
+qualitative or quantitative thresholds to assess the materiality of IROs and
+related disclosures. In particular, ESRS 2 paragraphs 53 and 59 require
+disclosing how these thresholds have been set or applied.
+3.3.1 Impact materiality assessment
+84. ESRS 1 Chapter 3.4 requires that undertakings apply objective criteria, using
+appropriate quantitative and/or qualitative thresholds to assess the materiality
+of actual and potential impacts. This is based on severity and, for potential
+impacts, also likelihood (see Chapter 3.6 Deep dive into impact materiality –
+Setting thresholds).
+85. Therefore, the undertaking has to apply the criteria for severity to the list of
+impacts defined in step B above. The criteria are scale, scope and irremediable
+character of the impact for actual negative impacts. For potential negative
+impacts, the undertaking estimates also the likelihood of the impact occurring
+and maps it onto the relevant time horizon. For actual positive impacts, the
+criteria are scale and scope, and for potential positive impacts, the
+undertaking shall also estimate the likelihood of occurrence and map it onto
+the relevant time horizon.
+86. Depending on the kind of impact, it may not always be necessary to assess in
+depth each of the criteria of severity, based on the undertaking’s specific facts
+and circumstances, to determine whether the impact is material or not. For
+example, when there is an established scientific consensus about the severity
+of a particular kind of global or localised environmental impact, the
+undertaking can conclude that it is indeed material without having conducted
+an in-depth analysis of its scale, scope and irremediability. Therefore, the
+undertaking shall exercise judgement, informed by the available evidence, to
+determine what the appropriate level of the assessment of the severity criteria
+is.
+87. The purpose of engagement with key affected stakeholders (including
+workers and their representatives) is to help the undertaking understand how
+they may be impacted, and therefore, it may help the undertaking assess the
+severity and likelihood of impacts4. Internal engagement with the
+undertaking’s business functions and employees on the one hand and external
+engagement with users of sustainability reporting and other experts on the
+4 Consultation with affected stakeholders helps the undertaking understand how they may be impacted as part of
+the materiality assessment (refer to ESRS 2 IRO-1 paragraph 53 (b)(iii)). The outcome of the materiality assessment
+(i.e., ESRS 2 SBM 3 paragraph 48) requires the undertaking to disclose actual and potential impacts; potential
+impacts are defined as impacts that are likely to affect people or the environment.
+May 2024 Page 23 of 55
+EFRAG IG 1: Materiality Assessment Implementation Guidance
+other may also help to assess, validate and ensure the completeness of the
+outcome of the materiality assessment (see ESRS 1 paragraph AR8).
+88. Chapter 3.5 Role and approach to stakeholders in the materiality assessment
+process and Chapter 3.6 Deep dive into impact materiality – Setting thresholds
+provide detailed guidance on the application of impact materiality criteria and
+thresholds. The responses to the FAQs on impact materiality in Chapter 5.1
+provide further guidance on this matter. See also Chapter 4.3 Leveraging
+international instruments of due diligence.
+3.3.2 Financial materiality assessment
+89. Material risks and opportunities for the undertaking generally derive from
+impacts, dependencies or other factors, such as exposure to climate hazards
+or changes in regulation that address systemic risks. To assess their materiality,
+appropriate quantitative and/or qualitative thresholds based upon financial
+effects in terms of performance, financial position, cash flows and access to
+and cost of capital are used.
+90. Sustainability risks and opportunities are assessed based on their likelihood of
+occurrence and the potential magnitude of their financial effects in the short-,
+medium- and long-term. Therefore, the undertaking is required to go through
+the list of potential material risks and opportunities in step B above and apply
+a set of objective thresholds for likelihood and magnitude as well as consider
+the nature of the effects of the identified risks and opportunities.
+91. As most impacts give rise to financial risks and opportunities, the undertaking
+generally will assess whether material financial effects derive from the
+identified impacts (including the outcome of step B).
+92. When applicable, the undertaking may compare the material risks and
+opportunities per the list prepared in step B to the ones used in its risk
+management process (for example, ERM5 processes). However, this is only
+when the latter also covers sustainability risks. In such a case, the likelihood of
+the risks and opportunities, or their related financial effects, could be
+estimated accordingly.
+93. It may be appropriate to engage with the undertaking’s business functions as
+well as with investors of the undertaking and other financial counterparties
+(e.g., banks) to assess, validate and ensure the completeness of the list of
+material risks and opportunities.
+94. Once a matter has been assessed to be material from a financial perspective,
+the undertaking determines the information to be reported based on its
+materiality (see Chapter 2.3 Criteria to determine the materiality of
+information). Information is considered financially material if omitting,
+misstating or obscuring that information could reasonably be expected to
+influence decisions that primary users of general-purpose financial reports
+take on the basis of the undertaking’s sustainability statement relating to
+providing resources to the undertaking.
+5 WBCSD. (2018). Enterprise Risk Management. Retrieved 31 May 2024 from
+https://docs.wbcsd.org/2018/10/COSO_WBCSD_ESGERM_Guidance.pdf
+May 2024 Page 24 of 55
+EFRAG IG 1: Materiality Assessment Implementation Guidance
+95. While the terms ‘risks’ and ‘opportunities’ are combined in the ESRS,
+depending on the specific circumstances there are matters that trigger
+exposure to risks only, others that trigger exposure to opportunities only and
+others that trigger exposure to both.
+96. Responses to FAQs on financial materiality in Chapter 5.2 and Chapter 3.7
+Deep dive on financial materiality – Setting thresholds provide further guidance
+on financial materiality.
+3.3.3 Consolidating impact and financial materiality outcomes, including their
+interaction
+97. This step consolidates the results of the previous steps and obtains the list of
+material IROs, which forms the basis for the preparation of the sustainability
+statement. Analysis performed at material topic/subtopic or sub-subtopic level
+is to be converted to IROs if this has not been done yet.
+98. Once the undertaking has assessed individual IROs based on appropriate
+thresholds and methodologies, it may aggregate the resulting IROs for
+reporting purposes (refer to ESRS 1 paragraph 56). Those in charge of this
+activity may also validate the aggregated double materiality results with
+management to assess and validate the completeness of the list of material
+IROs.
+3.4 Step D: Reporting
+99. Following the materiality assessment process, the undertaking shall report on
+the assessment process and its outcome based on:
+(a) ESRS 2 IRO-1 Description of the processes to identify and assess
+material impacts, risks and opportunities;
+(b) ESRS 2 SBM-3 Material impacts, risks and opportunities and their
+interaction with strategy and business model; and
+(c) ESRS 2 IRO-2 Disclosure requirements in ESRS covered by the
+undertaking’s sustainability statement. The undertaking shall also
+disclose how it has determined the material information to be
+disclosed, including thresholds and criteria used to assess such
+information (ESRS 2 paragraph 59).
+100. In addition, ESRS 2 GOV-2 Information provided to and sustainability matters
+addressed by the undertaking’s administrative, management and supervisory
+(AMB) bodies includes datapoints regarding how the AMB bodies are
+informed about the material impacts, risks and opportunities (ESRS 2
+paragraph 26(a) considers the IROs when overseeing the undertaking’s
+strategy and risk management process and how these material IROs have
+been addressed during the period. Chapter 5.6 FAQ on reporting provides
+further guidance on reporting.
+May 2024 Page 25 of 55
+EFRAG IG 1: Materiality Assessment Implementation Guidance
+3.5 Role and approach to stakeholders in the materiality
+assessment process
+101. Stakeholders are classified into the following two groups: affected
+stakeholders and users of the sustainability statement6 (ESRS 1 paragraph 22).
+Some, but not all, stakeholders may belong to both groups (ESRS 1 paragraph
+23).
+102. ESRS 2 requires transparency on the undertaking’s consultation with affected
+stakeholders (IRO-1 paragraph 53 (b)(iii)). Even though the ESRS do not
+mandate behaviour, the undertaking is required to disclose whether and how
+the materiality assessment process identifies and assesses its impacts,
+including consultation with affected stakeholders, to understand how they
+may be impacted.
+103. The outcome of the undertaking’s ongoing due diligence processes that are
+in place is generally useful to inform the materiality assessment. However, the
+ESRS do not impose due diligence processes for the purposes of reporting
+only.
+104. In particular, the ESRS clarify that the materiality assessment process is
+informed by the due diligence process, per the international due diligence
+instruments. These are the OECD Guidelines for Multinational Enterprises
+(MNE Guidelines) and the UN Guiding Principles on Business and Human
+Rights (UNGPs). The engagement with affected stakeholders is central to the
+undertaking’s due diligence and impact assessment (ESRS 1 paragraph 24).
+The undertaking may engage with affected stakeholders or experts to provide
+input or feedback on the conclusions of the materiality assessment (ESRS 1
+AR 8). Such engagement may provide evidence or insights into actual or
+potential impacts on people and the environment connected to the
+undertaking. Social dialogue with workers’ representatives at the undertaking
+level is regulated at both European Union and national levels. Under the
+Accounting Directive 2013/34/EU (as amended by the CSRD), Member States
+have to require undertakings to inform the workers’ representatives about
+sustainability reporting and to discuss with them the relevant information and
+the means of obtaining and verifying it.
+105. Engagement – for example, consulting with affected stakeholders and
+incorporating their views into the materiality assessment – helps to
+substantiate their perspectives when determining the relevance of
+sustainability matters to them. For example, this includes engaging with the
+undertaking’s employees and/or their representatives on health and safety
+matters. Such engagement also includes feedback received from affected
+6 Stakeholders are those who can affect or be affected by the undertaking. There are two main groups of stakeholders:
+(a) affected stakeholders: individuals or groups whose interests are affected or could be affected – positively or negatively – by
+the undertaking’s activities and its direct and indirect business relationships across its value chain; and
+(b) users of sustainability statements: primary users of general-purpose financial reporting (existing and potential investors such
+as lenders and other creditors, including asset managers, credit institutions and insurance undertakings) and other users of
+sustainability statements, including the undertaking’s business partners, trade unions and social partners, civil society and non-
+governmental organisations, governments, analysts and academics.
+May 2024 Page 26 of 55
+EFRAG IG 1: Materiality Assessment Implementation Guidance
+stakeholders from ongoing processes of engagement as part of the
+undertaking’s business practices.
+106. When performing the materiality assessment, an undertaking may leverage on
+its regular dialogue with affected stakeholders or may reach out to
+stakeholders specifically in the context of its reporting process.
+107. Dialogue with affected stakeholders may assist during various steps of the
+materiality assessment. However, separate engagement with affected
+stakeholders in each step of the materiality assessment is not necessary, as
+undertakings may already have ongoing engagement with them to use. As
+mentioned in paragraph 69 of step A, the mapping of affected stakeholders
+and, where possible, prioritising them could be the first step. As part of step
+B, the undertaking may engage with them or build on past or ongoing
+engagement to map the impacts that they experience. Finally, in step C the
+undertaking may involve affected stakeholders in the assessment of the
+severity and likelihood of negative impacts that are relevant for them as well
+as, for example, in the case of particularly severe impacts in validating or
+providing feedback on impacts that have been assessed by the undertaking
+as material (refer to ESRS 1 paragraph AR 8).
+108. In situations where engagement with affected stakeholders is not possible (for
+instance, because such engagement would put them at risk), the undertaking
+may consider appropriate alternatives. This may include consulting credible
+independent experts (ESRS S3 Affected communities), a Non-Governmental
+Organisation (NGO) representing this affected community, or for
+environmental matters, scientific articles and reports.
+109. A source for impact materiality is scientific research, particularly for
+environmental matters, where credible scientific reports and other sources
+may be key to objectively assess the severity and/or likelihood of impacts.
+110. Chapter 5.4 FAQ on stakeholder engagement provides further guidance on
+this matter.
+3.5.1 Financial materiality considerations
+111. Besides the abovementioned activities on impact materiality, engagement
+with users may also corroborate the evidence that supports financial
+materiality of sustainability matters and help companies assess financial
+materiality. The conclusions of the ESRS financial materiality assessment
+should be based on supportable evidence; this may include the views and
+interests of users. This is aligned with current practice for the financial
+reporting materiality processes, where notes to the financial statements and
+presentations to investors are adjusted regularly to reflect emerging issues
+and other matters of interest to investors. To this extent, the undertaking may
+leverage existing mechanisms of dialogue with shareholders, other investors
+and, in some cases, lenders to support its financial materiality assessment
+process.
+112. In its approach to dialogue with users of sustainability information, the
+undertaking may consider stakeholders other than investors who may also be
+interested in general-purpose sustainability-related financial information; as
+such, information may be useful to assess how the undertaking manages its
+material impacts.
+May 2024 Page 27 of 55
+EFRAG IG 1: Materiality Assessment Implementation Guidance
+3.6 Deep dive into impact materiality – Setting thresholds
+113. This section illustrates in more detail the methodologies or criteria that could
+be used for step C on impact materiality. An undertaking shall apply the
+relevant criteria using appropriate quantitative and/or qualitative thresholds
+to assess the materiality of impacts connected to its activities as well as those
+directly linked to its operations, products and services, including through the
+upstream and downstream value chain (ESRS 1 paragraph 42 and Chapter
+3.4). However, ESRS 1 does not prescribe how to set thresholds.
+114. ESRS 1 Chapter 3.4 clarifies that, for actual and negative impacts, materiality is
+based on the severity of the impact, while for positive impacts, materiality is
+based on the scale and scope. For potential impacts, materiality also includes
+consideration of their likelihood.
+115. The severity of an actual or potential negative impact is assessed from the
+perspective of the affected people or the environment, and it is determined
+by the following characteristics that inform the basis for determining the
+thresholds:
+(a) Scale: how grave the impact is (i.e., extent of infringement of access to
+basic life necessities or freedoms such as education, livelihood, etc.);
+(b) Scope: how widespread the impact is (i.e., the number of individuals
+affected or the extent of the environmental damage); and
+(c) Irremediable character: the extent to which the impact can be
+remediated (e.g., through compensation or restitution, whether the
+people affected can be restored to their exercise of the right in
+question, etc.). The underlying question is whether there are any limits
+to the ability of restoring the environment or those affected to a
+situation at least the same as, or equivalent to, their situation, before
+the negative impact.
+116. As discussed above, the undertaking may use its ongoing due diligence
+processes or other risk management processes to inform its threshold-setting
+and determine whether impacts are material for reporting purposes. In those
+processes, the undertaking’s management of negative impacts is driven by an
+analysis of severity and/or risk prioritisation, which may inform the assessment
+of impact materiality.
+117. When setting up thresholds, priority should be given to any supportable
+evidence that provides as much objectivity as possible to the materiality
+conclusion. However, reasonable quantification of the potential impacts may
+not always be possible to support the materiality assessment.
+118. Any of the three characteristics of severity can make an impact severe, but
+often the characteristics are interdependent. Irremediable character could
+impact severity by increasing its scale. In turn, it is often the case that the
+greater the scale or the wider the scope of an impact, the harder it is to
+remediate, albeit a case-by-case assessment is to be performed in order to
+conclude if any of the three characteristics can make the impact severe.
+May 2024 Page 28 of 55
+EFRAG IG 1: Materiality Assessment Implementation Guidance
+3.6.1 Actual impacts
+119. In the application of the concepts described above, by way of illustration an
+undertaking could map its actual impacts onto the three characteristics of
+severity in columns (figure 4) and could follow the criteria below, which is
+aligned with paragraph 116 above.
+120.
+Figure 4: Graphical representation of impact severity for actual impacts in columnar format
+Please note that that the graphical representation in this figure serves only as illustration of a
+possible approach to visualisation of the conclusions of assessment of impact materiality
+criteria. ESRS 2 IRO-1 also requires the undertaking to explain how it determined the materiality
+of the impact, including the qualitative and quantitative thresholds used.
+May 2024 Page 29 of 55
+EFRAG IG 1: Materiality Assessment Implementation Guidance
+3.6.2 Potential impacts
+120. For potential impacts, likelihood is to
+Example on pollution
+be considered together with the
+severity of the impacts. However, in Undertaking A has a material
+the case of human rights impacts, as pollution matter regarding a river
+specified in ESRS 1 paragraph 45, next to its factory due to its scale and
+severity takes precedence over irremediable character. In the
+likelihood when identifying material following year, A is acquired by
+matters.
+group B.
+121. By following the illustration above,
+The scale of the impact of the
+the methodology would be the same
+pollution in the river to A is not
+and the likelihood dimension would
+affected by the fact that group B has
+be added. To this extent, and to
+several subsidiaries with other
+simplify its representation, the three
+material environmental matters,
+factors within severity would be
+some of them classified as medium
+combined along the severity axis,
+and likelihood of occurrence would on scale but higher in scope, as it
+be represented along the horizontal affects a higher number of factories.
+axis.
+Therefore, the fact that an
+122. In terms of likelihood, the likelihood undertaking is acquired and forms
+of a potential negative impact refers part of a group does not change the
+to the probability of the impact severity categorisation of scale or
+happening. The likelihood of an
+irremediable character. Refer to
+impact can be measured or
+section 3.6.3 for the consolidated
+determined qualitatively or
+materiality assessment approach.
+quantitatively depending on the
+available information. It could be
+described by using general terms
+(e.g., ‘unlikely’, ‘highly likely’), mathematically by using statistics terms (e.g., ‘10
+in 100’, ‘10 per cent’) or by using frequency over a given time-period (e.g.,
+‘once every 10 years’).
+123. A similar approach to the actual impacts could be applied whereby the
+threshold for reporting material impacts is defined as the red area in the
+illustrative graph below. In this illustrative example, the undertaking has
+assessed that high severity (scale 5) and low likelihood (scale 1) of negative
+impacts are material for environmental matters; such a decision is based on
+the undertaking’s judgement. Impacts with very low probability may or may
+not be material depending on their severity if they occur. In the illustration
+provided in Figure 5, it is assumed that an impact with the lowest level of
+likelihood could be assessed to pertain to the highest level of materiality, as it
+would have catastrophic environmental consequences related to
+environmental hazards.
+May 2024 Page 30 of 55
+EFRAG IG 1: Materiality Assessment Implementation Guidance
+Figure 5: Thresholds for materiality of potential impacts for illustrative purposes
+only (the colour coding of the matrix is to be determined by each undertaking
+following the criteria in ESRS 1 Chapter 3.4 Impact materiality)
+Please note that that the graphical representation in this figure serves only as
+illustration of a possible approach to visualisation of the conclusions of assessment
+of impact materiality criteria. ESRS 2 IRO-1 also requires the undertaking to explain
+how it determined the materiality of the impact, including the qualitative and
+quantitative thresholds used.
+3.6.3 Consideration for groups and subsidiaries
+124. ESRS 1 Chapter 7.6 Consolidated reporting and subsidiary exemptions states
+that the ‘undertakings reporting at consolidated level shall ensure that all
+subsidiaries are covered in a way that allows for unbiased identification of
+material impacts, risks and opportunities’ (ESRS 1 paragraph 102).
+125. When performing the materiality assessment at a group level, paragraph 103
+does not require the adoption for a given sustainability matter of a common
+threshold that is the same for the group in its entirety but rather to adopt an
+approach that is at the same time consistent across the whole group and
+unbiased, i.e., able to capture the specificities that may exist in a specific
+subsidiary. The response to FAQ 13 describes the top-down and bottom-up
+group materiality approaches. However, there is also a hybrid option whereby
+the starting point is to identify those impacts that are common across the
+group (for example, those related to ESRS E1 Climate change and ESRS S1
+Own workforce), and then the bottom-up approach for impacts that are
+specific to one or more subsidiaries are assessed using the thresholds for the
+materiality assessment at group level (for more on this, refer to the
+disaggregation concept referenced in ESRS 1 paragraph 104 and described
+in section 3.7 Level of disaggregation).
+May 2024 Page 31 of 55
+EFRAG IG 1: Materiality Assessment Implementation Guidance
+126. The example on pollution above illustrates the interplay between materiality
+at a group level and the impacts that are specific to one subsidiary and not
+widespread across the group. The severity of a given impact will not change
+regardless of whether there is a bottom-up or a top-down approach.
+127. In a group, a matter may be assessed as material as a result of the aggregation
+of several impacts derived from different subsidiaries that, if assessed in
+isolation by each subsidiary, would not be considered material. This is the case
+where aggregation of the impacts of the same nature across sites or
+subsidiaries is feasible and meaningful (for example, for environmental
+matters such as GHG emissions, emissions of pollutants or raw materials for
+circular economy). In other cases, when negative human rights impacts are
+occurring in the operations of just one subsidiary within a large corporate
+group, because the impacts are linked to the country’s context, the impacts
+may still be so severe that they meet the group materiality threshold. This is
+consistent with ESRS 1 paragraph 55, which states that disaggregation by
+subsidiary may be necessary (refer to FAQ 13 Performing the impact
+materiality assessment when the undertaking operates in different sectors).
+128. Conversely, in addition to disclosing information about matters that are
+material for the group in its entirety, there may be situations where a matter is
+assessed to be material for some subsidiaries in isolation but, despite the
+aggregation of data of such subsidiaries, the matter is assessed as not material
+for the group in its entirety. In this case following ESRS 1 paragraph 103, the
+undertaking would provide information about this material matter, in order to
+provide an adequate understanding of the specific impacts, risks and
+opportunities of the subsidiaries concerned. In this way, despite the absence
+of a reporting at subsidiary level due to the application of the subsidiary
+exemption, an appropriate level of transparency is preserved where the
+reporting undertaking identifies significant differences between the IROs of
+the group and the IROs of one or more of its subsidiary undertakings (refer to
+CSRD article 29 a, 4). This could include, next to other relevant narrative
+information, metrics covering the amounts of those subsidiaries only. In this
+case contextual information would be helpful, to support the understanding
+that despite being material for one or more subsidiaries, the matter is not
+material for the group in its entirety and of which the entities are included in
+the disclosures, including in the metrics.
+129. Therefore, there is no one single solution to assess the various impacts that
+arise from one or more subsidiaries across the group when defining the group
+thresholds and weighing the relevance of a particular subsidiary or group of
+subsidiaries, as we have illustrated for environmental and social matters
+above. Different methodologies and, where appropriate, aggregation
+methods may be used depending on the nature of the impacts.
+130. In relation to ESRS 1 paragraph 103, the significant differences between the
+subsidiaries and the group are linked to the business models and the aspects
+covered in ESRS 2 IRO-1 paragraph 53 (b)(i)(ii), which are activities, business
+relationships, geographies and other factors. Similarly, ESRS 1 paragraph 104
+clarifies that significant differences have to be assessed considering
+circumstances such as different sectors and others relevant to the level of
+disaggregation (ESRS 1 paragraphs 54-57), which include differences among
+countries or among significant assets/sites. Hence, an undertaking that is a
+May 2024 Page 32 of 55
+EFRAG IG 1: Materiality Assessment Implementation Guidance
+conglomerate operating in different sectors with different subsidiaries in them
+may not be able to identify material widespread impacts spanning across the
+group but rather subsidiary-related material impacts that cannot be
+aggregated at a group level. Therefore, the thresholds used in the materiality
+assessment at group level are to be impartially designed to avoid excluding
+these material impacts at the subsidiary level. For an investment holding
+company, this would mean looking at the impacts that relate to the
+investments in different sectors.
+3.7 Deep dive into financial materiality – Setting thresholds
+131. The ESRS do not prescribe the use of a specific threshold definition for
+financial materiality. However, ESRS 1 paragraph AR 15 states: ‘Once the
+undertaking has identified its risks and opportunities, it shall determine which
+of them are material for reporting. This shall be based on a combination of (i)
+the likelihood of occurrence and (ii) the potential magnitude of financial effects
+determined in the basis of appropriate thresholds. In this step it shall consider
+the contribution of those risks and opportunities to financial effects in the
+short-, medium- and long-term.’
+132. The undertaking may refer to absolute monetary thresholds or to relative
+monetary thresholds such as a percentage of the amount corresponding to a
+line item of its primary financial statements, its revenues, costs, total assets or
+net equity. Similar approaches to assessing the materiality of an item for the
+preparation of financial statements are in practice and may be a source of
+inspiration. However, the undertaking shall consider that the time horizon for
+financial materiality assessment in sustainability reporting is longer than the
+typical time horizon factored in financial statements and management
+commentary. This may result in the need to consider the cumulative effect of
+a sustainability matter on revenues, costs, etc., over a lengthy period of time.
+Similarly, a threshold for likelihood needs to consider the cumulative
+probability over a period of time to cover the long-term horizon as well.
+133. In this context, the materiality assessment cannot be limited to the scope of
+financial effects that affect (or will affect at some point in the future) items
+recognised in the financial statements. The undertaking shall also consider
+financial effects associated with dependencies on natural and social resources
+that do not (yet) meet the criteria for accounting recognition (ESRS 1
+paragraph AR 14 and AR 15).
+134. The undertaking should also consider that a sustainability matter may be
+financially material despite its financial effects not being (reliably) measurable
+at the reporting date. In this case, the thresholds will rely on qualitative factors
+and ranges of possible effects (high/medium/low) – as in financial reporting,
+where materiality is not confined to quantitative aspects, but a transaction may
+be material due to its nature (i.e., qualitative approach to materiality). In
+addition, it should also be noted that the phase-in disclosures for anticipated
+financial effects apply as per ESRS 1 Appendix C ESRS 2 SBM-3.
+135. With reference to the qualitative approach to materiality, there are
+circumstances in which, depending on the sector the undertaking is active in
+or the characteristics of its business model or operations, the undertaking is
+exposed to reputational risks that are of interest to investors. In this case, while
+May 2024 Page 33 of 55
+EFRAG IG 1: Materiality Assessment Implementation Guidance
+an effect on cash flows cannot be quantified, the reputational risk may
+influence the availability of finance and/or cost of funding and, therefore, may
+be financially material.
+136. When the undertaking has mechanisms of dialogue with its shareholders,
+investors and lenders in place, it may leverage from this ongoing dialogue to
+corroborate the determination of its materiality threshold(s) in the context of
+financial materiality; The purpose is to report on information that, if omitted,
+misstated or obscured, could reasonably be expected to influence the
+decisions that those stakeholders make based on its sustainability statement
+(ESRS 1 paragraph 48).
+137. As many sustainability matters that generate material impacts are also sources
+of material risks and opportunities, the undertaking shall carefully consider the
+linkages in its financial materiality assessment (refer to Chapter 3 Step B and
+Step C).
+4. How can other sources be leveraged?
+7
+4.1 Leveraging the GRI Standards
+138. An assessment performed under the GRI is focussed on impact materiality but
+not on the financial materiality dimension, as the GRI is not based on double
+materiality the way the ESRS are (see Chapter 2.1 Implementing the concept
+of double materiality). However, the impact dimension is the same under GRI
+Universal Standards and the ESRS even if the scope of environmental, social
+and governance matters under the GRI may not be exactly the same as that of
+the ESRS. Therefore, an assessment performed under GRI Universal Standards
+constitutes a good basis for the assessment of impacts under the ESRS. The
+financial materiality dimension is to be added when moving from the GRI
+Universal Standards reporting framework to that of the ESRS.
+139. Several synergies exist for undertakings that are currently reporting under the
+GRI Universal Standards 2021 framework in terms of:
+(a) the impact materiality assessment process: ESRS 1 Chapter 3.3, ESRS 2
+IRO-1 and IRO-2 are aligned in substance with GRI Universal Standards,
+and the GRI materiality assessment can be the starting point for the
+ESRS double materiality assessment, with appropriate integration of
+financial materiality;
+(b) the universe of potential impacts identified using the GRI Universal
+Standards, which are compatible in principle with the list of matters in
+ESRS 1 paragraph AR 16 (and therefore also with ESRS architecture). In
+addition, a GRI materiality assessment can inform the process of
+identifying the entity-specific impacts; and
+(c) the role of due diligence and stakeholder engagement, which is central
+to both frameworks in informing the impact materiality assessment.
+7 The content of this chapter reflects the views of EFRAG but has not been validated by the GRI or by the ISSB.
+May 2024 Page 34 of 55
+EFRAG IG 1: Materiality Assessment Implementation Guidance
+4.2 Leveraging the ISSB Standards
+140. As far as EFRAG’s intentions and expectations are concerned, the criteria for
+financial materiality and materiality of information in the ESRS and the
+corresponding materiality approach in IFRS S1 are aligned. The following
+paragraphs illustrate this alignment.
+141. The financial materiality assessment in ESRS 1 corresponds to the identification
+of information needed by primary users of general-purpose financial reports
+when making decisions relating to the provision of resources to the
+undertaking (ESRS 1 paragraph 48, aligned with IFRS S1 paragraph 1).
+Between the two standards, the definition of financial materiality is aligned8.
+142. Because the criteria for financial materiality in the two frameworks are aligned,
+an undertaking that applies the ESRS is expected to comply with the
+identification of the risks and opportunities under IFRS using the outcome of
+its ESRS assessment of financial materiality. In other words, the same financial
+materiality assessment process can support the identification of the risks and
+opportunities for both IFRS and ESRS purposes.
+143. The general criterion for assessing the materiality of information and therefore
+to support the identification of the information to be reported (ESRS 1
+paragraph 31) is expected, in most cases, to rely on decision-usefulness (see
+Chapter 2.3 Criteria to determine the materiality of information); this is also the
+criterion used in IFRS S1 to identify the information to be reported (as
+material). While in the ESRS the assessment of what is decision-useful
+considers both investors and other stakeholders, in IFRS this is limited to the
+users’ needs for investors. However, the financial materiality dimension of the
+ESRS is focused on investors and, therefore, is also aligned with IFRS S1. This
+is compatible with the general principle of double materiality, as the
+information dataset that serves the needs of investors (financial materiality) is
+expected to be the same that fulfils the potential outside-in9 information needs
+of other users (trade unions, academics, etc). The following examples illustrate
+this concept.
+(a) Affected communities may be interested in whether the provisions set
+aside to rehabilitate polluted production sites are sufficient to cover the
+necessary rehabilitation activities.
+8 For both IFRS S1 and ESRS 1, information is considered material for primary users of general-purpose financial
+reports if omitting, misstating or obscuring that information could reasonably be expected to influence decisions
+that they make on the basis of the undertaking’s sustainability statement (ESRS) or the undertaking’s sustainability-
+related financial disclosures and sustainability statements (IFRS S1). In addition, IFRS S1 requires to disclose
+information about all sustainability-related risks and opportunities that could reasonably be expected to affect the
+entity’s cash flows, its access to finance or cost of capital over the short-, medium- or long-term. Under ESRS 2
+SBM-3, the undertaking shall disclose its material impacts, risks and opportunities. Under ESRS 1, ‘A sustainability
+matter is material from a financial perspective if it generates risks or opportunities that have a material influence or
+could reasonably be expected to have a material influence, on the undertaking’s development, financial position,
+financial performance, cash flows, access to finance or cost of capital over the short-, medium- or long-term’ (ESRS
+1 paragraph 49). To note: IFRS S1 does not use the term ‘financial materiality’ but ‘materiality’.
+9 Information necessary to understand how sustainability matters affect the undertaking’s development,
+performance and position.
+May 2024 Page 35 of 55
+EFRAG IG 1: Materiality Assessment Implementation Guidance
+(b) Current and prospective employees may want to learn about
+anticipated financial effects that could impact their prospects within the
+organisation (e.g., pensions or training).
+144. Finally, IFRS S1 (paragraph 55) requires a reporting entity to refer to and
+consider the applicability of the disclosure topics in the SASB Standards.
+Similarly, following ESRS 1 AR 4 an undertaking shall consider IFRS
+Standards10 as a source of possible entity-specific disclosure. In addition, ESRS
+1 transitional provisions (paragraph 131 (b)) identify IFRS sector standards as
+a source of disclosure that an undertaking may use in the definition of its entity-
+specific disclosures in the absence of ESRS sector-specific standards. While for
+ESRS preparers the use of SASB standards is optional (as this is a possible
+source of disclosure but not the only one), the provision of entity-specific
+disclosure, including sector metrics, is a requirement (see ESRS 1 paragraph
+11, AR 1 to AR 5).
+4.3 Leveraging international instruments of due diligence
+145. The materiality assessment of an undertaking’s IROs is informed by the
+outcome of its due diligence process, when this is in place, as defined in the
+international instruments of the UN Guiding Principles on Business and Human
+Rights and the OECD Guidelines for Multinational Enterprises (refer to
+paragraph 102 of this Guidance).
+146. The due diligence process includes steps to identify and assess negative
+impacts caused and contributed to by the undertaking as well as those
+connected to its own operations, products or services through its business
+relationships. This can be particularly useful when analysing the undertaking’s
+upstream and downstream value chain and when identifying the impacts
+originating therein. Additionally, the due diligence instruments provide
+criteria for management to prioritise actions based on the severity and
+likelihood of the impacts previously identified.
+147. In that sense, the due diligence process can help an undertaking both (a) to
+identify its negative actual and potential impacts (see step B in Chapter 3.2)
+and (b) to assess their materiality for reporting purposes based on the criteria
+of severity and likelihood (see step C in Chapter 3.3.1). The identification of
+material impacts also supports the identification of material sustainability risks
+and opportunities, which are often a consequence of such impacts.
+148. Through this due diligence process, the undertaking can also identify affected
+stakeholders whose engagement informs the materiality assessment of IROs.
+4.4 Leveraging other frameworks or sources
+149. In addition to the other frameworks and international instruments mentioned
+above, EFRAG has worked together with the TNFD to issue a mapping
+between the TNFD 2024 framework and the related ESRS environmental
+disclosures, namely ESRS E3-E5. For the materiality assessment, the LEAP
+approach embedded within the TNFD disclosure framework may complement
+and support the identification of environmental matters (refer to ESRS E2
+10 SASB standards are considered to be IFRS standard-setting material.
+May 2024 Page 36 of 55
+EFRAG IG 1: Materiality Assessment Implementation Guidance
+paragraph AR 1, ESRS E3 paragraph AR 1, ESRS E4 paragraph AR 6 and ESRS
+E5 AR 1).
+150. Another input to use to identify IROs, along with other relevant ones in step B
+of the materiality assessment process (refer to ESRS 2 paragraph AR 2), could
+be the European standards approved by the European Standardisation
+System (ISO/IEC or CEN/CENELEC standards), which the undertakings may
+have applied (refer to ESRS 2 paragraph AR 2).
+5. Frequently asked questions (FAQs)
+5.1 FAQs on impact materiality
+FAQ 1: Is impact materiality based on materiality for the undertaking or for
+stakeholders?
+151. Impact materiality is based on its impact on people or the environment, which
+are in turn affected stakeholders for the undertaking.
+152. The scope of impact materiality includes impacts on people and/or the
+environment connected to the undertaking’s own operations and upstream
+and downstream value chain, including through its products and services as
+well as through its business relationships. For actual or potential impacts, the
+materiality is assessed by reference to the severity of such impacts on people
+and/or the environment. To assess impacts, stakeholder engagement is
+central as described in FAQ 16 Do ESRS mandate to actively engage with
+stakeholders?
+153. In contrast, financial materiality focusses on the effects of sustainability matters
+on the undertaking’s cash flows, financial performance and position, access to
+finance or cost of capital in the short-, medium- or long term, as such effects
+are material to the undertaking’s investors.
+154. When material impacts are also associated with material risks and
+opportunities, they are also material for the undertaking. However, impact
+materiality is assessed based on severity on people and the environment and
+not on the basis of the effects it has on the undertaking and its financial
+prospects.
+FAQ 2: What is meant by the undertaking being ‘connected’ to an impact?
+155. As explained above, impact materiality covers impacts connected to the
+undertaking’s own operations and value chain, including through its products
+and services as well as through its business relationships. An undertaking can
+be connected to impacts in several ways as described below, according to the
+international due diligence instruments.
+156. The undertaking may be single-handedly responsible for impacts to people or
+the environment if the impacts are directly caused by its operations, products
+or services. Examples of such cases include:
+(a) exposure of the undertaking’s own workers to hazardous working
+conditions without adequate safety equipment;
+May 2024 Page 37 of 55
+EFRAG IG 1: Materiality Assessment Implementation Guidance
+(b) being the sole source of pollution in a community’s drinking water
+supply due to chemical effluents from its production processes; and
+(c) for a positive impact, an energy producer lowering the cost of
+renewable energy, allowing more customers to switch to renewable
+energy, thus contributing to mitigating climate change.
+157. Impacts to which the undertaking has contributed are those not caused
+directly and solely by the undertaking’s operations, products, or services but
+in conjunction with a third party. Therefore, any one action or omission from
+the undertaking does not single-handedly cause the impact but nevertheless
+does so with a third party’s actions or omissions. For example, several factories
+locally release harmful emissions that are individually below harmful limits.
+However, together they affect the quality of the air in the local community,
+leading to a negative impact on the people and the environment.
+158. Another example of contributing to an impact is when an undertaking
+facilitates or incentivises another party to cause or contribute to the impact,
+such as by changing requirements to suppliers repeatedly without adjusting
+production deadlines and prices, thus pushing suppliers to breach labour
+standards in order to deliver.
+159. Impacts directly linked to the undertaking’s operations, products and
+services caused by a business relationship are those in which the entity
+causing or contributing to the impact is linked to the undertaking through a
+business relationship. Business relationships are not limited to contractual
+relationships and partners with whom the undertaking directly interacts. They
+also include actors across the entire upstream/downstream value chain,
+including beyond the first tier – for example, a supplier subcontracting
+embroidery on clothing to child labourers, contrary to the contractual
+obligations.
+160. The type of involvement (i.e., caused, contribute or directly linked ) is
+important given that it could lead to a different approach when addressing the
+negative impacts. However, this does not imply that impacts that are directly
+linked are necessarily less material than those caused or contributed to, as the
+basis of the materiality assessment is severity.
+FAQ 3: What are material IROs in the value chain?
+161. See IG 2 FAQ 3: How should the materiality assessment process be organised
+to properly capture material IROs that arise in the value chain?
+FAQ 4: Can positive impacts be netted against negative impacts?
+162. No – impacts are to be assessed on their own, i.e., without taking into account
+other impacts. This means that positive impacts on the environment and
+people cannot be netted against negative impacts.
+163. This is based on the following non-exhaustive list of principles:
+(a) different nature of impacts: an undertaking shall not net positive
+impacts with negative impacts of a different nature (in the reporting
+year or in future years). This is consistent with ESRS 1 paragraph 56:
+‘… The undertaking shall not aggregate material items that differ in
+May 2024 Page 38 of 55
+EFRAG IG 1: Materiality Assessment Implementation Guidance
+nature’ as well as with the qualitative characteristics of information (QC
+8 Appendix B of ESRS 1);
+(b) timing of impacts: an undertaking shall not net actual negative/positive
+impacts in the reporting year with positive/negative impacts of the
+same nature in future years; and
+(c) own operations or upstream/downstream value chain: an undertaking
+shall not net impacts in own operations with impacts in the
+upstream/downstream value chain.
+164. Although netting and compensation/offsetting are different concepts, these
+are not allowed to be considered in the assessment of impact materiality.
+Specific requirements on topical standards for compensation/offsetting are
+included. ESRS E1 Climate change and ESRS E4 Biodiversity and ecosystems
+include specific requirements on how to report on carbon credits and
+biodiversity credits for material matters.
+5.2 FAQs on financial materiality
+FAQ 5: Is the material information for financial statements the same as for the
+sustainability statement?
+165. No, it is not the same. However, the objective remains the same.
+166. The financial materiality assessment of information depends on whether the
+information is considered to be material for the decision-making of those who
+provide, or may provide in the future, resources to the undertaking. The scope
+of financial materiality for the sustainability statement is an expansion of the
+scope of materiality used to determine the information to be included in the
+undertaking’s financial statements (ESRS 1 paragraph 47). Whilst the concept
+of materiality does not differ between ESRS and financial reporting standards,
+the information that is likely to be material following the two sets of standards
+does. The principles applied for the preparation of the financial statements
+(under IFRS or local Generally Accepted Accounting Principles (GAAPs)), as
+illustrated by the financial reporting conceptual framework of IFRS, clearly
+delineate what should be accounted for on the basis of criteria for recognition
+of assets and liabilities as well income and expenses. As a result, when defining
+the thresholds for financial materiality used in the preparation of the
+sustainability statement, inspiration could be drawn from criteria and
+thresholds used in the preparation of the financial statements.
+167. The differences between information that is likely to be financially material for
+the financial statements and information that is likely to be financially material
+for the sustainability statements relate to the following aspects.
+(a) Sustainability reporting includes disclosures of anticipated financial
+effects of material risks or opportunities that are not captured or not yet
+fully captured by financial reporting at the reporting date. These could
+be reasonably expected to result in financial effects for the
+undertaking. Therefore, it is more likely that risks and opportunities that
+are not yet material for financial statements could be material for the
+sustainability statement, where there are different underlying
+principles to provide information on assets and liabilities (or on
+May 2024 Page 39 of 55
+EFRAG IG 1: Materiality Assessment Implementation Guidance
+resources/opportunities and risks before they meet the accounting
+definition of assets and liabilities).
+(b) The information on the group is expanded in the sustainability
+statement to include information about material risks and opportunities
+arising from its business relationships, i.e., in the
+upstream/downstream value chain. Therefore, it is more likely that
+information about risks and opportunities arising from the
+undertaking’s upstream/downstream value chain may be material for
+the sustainability statement but not be included in the financial
+statement.
+(c) Potential future events may trigger current period disclosure about
+anticipated sustainability-related risks and opportunities in the
+sustainability statement, while financial statements typically account for
+risks based upon past events. Therefore, it is more likely that forward-
+looking information (such as anticipated financial effects) become
+material in the sustainability statement.
+(d) Time horizons may be longer in sustainability reporting as it is not
+constrained by the horizons used in financial statements (such as useful
+lives of assets).
+FAQ 6: Is financial materiality for sustainability reporting limited to effects presented
+in financial statements?
+168. No – as described in FAQ 5 Is the material information for financial statements
+the same as for the sustainability statements? the basis for preparation and
+time horizons of financial and sustainability reporting differs. The concept of
+current and anticipated financial effects defined in Annex 2 of the Delegated
+Act distinguishes between:
+(a) financial effects that have already crystallised and are recognised in the
+primary financial statements (i.e., current financial effects); and
+(b) financial effects that do not meet the recognition criteria for inclusion
+in the financial statements in the reporting period (i.e., anticipated
+financial effects).
+169. Reporting certain financial effects associated with material sustainability
+matters in the sustainability statement goes beyond what is required to be
+recognised and measured in the primary financial statements and disclosed in
+the notes to financial statements. In particular, financial effects that arise from
+risks and opportunities are to be reported, irrespective of their accounting
+treatment, when they have or could reasonably be expected to have a material
+influence on the undertaking’s financial position, financial performance and
+cash flows over the short-, medium- and long- term. Sustainability risks or
+opportunities may derive from past or future events and may have financial
+effects in relation to:
+(a) assets and liabilities already recognised in financial reporting. Potential
+adjustments to the carrying amount that are of interest for users of the
+sustainability statement may not meet the accounting criteria for
+recognition in financial statements at the reporting date albeit these
+anticipated financial effects are reported in the sustainability statement,
+May 2024 Page 40 of 55
+EFRAG IG 1: Materiality Assessment Implementation Guidance
+given their relevance to users. For example, these adjustments may
+include impairments that could arise as a result of a potential closure
+of plants in an area of water shortage;
+(b) assets, liabilities, income and expenses that may only be recognised in
+financial reporting at a later stage but that are useful to users of the
+sustainability statement – for example, upcoming changes in the labour
+laws whereby platform workers are classified as employees with the
+right to the minimum wage and other social protection benefits, and
+the financial effects are reflected in future financial statements; and
+(c) factors of value creation that do not meet the recognition criteria for
+the financial statements but that contribute to the generation of cash
+flows and the development of the undertaking. These may include
+internally generated intangibles, such as human capital, that could be
+described in sustainability reporting.
+5.3 FAQs on the materiality assessment process
+FAQ 7: How frequently should an undertaking update its sustainability materiality
+assessment?
+170. The CSRD defines the frequency of sustainability reporting under the ESRS as
+annual given that the sustainability statement is part of the undertaking’s
+management report. Accordingly, the undertaking is required to determine at
+each reporting date its material impacts, risks and opportunities as well as the
+material information to be included in the sustainability statement.
+171. However, if the undertaking concludes based on appropriate evidence that
+the outcome of the prior reporting period’s materiality assessment is still
+relevant at the reporting date, the preparation of the sustainability statement
+may use the conclusions previously reached. This may be true if the
+undertaking assesses that there have been no material changes in its
+organisational and operational structure of the undertaking and that there
+have been no material changes in the external factors that could generate new
+or modify existing IROs or that could impact the relevance of a specific
+disclosure. Examples of changed material facts and circumstances (i.e.,
+triggers) could be:
+(a) a major merger and acquisition transaction leading to a new activity,
+entering a new sector or a significant change in operations;
+(b) a significant change of key suppliers or in the supply chain practices
+(including entering in a new geographical context with significant
+contextual risks, such as lack of adherence to human rights principles);
+(c) a global event, such as a pandemic, or entering in a new material
+business relationship that is likely to have a severe impact on human
+rights;
+(d) entering in a new market or starting a new line of business, or exiting
+an existing market and closing an existing line of business; and
+(e) a shift in social conventions, scientific evidence or users’ needs that
+could affect the characteristics of severity (e.g., the level of public
+May 2024 Page 41 of 55
+EFRAG IG 1: Materiality Assessment Implementation Guidance
+scrutiny significantly increases on a matter compared to previous
+periods or new studies, which provide evidence of the toxicity of a
+substance).
+172. The analysis performed for the preparation of the sustainability statement for
+each reporting period should be sufficiently robust and proportionate to
+capture possible changes from the previous period(s), including in the value
+chain. The undertaking may do an annual update of its previous assessments,
+focusing on the impacts, risks and opportunities that are affected by the
+identified changes (e.g., as a result of the changes, some of them may cease
+to be material and other material impacts risks and opportunities may arise).
+173. While it is possible to perform an annual update focused on the consequences
+of the identified changes, the materiality assessment is a dynamic process
+subject to the inherent evolution of the undertaking and needs to be
+considered for an update on an ongoing basis.
+FAQ 8: May the undertaking consider only the sustainability matters in ESRS 1 AR 16?
+174. No – ESRS 1 paragraph AR 16 states: ‘Using this list is not a substitute for the
+process of determining material matters. This list is a tool to support the
+undertaking’s materiality assessment. The undertaking still needs to consider
+its own specific circumstances when determining its material matters.’ Some
+undertakings may have a list of material topics from previous impact
+materiality assessments (for instance, GRI Universal Standards reporting) and
+use the list from ESRS 1 paragraph AR 16, as described in step B of the
+Materiality assessment process, Chapter 3.2.
+175. The list in ESRS paragraph AR 16 is a good starting point for the identification
+of sustainability matters, but it should not be used as a checklist substituting a
+materiality assessment. It is an inventory of the sustainability matters covered
+in the sector-agnostic topical ESRS. Sector-specific11 and entity-specific
+sustainability matters (see ESRS 1 paragraph 11) should also be considered on
+top of this list.
+176. Given that sector-specific ESRS have not been finalised yet, sector-specific
+sustainability matters shall be identified and assessed on an entity-specific
+basis until the sector standards are released (see ESRS 1 paragraph 131 (b)).
+11 Future sector specific ESRS will identify, where appropriate, additional sustainability matters.
+May 2024 Page 42 of 55
+EFRAG IG 1: Materiality Assessment Implementation Guidance
+FAQ 9: How to consider time horizon in the double materiality analysis?
+177. A sustainability matter might be
+Example on new regulation
+material from an impact or financial
+A new regulation bans the use of
+perspective over the short-, medium-
+microplastics within the production
+or long-term. As such, time horizon is
+processes in the medium-term. The
+an essential component of the
+undertaking, using microplastics in its
+materiality assessment to be factored
+production, has identified a material risk
+into the process. ESRS 1 paragraphs
+from this issue in the short- and medium-
+77 to 81 define the standardised
+term but not the long-term. The
+terms for time horizon, and they
+undertaking is adapting its production
+provide the option to select entity-
+processes and investing ahead of the
+specific horizons for the medium- and
+new regulation coming into effect.
+long-term.
+Example on impaired assets
+178. In the double materiality analysis, the
+short-, medium- and long-term time The financial effects of assets currently
+horizons may be considered when used that could become impaired in the
+assessing impacts, risks and long-term due to environmental
+opportunities: changes could be not material as the
+assets will be fully amortised by the
+(a) for a proper understanding of
+medium-term.
+the undertaking’s facts and
+circumstances to set an appropriate time horizon based on the context
+of the undertaking;
+(b) for a proper identification of the list of sustainability matters, as the
+undertaking needs to reflect the entire time horizon (short-/medium-
+/long-term) to determine whether the IRO may occur or not; and
+(c) for the assessment of material matters, for which the undertaking may
+consider whether the financial effects linked to a material impact may
+crystalise in a different time horizon to another impact. Also, materiality
+thresholds might be affected by the time horizon.
+FAQ 10: Should the assessment of IROs rely on quantitative information?
+179. Where possible, yes, as quantitative measures of IROs are objective evidence
+of their materiality. However, it is recognised that qualitative information is
+often valuable in informing the materiality assessment in its own right,
+including information from affected stakeholders. Qualitative information may
+provide relevant context for understanding quantitative measures.
+180. The level of comfort sought by the undertaking from quantitative information
+depends on whether there is scientifically validated data and on consensus
+reached on the given impact. For example, global reports or industry
+information on a given topic, such as negative impacts on biodiversity loss,
+could provide the quantitative information needed without the need for the
+undertaking to incur in additional research or data collection costs.
+May 2024 Page 43 of 55
+EFRAG IG 1: Materiality Assessment Implementation Guidance
+181. Quantitative information is not
+Example of severity
+always available or may result in
+additional costs. Whenever a If the undertaking concludes, based on
+qualitative analysis is sufficient for qualitative criteria, that an impact
+the undertaking to reasonably connected to the undertaking sits on the
+conclude that a matter is ‘not edge dividing what is material from what is
+material’ or ‘material’, additional non-material, it may consider quantitative
+quantitative information would information on severity (i.e., scale or scope)
+add no value to the materiality as described below to assess the materiality
+assessment. As the materiality of the impacts. For example, it may
+assessment process evolves over consider:
+time, the undertaking may
+1. the amount of water used in a partic-
+redefine the balance between ularly water-stressed area; or
+qualitative and quantitative
+2. the number of people possibly af-
+information.
+fected in a community where it has a
+182. Quantitative information would, production site.
+however, be of interest where a
+topic is in between being material and non-material based on qualitative
+information and/or where there are diverse views on it. In that case,
+quantification could corroborate the conclusion.
+183. In this context, the undertaking may adopt measures of impacts inspired by
+the indicators in the Metrics and Targets section of the topical ESRS.
+FAQ 11: Should the IRO dimensions of a sustainability matter be aggregated for the
+materiality assessment?
+184. No – even if impact and financial materiality are interrelated and the
+interconnections among the two dimensions shall be considered (see ESRS 1
+Chapter 3.3. Double materiality), a sustainability matter does not have to be
+material from both dimensions to be regarded as material for reporting
+purposes.
+185. For example, an undertaking in the extractive industry has assessed health and
+safety as a material negative impact due to the frequency and severity of work-
+related accidents in its location. However, the current financial effects are not
+considered financially material. Therefore, the impacts, risks and opportunities
+on this matter are not aggregated, and the matter is regarded as material from
+an impact materiality dimension only.
+FAQ 12: Should the materiality assessment be documented/evidenced?
+186. The ESRS do not prescribe specific documentation as this is outside its remit,
+but it is reasonable to expect a certain level of documentation to be needed
+for internal purposes.
+187. Such documentation could inform those in charge of the governance of the
+process of sustainability reporting (see ESRS 2 GOV- 2) so as to best prepare
+the ESRS 2 IRO-1 disclosures and help assurance providers to perform their
+work.
+188. The CSRD modifies the Accounting Directive with respect to the definition of
+the content of the management report in relation to sustainability information
+and its digitisation (namely Art 19a and Art 29a) and has introduced mandatory
+May 2024 Page 44 of 55
+EFRAG IG 1: Materiality Assessment Implementation Guidance
+assurance of the sustainability statement (in particular, Art 34). The
+documentation requirements and level of evidence to support the materiality
+assessment (i.e., ESRS 2 IRO-1 and 2 as well as ESRS SBM-3) are not described
+in the ESRS.
+FAQ 13: Performing the impact materiality assessment when the undertaking
+operates in different sectors
+189. The ESRS do not prescribe a specific process for the materiality assessment as
+no one process fits all undertakings, including diversified global undertakings.
+190. The parent undertaking (as defined in ESRS 1 Chapter 7.6) performs its
+materiality assessment for the consolidated group for the group’s material
+impacts, risks and opportunities (according to CSRD Art. 29a) irrespective of
+its group legal structure and of the aggregation used to prepare the
+disclosures in the consolidated sustainability statement. Refer to section 3.6.3
+of this implementation guidance to understand the conceptual framework and
+the example offered on pollution for a subsidiary.
+191. The parent undertaking may perform its materiality assessment using different
+approaches or a combination of two. These two are:
+(a) a top-down approach, with an assessment performed at the group
+level while engaging or consulting with subsidiaries, including to
+receive the necessary information; and/or
+(b) a bottom-up approach, with an assessment performed at the
+subsidiary level and consolidating the results at the group level.
+192. An undertaking may have a variety of sustainability matters from different
+subsidiaries where different levels of severity have been identified in
+performing its materiality assessment at the group level. For example, it may
+have a high severity impact from a small revenue stream and a medium
+severity impact from its main revenue stream. Therefore, in defining thresholds
+(see step C in chapter 3.3) the parent undertaking of a group operating in
+different sectors has to consider an appropriate level of consistency in
+methodologies when setting the appropriate thresholds across the entire
+group, keeping at the same time in consideration potential differences that
+exist in the exposure to impacts, risks and opportunities at the level of single
+subsidiaries where appropriate. For example, in a conglomerate that operates
+in different sectors, the materiality assessment conducted for each sector will
+have its own peculiarities. (refer to Chapter 3.7 Deep dive into impact
+materiality - Setting thresholds). Furthermore, the undertaking cannot simply
+aggregate different impacts across the various subsidiaries or sectors it
+operates in and apply a group threshold across all of them, as it risks obscuring
+the information. In some cases, the negative impacts cannot be aggregated,
+such as when they relate to high severity impacts like the violation of human
+rights, which are to be considered on an individual basis, i.e., at a subsidiary
+or country level (refer to ESRS 1 paragraph 103 and levels of disaggregation).
+193. The undertaking should consider IROs or matters commonly associated with
+its sectors, geographic locations or a specific subsidiary (see Step A in Chapter
+3.1). Here, the sector standards will help in identifying the impacts, risks and
+opportunities and in assessing them.
+May 2024 Page 45 of 55
+EFRAG IG 1: Materiality Assessment Implementation Guidance
+FAQ 14: Will the implementation of sector-specific standards create any new
+subtopics or sub-subtopics to be considered in the materiality assessment?
+194. Yes, it may. The sector-specific standards will add another layer to the sector-
+agnostic standards and complement them in depth for a given subtopic/sub-
+subtopic or may increase the number of subtopics/sub-subtopics.
+195. Both sets of standards will have a consistent architecture. The sector-specific
+standards will provide a list and description of sustainability matters common
+to the sector and build on ESRS 1 paragraph AR 16.
+196. As a temporary measure before the adoption of the sector-specific standards,
+the undertaking may use the transitional provision related to entity-specific
+disclosures (see ESRS 1 chapter 10.1). This allows undertakings to carry
+forward their previous sustainability disclosures or to design additional
+disclosures using best practices or other frameworks (e.g., IFRS industry-based
+guidance or GRI’s) for entity-specific disclosure (per ESRS 1 paragraph 11) as
+long as this information meets the qualitative characteristics of information laid
+out in ESRS 1 Appendix B. The transitional provision is applicable for the first
+three sustainability statements of the undertaking.
+5.4 FAQs on stakeholder engagement - Impact materiality
+FAQ 15: Do the ESRS mandate to actively engage in dialogue with affected
+stakeholders for the materiality assessment process?
+197. The ESRS require disclosure on the materiality assessment and its outcomes
+but do not mandate specific behaviour on stakeholder engagement or the due
+diligence process.
+198. However, ESRS 1 paragraph 45 states that the impact materiality assessment
+is informed by the undertaking’s due diligence process. In addition, ESRS 1
+paragraph 24 points to affected stakeholders’ engagement as central to the
+materiality assessment. Engagement with affected stakeholders is a tool that
+supports the undertaking’s business processes (for example, due diligence) as
+well as the management of sustainability matters. The undertaking, when
+preparing its sustainability statement, can leverage its engagement with
+affected stakeholders per its due diligence process, if applicable.
+199. Stakeholder engagement informs the identification and assessment of
+material impacts. This can help the assessment of severity, likelihood and time
+horizons and also ensure the completeness of the material impacts identified.
+Refer to Chapter 3.5 Role and approach to stakeholders in the materiality
+assessment.
+FAQ 16: Can the undertaking prioritise some categories of stakeholders for the
+materiality assessment process? How?
+200. Engagement with affected stakeholders helps the undertaking to understand
+which sustainability matters are sources of concern for the respective
+stakeholders and how they are affected. This information may be useful input
+for the assessment. For further information, see Chapter 3.5 Role and
+approach to stakeholders in the materiality assessment.
+May 2024 Page 46 of 55
+EFRAG IG 1: Materiality Assessment Implementation Guidance
+201. ESRS 1 paragraph 22(a) states: ‘affected stakeholders: the individuals or
+groups whose interests are affected or could be affected – positively or
+negatively – by the undertaking’s activities and its direct and indirect business
+relationships across its value chain’. The concept of ‘key stakeholders’ (or
+‘relevant stakeholders’, per international instruments) rests on the idea that not
+all stakeholders will be equally affected by the undertaking’s activities.
+Furthermore, the undertaking is to identify which stakeholders’ views are to be
+taken into account in connection with a specific activity. It also builds upon the
+idea that the degree of impact on stakeholders may inform the degree of
+engagement specifically for prioritisation.
+202. The undertaking may consider engaging stakeholders or their representatives
+to determine whether they are affected or not if not obvious.
+203. The undertaking may not engage with all the stakeholders for all sustainability
+matters. Engagement with stakeholders who are not affected by the specific
+sustainability matter is not meaningful. Therefore, the undertaking may
+engage with different groups of affected stakeholders for different matters.
+FAQ 17: What is the role of silent stakeholders and how should they be considered?
+204. There may be stakeholders who cannot voice their concerns, and in the ESRS
+nature has been identified as a silent stakeholder (ESRS 1 paragraph AR 7).
+Nature is an essential part of the sustainability context of the undertaking and
+the value chain it operates in. Nature, unlike other stakeholders, cannot voice
+its concerns on its own, neither verbally nor in writing. Data from scientific
+sources (e.g., scientific studies on the planetary boundaries or scientifically
+validated data) may give nature a voice as it may explain the state of nature,
+such as the health of bird populations, the state of water bodies or the
+condition of a forest.
+205. Channels monitoring the concerns of silent stakeholders can provide valuable
+input to the materiality assessment for impacts, dependencies and, where
+applicable, the subsequent risks and opportunities for the undertaking.
+206. Examples on considering silent stakeholders could include:
+(a) identifying the silent stakeholders likely to be impacted by the
+undertaking’s activities and the actual and associated potential impacts
+of the undertaking;
+(b) research to understand the potential or actual impacts on these
+stakeholders, such as reviews of scientific studies, articles and
+environmental impact assessments. Such research can be at a global
+level (e.g., planetary boundaries for biodiversity) or at a local level (e.g.,
+via its impact on stressed water bodies or by identifying the type of
+species impacted);
+(c) using proxies such as organisations that are legitimate representatives
+of, or that are considered by the undertaking to appropriately
+represent, the silent stakeholder. For considerations about nature, the
+undertaking may consider organisations that assess the current and
+future state of the ecosystem, water resources or climate; and
+May 2024 Page 47 of 55
+EFRAG IG 1: Materiality Assessment Implementation Guidance
+(d) testing the results of the estimated potential impacts based on experts’
+consultation, collaborative partnership with NGOs and other
+stakeholders.
+5.5 FAQs on aggregation/disaggregation
+FAQ 18: Does the undertaking use the same criteria when defining the level of
+disaggregation across all IROs?
+207. No – the disaggregation for materiality purposes of the material impacts
+should fairly reflect the severity of actual impacts or the severity and likelihood
+of potential impacts and it may be different across the various material
+impacts. For risks and opportunities, it should reflect the magnitude of current
+financial effects, while for anticipated financial effects it should reflect the
+magnitude and likelihood. The principle is to avoid obscuring the specificity
+and context necessary to interpret the information and to avoid the
+aggregation of material items of a different nature. This is set out in ESRS 1
+paragraph 54: ‘When needed for a proper understanding of its material
+impacts, risks and opportunities, the undertaking shall disaggregate the
+reported information:
+(a) by country, when there are significant variations of material impacts,
+risks and opportunities across countries and when presenting the
+information at a higher level of aggregation (for instance, region)
+would obscure material information about impacts, risks or
+opportunities; or
+(b) by significant site or by significant asset, when material impacts, risks
+and opportunities are highly dependent on a specific location or asset
+rather than presenting the information at a higher level of aggregation
+(for instance, countries).’
+208. ESRS 1 paragraph 55 clarifies that in defining the approach to disaggregation
+of reported information the undertaking shall, for consistency reasons,
+consider the approach adopted for materiality assessment.
+May 2024 Page 48 of 55
+EFRAG IG 1: Materiality Assessment Implementation Guidance
+209. Where the severity of impacts
+Examples on disaggregation criteria
+could be obscured by aggregating data,
+• When assessing the materiality of impacts re- the undertaking should disaggregate per
+lating to water usage, a criterion to be consid- country, site, asset or subsidiary to meet
+ered for disaggregation could be based on
+the qualitative characteristics of
+the vulnerability to water-stress by geograph-
+information, namely relevance and faithful
+ical area or, if appropriate, site.
+representation. In this way, the
+• Child labour impacts whose severity can de- undertaking would provide an accurate
+pend on country specific laws and regula- and truthful representation when
+tions and labour market practices; therefore,
+disclosing the severity of the related
+country level disaggregation could be the cri-
+impact. Disaggregation of data should
+terion.
+focus on the specific facts and
+• An undertaking in the garment manufactur- circumstances of the reporting
+ing industry has subsidiaries in different undertaking. Hence, the undertaking
+countries, and adequate wages and collec- could adopt a different level of
+tive bargaining have not been considered
+disaggregation for two separate
+material impacts overall. However, there is
+sustainability matters within the same topic
+one country with heightened risk of negative
+(e.g., own workforce: adequate wages and
+impacts due to current working conditions
+training and development), and this would
+that are well documented in UN human rights
+be appropriate depending on the
+reports. The undertaking has subsidiaries
+with 15% of the group’s workforce, who does circumstances.
+pay below the adequate wages for the coun-
+210. For risks and opportunities, the
+try, and collective bargaining agreements do
+focus is whether aggregation could
+not take place. The materiality assessment
+obscure information that could influence
+should consider the disaggregation at a
+the investor’s decisions to provide funds to
+country level to identify material negative im-
+pacts. Similar disaggregation might be con- the undertaking.
+sidered for an undertaking that has produc-
+211. As described in ESRS 1
+tion sites in different countries or regions for
+paragraph 55, the disclosures in the
+impacts related to pollution or doing busi-
+sustainability statement shall consider the
+ness in countries where higher risks of cor-
+level of disaggregation adopted in the
+ruption and bribery are observed compared
+to other countries. corresponding materiality assessment.
+FAQ 19: Is an IFRS or local GAAP segment an appropriate level of disaggregation for
+the materiality assessment?
+212. In general, no – the goals of the disaggregation objectives for financial
+reporting and sustainability reporting are different (also refer to FAQ 5: Is the
+material information for financial statements the same as for the sustainability
+statement? and FAQ 6: Is financial materiality for sustainability reporting
+limited to effects presented in financial statements?). In general, the sector
+classification of the undertaking’s activities is more appropriate as a starting
+point (refer to ESRS 2 IRO-1 paragraph 53(b)(i)).
+213. Segment reporting under IFRS is based on a ‘management approach’ (as
+explained in the Basis for Conclusions for ESRS 2). Local GAAP may be based
+on the same or a different approach for segment reporting. The core principle
+of IFRS 8 Segment Reporting is to require disclosures to enable users of the
+financial statements to evaluate the nature and financial effects of the business
+activities of the undertaking as well as the economic environments in which it
+operates (IFRS 8 paragraph 1). The level of disaggregation or reportable
+May 2024 Page 49 of 55
+EFRAG IG 1: Materiality Assessment Implementation Guidance
+segments in IFRS 8 are consistently applied in financial reporting without
+variation in the reported items.
+214. The disaggregation for financial
+Example
+reporting segments is designed for a different
+A multinational group that prepares purpose and, in general, it is not expected to be
+consolidated accounts bases its the starting point to reflect material IROs across
+segments of financial reporting on the components of the undertaking’s
+products and services offered operations. The appropriate disaggregation
+worldwide. unit for IROs in the sustainability statement may
+When performing its sustainability be a country, site or significant asset when
+materiality assessment on water, the material impacts, risks and opportunities arise
+undertaking determines that the material in a specific country, location or asset,
+negative impacts are correlated with the respectively. In addition, the level of
+levels of water stress in the geographical disaggregation should reflect the nature of the
+areas where the factories are located. different subtopics and, as such, should be
+Therefore, it determines that the adjusted from one subtopic to another when
+disaggregation is to be performed at the this is necessary to properly portray the material
+geographical level and concludes that IROs (see ESRS 1 paragraph 54). For more on
+the financial reporting segments are not this, refer to FAQ 18: Does the undertaking use
+appropriate. the same criteria when defining the level of
+disaggregation across all IROs?
+215. Therefore, a disaggregation following the segments used for financial
+reporting may not be granular enough or relevant enough for sustainability
+reporting purposes12.
+5.6 FAQs on reporting
+FAQ 20: Do the ESRS require disclosure of severity for material impacts as well as
+likelihood and magnitude for material risks and opportunities?
+216. The ESRS do not require disclosure of the detailed outcome per each criterion;
+however, an appropriate explanation of criteria and thresholds used shall be
+included. The undertaking shall report on the processes to identify and assess
+material IROs, as required by ESRS 2 IRO-1, and on the outcome, as required
+by ESRS 2 SBM-3 and IRO-2. ESRS 2 SBM-3 paragraph 48(g) requires
+disclosure on changes to the material IROs since the prior year. For instance,
+on impact materiality the scale and irremediable character of a particular
+negative impact could have been assessed as high in the current period versus
+medium in the prior year and thus become material and in need of disclosure.
+217. As explained in FAQ 12 Should the materiality assessment be
+documented/evidenced? the ESRS do not prescribe specific documentation;
+however, it is reasonable to expect that a certain level of documentation will
+12 ESRS 1 SBM-1 requires the identification of the ESRS sectors in which the undertaking operates (ESRS 2
+paragraph (b) and (c)) and requires disclosure of the revenues by ESRS sectors. According to the work
+programme approved by the EFRAG SRB on 11 October 2023, EFRAG will consult in the last quarter of 2024 on a
+proposed ESRS sector classification. However, the undertaking has to determine the necessary level of
+disaggregation of its disclosure following Chapter 3.7 of ESRS 1 and cannot assume that the ESRS sector
+disaggregation is appropriate for all the disclosures.
+May 2024 Page 50 of 55
+EFRAG IG 1: Materiality Assessment Implementation Guidance
+be produced. This could be used for internal purposes and for the assurance
+providers of the undertaking’s sustainability statement.
+218. Such documentation can also include a description of severity (including scale,
+scope and irremediable character) and likelihood of material impacts as well
+as likelihood of occurrence and potential magnitude of material risks and
+opportunities. This documentation can help the undertaking’s management
+and the assurance provider (i.e., as audit evidence) to better understand the
+materiality assessment process and the related results.
+FAQ 21: If a matter is material from the financial (or impact) perspective only, shall
+disclosures cover all the requirements or only information about the relevant
+perspective?
+219. The determination of information to be reported for metrics is informed by the
+assessment of the materiality of information (refer to Chapter 2.3 Criteria for
+the determination of the materiality of information). Hence, if a matter is
+material due to its impacts and there are no material risks and opportunities
+arising from the same matter, information disclosed on metrics shall be limited
+to metrics that are relevant under the impact materiality perspective, and the
+datapoints related to the risks and opportunities or financial effects are to be
+omitted13 (ESRS 1 paragraphs 31 and 34).
+220. When a matter is assessed to be material from a financial (or impact)
+perspective only, the information about policies, actions and targets shall
+cover all the datapoints in the minimum disclosure requirements14 and the
+topical standards (ESRS 1 paragraph 33). The level of detail of such information
+will reflect the general approach to information materiality (ESRS 1 paragraph
+31) The undertaking will describe the content of policies, actions and targets
+in place connected to the sustainability matters that are material from the
+impact or financial perspectives or both, according to the materiality
+assessment.
+221. It is also important to note that disclosure that informs about actual or potential
+impacts is of interest for investors when a matter is financially material.
+Similarly, financial information is also relevant for stakeholders other than
+investors when a matter is material from the impact perspective as it supports
+accountability.
+FAQ 22: Is a multi-sector group required to include metrics for the entire group or
+only data related to the material IROs?
+222. Once metrics have been assessed for materiality and determined to be
+material, the data for the entire group shall be included in the metrics. This is
+not the case where specified differently in sector-agnostic topical or sector-
+specific standards (refer to the example below).
+13 A datapoint of a Disclosure Requirement in metrics may be omitted when the corresponding information is
+assessed to be not material provided that the omitted information is not needed to meet the objective of the
+Disclosure Requirement (ESRS 1 paragraph 34).
+14 See ESRS 2 Chapter 4.2 Minimum Disclosure Requirements on policies and actions and Minimum Disclosure
+Requirements on targets in Chapter 5 Metrics and targets.
+May 2024 Page 51 of 55
+EFRAG IG 1: Materiality Assessment Implementation Guidance
+223. ESRS 1 stipulates that the
+Example on ESRS E3
+sustainability statement shall be for
+Assume that a group is active in sector A
+the same reporting undertaking as
+and B with two subsidiaries, A and B,
+the financial statements (ESRS 1
+respectively. The group has a material IRO
+paragraph 62). If the undertaking
+in relation to water consumption. The IRO is
+prepares consolidated financial
+only material for sector A, i.e., subsidiary A,
+statements, the reporting entity is the
+however given the materiality of such IRO,
+entire group (i.e., the parent and its
+the matter is considered material for the
+subsidiaries). For the assessment of
+group in its entirety. ESRS E3-4 requires
+material IROs, ESRS 1 clarifies that it is
+that:
+performed ‘for the entire
+consolidated group, regardless of the a. the total water consumption in m3 be
+group’s legal structure’ (ESRS 1 disclosed for own operations – hence,
+paragraph 102). The group’s legal for the entire group (ESRS E3 paragraph
+structure is also irrelevant for 28(a); also, per paragraph 28(c) the to-
+reporting on metrics, as the reporting tal, as well as per paragraph 28(d)); and
+should be the same whether an b. the total water consumption in areas at
+undertaking is conducting its water risk (ESRS E3 paragraph 28(b)) be
+business activities through multiple disclosed depending on whether the
+legal entities or does the same areas of water risks relate only to sector
+business activities using only one A or subsidiary A.
+legal entity. According to ESRS E3-1, the undertaking
+shall describe the policies it has adopted
+224. ESRS 1 paragraph 57 also stipulates
+that address the management of its IROs
+that, ‘When a topical or sector-
+related to water and marine resources. As
+specific ESRS requires that a specific
+water consumption is only material for
+level of disaggregation is adopted in
+sector A, subsidiary A may have
+preparing a specific item of
+appropriate policies, and the disclosure
+information, the requirements in the
+would cover these as relevant. Similarly, it
+topical or sector-specific ESRS shall
+would be appropriate to only disclose on
+prevail.’ Therefore, undertakings can
+actions and targets for sector A if actions
+disaggregate the metric information
+are taken and targets are set at that level.
+further than providing it at a group
+level only when this is required by a
+topical standard or deemed relevant
+at the entity-specific level.
+225. Disclosure regarding IRO management related to policies, actions and targets
+will reflect the extent of the activities within the group that are covered by
+those policies, actions and targets. As such, they may only cover the ‘problem
+area’ of the material IRO when appropriate. Likewise, for entity-specific metrics
+the metric could be focussed on the parts of the group where such material
+IROs arise.
+226. Finally, the ESRS stipulate for the level of disaggregation that, ‘when needed
+for a proper understanding of its material IROs, the undertaking shall
+disaggregate the reported information …’ (ESRS 1 paragraph 54).
+227. In addition to disclosing information about matters that are material for the
+group in its entirety, there may be situations where a matter is assessed to be
+material for some subsidiaries in isolation but, despite the aggregation of data
+of such subsidiaries, the matter is assessed as not material for the group in its
+entirety. In this case following paragraph 103 of ESRS 1, the undertaking would
+May 2024 Page 52 of 55
+EFRAG IG 1: Materiality Assessment Implementation Guidance
+provide information about this material matter, in order to provide an
+adequate understanding of the specific impacts, risks and opportunities of the
+subsidiaries concerned. In this way, despite the absence of a reporting at
+subsidiary level due to the application of the subsidiary exemption, an
+appropriate level of transparency is preserved where the reporting
+undertaking identifies significant differences between the IROs of the group
+and the IROs of one or more of its subsidiary undertakings (refer to CSRD article
+29 a, 4). This could include, next to other relevant narrative information,
+metrics covering the amounts of those subsidiaries only. In this case contextual
+information would be helpful, to support the understanding that despite being
+material for one or more subsidiaries, the matter is not material for the group
+in its entirety and the undertaking, as well as to disclose which entities are
+included in the disclosures, including in the metrics.
+FAQ 23: Are remediation and mitigation actions considered in the materiality
+assessment of environmental impacts?
+228. As a general principle, environmental impacts are considered before any
+mitigating actions in the materiality assessment. This is linked to the objective
+of providing information on the management of impacts by the undertaking
+over time, and it is mirrored in the ESRS architecture as follows for the potential
+impacts.
+(a) The description of the impacts before taking into account remediation,
+prevention or mitigation actions is the basis for the materiality
+assessment process and its related disclosures (namely, ESRS 2 IRO-1
+and SBM-3).
+(b) The management of such impacts – including remediation, prevention
+and mitigation actions – is part of the policies, actions and targets (i.e.,
+MDR-P, MDR-A and MDR-T).
+(c) The users of the sustainability statement will obtain an understanding
+of the unmitigated impacts connected to the undertaking and how the
+undertaking is addressing those – that is, an understanding of the
+impacts after remediation, mitigation and prevention.
+229. Differentiating between actual impacts (i.e., those that have happened or are
+ongoing in the reporting period) and potential impacts (i.e., those that have a
+likelihood of occurrence in the short-, medium- or long-term) is relevant, and
+the illustrations below develop these concepts.
+Actual impacts
+230. The undertaking is expected to assess the actual impacts that have taken place
+in the current or previous reporting period(s). The severity of the impact,
+assessed for the current reporting period, depends on successful mitigation
+that has taken place before or during the event. This is further illustrated as
+follows.
+(a) For an accident occurred in the current year, such as an oil spill or the
+failure of an emission treatment facility and subsequent pollution-
+related impacts, the undertaking is expected to consider these events
+in its materiality assessment when identifying actual impacts. Any
+remediation or rehabilitation activities put in place after the event but
+May 2024 Page 53 of 55
+EFRAG IG 1: Materiality Assessment Implementation Guidance
+in the same period are not taken into account in the materiality
+assessment. Likewise, mitigation actions that the undertaking may carry
+out in the future are not taken into account in the materiality
+assessment. On the contrary, mitigation activities, such as pollution
+containment or immediate stopping of operations that were put in
+place before and during the incident, are considered when assessing
+the severity of the actual impact as they either worked or did not work
+to mitigate the impact or its severity.
+(b) For material negative impacts that occurred in the past, these are
+expected to be considered in the materiality assessment as well as
+whether they are still considered material in the current reporting
+period. In the example of the oil spill, the aquatic and coastal
+ecosystems may be materially negatively affected by the oil pollution
+for many years and remain in the materiality assessment for a number
+of years.
+Potential impacts
+231. The undertaking is expected to assess its potential impacts and disclose those
+that are material. These potential impacts relate to both the existing
+operations and the planned operations; an example for planned operations is
+the construction of a new factory or a new production line in an existing factory.
+232. The example below illustrates the preceding paragraphs.
+(a) If a chemical producer plans to introduce a new production process
+using a hazardous substance without any available wastewater
+treatment technique, at the time of preparing the assessment it cannot
+assume in its materiality assessment that such a technique will be
+available in the future and neglect the potential impact.
+233. Whilst similar concepts and questions apply to social impacts, guidance
+covering social impacts may be issued in the future to better reflect specific
+aspects of those matters.
+FAQ 24: Shall the undertaking also report on material matters where there are no
+actions?
+234. Yes – the materiality assessment is
+Example
+performed by the undertaking to
+identify the material IROs to be A hotel has identified the lack of health
+reported. and safety training as a material impact.
+However, it has no formal training
+235. ESRS 1 paragraph 33 establishes that,
+policy or actions on this. Health and
+for the material matter to be
+safety training is a material matter which
+identified, the undertaking shall
+is disclosed, along with the fact that
+disclose its policies, actions and
+there are no such policies or actions, at
+targets to manage IROs related to the
+the end of the reporting year. The
+matter. It also specifies that, if the
+undertaking may disclose if it is working
+undertaking has not implemented a
+on drafting and implementing such
+policy, action or target, this fact is to
+policies and actions.
+be disclosed. The requirements of
+information to be disclosed for policies, actions and targets are detailed in
+ESRS 2 Chapter 4.2 and Chapter 5.
+May 2024 Page 54 of 55
+EFRAG IG 1: Materiality Assessment Implementation Guidance
+5.7 FAQ on Art. 8 EU Taxonomy
+FAQ 25: What is the relationship between taxonomy eligible activities and
+materiality?
+236. The EU Taxonomy Regulation and its Delegated Acts define criteria for a
+number of economic activities (eligible activities) that need to be fulfilled in
+order to substantially contribute to one of six environmental objectives. In
+addition, these activities must do no significant harm (DNSH) to the other
+environmental objectives and fulfil minimum social safeguards to be
+considered taxonomy aligned. The environmental objectives of the Taxonomy
+Regulation are fully reflected in the environmental topics covered by the ESRS.
+If an undertaking engages in activities that are eligible for the EU Taxonomy,
+this indicates that it impacts the environmental objective for which the
+Taxonomy defines substantial contribution (SC). To this extent, the following
+information can be an input to the materiality assessment when identifying
+IROs (i.e., refer to Chapter 3.2 Step B of this Guidance):
+(a) whether the undertaking has in place activities that do or do not comply
+with the criteria for substantial contribution, including Capex plans; and
+(b) whether these activities comply or not with one or more of the DNSH
+criteria.
+237. Despite the relationship between the Art. 8 Taxonomy and ESRS, taxonomy-
+eligibility is no precedent for the ESRS materiality assessment. Reporting
+taxonomy-eligible activities by an undertaking neither oblige companies to
+assess those as material nor to explain that they are not. The Art. 8 Taxonomy
+is a process that can inform the materiality assessment; other processes that
+can also inform it are due diligence and the enterprise risk management.
+May 2024 Page 55 of 55

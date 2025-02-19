@@ -1,0 +1,279 @@
+Disclaimer
+This Compilation of Explanations by EFRAG provides non-authoritative guidance and
+accompanies the European Sustainability Reporting Standards (ESRS), as stipulated in Article
+19a and 29a of Directive 2013/34/EU (the Accounting Directive). This means that if anything in
+this document appears to contradict any requirement or explanation in ESRS, ESRS take
+precedence. This Compilation of Explanations is issued following EFRAG’s due process for such
+non-authoritative documents and under the sole responsibility of EFRAG.
+EFRAG assumes no responsibility or liability whatsoever for the content or any consequences
+or damages directly, indirectly or incidentally arising from following the advice or guidance
+contained in this document. Users of this document are advised to exercise their own judgment
+in applying ESRS. Information contained in this document should not be substituted for the
+services of an appropriately qualified professional.
+This Compilation of Explanations has been developed for use by large listed and unlisted
+companies that are subject to ESRS. It is therefore not intended for use by non-listed small- and
+medium-sized enterprises (SMEs), which may use the upcoming voluntary standard for SMEs.
+This Compilation of Explanations relates to the sector-agnostic ESRS as adopted by the
+European Commission on 31 July 2023. Sector-specific standards may add sector specifications.
+The content of each Explanation has been drafted to provide an answer to a specific technical
+question and cannot be directly extended by analogy to a different fact pattern.
+About EFRAG
+EFRAG’s mission is to serve the European public interest in both financial and sustainability
+reporting by developing and promoting European views in the field of corporate reporting.
+EFRAG builds on and contributes to progress in corporate reporting. In its sustainability
+reporting activities, EFRAG provides technical advice to the European Commission in the form
+of draft European Sustainability Reporting Standards (ESRS) elaborated under a robust due
+process and supports the effective implementation of ESRS. EFRAG seeks input from all
+stakeholders and obtains evidence about specific European circumstances throughout the
+standard-setting process. Its legitimacy is built on excellence, transparency, governance, due
+process, public accountability and thought leadership. This enables EFRAG to speak
+convincingly, clearly, and consistently and be recognised as the European voice in corporate
+reporting and a contributor to global progress in corporate reporting.
+EFRAG is funded by the European Union through the Single Market Programme in which the
+EEA-EFTA countries (Norway, Iceland and Liechtenstein) as well as Kosovo participate. Any views
+and opinions expressed are, however, those of the author(s) only and do not necessarily reflect
+those of the European Union, the European Commission or of countries that participate in the
+Single Market Programme. Neither the European Union, the European Commission nor
+countries participating in the Single market Programme can be held responsible for them.
+© 2024 EFRAG All rights reserved. Reproduction and use rights are strictly limited. For further
+details please contact efragsecretariat@efrag.org
+ESRS Implementation Q&A Platform – Compilation of Explanations December 2024
+Table of Contents
+Introduction .............................................................................................................. 4
+Environment .............................................................................................................. 5
+ESRS E1 Climate change ..................................................................................................... 5
+ESRS E1-4 Targets related to climate change mitigation and adaptation......................................... 5
+ESRS E4 Biodiversity and ecosystems .................................................................................. 7
+ESRS E4 Disclosure Requirement related to ESRS 2 SBM-3 – Material impacts, risks and
+opportunities and their interaction with strategy and business model .......................................... 7
+ESRS E4-5 – Impact metrics related to biodiversity and ecosystems change ................................... 8
+TTTThhhheeee QQQQuuuueeeessssttttiiiioooonnnnssss iiiinnnn tttthhhhiiiissss ddddooooccccuuuummmmeeeennnntttt aaaarrrreeee iiiiddddeeeennnnttttiiiiffffiiiieeeedddd bbbbyyyy tttthhhheeee pppprrrrooooggggrrrreeeessssssssiiiivvvveeee nnnnuuuummmmbbbbeeeerrrr ((((IIIIDDDD)))) tttthhhhaaaatttt tttthhhheeeeyyyy rrrreeeecccceeeeiiiivvvveeee
+aaaatttt tttthhhheeee bbbbeeeeggggiiiinnnnnnnniiiinnnngggg ooooffff tttthhhheeee ssssuuuubbbbmmmmiiiissssssssiiiioooonnnn ttttoooo tttthhhheeee QQQQ&&&&AAAA PPPPllllaaaattttffffoooorrrrmmmm.... TTTThhhheeee ssssyyyysssstttteeeemmmm aaaattttttttrrrriiiibbbbuuuutttteeeessss iiiiddddeeeennnnttttiiiiffffiiiiccccaaaattttiiiioooonnnn
+nnnnuuuummmmbbbbeeeerrrrssss aaaallllssssoooo ttttoooo ppppaaaarrrrttttiiiiaaaallll ssssuuuubbbbmmmmiiiissssssssiiiioooonnnnssss.... FFFFoooorrrr tttthhhhiiiissss rrrreeeeaaaassssoooonnnn,,,, tttthhhheeee IIIIDDDD nnnnuuuummmmbbbbeeeerrrr iiiissss nnnnooootttt iiiinnnnddddiiiiccccaaaattttiiiivvvveeee ooooffff hhhhoooowwww
+mmmmaaaannnnyyyy qqqquuuueeeessssttttiiiioooonnnnssss EEEEFFFFRRRRAAAAGGGG hhhhaaaassss ffffiiiinnnnaaaallllllllyyyy rrrreeeecccceeeeiiiivvvveeeedddd....
+Compilation of Explanations December 2024 Page 3 of 10
+ESRS Implementation Q&A Platform – Compilation of Explanations December 2024
+Introduction
+EFRAG has started the collection of questions related to ESRS through the EFRAG ESRS Q&A
+Platform on 24 October 2023. EFRAG releases explanations following due process on a regular
+basis. Explanations are non-authoritative in nature and answer technical questions on ESRS by
+showing where in the standards the content is provided and how to navigate it accordingly.
+Since October 2023, EFRAG has released the following batches of explanations (number of
+explanations):
+February 2024 12
+March 2024 12
+May 2024 44
+July 2024 25
+November 2024 64
+December 2024 5
+Total 162
+Explanations released from February to November have been combined and been published in
+the Compilation of Explanations – January–November 2024. The December 2024 batch contains
+explanations for five additional questions, some of which are expected to be particularly relevant
+to certain sectors. They will later be added to the next major update to the Compilation of
+Explanations expected to be released in Spring 2025. The questions are identified by a progressive
+identification number (ID), which they received when submitted to the Q&A Platform.
+Compilation of Explanations December 2024 Page 4 of 10
+ESRS Implementation Q&A Platform – Compilation of Explanations December 2024
+Environment
+ESRS E1 Climate change
+ESRS E1-4 Targets related to climate change mitigation and adaptation
+Questions ID 1033, 1076 and 1122 – Value chain phase-in for climate-
+related targets and credit institutions
+Release date
+December 2024
+Questions asked
+ID 1033: In the context of ESRS E1 paragraph 34 (a) and in a situation where a credit institution
+has set GHG emissions intensity targets, are credit institutions expected to provide
+associated absolute values in relation to their emissions intensity targets even if such
+metric is not used to steer the portfolio and due to the fact that it can be neither
+predictive or of confirmatory value due to the business model of the credit institutions?
+ID 1076: Would it be possible for a financial institution to disclose GHG emissions targets set on
+Scope 3 category 15 (i.e. ‘financed emissions’) without reporting the corresponding
+targets in absolute emissions?’
+ID 1122: Regarding absolute values for financial institutions – why not show exposure and
+exposure percentages instead of GHG emissions?’
+Key Terms
+GHG removal; GHG emission reduction; value chain phase-in; credit institutions
+ESRS reference
+ESRS E1 paragraphs 34 and AR 23; ESRS 1 paragraphs 132 and 133
+Background
+Questions ID 1033, 1076 and 1112 as listed above were merged and answered simultaneously in
+this Explanation.
+ESRS E1 paragraph 34 (a) states: ‘If the undertaking has set GHG emission reduction targets, ESRS
+2 MDR-T and the following requirements shall apply:
+(a) GHG emission reduction targets shall be disclosed in absolute value (either in tonnes
+of CO2eq or as a percentage of the emissions of a base year) and, where relevant, in
+intensity value …’.
+Compilation of Explanations December 2024 Page 5 of 10
+ESRS Implementation Q&A Platform – Compilation of Explanations December 2024
+ESRS E1 paragraph AR 23 states: ‘Under paragraph 34 (a), the undertaking may disclose GHG
+emission reduction targets in intensity value. Intensity targets are formulated as ratios of GHG
+emissions relative to a unit of physical activity or economic output. Relevant units of activity or
+output are referred to in ESRS sector-specific standards. In cases where the undertaking has only
+set a GHG intensity reduction target, it shall nevertheless disclose the associated absolute values
+for the target year and interim target year(s). This may result in a situation where an undertaking
+is required to disclose an increase of absolute GHG emissions for the target year and interim
+target year(s), for example because it anticipates organic growth of its business.’
+ESRS 1 paragraph 132 states: ‘For the first 3 years of the undertaking’s sustainability reporting
+under the ESRS, in the event that not all the necessary information regarding its upstream and
+downstream value chain is available, the undertaking shall explain the efforts made to obtain the
+necessary information about its upstream and downstream value chain, the reasons why not all
+of the necessary information could be obtained, and its plans to obtain the necessary information
+in the future.’
+ESRS 1 paragraph 133 of Chapter 10.2 Transitional provision related to Chapter 5 Value chain
+states: ‘For the first 3 years of its sustainability reporting under the ESRS, in order to take account
+of the difficulties that undertakings may encounter in gathering information from actors
+throughout their value chain and in order to limit the burden for SMEs in the value chain:
+(a) when disclosing information on policies, actions and targets in accordance with
+ESRS 2 and other ESRS, the undertaking may limit upstream and downstream value
+chain information to information available in-house, such as data already available to
+the undertaking and publicly available information; and
+(b) when disclosing metrics the undertaking is not required to include upstream and
+downstream value chain information except for datapoints derived from other EU
+legislation as listed in ESRS 2 Appendix B.’
+Answer
+Scope 3, category 15 (Investments) targets for the lending portfolio are considered value chain
+information (see also IG 2 Value Chain, FAQ 2).
+When reporting on GHG emission reduction targets, an undertaking may refer to ESRS 1 paragraph
+133 (a) of Chapter 10.2 Transitional provision related to Chapter 5 Value chain, which allows an
+undertaking to adopt transitional measures for value chain information in the first three annual
+sustainability statements.
+This provision is applicable when the undertaking has adopted intensity targets for its Scope 3,
+category 15 (Investments) emissions, but the corresponding associated absolute values for the
+target year and interim target years (ESRS E1-1 paragraph AR 23) are not available (see ESRS 1
+paragraph 132).
+When only targets in intensity value are available, in the first three years of reporting, a financial
+institution may limit the information on value chain targets to the information available in-house,
+which might include data already collected for Pillar 3 reporting.
+EFRAG may work on specific sector provisions in the future to cover this issue.
+Compilation of Explanations December 2024 Page 6 of 10
+ESRS Implementation Q&A Platform – Compilation of Explanations December 2024
+ESRS E4 Biodiversity and ecosystems
+ESRS E4 Disclosure Requirement related to ESRS 2 SBM-3 – Material
+impacts, risks and opportunities and their interaction with strategy and
+business model
+Question ID 1116 – Disclosure requirements related to ESRS E4 Disclosure
+Requirement SBM-3 if biodiversity is material for the upstream value
+chain only
+Release date
+December 2024
+Question asked
+Is the ESRS 1 Disclosure Requirement SBM-3 metric to be reported for ESRS E4 if biodiversity was
+assessed as not material for the company’s own operations but material only for the upstream
+value chain? The SBM-3 metric specifically refers to the company’s own sites, i.e. own operations.
+Additionally, no sites were found located in or near biodiversity-sensitive areas that have negative
+impacts on these areas.
+ESRS Reference
+ESRS E4 paragraph 16 (Disclosure Requirement SBM-3 Material impacts, risks and opportunities
+and their interaction with strategy and business model)
+Key terms
+Value Chain
+Background
+ESRS E4 paragraph 16: states: ‘The undertaking shall disclose:
+(a) a list of material sites in its own operations, including sites under its operational control,
+based on the results of paragraph 17 (a). The undertaking shall disclose these locations
+by:
+i. specifying the activities negatively affecting biodiversity-sensitive areas;
+ii. providing a breakdown of sites according to the impacts and dependencies identified,
+and to the ecological status of the areas (with reference to the specific ecosystem
+baseline level) where they are located; and
+iii. specifying the biodiversity-sensitive areas impacted, for users to be able to determine
+the location and the responsible competent authority with regard to the activities
+specified in paragraph 16 (a) (i);
+Compilation of Explanations December 2024 Page 7 of 10
+ESRS Implementation Q&A Platform – Compilation of Explanations December 2024
+(b) whether it has identified material negative impacts with regard to land degradation,
+desertification or soil sealing; and
+(c) whether it has operations that affect threatened species.’
+Answer
+If the topic ‘biodiversity and ecosystems’ has been identified as material for the undertaking’s
+upstream (or downstream) value chain only, the undertaking:
+(a) would not disclose the information required by ESRS E4 paragraph 16 (a), which refers to
+own operations only;
+(b) would be required to disclose information required by ESRS E4 paragraph 16 (b) in
+connection with its upstream (or downstream) value chain, as ESRS E4 paragraph 16 (b)
+applies not only to impacts connected to the undertaking’s sites in its own operations;
+and
+(c) In relation to ESRS E4 paragraph 16 (c), the undertaking would be required to disclose
+whether it has operations that affect threatened species (this refers to own operations
+and not to operations in the upstream or downstream value chain). If ESRS E4 is material
+and does not have own operations that affect threatened species, it shall state so.
+Finally, where appropriate, following ESRS 1 paragraph 11 the undertaking shall include
+information, including metrics (see IG 2 Value chain paragraph 79) related to its upstream and
+downstream value chain, on an entity-specific basis.
+ESRS E4-5 – Impact metrics related to biodiversity and ecosystems change
+Question ID 1058 – ESRS E4 metrics covering own operations or
+upstream/downstream value chain
+Release date
+December 2024
+Question asked
+ESRS E4-5 paragraph 37 mentions that ‘For datapoints specified in paragraphs 38 to 41, the
+undertaking shall consider its own operations’. Does that mean that ESRS E4 paragraph 33 where
+it says ‘The undertaking shall report metrics related to its material impacts on biodiversity and
+ecosystems’ also refers to the undertaking’s own operations only?
+ESRS Reference
+ESRS E4 paragraphs 33–41 (ESRS E4 Disclosure Requirement E4-5 – Impact metrics related to
+biodiversity and ecosystem change); ESRS 1 paragraphs 11, 30 and AR 3
+Compilation of Explanations December 2024 Page 8 of 10
+ESRS Implementation Q&A Platform – Compilation of Explanations December 2024
+Key terms
+Metrics, own operations, materiality
+Background
+ESRS E4 paragraph 33 states: ‘The undertaking shall report metrics related to its material impacts
+on biodiversity and ecosystems.’
+ESRS E4 paragraph 35 states: ‘If the undertaking identified sites located in or near biodiversity-
+sensitive areas that it is negatively affecting (see paragraph 19(a)), the undertaking shall disclose
+the number and area (in hectares) of sites owned, leased or managed in or near these protected
+areas or key biodiversity areas.’
+ESRS E4 paragraph 36 states: ‘If the undertaking has identified material impacts with regards to
+land-use change, or impacts on the extent and condition of ecosystems , it may also disclose their
+land-use based on a Life Cycle Assessment.’
+ESRS E4 paragraph 37 states: ‘For datapoints specified in paragraphs 38 to 41, the undertaking
+shall consider its own operations.’
+ESRS 1 paragraph 11 states: ‘In addition to the disclosure requirements laid down in the three
+categories of ESRS, when an undertaking concludes that an impact, risk or opportunity is not
+covered or not covered with sufficient granularity by an ESRS but is material due to its specific
+facts and circumstances, it shall provide additional entity-specific disclosures to enable users to
+understand the undertaking’s sustainability-related impacts, risks or opportunities. Application
+requirements AR 1 to AR 5 provide further guidance regarding entity-specific disclosures.’
+ESRS 1 paragraph 133 states: ‘For the first 3 years of its sustainability reporting under the ESRS, in
+order to take account of the difficulties that undertakings may encounter in gathering information
+from actors throughout their value chain and in order to limit the burden for SMEs in the value
+chain ...
+(b) when disclosing metrics, the undertaking is not required to include upstream and
+downstream value chain information, except for datapoints derived from other EU
+legislation, as listed in ESRS 2 Appendix B.’
+ESRS 1 paragraph AR 3 states: ‘When determining the usefulness of metrics for inclusion in its
+entity-specific disclosures, the undertaking shall consider whether:
+(a) its chosen performance metrics provide insight into:
+i. how effective its practices are in reducing negative outcomes and/or increasing
+positive outcomes for people and the environment (for impacts); and/or
+ii. the likelihood that its practices result in financial effects on the undertaking (for risks
+and opportunities );
+(b) the measured outcomes are sufficiently reliable, meaning that they do not involve an
+excessive number of assumptions and unknowns that would render the metrics too
+arbitrary to provide a faithful representation; and
+(c) it has provided sufficient contextual information to interpret performance metrics
+appropriately, and whether variations in such contextual information may impact the
+comparability of the metrics over time.’
+Compilation of Explanations December 2024 Page 9 of 10
+ESRS Implementation Q&A Platform – Compilation of Explanations December 2024
+Answer
+IG 2 Value chain specifies in its ‘VC coverage map of ESRS Set 1’ on page 44 that E4-5 ‘only reflects
+own operations, as no coverage of the value chain is required.’ For clarity, it is to be noted that:
+(a) ESRS E4 paragraph 37 specifies, in relation to the Disclosure Requirements in paragraphs
+38 to 41, that undertakings are to consider only own operations;
+(b) ESRS E4 paragraph 35 specifies metrics focusing on sites owned, leased or managed by
+the undertaking; and
+(c) ESRS E4 paragraph 36 is a voluntary disclosure on land use based on a life cycle
+assessment, which inherently considers the undertaking’s value chain, as it involves
+assessing the impact of products or services on land use across all stages, from raw
+material sourcing to production and disposal.
+In addition, if the undertaking identified material impacts, risks or opportunities in the value
+chain, it shall determine whether and what additional entity-specific disclosures it needs to
+disclose in line with ESRS 1 paragraphs 11 and 30 (b). See in particular ESRS 1 paragraph AR 3 on
+how to determine the usefulness of metrics for inclusion in entity-specific disclosures. It is to be
+noted that transitional provisions apply to the disclosure of value chain information (see ESRS 1
+paragraph 133 (b)).
+Compilation of Explanations December 2024 Page 10 of 10

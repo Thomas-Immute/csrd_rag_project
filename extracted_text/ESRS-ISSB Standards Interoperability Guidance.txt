@@ -1,0 +1,1395 @@
+ESRS–ISSB Standards
+Interoperability Guidance
+ESRS–ISSB StandaRdS IntERopERaBIlIty GuIdancE
+This document is provided as educational material. The content of this material does not override or adjust the
+requirements as set out in ESRS or ISSB Standards. In the event of apparent conflict, an entity must refer to the
+requirements in ESRS and ISSB Standards.
+Contents
+Introduction 2–3
+Section 1 4–6
+Section 2 7–13
+Section 3 14–18
+Section 4 19–31
+Annex 32–33
+Introduction
+The International Sustainability Standards Board (ISSB) and the European Commission
+services, together with EFRAG, have worked together during the development of the European
+Sustainability Reporting Standards (ESRS)1 and the IFRS Sustainability Disclosure Standards
+(ISSB Standards) to achieve a high degree of alignment of the respective standards, with a
+specific focus on climate‑related reporting. Consequently:
+• the definition of financial materiality in ESRS is aligned with the definition of materiality in
+IFRS S1 General Requirements for Disclosure of Sustainability‑related Financial Information
+(see Section 1.1 below);
+• the two sets of standards include common defined terms; and
+• there is a high degree of alignment of the climate‑related disclosures in the two sets of standards
+and, in particular, almost all the disclosures in ISSB Standards related to climate are included
+in ESRS.
+This joint interoperability guidance describes the alignment of disclosure requirements and
+information that an entity starting with each set of standards needs to know to enable compliance
+with both sets of standards, ensuring interoperability between them. Regardless of whether it
+starts with ESRS or ISSB Standards, an entity can comply with the climate requirements of both
+sets of standards by following the content of this interoperability guidance.
+Section 1 addresses interoperability at the level of general reporting requirements including
+beyond climate. Sections 2, 3 and 4 address interoperability for climate‑related disclosures from
+two perspectives:
+• an entity applying ESRS that wants (1) to meet also all climate‑related disclosure requirements
+in IFRS S2 Climate‑related Disclosures and (2) to apply requirements in IFRS S1 that are
+necessary in order to apply IFRS S2 and provide climate‑related disclosures; and
+• an entity applying ISSB Standards that wants (1) to meet also all disclosure requirements on
+climate change in ESRS E1 and (2) to apply the requirements in ESRS 1 and ESRS 2 that are
+relevant to climate disclosure.
+1 https://eur‑lex.europa.eu/legal‑content/EN/TXT/?uri=CELEX%3A32023R2772.
+2
+ESRS–ISSB StandaRdS IntERopERaBIlIty GuIdancE
+The goal of this interoperability guidance is to increase efficiency for entities that report under both
+sets of standards. The structure and purpose of the document is:
+Section 1. Comments on general reporting requirements in ESRS and ISSB Standards.
+This section explains how ESRS and ISSB Standards are interoperable with regards to materiality,
+presentation and disclosures for sustainability topics other than climate.
+Section 2. Common climate‑related disclosures. This section illustrates the high level of
+interoperability achieved in relation to climate between ESRS and the corresponding disclosure
+requirements in ISSB Standards. This section presents in a tabular form the paragraphs in ISSB
+Standards and the corresponding paragraphs in ESRS. As described, intersecting disclosure
+requirements in ESRS can be identical (common), or cover at least the disclosure requirements in
+IFRS S2, while providing also incremental disclosures.
+Section 3. ESRS to IFRS S2 (climate): information that an entity starting with ESRS needs to
+know when also applying ISSB Standards to enable compliance with both sets of standards.
+Section 4. IFRS S2 (climate) to ESRS: information that an entity starting with ISSB Standards
+needs to know when also applying ESRS to enable compliance with both sets of standards.
+This section includes in Section 4.2 the disclosures in ESRS E1 that do not have an equivalent
+requirement in IFRS S1, nor in IFRS S2 and the incremental requirements in ESRS E1 associated
+with common disclosure requirements.
+The user of this document should also consider the following aspects when using this
+interoperability guidance:
+1. this document must be read in conjunction with the relevant standards. An entity cannot
+rely on this guidance in isolation to meet the requirements in ESRS or ISSB Standards.
+2. this document includes all disclosure requirements in IFRS S2 and ESRS E1. Whether a
+specific disclosure requirement must be provided by any specific entity will be subject to
+that entity’s facts and circumstances and is subject to materiality (see Section 1).
+3. this document does not include the non‑mandatory disclosures (that is, ‘may disclose’) or
+non‑mandatory calculation guidance in ESRS or ISSB Standards. It also does not map
+paragraphs in ISSB Standards stating the objectives of the disclosure requirements.
+4. this document does not cover the general transition requirements in the respective
+set of standards, but may refer to a specific transition requirement where relevant for
+understanding a related requirement. An entity using the transition provisions in either
+set of standards needs to be aware that the specific requirements are different in
+ISSB Standards and ESRS.
+5. this document was published on 2 May 2024. Future amendments to ESRS or
+ISSB Standards may change the analysis within.
+6. this document is not a formal statement of equivalence. The latter is in the remit of
+public authorities.
+3
+ESRS–ISSB StandaRdS IntERopERaBIlIty GuIdancE
+Section 1. Comments on general requirements in ESRS and
+ISSB Standards
+This section contains information relevant for entities applying both ESRS and ISSB Standards to
+enable interoperability.
+1.1 Materiality
+If an entity has determined that information must be provided about a sustainability matter, then
+both sets of standards require the disclosure of material information about that matter. This is valid
+for climate, as well as for the other sustainability topics under IFRS S1 and under ESRS.
+The disclosures to be provided under ISSB Standards, including in relation to climate, are subject
+to materiality as defined in ISSB Standards. The disclosures to be provided under ESRS, also
+including in relation to climate, are subject to materiality as defined under ESRS, which covers
+also the impact materiality lens. An entity reporting under ESRS or ISSB Standards that also
+wants to meet the disclosure requirements of ISSB Standards or ESRS, will need to consider the
+relevant materiality requirements of ISSB Standards or ESRS respectively.
+Under ISSB Standards, materiality is judged on the basis of whether omitting, misstating or
+obscuring that information could reasonably be expected to influence decisions of primary users
+of general purpose financial reports, which provide information about a specific reporting entity
+(see paragraphs 18 and B13 of IFRS S1).
+Under ESRS, a sustainability matter is material when it meets the criteria defined for impact
+materiality or financial materiality, or both (see paragraph 28 of ESRS 1). On financial materiality,
+paragraph 48 of ESRS 1 states in particular that information is considered material for primary
+users of general purpose financial reports if omitting, misstating or obscuring that information could
+reasonably be expected to influence decisions that they make on the basis of the undertaking’s
+sustainability statement. The financial materiality assessment in ESRS 1 corresponds to the
+identification of information that is material for primary users of general purpose financial reports
+in making decisions relating to providing resources to the entity (see paragraph 48 of ESRS 1 and
+paragraph 18 of IFRS S1). The definition of information that is considered material for users of
+general purpose financial reports is therefore aligned between the two sets of standards.
+This alignment means that in assessing whether a particular disclosure is considered material
+in applying ISSB Standards, that assessment is aligned with the assessment of whether that
+disclosure is financially material in accordance with ESRS, and conversely. When an entity
+considers the climate disclosures set out in the standards, an entity that applies ESRS is expected
+to be able to identify the disclosures considered material in accordance with ISSB Standards
+using the outcome of its ESRS assessment of financial materiality and conversely an entity that
+applies ISSB Standards is expected to be able to identify the disclosures in relation to climate
+considered to be financially material in accordance with ESRS.
+The requirements for assessing the materiality of information and therefore for supporting the
+identification of the information to be reported on a material matter (see paragraph 31 of ESRS 1)
+is expected, in most cases, to rely on decision‑usefulness. Decision‑usefulness is the basis for the
+definition used in IFRS S1 to identify the information to be reported as material (see paragraph 18
+of IFRS S1). While in ESRS the double materiality assessment of what is decision‑useful
+considers both investors and other stakeholders (including in relation to impact materiality), in
+ISSB Standards this assessment is focused on the information needs of investors. On financial
+materiality, the two assessments are expected to provide an aligned outcome.
+4
+ESRS–ISSB StandaRdS IntERopERaBIlIty GuIdancE
+1.2 Presentation
+Paragraphs 111–117 of ESRS 1 require an entity to present sustainability information prepared
+in accordance with ESRS in a sustainability statement which is a dedicated section of the
+management report identified as such. ESRS 1 (see Appendices D, F and G of ESRS 1) provides
+additional details on how to structure and organise the sustainability statement. Subject to the use
+of certain provisions regarding the use of incorporation by reference (see paragraphs 119–122 of
+ESRS 1), the sustainability statement is therefore the unique location of sustainability disclosures
+prepared under ESRS.
+IFRS S1 (see paragraphs 60–63) sets out the requirements for an entity in relation to the location
+of disclosures. Under an approach designed to be multi‑jurisdictional, the standard explains that
+there are various possible locations in which an entity may disclose sustainability‑related financial
+information, as long as the information is included in its general purpose financial reports.
+The ESRS required location for disclosures meets the principles set by IFRS S1. However,
+on the basis of the requirements in ESRS that require a clear identification of the nature of
+reported information, an entity starting with ESRS that wishes to comply with ISSB Standards
+should pay particular attention, when preparing its human‑readable sustainability statement,
+to the requirements in IFRS S1, in particular the requirements about additional information
+(see paragraph 62 of IFRS S1). It is expected that digital reporting processes will facilitate further
+such identification.
+1.3 Disclosures for sustainability topics other than climate
+ESRS set specific disclosure requirements on nine different sustainability topics beyond climate,2
+each of them covered by a dedicated reporting standard.
+IFRS S1 requires an entity to disclose material information about the sustainability‑related risks and
+opportunities that could reasonably be expected to affect the entity’s prospects (see paragraph 17
+of IFRS S1). At the date of publication of this document, the ISSB has prescribed disclosure
+requirements for climate‑related risks and opportunities in IFRS S2. Sustainability topics other
+than climate are currently addressed in IFRS S1. IFRS S1 requires an entity to disclose material
+information to users of general purpose financial reports about its relevant sustainability‑related
+risks and opportunities in accordance with the objectives of IFRS S1. An entity is expected
+to exercise appropriate judgement as to the identification of sustainability‑related risks and
+opportunities and associated disclosures it provides those users in faithfully representing the
+sustainability‑related risk or opportunity.
+In this context, paragraph 57 of IFRS S1 states that, in the absence of an IFRS Sustainability
+Disclosure Standard that specifically applies to a sustainability matter and to the related risks
+or opportunities, an entity shall apply judgement to identify and prepare the information to be
+reported. IFRS S1 sets out the sources that can be used to identify the sustainability‑related
+matters to report on and the sources that can be used to identify suitable disclosures. In identifying
+appropriate disclosures about an entity’s sustainability‑related risks and opportunities, IFRS S1
+states that an entity may refer to and consider the applicability of ESRS (see paragraph C2(b)
+of IFRS S1) as a source of guidance, to the extent that ESRS assist the entity in meeting the
+objective of IFRS S1 and do not conflict with ISSB Standards.
+2 ESRS E2 Pollution, ESRS E3 Water and marine resources, ESRS E4 Biodiversity and ecosystems, ESRS E5
+Resource use and circular economy, ESRS S1 Own workforce, ESRS S2 Workers in the value chain, ESRS S3
+Affected communities, ESRS S4 Consumer and end‑users, and ESRS G5 Business conduct.
+5
+ESRS–ISSB StandaRdS IntERopERaBIlIty GuIdancE
+Paragraph 3 of IFRS S1 requires an entity to disclose information about all sustainability‑related
+risks and opportunities that could reasonably be expected to affect the entity’s prospects. At the
+time of publication of this document, for topics beyond climate, as ESRS are listed as a source
+of guidance in IFRS S1, an entity is able to utilise ESRS to provide the disclosures required by
+IFRS S1, if the requirements in paragraphs C1–C3 of IFRS S1 are also met.
+ESRS also make reference to the IFRS industry‑based guidance (which includes the Industry‑based
+Guidance on Implementing IFRS S2 and the SASB Standards) and enable an entity to use that
+guidance to complement its disclosures prepared applying ESRS to cover sustainability matters
+that are material for the undertaking in its sector(s) (see paragraph 131(b) of ESRS 1). Because of
+this, the entity using ISSB Standards that also wants to comply with ESRS will be able to leverage
+its disclosures prepared following the SASB industry‑specific disclosure topics and metrics that
+entities applying ISSB Standards shall refer to and consider (see paragraph 55(a) of IFRS S1),
+to the extent that they meet the corresponding requirements in ESRS. An entity that is reporting
+under ISSB Standards that also wants to comply with ESRS will also need to apply the general
+disclosure requirements in ESRS 1, ESRS 2 and ESRS for topics beyond climate change.
+1.4 Reliefs
+Both sets of standards include relief clauses. Those clauses are listed in the Annex to this
+document. In order to comply with both sets of standards, when using one or more of the reliefs,
+entities have to check carefully if the reliefs meet the requirements in both sets of standards.
+6
+ESRS–ISSB StandaRdS IntERopERaBIlIty GuIdancE
+Section 2. Common climate-related disclosures
+This section illustrates that there is a high degree of alignment of the climate‑related disclosures
+in the two sets of standards. Table 2.1 illustrates that almost all the disclosures in ISSB Standards
+related to climate are included in ESRS.
+Table 2.1 identifies corresponding disclosure requirements between IFRS S2 and ESRS that are
+aligned. The table is divided accordingly to the structure of IFRS S2. In this table, footnotes are
+used to highlight and explain the basis for alignment in specific areas of interoperability. Asterisks
+are used to indicate where a user of this document can find further information about reporting in
+compliance with both sets of standards:
+• one asterisk (*) is used to indicate that additional relevant information can be found in Section 3.
+ESRS to IFRS S2 (climate): information that an entity starting with ESRS needs to know when
+also applying ISSB Standards to enable compliance with both sets of standards; and
+• two asterisks (**) are used to indicate that additional relevant information can be found in
+Section 4. IFRS S2 (climate) to ESRS: information that an entity starting with ISSB Standards
+needs to know when also applying ESRS to enable compliance with both sets of standards.
+In addition, Section 4.2 provides further information about incremental requirements in ESRS
+for paragraphs listed in Table 2.1. Section 4.2 also includes a complete list of climate‑related
+disclosures in ESRS that do not have corresponding requirements in ISSB Standards.
+Sections 3.1 and 4.1 contain information that an entity starting with ESRS (or ISSB Standards)
+needs to know when applying ISSB Standards (or ESRS) to enable compliance with both sets of
+standards. Section 3.2 contains climate‑related disclosures in ISSB Standards that do not have
+corresponding requirements in ESRS.
+In this section disclosure requirements in IFRS S2 are mapped, along with specific relevant
+requirements in IFRS S1. Paragraphs of IFRS S2 connected to objectives of the disclosures are not
+included in this document. Paragraphs connected to reliefs are set out in the Annex to this document.
+Table 2.1 – Corresponding climate-related disclosure requirements between ISSB Standards
+and ESRS that are aligned
+ISSB Standards ESRS
+GOVERNANCE
+IFRS S2.6(a) ESRS 2.22(a)
+IFRS S2.6(a)(i) ESRS 2.22(b)
+IFRS S2.6(a)(ii) ESRS 2.23
+IFRS S2.6(a)(iii) ESRS 2.26(a)
+IFRS S2.6(a)(iv) ESRS 2.26(b)
+IFRS S2.6(a)(v) ESRS 2.22(d)
+IFRS S1.21(b) ESRS 2.29(b)–(c)
+ESRS E1.13
+ESRS 1.124
+IFRS S2.6(b) ESRS 2.22(c)
+IFRS S2.6(b)(i) ESRS 2.22(c)(i)
+IFRS S2.6(b)(ii) ESRS 2.22(c)(iii)
+7
+ESRS–ISSB StandaRdS IntERopERaBIlIty GuIdancE
+ISSB Standards ESRS
+STRATEGY
+Climate-related risks and opportunities
+IFRS S2.10(a) ESRS 2.48(a)
+IFRS S2.10(b) ESRS E1.18
+IFRS S2.10(c)3 ESRS 2.48(e)
+IFRS S2.10(d)4 ESRS 1.77(a)–(c)
+ESRS 1.78
+ESRS 1.80
+ESRS E1.AR11(b)
+ESRS 2.9(a)–(b)
+IFRS S2.12* ESRS 1.10
+ESRS 1.11
+ESRS 1.30(a)
+ESRS 1.130
+ESRS 1.131(b)
+Business model and value chain
+IFRS S2.13(a) ESRS 2.48(b)
+IFRS S2.13(b) ESRS 2.48(a)
+Strategy and decision-making
+IFRS S2.14(a)(i) ESRS 2.47
+ESRS 2.48(b)
+ESRS E1.AR8(b)
+IFRS S2.14(a)(ii)5 ESRS 2.68(b)
+ESRS E1.26
+ESRS E1.28
+ESRS E1.AR31
+IFRS S2.14(a)(iii)5 ESRS 2.68(b)
+ESRS E1.26
+ESRS E1.28
+ESRS E1.AR31
+3 Paragraph 10(c) of IFRS S2 requires disclosure of over which time horizons the risks and opportunities are expected
+to occur. Paragraph 48(e) of ESRS 2 requires disclosure of over which time horizons the anticipated financial effects
+of the risks and opportunities are expected to occur. Where these time horizons are the same, the disclosure is
+aligned. Where these time horizons are different, the entity will need to ensure that additional disclosure is provided.
+4 Paragraph 10(d) of IFRS S2 does not provide a specific definition of time horizon but requires disclosure of how an
+entity defines short term, medium term and long term and how these definitions are linked to the planning horizons
+used for strategic decision making. Paragraphs 77–78 of ESRS 1 include standardised definitions of time horizons,
+but allow deviation when the use of the pre‑defined medium‑ or long‑term time horizons results in non‑relevant
+information (see paragraph 80 of ESRS 1). Paragraph 9 of ESRS 2 mandates disclosure of an entity’s definition
+of medium‑ or long‑term time horizons if they differ from the standardised definitions and the reason for applying
+these definitions. Disclosure is aligned if default time horizons are used and the specific disclosure required by
+paragraph 10(d) of IFRS S2 is provided, or if alternative time horizons are used, if the disclosures required by both
+paragraph 10(d) of IFRS S2 and paragraph 9 of ESRS 2 are provided.
+5 Paragraph 68(b) of ESRS 2 requires disclosure of the scope of key actions (that is, coverage in terms of activities,
+upstream and/or downstream value chain, geographies and, where applicable, affected stakeholder groups).
+The disclosure of upstream and/or downstream value chain applying ESRS corresponds to the disclosure of indirect
+actions applying ISSB Standards. Disclosure is aligned if the entity applying ESRS discloses the scope of key
+actions including coverage in terms of value chain and classifies its actions as direct (corresponding to the actions
+in own operations for ESRS) or indirect (corresponding to the actions in the value chain for ESRS, as suggested in
+paragraph AR31 of ESRS E1).
+8
+ESRS–ISSB StandaRdS IntERopERaBIlIty GuIdancE
+ISSB Standards ESRS
+IFRS S2.14(a)(iv)* ESRS E1.14
+ESRS E1.16(a)–(i)
+ESRS E1.AR2–AR5
+ESRS 2.69(a)–(b)
+IFRS S2.14(a)(v) ESRS 2.68(a)–(e)
+ESRS 2.69(a)–(c)
+ESRS E1.26–27
+IFRS S2.14(b) ESRS 2.69(a)–(c)
+ESRS E1.26
+IFRS S2.14(c) ESRS E1.16(j)
+ESRS 2.68(e)
+Financial position, financial performance and cash flows
+IFRS S2.15(a) ESRS 2.48(d)
+IFRS S2.16(a) ESRS 2.48(d) ESRS Annex II, Table 2 (Terms
+defined in the ESRS): current financial effects
+IFRS S2.15(b) ESRS 2.48(e)
+IFRS S2.16(b) ESRS 2.48(d)
+IFRS S2.16(c)(i)–(ii) ESRS 2.48(e)
+IFRS S2.16(d) ESRS 2.48(e)
+IFRS S2.17** ESRS E1.AR70(a)
+ESRS E1.AR73(a)
+ESRS E1.AR74(a)
+Climate resilience
+IFRS S2.22(a) ESRS E1.19
+IFRS S2.22(a)(i) ESRS E1.19(c)
+ESRS E1.AR8
+IFRS S2.22(a)(ii) ESRS E1.19(c)
+ESRS E1.AR8(a)
+IFRS S2.22(a)(iii)(1–3) ESRSE1.19(c)
+ESRS E1.AR8(b)
+IFRS S2.22(b)(i)* ESRS E1.19(a)–(c)
+ESRS E1.AR13(d)
+IFRS S2.22(b)(i)(1) ESRS E1.AR13(a)
+IFRS S2.22(b)(i)(2)* ESRS E1.21
+ESRS E1.AR11(d)
+ESRS E1.AR12(c)
+IFRS S2.22(b)(i)(3)* ESRS E1.21
+ESRS E1.AR11(d)
+ESRS E1.AR12(c)
+9
+ESRS–ISSB StandaRdS IntERopERaBIlIty GuIdancE
+ISSB Standards ESRS
+IFRS S2.22(b)(i)(4)* ESRS E1.20(c)(i)
+ESRS E1.AR12(c)
+IFRS S2.22(b)(i)(5) ESRS E1.AR13(b)
+IFRS S2.22(b)(i)(6) ESRS E1.AR13(b)
+ESRS E1.AR7(b)
+IFRS S2.22(b)(i)(7) ESRS E1.19(a)
+ESRS E1.AR13(d)
+ESRS E1.AR6
+IFRS S2.22(b)(ii)* ESRS E1.AR13(c)–(d)
+IFRS S2.22(b)(iii) ESRS E1.19(b)
+IFRS S1.23 ESRS E1.AR15
+IFRS S1.B42(c) ESRS 1.90
+ESRS 1.123–129
+IFRS S2.23* ESRS 1.131(b)
+ESRS 1.130
+ESRS 1.11
+ESRS 1.30(a)
+RISK MANAGEMENT
+IFRS S2.25(a) ESRS E1.20
+ESRS E1.22
+ESRS E1.23
+ESRS E1.24
+IFRS S2.25(a)(i) ESRS 2.53(g)
+IFRS S2.25(a)(ii)* ESRS E1.21
+IFRS S2.25(a)(iii) ESRS 2.53(c)(ii)
+IFRS S2.25(a)(iv) ESRS 2.53(c)(iii)
+IFRS S2.25(a)(v) ESRS 2.53(e)
+ESRS 2.53(c)
+ESRS 2.65(a)
+IFRS S2.25(a)(vi) ESRS 2.53(h)
+IFRS S2.25(b)* ESRS 2.53(c)
+ESRS E1.20(c)
+ESRS E1.65(a)
+ESRS E1.19(b)–(c)
+ESRS E1.24
+IFRS S2.25(c) ESRS 2.53(e)–(f)
+IFRS S2.26 ESRS 1.QC17
+ESRS 1.115
+10
+ESRS–ISSB StandaRdS IntERopERaBIlIty GuIdancE
+ISSB Standards ESRS
+METRICS
+IFRS S2.29(a)(i)(1–2)** ESRS E1.44(a)–(b)
+IFRS S2.29(a)(i)(3)** ESRS E1.44(c)
+IFRS S2.B38–B57 ESRS 1.62–67
+ESRS 1.QC5
+ESRS 1.696
+ESRS E1.AR39(b)
+ESRS E1.AR46(g)
+IFRS S2.29(a)(ii)7 ESRS 1.62
+ESRS E1.AR39(a)
+IFRS S2.29(a)(iii)(1–3) ESRS E1.AR39(b)8
+ESRS 2.77(a)
+ESRS 2.80(i)
+IFRS S2.29(a)(iv)* ESRS E1.50
+IFRS S2.29(a)(v) ESRS E1.49
+IFRS S2.B30 ESRS E1.49(a)
+IFRS S2.B31 ESRS E1.AR45(d)
+IFRS S2.29(a)(vi)(1) ESRS E1.51
+IFRS S2.B32 ESRS E1.AR45(c)
+ESRS E1.AR46(c)
+ESRS E1.AR46(i)
+IFRS S2.29(a)(vi)(2)* ESRS 1.131(b)
+ESRS E1.AR46(b)
+IFRS S2.B19 ESRS E1.AR42
+IFRS S2.B56(a) ESRS E1.AR46(g)
+IFRS S2.B56(b)9 ESRS E1.AR46
+6 As part of the required Scope 3 measurement framework described in paragraphs B38–B57 of IFRS S2,
+paragraphs B43 and B47 of IFRS S2 require the entity to prioritise direct measurement of Scope 3 greenhouse
+gas emissions. Paragraph 69 of ESRS 1 requires an entity to first make a reasonable effort to collect value chain
+information before using estimates for value chain data. Both requirements in the standards result in a priority given
+to direct measurement.
+7 Paragraph 29(a)(ii) of IFRS S2 requires an entity to measure its greenhouse gas emissions in accordance with
+the Greenhouse Gas Protocol: A Corporate Accounting and Reporting Standard (2004, GHG Protocol), unless
+required by a jurisdictional authority or exchange on which the entity is listed to use a different method for measuring
+greenhouse gas emissions. ESRS E1 has been built incorporating in its text content from the GHG Protocol, and
+has specific requirements regarding organisational boundary (see Section 4.1(vii)). When additional guidance is
+needed, paragraph AR39(a) of ESRS E1 requires entities to consider the principles, requirements and guidance
+provided by the GHG Protocol and allows an entity to consider the requirements stipulated by ISO 14064‑1:2018
+or Commission Recommendation (EU) 2021/2279. Where ISO 14064‑1 deviates from the GHG Protocol reporting
+rules, ESRS require reporting in accordance with ESRS E1, including requirements on organisational boundary
+(see Section 4.1(vii)) and the GHG Protocol. An entity that is required to apply ESRS E1 is expected to comply with
+the guidance of the GHG Protocol in disclosing the emissions of the consolidated group under the financial control
+approach (see paragraph 50(a) of ESRS E1). See also Section 4.2 for the emissions of entities, sites and assets
+under operational control.
+8 In order to align, disclosure of approach, inputs and assumptions used to measure Scope 3 greenhouse gas
+emissions should also include information about the characteristics described in paragraph B40 of IFRS S2.
+9 Paragraph B56(b) of IFRS S2 requires disclosure of the extent to which the entity’s Scope 3 greenhouse gas
+emissions are measured using verified inputs. ESRS sustainability statements are mandatorily subject to assurance.
+An entity applying ESRS that wants to comply also with the disclosure requirements in IFRS S2, should specifically
+disclose the extent of verification provided by the performance of mandatory assurance.
+11
+ESRS–ISSB StandaRdS IntERopERaBIlIty GuIdancE
+ISSB Standards ESRS
+IFRS S2.B34 ESRS E1.AR46(f)
+IFRS S2.29(b)** ESRS E1.67(a) and (e)
+IFRS S2.29(c)** ESRS E1.66(a) and (d)
+IFRS S2.29(d)* ESRS E1.64(c)
+IFRS S2.29(e)* ESRS E1.16(c) and (e)–(f)
+ESRS E1.AR4
+IFRS S2.29(f) ESRS E1.62
+ESRS E1.63(a) and (c)
+IFRS S2.29(g)(i) ESRS 2.29(c)
+ESRS E1.13
+IFRS S2.29(g)(ii) ESRS E1.13
+IFRS S2.31 ESRS E1.AR78
+IFRS S2.B65(e) ESRS 1.123–129
+IFRS S1.21(b)
+IFRS S1.50(c) ESRS 2.77(b)
+IFRS S2.32* ESRS 1.131(b)
+TARGETS
+IFRS S2.33 ESRS 2.79
+ESRS 2.80
+ESRS E1.30
+ESRS E1.34
+IFRS S2.33(a) ESRS 2.79(a)
+IFRS S2.B6710 ESRS 2.80(b)
+IFRS S2.33(b) ESRS 2.80(a)
+ESRS E1.33
+IFRS S2.33(c) ESRS 2.80(c)
+IFRS S2.33(d) ESRS 2.80(e)
+ESRS E1.34(d)
+IFRS S2.33(e) ESRS 2.80(d)
+ESRS E1.34(c)
+ESRS E1.AR25
+IFRS S2.33(f) ESRS 2.80(e)
+IFRS S2.33(g)** ESRS 2.80(b)
+ESRS E1.34(a)
+ESRS E1.AR23
+10 If the metric has been developed by the entity, the disclosure requirements in paragraph 50 of IFRS S1 will apply.
+12
+ESRS–ISSB StandaRdS IntERopERaBIlIty GuIdancE
+ISSB Standards ESRS
+IFRS S2.33(h) ESRS 2.80(f)11
+ESRS E1.34(e)
+IFRS S2.34(a)12 ESRS E1.34(e)
+IFRS S2.34(b) ESRS 2.80(j)
+IFRS S2.34(c) ESRS 2.80(j)
+IFRS S2.34(d) ESRS 2.80(i)
+IFRS S2.35 ESRS 2.80(j)
+IFRS S2.36(a) ESRS E1.34(b)*
+ESRS E1.AR24
+IFRS S2.36(b) ESRS E1.34(b)
+ESRS E1.AR24
+IFRS S2.36(d) ESRS E1.34(e)
+IFRS S2.36(e)(i) ESRS E1.59(b)
+ESRS E1.61
+IFRS S2.36(e)(ii)** ESRS E1.59(a)–(b)
+ESRS E1.61(c)
+ESRS E1.AR62(c)
+ESRS Annex II, Table 2 (Terms defined in the
+ESRS): carbon credit
+IFRS S2.36(e)(iii) ESRS E1.AR57(b)
+ESRS E1.AR62(b)
+IFRS S2.36(e)(iv)* ESRS E1.61(c)
+IFRS S2.37* ESRS 1.131(b)
+11 Paragraph 80(f) of ESRS 2 requires disclosure of methodologies used to define targets including alignment of
+targets with international policy goals where applicable. For climate targets, international policy goals are deemed to
+be applicable in ESRS.
+12 Paragraph 34(a) of IFRS S2 requires disclosure of whether the target and methodology for setting the target has
+been validated by a third party. Paragraph BC149 of the Basis for Conclusions on IFRS S2 provides additional
+explanation on the requirement, clarifying that ‘validation’ in IFRS S2 is only in reference to whether and how
+a climate‑related target has been tested and confirmed by a third party in relation to the latest climate science.
+Paragraph 34(e) of ESRS E1 requires disclosure of whether the targets have been externally assured. Entities
+applying IFRS S2 and ESRS should ensure to provide disclosures in this area that meet the requirements of both
+sets of standards. In ESRS E1 targets are defined as supporting the objectives of the Paris Agreement. Sustainability
+statements prepared applying ESRS are mandatorily assured. For entities applying ESRS the validation of the
+methodology and its consistency with the latest climate science would be considered as part of the assurance
+process of the target itself.
+13
+ESRS–ISSB StandaRdS IntERopERaBIlIty GuIdancE
+Section 3. ESRS to IFRS S2 (climate): information that an
+entity starting with ESRS needs to know when also applying
+ISSBStandards to enable compliance with both sets of standards
+The standards have a high degree of alignment. There are a limited number of specific requirements
+when an entity starting with ESRS has to consider additional information when also complying
+with ISSB Standards.
+This section covers areas that need consideration when entities start with ESRS. It highlights
+areas in which ISSB Standards have additional information, which an entity applying ESRS will
+need to consider in order to also report in compliance with ISSB Standards.
+Section 3 should be read in conjunction with ESRS and ISSB Standards. The tables in Sections 3.1
+and 3.2 include the following content:
+• topic: title briefly explaining the area of disclosure that is addressed;
+• explanation: description of the requirements in both sets of standards and explanation of their
+interaction; and
+• points to consider: highlights areas an entity applying ESRS will need to consider in order to also
+report in compliance with ISSB Standards.
+Section 3.1 addresses points to consider by an entity starting with ESRS E1. Section 3.2 addresses
+additional requirements in IFRS S2 for which there are no corresponding disclosure requirements
+in ESRS.
+3.1 Information that an entity starting with ESRS needs to know when also applying
+ISSB Standards to enable compliance with both sets of standards
+Topic (i) Transition plan assumptions
+Explanation Paragraph 14(a)(iv) of IFRS S2 requires disclosure of any climate‑related transition
+plan the entity has, including information about key assumptions used in developing its
+transition plan, and dependencies on which the entity’s transition plan relies.
+ESRS require an entity to disclose its transition plan for climate change mitigation
+(see paragraph 14 of ESRS E1) and list detailed information that should be included (see
+paragraph 16(a)–(g) of ESRS E1) as well as refer to greenhouse gas emission reduction
+targets, actions and resources allocated to that plan. In addition, paragraph 34(e) of
+ESRS E1 and paragraph 21 of ESRS 1 also refer to critical assumptions used. In case
+the entity does not have a transition plan in place, it shall indicate whether and, if so,
+when it will adopt a transition plan (see paragraph 17 of ESRS E1).
+Points to An entity applying ESRS that also wants to comply with IFRS S2 should ensure that
+consider any key assumptions and dependencies that are not already captured through the
+disclosure required by ESRS E1 are included in the disclosure in order to meet the
+requirement in paragraph 14(a)(iv) of IFRS S2.
+14
+ESRS–ISSB StandaRdS IntERopERaBIlIty GuIdancE
+Topic (ii) Scenario analysis
+Explanation Both sets of standards address the use of scenario analysis. However, under
+certain circumstances a difference with respect to scenario analysis may occur as
+explained below.
+Preparation of scenario analysis
+In order to provide information about climate resilience, paragraph 22 of IFRS S2
+requires an entity to use climate‑related scenario analysis using an approach that is
+commensurate with the entity’s circumstances (see paragraphs B1–B18 of IFRS S2)
+to assess its climate resilience. Paragraph B18 of IFRS S2 requires that an entity at a
+minimum update its climate‑related scenario analysis in line with its strategic planning
+cycle. Paragraphs 25(a)(ii) and 25(b) of IFRS S2 require disclosure of whether and how
+the entity uses scenario analysis to inform the identification of risks and opportunities.
+ESRS E1 does not mandate the use of scenario analysis but requires disclosing how
+an entity has used climate‑related scenario analysis to inform the identification and
+assessment of physical and transition risks and opportunities over the short‑, medium‑
+and long‑term (see paragraph 21 of ESRS E1). ESRS E1 requires an undertaking to
+explain how it has used climate‑related scenario analysis (see paragraphs AR13–AR15
+of ESRS E1):
+1 – to inform the identification and assessment of physical risks and transition risks and
+opportunities over the short‑, medium‑ and long‑term (see paragraph 21 of ESRS E1);
+2 – to conduct the resilience analysis (see paragraph 19(b) of ESRS E1);
+3 – to support the assessment of anticipated financial effects (see paragraphs 65 and
+AR11–AR15 of ESRS E1); and
+4 – to detect relevant environmental‑, societal‑, technology‑, market‑ and policy‑
+related developments and determine its decarbonisation levers for setting targets
+(see paragraph AR30(c) of ESRS E1).
+Disclosure of inputs to scenario analysis
+Paragraph 22(b)(i)(2–4) of IFRS S2 requires disclosure of whether the scenario analysis
+covers a diverse range of scenarios, whether scenarios are associated with physical
+or transition risks, and whether the entity has used a scenario aligned with the latest
+international agreement on climate change.
+Paragraph AR11(d) of ESRS E1 requires disclosure of whether and how the identification
+of climate‑related hazards is informed by high emissions climate scenarios. Paragraph
+AR12(c) of ESRS E1 requires disclosure of whether and how the assessment of
+transition risks and opportunities takes into consideration at least a scenario consistent
+with the Paris Agreement. It does not prohibit the use and disclosure of other scenarios
+for transition risk assessment.
+Disclosure of key assumptions in scenario analysis
+Paragraph 22(b)(ii)(1–5) of IFRS S2 requires disclosure of key assumptions the entity
+has made in its scenario analysis and includes a list of key assumptions requiring
+disclosure.
+Paragraph AR13(c)–(d) of ESRS E1 requires disclosure of how the entity has used its
+scenario analysis to inform identification of risks and opportunities including as examples:
+key forces, drivers, inputs and constraints.
+15
+ESRS–ISSB StandaRdS IntERopERaBIlIty GuIdancE
+Topic (ii) Scenario analysis
+Points to An entity applying ESRS that wants to comply also with IFRS S2 should perform a
+consider scenario analysis commensurate with the entity’s circumstances (applying paragraphs
+B1–B18 of IFRS S2) to assess its climate resilience.
+With regards to disclosure, the entity should ensure that the specific disclosure
+requirements in paragraph 22(b)(i)(2–3) and (b)(ii)(1–5) of IFRS S2 are complied with.
+In doing so, it should be noted that ESRS require the undertaking to explain whether
+and how high‑emission scenarios are used for physical risk and a scenario aligned
+with 1.5°C degrees is used for transition risk. Using these scenarios is relevant in
+considering whether a diverse range of scenarios for transition and physical risk have
+been used. To comply with ISSB Standards, entities should explicitly state, according
+to paragraph 22(b)(i)(2–3) of IFRS S2, whether the analysis included a diverse range
+of climate‑related scenarios and whether the climate‑related scenarios used for the
+analysis are associated with climate‑related transition risks or climate‑related physical
+risks. Paragraph AR12(c) of ESRS E1 requires provision of the same information as
+paragraph 22(b)(i)(4) of IFRS S2.
+The entity needs to ensure that when it applies paragraph AR13(c)–(d) of ESRS E1 it
+includes disclosure about key assumptions made in the scenario analysis that meet the
+requirements in both sets of standards.
+See also Section 4.1(i).
+Topic (iii) Industry-based metrics
+Explanation Both sets of standards require provision of industry‑based (or sector‑specific) information
+when material.
+IFRS S2 specifically requires that an entity shall refer to and consider the Industry‑based
+Guidance on Implementing IFRS S2 for: identifying climate‑related risks and
+opportunities that could reasonably be expected to affect the entity’s prospects
+(see paragraph 12 of IFRS S2), preparing disclosures to meet disclosure requirements
+in paragraphs 13–22 of IFRS S2 (see paragraph 23 of IFRS S2), determining industry‑
+based metrics to disclose (see paragraph 32 of IFRS S2) and identifying and disclosing
+metrics used to set and monitor targets (see paragraph 37 of IFRS S2).
+As sector‑specific standards are not available in ESRS, entities shall report entity‑specific
+information regarding material matters that correspond to their specific situation, while
+also considering the transition provision in ESRS 1 (see paragraph 131(b) of ESRS 1).
+When an entity provides entity‑specific disclosures applying ESRS, it shall consider
+ISSB Standards as a possible source of additional disclosures (see paragraph AR4 of
+ESRS 1). In this case, the entity should consider IFRS sector‑specific material when
+preparing entity‑specific disclosures, in line with the above mentioned transition provision
+in ESRS 1.
+Points to So long as ESRS sector‑specific standards relevant to the entity are not in place: an
+consider entity using ESRS E1 that also wants to comply with IFRS S2 is required to refer to
+and consider the climate‑related disclosure topics and metrics of the Industry‑based
+Guidance on Implementing IFRS S2 in the instances described above, in line with the
+transition provision in paragraph 131(b) of ESRS 1. Following the issuance of ESRS
+sector‑specific standards, different interoperability considerations will apply.
+16
+ESRS–ISSB StandaRdS IntERopERaBIlIty GuIdancE
+Topic (iv) Greenhouse gas emissions: disaggregation
+Explanation Paragraph 29(a)(iv) of IFRS S2 requires that an entity disaggregate Scope 1 and
+Scope 2 greenhouse gas emissions between:
+(1) t he consolidated accounting group (for example, for an entity applying
+IFRS Accounting Standards, this group would comprise the parent and its
+consolidated subsidiaries); and
+(2) o ther investees excluded from the consolidated accounting group (for example,
+for an entity applying IFRS Accounting Standards, these investees would include
+associates, joint ventures and unconsolidated subsidiaries).
+Paragraph 50 of ESRS E1 requires the entity to disaggregate Scope 1 and Scope 2
+greenhouse gas emissions between:
+(1) the consolidated accounting group (the parent and subsidiaries); and
+(2) i nvestees such as associates, joint ventures, or unconsolidated entities that are not
+fully consolidated in the financial statements of the consolidated accounting group, as
+well as contractual arrangements that are joint arrangements not structured through
+a legal entity (that is, jointly controlled operations and assets), for which it has
+operational control.
+Points to If the entity has operations that result in ESRS E1 and IFRS S2 requiring different
+consider disaggregations of emissions, then to comply with both sets of standards, two different
+disaggregations would need to be provided. See also Section 4.1(ii) and Table 4.2.2.
+Topic (v) Climate-related opportunities
+Explanation Paragraph 29(d) of IFRS S2 requires disclosure of the amount and percentage of
+business activities aligned with climate‑related opportunities.
+Paragraph 64(c) of ESRS E1 requires disclosure of potential to benefit from material
+climate‑related opportunities, with paragraph 69 of ESRS E1 requiring the entity to
+consider cost savings and potential market size or changes to net revenue from low‑
+carbon products and services or adaptation solutions to which the entity has or may have
+access as part of this disclosure.
+Points to The ‘potential market size or expected changes to net revenue’ in ESRS E1 corresponds
+consider to the ‘amount and percentage of business activities’ in IFRS S2. An entity using
+ESRS E1 who wants to comply with IFRS S2 should ensure that disclosures
+provided applying paragraph 64(c) of ESRS E1 also comply with the requirements in
+paragraph 29(d) of IFRS S2.
+Topic (vi) Capital deployment
+Explanation Paragraph 29(e) of IFRS S2 requires disclosure of the amount of capital expenditure,
+financing or investment deployed towards climate‑related risks and opportunities.
+This disclosure is not limited to mitigation actions.
+Paragraph 16(c) and (e)–(f) of ESRS E1 includes disclosure requirements explaining
+the funding and investments supporting the implementation of an entity’s transition plan,
+and paragraph 29(c) of ESRS E1 requires disclosure of significant amounts of Capex or
+Opex to implement actions taken or planned to be taken. The disclosure requirements
+in ESRS in relation to resources to achieve climate‑related objectives and actions,
+including transition plans, correspond to the disclosure requirements in IFRS S2 about
+capital deployment.
+Points to An entity applying ESRS that also wants to comply with IFRS S2 should ensure
+consider that disclosures provided applying ESRS E1 also comply with the requirements in
+paragraph 29(e) of IFRS S2.
+17
+ESRS–ISSB StandaRdS IntERopERaBIlIty GuIdancE
+Topic (vii) Carbon credits: any other factors
+Explanation Paragraph 36(e)(iv) of IFRS S2 requires disclosure of any other factors necessary to
+understand the credibility and integrity of the carbon credits that an entity plans to use,
+and paragraph 36(e)(ii) of IFRS S2 requires disclosure of which schemes will verify or
+certify the credits.
+Annex II to ESRS ‘Terms defined in the ESRS’ defines carbon credits as instruments that
+are ‘issued and verified according to recognised quality standards.’ Furthermore, ESRS
+E1‑7 has additional requirements about the characteristics of carbon credits, including
+information about credits in relation to public statements made about carbon neutrality
+(see paragraphs 61 and AR61–AR62 of ESRS E1). In particular paragraph 61(c) of
+ESRS E1 refers to the credibility and integrity of the carbon credits used, including
+reference to recognised quality standards.
+Points to An entity applying ESRS E1 that also wants to comply with IFRS S2 should ensure that
+consider its disclosures about the characteristics of carbon credits meet the requirements in
+IFRS S2.
+See also Section 4.1(iii).
+3.2 Incremental and additional requirements in IFRS S2
+IFRS S2 requires additional climate‑related disclosures on financed emissions for which there are
+no corresponding disclosure requirements in ESRS E1.
+Topic (i) Financed emissions
+Explanation Both sets of standards include requirements related to the disclosure of the amount
+of financed emissions (that is, both require disclosure of the amount of Category 15
+Scope 3 emissions).
+Paragraphs 29(a)(vi)(2) and B58–B63 of IFRS S2 have specific additional disclosure
+requirements regarding Scope 3 Category 15 greenhouse gas emissions that apply to
+entities with the following types of business activities: asset management, commercial
+banking or insurance.
+So long as ESRS sector‑specific standards are not in place, if Scope 3 Category 15
+greenhouse gas emissions are material, the entity is expected to use the transition
+provision in paragraph 131(b) of ESRS 1 to identify relevant sector‑specific disclosures in
+relation to those emissions, using available guidance, including IFRS S2.
+Paragraph AR46 of ESRS E1 requires financial institutions to consider the GHG
+Accounting and Reporting Standard for the Financial Industry from the Partnership for
+Carbon Accounting (PCAF), specifically part A, ‘Financed Emissions.’
+Points to An entity applying ESRS E1 that has asset management, commercial banking or
+consider insurance activities and that also wants to comply with IFRS S2 should provide
+information in accordance with paragraphs 29(a)(vi)(2) and B58–B63 of IFRS S2.
+18
+ESRS–ISSB StandaRdS IntERopERaBIlIty GuIdancE
+Section 4. IFRS S2 (climate) to ESRS: information that an entity
+starting with ISSB Standards needs to know when also applying
+ESRS to enable compliance with both sets of standards
+This section covers areas that entities starting with ISSB Standards will need to consider to
+also report in compliance with ESRS. Section 4 should be read in conjunction with ESRS and
+ISSB Standards.
+Section 4.1 addresses points to consider by an entity starting with ISSB Standards. Section 4.2
+addresses incremental requirements13 in ESRS and additional14 climate‑related disclosures for
+which there are no corresponding disclosure requirements in IFRS S2 or IFRS S1.
+4.1 Choices to be made for an entity starting with ISSB Standards
+The table in Section 4.1 covers areas that need consideration when entities start with ISSB
+Standards. The table includes the following content:
+• topic: title briefly explaining the area of disclosure that is addressed;
+• explanation: description of the requirements in both standards and explanation of their
+interaction; and
+• points to consider: highlights areas an entity starting with ISSB Standards will need to consider
+in order to also report in compliance with ESRS.
+Topic (i) Scenario analysis
+Explanation Both sets of standards address the use of scenario analysis. However, under
+certain circumstances a difference with respect to scenario analysis may occur as
+explained below.
+Preparation of scenario analysis
+Paragraph 22 of IFRS S2 requires an entity to use climate‑related scenario analysis,
+using an approach that is commensurate with the entity’s circumstances (see paragraphs
+B1–B18 of IFRS S2) to assess its climate resilience. Paragraphs 25(a)(ii) and 25(b) of
+IFRS S2 require disclosure of whether and how the entity uses scenario analysis to
+inform the identification of risks and opportunities.
+ESRS E1 does not mandate the use of scenario analysis but requires disclosing how
+an entity has used climate‑related scenario analysis to inform the identification and
+assessment of physical and transition risks and opportunities over the short‑, medium‑
+and long‑term (see paragraph 21 of ESRS E1). ESRS E1 requires an undertaking to
+explain how it has used climate‑related scenario analysis (see paragraphs AR13–AR15
+of ESRS E1):
+1 – to inform the identification and assessment of physical risks and transition risks and
+opportunities over the short‑, medium‑ and long‑term (see paragraph 21 of ESRS E1);
+2 – to conduct the resilience analysis (see paragraph 19(b) of ESRS E1);
+3 – to support the assessment of anticipated financial effects (see paragraphs 65 and
+AR11–AR15 of ESRS E1); and
+4 – to detect relevant environmental‑, societal‑, technology‑, market‑ and policy‑
+related developments and determine its decarbonisation levers for setting targets
+(see paragraph AR30(c) of ESRS E1).
+continued...
+13 Incremental requirements are requirements in a paragraph in ESRS that also contains aligned requirements
+described in Section 3.
+14 Additional requirements are paragraphs in ESRS that have no corresponding paragraph or requirement in IFRS S2.
+19
+ESRS–ISSB StandaRdS IntERopERaBIlIty GuIdancE
+Topic (i) Scenario analysis
+Use of scenarios consistent with the Paris Agreement
+Paragraph 22(b)(i)(2–4) of IFRS S2 requires disclosure of whether the scenario analysis
+covers a diverse range of scenarios, whether scenarios are associated with physical
+or transition risks, and whether the entity has used a scenario aligned with the latest
+international agreement on climate change.
+Paragraph AR11(d) of ESRS E1 requires disclosure of whether and how the identification
+of climate‑related hazards is informed by high emissions climate scenarios. Paragraph
+AR12(c) of ESRS E1 requires disclosure of whether and how the assessment of
+transition risks and opportunities takes into consideration at least a scenario consistent
+with the Paris Agreement. It does not prohibit the use and disclosure of other scenarios
+for transition risk assessment.
+Points to An entity applying IFRS S2 that also wants to comply with ESRS will need to use
+consider the results of its scenario analysis to inform the assessment of risks, opportunities
+and describe the entity’s resilience in relation to climate change. The entity must also
+disclose whether and how it has considered at least a scenario consistent with the Paris
+Agreement (see paragraph AR12(c) of ESRS E1).
+See also Section 3.1(ii).
+Topic (ii) Greenhouse gas emissions: disaggregation
+Explanation Paragraph 29(a)(iv) of IFRS S2 requires that an entity disaggregate Scope 1 and
+Scope 2 greenhouse gas emissions between:
+(1) t he consolidated accounting group (for example, for an entity applying IFRS
+Accounting Standards, this group would comprise the parent and its consolidated
+subsidiaries); and
+(2) o ther investees excluded from the consolidated accounting group (for example,
+for an entity applying IFRS Accounting Standards, these investees would include
+associates, joint ventures and unconsolidated subsidiaries).
+Paragraph 50 of ESRS E1 requires the entity to disaggregate Scope 1 and Scope 2
+greenhouse gas emissions between:
+(1) t he consolidated accounting group (the parent and subsidiaries); and
+(2) i nvestees such as associates, joint ventures, or unconsolidated entities that are not
+fully consolidated in the financial statements of the consolidated accounting group, as
+well as contractual arrangements that are joint arrangements not structured through
+a legal entity (that is, jointly controlled operations and assets), for which it has
+operational control.
+Points to If the entity has operations that result in ESRS E1 and IFRS S2 requiring different
+consider disaggregations of emissions, then to comply with both sets of standards, two different
+disaggregations would need to be provided. See also Section 3.1(iv), Section 4.1(vii)
+and Table 4.2.2.
+20
+ESRS–ISSB StandaRdS IntERopERaBIlIty GuIdancE
+Topic (iii) Carbon credits
+Explanation Definition of carbon credit
+Paragraph 36(e) of IFRS S2 requires an entity to disclose the planned use of carbon
+credits to offset greenhouse gas emissions to achieve any net greenhouse gas
+emissions targets.
+Paragraph 36(e)(ii) of IFRS S2 requires an entity to disclose which third‑party scheme
+will verify or certify the carbon credits.
+ESRS define carbon credits as instruments that are ‘issued and verified according to
+recognised quality standards.’ Carbon credits that are not verified according to recognised
+quality standards (defined in Annex II to ESRS) do not meet the definition of ‘carbon
+credits’ and cannot be reported applying ESRS. Paragraph 59(a) of ESRS E1 requires
+disclosure of the total amount of carbon credits that are verified against recognised
+quality standards and cancelled in the reporting period.
+ESRS E1 also defines carbon credits as only relating to reductions or removals outside
+the entity’s value chain (see paragraph 56(b) of ESRS E1) and has separate disclosure
+requirements for removal of greenhouse gas and storage projects inside the value chain.
+IFRS S2 does not make a distinction between carbon credits arising from within or
+outside the value chain.
+When public claims of greenhouse gas neutrality involve the use of carbon credits,
+paragraph 61(c) of ESRS E1 requires an explanation about the credibility and integrity of
+the carbon credits used, including by reference to recognised quality standards.
+Use of carbon credits
+Paragraph 36(e) of IFRS S2 requires an entity to disclose the planned use of carbon
+credits to offset greenhouse gas emissions to achieve any net greenhouse gas
+emissions targets.
+Paragraph 59(a)–(b) of ESRS E1 requires an entity to disclose the total amount of carbon
+credits cancelled in the reporting period and the total amount of carbon credits to be
+cancelled in the future and whether they are based on existing contractual agreements or
+not. Paragraph 34(b) of ESRS E1 does not allow an entity to use carbon credits to claim
+the achievement of greenhouse gas emission targets.
+Points to An entity applying IFRS S2 that also wants to comply with ESRS E1 should be aware
+consider that non‑verified or carbon credits verified under schemes not recognised as quality
+standards, or carbon credits that arise from within the value chain cannot be disclosed
+as ‘carbon credits’ applying ESRS, and therefore these are excluded applying ESRS.
+In addition, applying ESRS an entity can only report the carbon credits cancelled
+in the reporting period. In addition to the planned use of carbon credits, applying
+ESRS, an entity also has to report the carbon credits cancelled in the reporting period
+(see Table 4.2.2).
+An entity applying IFRS S2 that wants to comply with ESRS should ensure that
+disclosures about carbon credits – including their credibility and integrity – meet the
+requirements in ESRS E1.
+Because IFRS S2 may require disclosure about carbon credits used by an entity that
+are excluded from ESRS reporting under E1‑7, an entity may need to disaggregate the
+information provided about carbon credits in order to meet the requirements of both
+ESRS and IFRS S2.
+An entity must not use carbon credits to claim achievement of greenhouse gas
+emissions targets applying ESRS E1 (see Section 4.1(vi)) greenhouse gas emission
+reduction targets). See also Section 3.1(vii).
+21
+ESRS–ISSB StandaRdS IntERopERaBIlIty GuIdancE
+Topic (iv) Quantitative information: single amount or range
+Explanation Paragraph 17 of IFRS S2 permits an entity to provide either a single amount or a
+range when disclosing quantitative financial information about current and anticipated
+financial effects.
+ESRS E1 only permits disclosure of anticipated financial effects as a range in specific
+circumstances (see paragraphs AR70(a), AR73(a) and AR74(a) of ESRS E1).
+Points to An entity applying IFRS S2 that also wants to comply with ESRS E1 should only provide
+consider a range in circumstances when permitted applying ESRS E1. In all other cases, it shall
+provide a single amount.
+Topic (v) Climate-related physical and transition risks
+Explanation Paragraph 29(b)–(c) of IFRS S2 requires disclosure of the amount and percentage
+of assets or business activities vulnerable to climate‑related physical and transition
+risks. IFRS S2 does not explicitly state this is before or after considering adaptation or
+mitigation actions.
+Paragraphs 66(a) and 67(a) of ESRS E1 require the disclosure of monetary amount and
+percentage of assets at material physical risk (see paragraph 66(a) of ESRS E1) and
+material transition risk (see paragraph 67(a) of ESRS E1) before considering climate
+mitigation or adaptation actions.
+Paragraphs 66(b) and 67(b) of ESRS E1 require the disclosure of monetary amount at
+material physical risk (see paragraph 66(b) of ESRS E1) and material transition risk (see
+paragraph 67(b) of ESRS E1) addressed by the climate change actions.
+Paragraphs 66(d) and 67(e) of ESRS E1 require the disclosure of monetary amount
+and percentage of net revenue from business activities subject to material physical and
+transition risks.
+Points to An entity applying IFRS S2 that also wants to comply with ESRS E1 and discloses
+consider the amount and percentage of assets, and the amount and percentage of net revenue
+from business activities that are vulnerable to climate‑related risks after the mitigation
+or adaptation actions, will need to make sure it discloses: (i) percentage of assets at
+material physical risk (see paragraph 66(b) of ESRS E1) and material transition risk
+(see paragraph 67(b) of ESRS E1) addressed by the climate change actions and (ii)
+the monetary amount and percentage of assets at material physical risk (see paragraph
+66(a) of ESRS E1) and material transition risk (see paragraph 67(a) of ESRS E1) before
+considering climate mitigation or adaptation actions (that is, ‘gross’).
+22
+ESRS–ISSB StandaRdS IntERopERaBIlIty GuIdancE
+Topic (vi) Greenhouse gas emission reduction targets
+Explanation IFRS S2 refers to greenhouse gas emission targets, but not to greenhouse gas emission
+reduction targets. In addition, IFRS S2 does not specifically define greenhouse gas
+emission targets as gross only – both gross and net targets may be disclosed as a
+greenhouse gas emission reduction target – however if the entity discloses a net target,
+it must also separately disclose the associated gross greenhouse gas emission target
+(see paragraphs 36(c) and B68–B69 of IFRS S2). There is no requirement to always
+disclose an absolute target, however the entity must disclose whether the target is
+absolute or intensity based (see paragraph 33(g) of IFRS S2).
+Greenhouse gas emission reduction targets are defined in Annex II to ESRS ‘Terms
+defined in the ESRS’ as gross greenhouse gas targets – and may be disclosed in
+absolute or intensity values, although if an intensity target is disclosed, an absolute
+target must also be disclosed (see paragraph AR23 of ESRS E1). Annex II to ESRS
+also includes a specific definition of ‘net zero.’ The entity should ensure that any target
+described as ‘net zero’ complies with the definition in Annex II to ESRS.
+If an entity discloses a net greenhouse gas emission reduction target, this may not be
+disclosed as a ‘greenhouse gas emission reduction target’ applying paragraph 34(a) of
+ESRS E1.
+Points to In order to comply with both sets of standards, the entity should disclose gross
+consider reduction targets and disclose in absolute value, and may choose to also disclose
+an intensity value if relevant. An entity should also ensure that disclosures of ‘net zero
+targets’ are those that meet the ESRS definition given to this term, and that a net
+greenhouse gas emission reduction target is not disclosed as a ‘greenhouse gas
+emission reduction target’ under paragraph 34(a) of ESRS E1.
+Topic (vii) Greenhouse gas emissions: organisational boundary
+Explanation Paragraph 29(a)(ii) of IFRS S2 requires an entity to measure its greenhouse gas
+emissions in accordance with the Greenhouse Gas Protocol: A Corporate Accounting
+and Reporting Standard (2004, GHG Protocol), unless required by a jurisdictional
+authority or exchange on which the entity is listed to use a different method for measuring
+greenhouse gas emissions.
+Consistent with the GHG Protocol, paragraph B27 of IFRS S2 permits an entity to choose
+the equity share or control approach when measuring its greenhouse gas emissions.
+If an entity is required by a jurisdiction to use a different method to measure greenhouse
+gas emissions, the entity is permitted to use that method in accordance with
+paragraph 29(a)(ii) of IFRS S2. IFRS S2 requires an entity to disclose the measurement
+approach it uses to measure greenhouse gas emissions including the measurement
+approach used when applying the GHG Protocol or the applicable method used
+(see paragraphs 29(a)(iii) and B26 of IFRS S2).
+ESRS E1 requires the organisational boundary when measuring greenhouse gas
+emissions to be consistent with paragraph 62 of ESRS 1, and, in addition, requires
+the inclusion in Scope 1 and Scope 2 the emissions of entities, sites and assets under
+operational control, that are not included in the consolidated financial statements.
+In this context, paragraph 46 of ESRS E1 also requires an entity to include emissions
+from the operational control of associates, joint ventures, unconsolidated subsidiaries
+(investment entities) and contractual arrangements that are joint arrangements not
+structured through an entity (that is, jointly controlled operations and assets), when
+reporting greenhouse gas emissions.
+Points to An entity starting from IFRS S2 that is required or wants to comply with ESRS E1,
+consider when measuring its greenhouse gas emissions for the consolidated group
+(see paragraph 50(a) of ESRS E1), could elect to retain the financial control option as
+described by the GHG Protocol. An entity that starts by applying IFRS S2 that is required
+or wants to comply with ESRS E1 must apply the measurement method required by
+ESRS and therefore in addition include the greenhouse gas emissions covered by
+paragraph 50(b) of ESRS E1. For the implementation of paragraph 50(b) of ESRS E1,
+see Table 4.2.2.
+23
+ESRS–ISSB StandaRdS IntERopERaBIlIty GuIdancE
+4.2 Incremental and additional requirements in ESRS
+ESRS require climate‑related disclosures for which there are no corresponding disclosure
+requirements in IFRS S2 or IFRS S1. These are:
+• ‘incremental’ disclosures, that is, both sets of standards include a common overall disclosure
+objective, but ESRS include specific incremental datapoints; or
+• ‘additional’ disclosures, when ESRS include disclosures that are not covered in ISSB Standards.
+The disclosure requirements in ESRS are based on the legal mandate of the Corporate
+Sustainability Reporting Directive (CSRD).
+As explained in the introduction to this document on page 2, the entity does not necessarily
+have to report all the disclosures in Tables 4.2.1 and 4.2.2, but only those that are applicable and
+material to the entity.
+The incremental disclosure requirements mainly relate to impacts as a separate reporting objective
+and to the entity’s climate change mitigation performance.
+Tables 4.2.1 and 4.2.2 list the climate‑related disclosure requirements in ESRS 2 and ESRS E1
+that are not included in ISSB Standards and therefore need to be covered by an entity applying
+ISSB Standards that also intends to comply with climate‑related reporting in ESRS.
+Introduction to Table 4.2.1 – ESRS 2
+Table 4.2.1 lists disclosure requirements in ESRS 2 that do not have a corresponding requirement
+in ISSB Standards. Disclosures pertaining to the pillars Governance and Strategy, which in the
+architecture of ESRS are primarily located in ESRS 2, are required to be applied in conjunction
+with ESRS E1. For reporting on climate change disclosure requirements for governance and
+strategy are not repeated in ESRS E1. In particular:
+• for governance, ESRS 2 has incremental and additional disclosures that will help entities fulfil the
+disclosure objective in ESRS, hence reducing the need of entity‑specific disclosures; and
+• for strategy, ESRS 2 has incremental and additional disclosures that support the understanding
+of the context for the identification of potential material sustainability matters and on the role and
+involvement of stakeholders in defining the strategy and business model, reflecting due diligence
+principles and impact materiality.
+ESRS E1 has climate‑related topical specifications to IRO 1 and SBM 3 of ESRS2, which are
+included in Table 4.2.2.
+In the table, items highlighted in grey refer to incremental datapoints in ESRS beyond those
+identified as common disclosure requirements.
+24
+ESRS–ISSB StandaRdS IntERopERaBIlIty GuIdancE
+TABLE 4.2.1
+ESRS 2 Reference to IFRS S1 Requirements not explicitly covered by IFRS S1 or IFRS S2
+or IFRS S2
+Governance
+ESRS 2.21(a)–(b) NA Composition and diversity of governance bodies (executive/non-executive,
+and (d)–(e) gender, etc.)
+ESRS 2.21(c) IFRS S1.27(a)(ii) Experience relevant to the sectors, products and geographic locations of the
+ESRS 2.23(a)–(b) IFRS S2.6(a)(ii) undertaking. Leverage of collective expertise through access to experts or
+training. How skills and expertise relate to material matters.
+ESRS 2.22(c)(ii) IFRS S1.27(b)(i)–(ii) Information about reporting lines to the administrative, management and
+IFRS S2.6(b)(i)–(ii) supervisory bodies (AMSB).
+ESRS 2.26(a) IFRS S1.27(a)(iii) Whether and by whom the AMSB are informed as well as describing the
+IFRS S2.6(a)(iii) AMSB being informed about additional items.
+ESRS 2.26(c) IFRS S1.26–27 Material IROs addressed during the reporting period.
+IFRS S2.5–6
+ESRS 2.29(a)–(e) NA Details of incentive schemes.
+and AR7
+ESRS 2.30–33 and NA Due diligence mapping.
+AR8–AR10
+ESRS 2.34–36 NA Risk management and internal controls over sustainability reporting.
+Strategy
+SBM-1 IFRS S1.28–33 Climate-related impacts on the undertaking’s strategy and business model.
+(ESRS 2.38–42 and IFRS S2.8–14 Disclosures that support the understanding of the context for the
+AR12–AR15) identification of potential material matters:
+• s ignificant products or services, significant markets or customers,
+headcount of employees by geographical area, breakdown of total revenue
+by significant ESRS sectors;
+• s tatement on revenues related to fossil fuel, chemical production;
+• controversial weapons;
+• relationships with stakeholders; and
+• m ain features on up and downstream value chain and main business actors
+such as key suppliers, customers, distribution channels.
+SBM – 2 NA Role and involvement of affected stakeholders.
+(ESRS 2.43–45 and
+AR16)
+SBM – 3 NA Structured disclosures on material impacts and their description.
+(ESRS 2.46–49 and
+AR17–AR18)
+Risk management
+ESRS 2.53(c)(ii)–(iii) IFRS S2.25(a)(iii)–(iv) Disclosures on how the undertaking assesses the likelihood, magnitude,
+and nature of effects of the identified risk and opportunities, and how the
+undertaking prioritises sustainability-related risks relative to other types of
+risks, including its use of risk-assessment tools.
+ESRS 2.53(a), (d) NA Description of methodologies, assumptions, decision-making process, related
+and (h) internal control procedures as well as timing of modification of the process
+and future revision dates of the materiality assessment.
+25
+ESRS–ISSB StandaRdS IntERopERaBIlIty GuIdancE
+Introduction to Table 4.2.2 – ESRS E1
+Table 4.2.2 lists disclosure requirements in ESRS E1 that do not have an equivalent in IFRS S1 or
+IFRS S2. In the table, items highlighted in grey refer to incremental datapoints in ESRS E1 beyond
+those identified as common disclosure requirements.
+TABLE 4.2.2
+ESRS E1 disclosure Reference to Requirements not covered by IFRS S2
+requirements IFRS S2
+(‘DRs’) and
+related application
+requirements
+(‘ARs’)
+DR related to ESRS 2 GOV-3 – Integration of sustainability-related performance in incentive schemes
+ESRS E1.13 IFRS S2.29(g) If performance has been assessed against the greenhouse gas emission
+reduction targets, and percentage of the remuneration recognised in the current
+period that is linked to climate-related considerations, with an explanation of
+what the climate considerations are.
+DR related to ESRS 2 SBM-3 – Material IROs and their interaction with strategy and business model
+ESRS E1.19(a) and IFRS S2.22(a)(i)–(ii) Which parts of the up and downstream value chain or material physical or
+AR6 and (b)(i) transition risks were excluded from the resilience analysis.
+IFRS S2.14 (a)(iii)
+ESRS E1.19(b) and IFRS S2.22(b)(i) Explain how anticipated financial effects from material physical risk and
+AR7 and (iii) transition risks were considered (see paragraph AR7(c) of ESRS E1).
+IFRS S2.14(a)(i)
+ESRS E1.19(c) and IFRS S2.22(a) and Extent to which the assets and business activities at risk are considered within
+AR8 (b)(i) the definition of the undertaking’s strategy, investment decisions, and current
+IFRS S2.14(a)(ii) and planned mitigation actions (see paragraph AR8 of ESRS E1).
+Access to finance at an affordable cost of capital (see paragraph AR8 of
+ESRS E1).
+DR related to ESRS IRO-1 – Description of the process to identify and assess climate-related IROs
+ESRS E1.20(a) and How the undertaking has screened activities and plans to identify actual and
+AR9–AR10 potential future greenhouse gas emissions and drivers for other climate-related
+impacts (see paragraph AR9(a) of ESRS E1).
+Assessed its actual and potential impacts on climate change (that is, its total
+greenhouse gas emissions) (see paragraph AR9(b) of ESRS E1).
+ESRS E1.20(b) and Identification of climate-related hazards and the use of high-emission
+AR11 scenarios.
+ESRS E1.20(c) and IFRS S2.25(a) Transition events, using at least a scenario in line with limiting global warming
+AR12 to 1.5°C with no or limited overshoot.
+ESRS E1.21, AR13 Key drivers and the alignment of scenarios a) with state-of-the-art science,
+and AR15 b) why the scenarios cover plausible risks and uncertainties, c) the forces
+and drivers taken into account in the scenarios, and d) the key inputs and
+constraints of the scenarios (see paragraph AR13 of ESRS E1).
+Explain how the climate scenarios used are compatible with those used in the
+financial statements (see paragraph AR15 of ESRS E1).
+26
+ESRS–ISSB StandaRdS IntERopERaBIlIty GuIdancE
+TABTaLbEl e4 .12.2
+EESSRRSS 2E1 disclosure ReRfeerfeernecnec teo to ReqRuierqeumireenmtse nnotst cnoovt ecroevde breyd I FbRy SIF SR1S/S S22
+requirements IFRIFSR SS 2S1/ S2
+(‘DRs’) and
+Governance
+related application
+EreSqRuSir e2m.2e1n(at)s, (b), NA Composition and diversity of governance bodies (executive/non-executive,
+((d‘A),R (se’)) gender, etc.)
+EESSRRSS 2E.12-11( cTr)a nsition planS 1fo.2r 7c(laim)(iai)t e chanEgxep emriietingcaet iroenlevant to the sectors, products and geographic locations of the
+EESSRRSS 2E.12.31(6a()a,) ( abn)d S2.6(a)(ii) unde Er xt pak lain ng at. ioL nev oe fr a hg oe w o gf rc eo el nle hc oti uv se e e gx ap se r et mise is t sh ioro nu rg eh d ua cc tc ie os ns t ato rg e ex tp s e ar rt es co or mtr pai an ti in bg le.
+How skills and expertise relate to material matters.
+AR2 with 1.5°C.
+ESRS 2.22(c)(ii) S1.27(b)(i), (ii) Information about reporting lines to the AMSB.
+ESRS E1.16(b) Explanation of which decarbonisation levers are used and key actions
+S2.6(b)(i), (ii)
+planned by reference to greenhouse gas reduction targets and climate change
+ESRS 2.26(a) S1.27(a)(iii) Whemthietirg aantido nb ya cwtihoonms. the AMSB are informed as well as describing the AMSB
+S2.6(a)(iii) being informed about additional items.
+ESRS E1.16(c) Explanation and quantification of investments and funding supporting the
+ESRS 2.26(c) S1.26-27 Matetrraianls IiRtiOons padladnr e(mssietidg adtuiornin go ft hgere reenphoorutisneg gpaesr ieomd.issions).
+S2.5-6
+ESRS E1.16(d) and Qualitative disclosure of potential locked-in emissions in key assets or
+EASRR3S 2.29(a), (b), (c), NA Detapilrso odfu icntcse.ntive schemes.
+IFRS S2. 14(a)(iv)
+(d), (e) + ESRS 2.AR7
+ESRS E1.16(e) and EU specific disclosure requirement on alignment of economic activities with the
+EASRR4S 2.30-33 + NA Due EdUil igtaexnocneo mmayp opnin ggr.een activities.
+AR8-10
+ESRS E1.16(f) and Capital expenditure CapEX on coal, oil and gas related economic activities.
+EASRR5S 2.34-36 NA Risk Management and internal controls over sustainability reporting.
+SEStrRatSe gEy1.16(g) Exclusion from the EU Paris-aligned Benchmarks (Benchmark Regulation).
+SESBRMS-1 E (1E.1S6R(Sh )2.38-42 S1.28-33 ClimAaltieg-nrmelaetnetd o ifm trpaancstsit ioonn tphlaen u wnditehr tsatkriantgeg’sy s atrnadt ebguys ainneds sb umsoindeesls. model.
++ E SE RS SR S E 12 .. 1A 6R (i1 )2-AR15) S2.8-14 DiscWloshuerthese rt hthaet struapnpsoitriot nth pel aunn dise rasptapnrodvinegd obfy tthhee cmonatneaxgt efmore tnhte a indde ngtoifivceartnioannc oef
+potebnotidaile ms.aterial matters:
+ESRS E1.16(j) NA • s igPnrifiocgarenst sp rtoowduacrdtss oimr spelervmiceenst,a stiiognn iofifc tahnet tmraanrskietitosn o pr lcauns.tomers, headcount of
+employees by geographical area, breakdown of total revenue by significant ESRS
+ESRS E1.17 NA secWtohresther and when the undertaking will adopt a transition plan in case the
+undertaking does not have one.
+• s tatement on revenues related to fossil fuel, chemical production
+DR E1-2 Policies related to climate change mitigation and adaptation
+• C ontroversial weapons
+ESRS E1.24 IFRS S2.25(a) • R eDlaetisocnrsiphtiiposn woift hth set akkeeyh cooldneterns,t of policies.
+ESRS E1.25 NA • M aPino lfiecaietsu raedsd orens uspin agn: dc ldimowatnes cthreaanmge v maluiteig cahtiaoinn; acnlidm mataei nc hbaunsgine easdsa apctatotirosn s; uch
+as ekneeyr sguyp epffiliecriesn, ccyu;s rtoenmeewrsa,b dlei setnriebrugtyio dne cphloaynmneelnst..
+SDBRM E 1–- 32 A(EcStiRonSs 2 a.4n3d- resoNuArces in relation Rtoo clel iamnadt ein cvhoalvnegmeent of affected stakeholders
+45 + ESRS 2.AR16)
+ESRS E1.26, 28 and IFRS S2.14(a) Linkage of actions and resources to mitigation and adaptation efforts.
+SABRM19 –– 232 (ESRS 2.46- (ii)N–A(iii) and (v) Structured disclosures on material impacts and their description
+49 + ESRS 2.AR17- IFRS S2.14(b)
+AR18)
+ESRS E1.29(a) and NA Key mitigation action by decarbonisation lever (such as energy efficiency, or
+RARis1k9 management use of renewable energy, products change).
+ESRS 2.53(c)(ii), (iii) S2.25(a)(iii) DiscOloustucroems eo no fh coliwm tahtee uchnadnegrtea kminitgig aastsioens saecsti othnes liinkeclliuhdoiondg, amchaigenvietdu daen,d a nexdp ected
+S2.25(a)(iv) natugrere oefn ehfofeucstes goaf st heem idisesniotinfise dre rdisukc taionnds o. pportun ities and how the undertaking
+ESRS E1.29(b) and NA priorOituistceos msues otaf icnlaimbialittey -crhelaantegde rmisiktisg aretiloanti vaec ttioo nosth ienrc ltuydpiensg o afc rhisiekvse, din acnludd einxgp eitcst ed
+AR19 use gorf ereisnkh-oausssees gsams eenmt itsosoilosn.s reductions.
+ESRS 2.53(a), (d), (h) NA DescMriepatisounr aobfl em iemthpoadcotslo fgoire kse, ya smsuitmigapttiioonn sa,c dtieocnissi,o dni-smagagkrinegga pterodc beys s, related
+interdneacl acrobnotnroisla ptiroonc eledvuerre s(s aese wpaerlla agsr atpimh iAngR 1o9f mofo EdSifiRcSa tEio1n) .of the process and
+future revision dates of the materiality assessment.
+ESRS E1.29(c) and IFRS S2.14(b) Financial resources for key actions to the line items in the financial statements,
+AR20–AR22 IFRS S2.21(b) key performance indicators and CapEx plan.
+Extent to which ability to implement actions depends on availability and
+allocations of resources (see paragraph AR21 of ESRS E1).
+DR E1-4 Targets related to climate change mitigation and adaption
+ESRS E1.34(b) and IFRS S2.36(a)–(c) Requirement on use of Scope 2 location-based or market-based method
+AR24 (see paragraph AR24 of ESRS E1).
+Consistency between greenhouse gas reduction targets and the greenhouse
+gas inventory boundaries (see paragraph AR24 of ESRS E1).
+Extension of the requirements to subsidiaries (see paragraph AR24 of
+ESRS E1).
+27
+ESRS–ISSB StandaRdS IntERopERaBIlIty GuIdancE
+TABLE 4.2.2
+ESRS E1 disclosure Reference to Requirements not covered by IFRS S2
+requirements IFRS S2
+(‘DRs’) and
+related application
+requirements
+(‘ARs’)
+ESRS E1.34(c) and IFRS S2.33(e) Baseline value for the greenhouse gas emission reduction target and how it
+AR25 represents its activities and external influences (see paragraph AR25(a) of
+ESRS E1).
+Update of base year and baseline value every five years after 2023 (see
+paragraph AR25(c) of ESRS E1).
+ESRS E1.34(d) IFRS S2.33(d) Greenhouse gas emissions reduction target value for 2030.
+ESRS E1.34(e) and IFRS S2.33(h) Underlying policy and climate scenarios and whether they have been externally
+AR26–AR29 IFRS S2.34(a) assured.
+ESRS E1.34(f) and NA Decarbonisation levers and their overall quantitative contributions to
+AR30–AR31 greenhouse gas emissions reduction targets broken down by Scope 1, Scope 2
+and Scope 3 greenhouse gas emissions.
+Role of planned new technologies in greenhouse gas emission reduction
+achievement, and the climate scenarios considered (included at least one
+compatible with 1.5°C limit to global warming) to detect the developments that
+would determine the decarbonisation levers.
+DR E1–5 Energy consumption and mix
+ESRS E1.35 and Energy consumption and mix (perimeter, energy purposes, unit of
+AR32 measurement, final energy consumption, no offset, purchased energy, steam,
+heat, cooling, H2, etc.).
+ESRS E1.37 and Energy consumption in MWh related to own operations by energy consumption
+AR33–AR35 from fossil sources (for high impact sectors), nuclear sources, and renewable
+sources disaggregated by consumption from: renewable sources, purchased
+energy from renewable sources, self-generated renewable energy.
+ESRS E1.38 and NA Disaggregation of energy consumption from fossil sources by coal, oil,
+AR33 natural gas, other fossil sources for entities with operations in high climate
+impact sectors.
+ESRS E1.39 Own energy production (renewable and non-renewable).
+ESRS E1.40–42 Energy intensity per net turnover for activities in high climate impact sectors,
+high climate impact sectors used to determine the energy intensity.
+ESRS E1.43 and Reconciliation of the net revenue denominator of the energy intensity ratio to
+AR36 the financial statements.
+DR E1–6 Gross scopes 1, 2, 3 and total GHG emissions
+ESRS E1.44, AR39 Reasons of choice of the emission factors (see paragraph AR39 of ESRS E1).
+and AR41–AR42 Reference or link to calculation tools used (see paragraph AR39 of ESRS E1).
+Disaggregation of Scope 1, Scope 2 and Scope 3, or total greenhouse gas
+IFRS S2.29(a)(i)
+emissions (for example, by country, operating segment, economic activity, or
+(1–3)
+source) (see paragraph AR41 of ESRS E1).
+ESRS E1.47 Changes in the definition of reporting undertaking and effect on the year-to-
+year comparability.
+ESRS E1.48 and IFRS S2.29(a)(i)(1) Scope 1 greenhouse gas emission from regulated trading schemes (see
+AR43–AR44 paragraph 48(b) of ESRS E1).
+Provision to follow EU ETS methodology in reporting about activities that fall
+under its scope (see paragraph AR43 of ESRS E1).
+Provisions and formula to calculate the share of Scope 1 greenhouse gas
+emissions under ETS (see paragraph AR44 of ESRS E1).
+Reporting CO biogenic emissions separately from Scope 1 greenhouse gas
+2
+emissions (see paragraph AR43 of ESRS E1).
+28
+ESRS–ISSB StandaRdS IntERopERaBIlIty GuIdancE
+TABLE 4.2.2
+ESRS E1 disclosure Reference to Requirements not covered by IFRS S2
+requirements IFRS S2
+(‘DRs’) and
+related application
+requirements
+(‘ARs’)
+ESRS E1.49 and IFRS S2.29(a)(i)(2) Requirement to report market-based gross Scope 2 greenhouse gas emissions
+AR45 (paragraph B31 of IFRS S2 makes it optional, although disclosure of
+contractual instruments s required).
+Reporting indirect biogenic CO emissions from purchased or acquired
+2
+electricity, steam, heat and cooling separately from Scope 2 greenhouse gas
+emissions (see paragraph AR45 of ESRS E1).
+Report if CH and NO emissions are not reported in the Scope 2 greenhouse
+4 2
+gas emissions (see paragraph AR45 of ESRS E1).
+ESRS E1.50(b) IFRS S2.29(a)(i) Scope 1 and Scope 2 greenhouse emissions of sites, entities and assets
+(1–2) under operational control whose assets are not included in the consolidated
+financial statements.
+ESRS E1.51 and IFRS S2.29(a)(i)(3) List of Scope 3 greenhouse gas emissions categories included in and excluded
+AR46 from the inventory with a justification for excluded Scope 3 categories.
+Reporting other indirect biogenic CO emissions that occur in the upstream and
+2
+downstream value chain separately from Scope 3 greenhouse gas emissions
+(see paragraph AR46 of ESRS E1).
+ESRS E1.52 and NA Total gross emissions, both location-based and market-based.
+AR47–AR52 Presentation requirement on table structure breaking down total greenhouse
+gas emission by scope (see paragraph AR48 of ESRS E1).
+Requirement to breakdown Scope 3 greenhouse gas emissions from cloud
+computing and data centre services, if material (see paragraph of AR51 of
+ESRS E1).
+ESRS E1.53–55 and NA Intensity of total greenhouse gas emissions in relation to net revenue.
+AR53–AR55
+Disclosure requirement ESRS E1 – GHG removals and GHG mitigation projects financed through carbon credits
+Greenhouse gas removals
+ESRS E1.58(a) and IFRS S2.36(e)(iii) Greenhouse gas removals and storage in tonnes of COeq in own operations or
+2
+AR56–AR60 contributed to in its upstream and downstream value chain.
+Greenhouse gas removals and storage breakdown into: a) own operations,
+upstream and downstream in value chain; b) type of removal; c) type of
+greenhouse gas; d) type of storage (see paragraph AR57 of ESRS E1).
+If the removal activity qualifies as nature-based solution (see paragraph AR57
+of ESRS E1).
+How the risk of non-permanence is managed, including determining and
+monitoring leakage and reversal events (see paragraph AR57 of ESRS E1).
+Calculation and presentation guidance (see paragraphs AR58–AR60 of
+ESRS E1).
+ESRS E1.60 and NA Concept of net-zero target (Annex II to ESRS ‘Terms defined in the ESRS’)
+Glossary of Terms (linked to removals in own operations or value chain and after approximately
+used in ESRS 90–95%. reduction has been achieved, with no possibility of using carbon
+credits as in paragraph 36(e)(i) of IFRS S2).
+Explanation of scope, methodologies and frameworks applied if disclosing a
+net-zero target.
+How residual greenhouse gas emissions are intended to be neutralised by
+greenhouse gas removals.
+29
+ESRS–ISSB StandaRdS IntERopERaBIlIty GuIdancE
+TABLE 4.2.2
+ESRS E1 disclosure Reference to Requirements not covered by IFRS S2
+requirements IFRS S2
+(‘DRs’) and
+related application
+requirements
+(‘ARs’)
+Carbon credits
+ESRS E1.59 and Amount of carbon credits purchased from outside value chain and cancelled in
+AR61–AR63 the reporting period.
+Carbon credits include only those verified against recognised quality standards.
+Whether planned carbon credits purchases are based on existing contractual
+agreements or not.
+Whether use of carbon credits is separate from greenhouse gas emissions (not
+net accounting) and greenhouse gas emission reduction (not net targets) (see
+paragraph AR61 of ESRS E1).
+Share of greenhouse gas reduction and removal projects (outside value chain,
+linked to carbon credits) (see paragraph AR62 of ESRS E1).
+IFRS S2.36(e)(i)–(iv)
+Share of projects in the EU (see paragraph AR62 of ESRS E1).
+Share qualifying as a corresponding adjustment (Art.6 Paris Agreement) (see
+paragraph AR62 of ESRS S1).
+Calculation and presentation guidance (see paragraph AR63 of ESRS E1).
+ESRS E1.61 Whether and how greenhouse gas neutrality claims are accompanied by a
+greenhouse gas emission reduction target.
+Whether and how neutrality claims and use of carbon credits reduce
+achievement of greenhouse gas target.
+The credibility and integrity of carbon credits, by reference to recognised
+quality standards.
+Disclosure requirement ESRS E1-8 – Internal Carbon Pricing
+ESRS E1.63(a) IFRS S2.29(f) Disclosure of type of carbon pricing scheme.
+ESRS E1.63(b) NA Detailed disclosure of the scope of application.
+ESRS E1.63(c) and IFRS S2.29(f) Disclosure of the critical assumption in determination of internal carbon prices.
+AR65 IFRS S1.21(b)(ii) Consistency between internal carbon prices with prices used in the financial
+statements (see paragraph AR65 of ESRS E1).
+ESRS E1.63(d) Gross Scope 1, Scope 2 and Scope 3 greenhouse gas emission volumes
+covered by internal carbon pricing schemes and their relative share of the
+undertaking’s total greenhouse gas emissions.
+Disclosure requirement ESRS E1-9 – Anticipated financial effects from material physical and transition risks and potential
+climate-related opportunities
+ESRS E1.66(a) and IFRS S2.29(c) Disaggregation between acute and chronic physical risk.
+AR69–AR70
+ESRS E1.66(b) and NA Percentage of assets covered by climate change adaptation actions.
+AR67
+ESRS E1.66(c), NA Location of significant assets at material physical risk.
+AR67 and AR69
+ESRS E1.66(d), IFRS S2.29(b)–(c) Impact on ‘net revenue’ (in IFRS S2 this is ‘business activities’,
+AR67 and AR71 undefined term).
+Split between short, medium and long term.
+ESRS E1.67(a) and IFRS S2.29(b) Estimated amounts and percentage of stranded assets (assets with significant
+AR72–AR73 locked-in emissions) (see paragraph AR73(a) of ESRS E1).
+Breakdown of the carrying value of its real estate assets, including rights-of-
+use assets, by energy efficiency classes (see paragraph AR73(b) of ESRS E1).
+ESRS E1.67(b) and IFRS S2.29(b)–(c) Proportion of assets at material transition risks covered by climate change
+AR73 adaptation actions.
+ESRS E1.67(c) NA Breakdown of the carrying value of real estate assets by energy
+efficiency classes.
+30
+ESRS–ISSB StandaRdS IntERopERaBIlIty GuIdancE
+TABLE 4.2.2
+ESRS E1 disclosure Reference to Requirements not covered by IFRS S2
+requirements IFRS S2
+(‘DRs’) and
+related application
+requirements
+(‘ARs’)
+ESRS E1.67(d) and NA Potential liabilities due to material transition risks.
+AR74
+ESRS E1.67(e) NA Relevant net revenue from customers in coal, oil and gas.
+ESRS E1.68 IFRS S2.29(b)–(c) Reconciliation to financial statements of asset and net revenue at physical risk,
+IFRS S1.21(b)(ii) and also liabilities at transition risk.
+ESRS E1.69(a) and NA Expected cost savings from climate change mitigation and adaptation actions.
+AR80 Nature of cost savings (see paragraph AR80 of ESRS E1).
+31
+ESRS–ISSB StandaRdS IntERopERaBIlIty GuIdancE
+ANNEX – Reliefs in ISSB Standards and in ESRS
+Reliefs in ISSB Standards for climate-related information
+Undue cost and effort
+There are several instances in which ISSB Standards include a relief based on ‘reasonable and
+supportable information that is available to the entity without undue cost or effort’:
+1. identification of climate‑related risks and opportunities that could reasonably be expected to
+affect the entity’s prospects (paragraph 11 of IFRS S2 and paragraph B6(a) of IFRS S1);
+2. determination of the scope of the value chain (paragraph B36 of IFRS S2 and paragraph B6(b)
+of IFRS S1);
+3. preparation of information about the anticipated financial effects of a climate‑related risk or
+opportunity (paragraph 18 of IFRS S2);
+4. preparation of information about climate‑related transition risks, physical risks and opportunities
+(paragraph 30 of IFRS S2); and
+5. selection of measurement approach, inputs and assumptions in measuring Scope 3 greenhouse
+gas emissions (paragraph B39 of IFRS S2).
+Current and anticipated financial effects
+Paragraphs 18–21 of IFRS S2 contain reliefs available to an entity for disclosing quantitative
+information about current and anticipated financial effects of climate‑related risks or opportunities.
+When applicable, these reliefs allow the entity to provide only qualitative information about current
+and anticipated financial effects.
+Scope 3 greenhouse gas emissions
+Paragraph B57 of IFRS S2 contains a disclosure requirement which applies in the case that
+an entity determines that it is impracticable to estimate its Scope 3 greenhouse gas emissions
+(required in paragraph 29(a)(vi)(1) of IFRS S2). ESRS do not contain a relief from providing
+Scope 3 greenhouse gas emissions when impracticable, and therefore do not contain an equivalent
+disclosure requirement.
+Reliefs in ESRS
+1. Reasonable effort in reporting value chain information (including Scope 3 greenhouse gas
+emissions)
+Paragraph 69 of ESRS 1 identifies circumstances where the undertaking cannot collect the
+information about its upstream and downstream value chain as required by paragraph 63 of
+ESRS 1 after making reasonable efforts to do so. In these circumstances, the undertaking shall
+estimate the information to be reported about its upstream and downstream value chain, by using
+all reasonable and supportable information, such as sector‑average data and other proxies.
+This relief is also applicable to the preparation of Scope 3 greenhouse gas emissions.
+2. Undue cost and effort in reporting value chain information
+Paragraph AR17 of ESRS 1 further clarifies that when the undertaking develops estimates (see
+point 1 Reasonable effort in reporting value chain information above), the undertaking shall
+estimate the information to be reported using all reasonable and supportable information that is
+available to the undertaking at the reporting date without undue cost or effort. This includes, but is
+not limited to, internal and external information, such as data from indirect sources, sector‑average
+data, sample analyses, market and peer groups data, other proxies or spend‑based data.
+32
+ESRS–ISSB StandaRdS IntERopERaBIlIty GuIdancE
+3. Quantification of financial effects for opportunities
+Paragraph 70 of ESRS 1 contains a relief available to the entity for disclosing quantitative
+information about financial effects of climate‑related opportunities. A quantification of the
+financial effects that arise from opportunities is not required if such a disclosure does not meet
+the qualitative characteristics of useful information included under Appendix B of ESRS 1.
+33

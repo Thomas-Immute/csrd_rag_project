@@ -1,0 +1,788 @@
+[draft] GRI-ESRS Interoperability Index
+About this [draft] index
+Crediting the close cooperation during the development of the draft European Sustainability Reporting Standards (ESRS), EFRAG and
+GRI have acknowledged that they have achieved a high level of interoperability between the ESRS and GRI Standards in relation to
+impact reporting. This [draft] index is prepared from an EU standpoint where entities in scope of the CSRD will be subject to the
+mandatory regime defined by the ESRS, including disclosures and definitions where requirements of topical standards are subject to a
+materiality assessment of matters and information. Therefore, this [draft] Interoperability Index is a mapping tool that helps entities
+understand the commonalities between the two sustainability reporting standards in regard to impacts.
+Given the high level of interoperability achieved, entities reporting under ESRS can be considered as reporting ‘with reference’ to the
+GRI Standards (see GRI 1: Foundation 2021). The [draft] index shows the relationship between the ESRS and GRI disclosures to
+facilitate reporting ‘with reference’ to the GRI Standards.
+When performing its materiality assessment, an ESRS reporter may conclude that some of the matters and disclosures that are not
+specifically addressed by ESRS and are identified as a difference with the GRI Standards, might be reported in the ESRS sustainability
+statement as entity-specific disclosures, when the conditions in ESRS 1 paragraph 11 are met.
+The [draft] index may also support ESRS reporters that want to report ‘in accordance’ with the GRI Standards (see GRI 1: Foundation
+2021), in which case they would have to report the additional applicable GRI requirements not covered by the ESRS in their
+sustainability statement, in accordance with the provisions of ESRS 1 paragraph 114.
+To further simplify reporting processes, EFRAG and GRI are working on a digital correspondence table to achieve digital
+interoperability for the ESRS and GRI Standards. Shared disclosures tagged under the ESRS digital taxonomy and the GRI digital
+taxonomy could be cross-referenced to allow for a streamlined digital reporting exercise on the preparer’s side.
+How to use the [draft] index
+04-02 [draft] ESRS-GRI Interoperability SR TEG meeting 5 December
+This [draft] Interoperability Index follows a columnar format mapping the GRI Standards disclosures to the corresponding ESRS
+disclosure requirements at a granular level. The columns called ‘Notes’ and ‘Explanation’ describe the differences that arise at
+datapoint level. These differences do not impair the overall objective of entities reporting under ESRS, that prepare their ESRS
+sustainability statement, effectively claiming to report ‘with reference’ to the GRI Standards.
+For ease of reading:
+• Where column D and E are blank, no differences are highlighted.
+• Column D includes a categorisation system to clearly explain the nature of the identified differences. These differences, which may
+affect only a single datapoint of a given disclosure requirement, have been classified in three groups: (1) differences in granularity or
+data type; (2) differences in scope; and (3) differences in definition.
+• In column C, there are several instances where GRI Standards disclosures are not covered by the list of sustainability matters in
+ESRS 1 paragraph AR 16; in particular, in relation to the provisions of the CSRD (for instance, on certain governance matters such as
+tax transparency). These instances are highlighted with light grey.
+Additional resources
+For more reporting support, please visit:
+www.globalreporting.org/standards
+https://finance.ec.europa.eu/regulation-and-supervision/financial-services-legislation/implementing-and-delegated-acts/corporate-sustainability-reporting-directive_en
+© GRI & EFRAG 2023
+[30 November 2023 Draft Version]
+Disclaimer
+The [draft] GRI-ESRS Interoperability Index aims to offer non-authoritative guidance on technical implementation questions related to European Sustainability
+Reporting Standards (ESRS). EFRAG assumes no responsibility or liability whatsoever for the content or any consequences or damages direct, indirect or incidental
+arising from following the advice or guidance contained in the answers. Users of this platform are advised to exercise their own judgment. Information, including
+answers to the questions raised, contained in this platform should not be substituted for the services of an appropriately qualified professional.
+EFRAG is funded by the European Union through the Single Market Programme in which the EEA-EFTA countries (Norway, Iceland and Liechtenstein), as well as
+Kosovo participate. Any views and opinions expressed are however those of the author(s) only and do not necessarily reflect those of the European Union, the
+European Commission or of countries that participate in the Single Market Programme. Neither the European Union, the European Commission nor countries
+participating in the Single market Programme can be held responsible for them.
+04-02 [draft] ESRS-GRI Interoperability SR TEG meeting 5 December
+GRI DISCLOSURES AND ESRS DISCLOSURE
+GRI STANDARDS NOTES EXPLANATION
+REQUIREMENTS REQUIREMENTS
+GRI 2: General 2-1 Organizational details See requirements of Directive
+Disclosures 2021 2013/34/EU
+2-2 Entities included in the ESRS 1 5.1; ESRS 2 BP-1 §5 (a)
+organization’s sustainability reporting and (b) i
+2-3 Reporting period, frequency and ESRS 1 §73
+contact point
+(2-3-a and 2-3-b)
+2-4 Restatements of information ESRS 2 BP-2 §13, §14 (a) to (b)
+2-5 External assurance See external assurance
+requirements of Directive (EU)
+2022/2464
+2-6 Activities, value chain and other ESRS 2 SBM-1 §40 (a) i to (a) ii,
+business relationships (b) to (c), §42 (c)
+2-7 Employees ESRS 2 SBM-1 §40 (a) iii; ESRS
+S1 S1-6 §50 (a) to (b) and (d) to
+(e), §51 to §52
+2-8 Workers who are not employees ESRS S1 S1-7 §55 to §56 (3) GRI 2-8 covers workers
+who are not employees and
+whose work is controlled by
+the organization. ESRS S1-
+7 covers non-employee
+workers: people with
+contracts with the
+undertaking to supply
+labour (“self-employed
+people”) or people provided
+by undertakings primarily
+engaged in “employment
+activities” (NACE Code
+N78).
+04-02 [draft] ESRS-GRI Interoperability SR TEG meeting 5 December
+2-9 Governance structure and ESRS 2 GOV-1 §21, §22 (a), §23;
+composition ESRS G1 §5 (b)
+(2-9-a [for public-interest entities only], 2-9- See also corporate governance
+b, 2-9-c-i, c-ii, c-v to c-viii) statement requirements of
+Directive 2013/34/EU for public-
+interest entities
+2-10 Nomination and selection of the This topic is not covered by the list
+highest governance body of sustainability matters in ESRS 1
+AR §16.
+2-11 Chair of the highest governance This topic is not covered by the list
+body of sustainability matters in ESRS 1
+AR §16.
+2-12 Role of the highest governance ESRS 2 GOV-1 §22 (c); GOV-2
+body in overseeing the management of §26 (a) to (b); SBM-2 §45 (d);
+impacts ESRS G1 §5 (a)
+2-13 Delegation of responsibility for ESRS 2 GOV-1 §22 (c) i; GOV-2
+managing impacts §26 (a); ESRS G1 G1-3 §18 (c)
+2-14 Role of the highest governance ESRS 2 GOV-5 §36; IRO-1 §53
+body in sustainability reporting (d)
+2-15 Conflicts of interest This topic is not covered by the list
+of sustainability matters in ESRS 1
+AR §16.
+2-16 Communication of critical ESRS 2 GOV-2 §26 (a); ESRS G1
+concerns G1-1 AR 1 (a); G1-3 §18 (c)
+2-17 Collective knowledge of the ESRS 2 GOV-1 §23
+highest governance body
+2-18 Evaluation of the performance of This topic is not covered by the list
+the highest governance body of sustainability matters in ESRS 1
+AR §16.
+2-19 Remuneration policies ESRS 2 GOV-3 §29 (a) to (c);
+(2-19-a [for listed undertakings only] and 2- ESRS E1 §13
+19-b) See also remuneration report
+requirements of Directive (EU)
+2017/828 for listed undertakings
+04-02 [draft] ESRS-GRI Interoperability SR TEG meeting 5 December
+2-20 Process to determine ESRS 2 GOV-3 §29 (e)
+remuneration See also remuneration report
+[for listed undertakings only] requirements of Directive (EU)
+2017/828 for listed undertakings
+2-21 Annual total compensation ratio ESRS S1 S1-16 §97 (b) to (c)
+(2-21-a and 2-21-c)
+2-22 Statement on sustainable ESRS 2 SBM-1 §40 (g)
+development strategy
+2-23 Policy commitments ESRS 2 GOV-4; MDR-P §65 (b) to
+(2-23-a-i and a-iv; 2-23-b, 2-23-d, 2-23-e, (c) and (f); ESRS S1 S1-1 §19 to
+2-23-f) §21, and §AR 14; ESRS S2 S2-1
+§16 to §17, §19, and §AR 16;
+ESRS S3 S3-1 §14, §16 to §17
+and §AR 11; ESRS S4 S4-1 §15
+to §17, and §AR 13; ESRS G1
+G1-1 §7 and §AR 1 (b)
+2-24 Embedding policy commitments ESRS 2 GOV-2 §26 (b); MDR-P
+§65 (c); ESRS S1 S1-4 §AR 35;
+ESRS S2 S2-4 §AR 30; ESRS S3
+S3-4 §AR 27; ESRS S4 S4-4 §AR
+27; ESRS G1 G1-1 §9 and §10 (g)
+2-25 Processes to remediate negative ESRS S1 S1-1 §20 (c); S1-3 §32
+impacts (a), (b) and (e), §AR 31; ESRS S2
+S2-1 §17 (c); S2-3 §27 (a), (b) and
+(e), §AR 26; S2-4 §33 (c); ESRS
+S3 S3-1 §16 (c); S3-3 §27 (a), (b)
+and (e), §AR 23; S3-4 §33 (c);
+ESRS S4 S4-1 §16 (c); S4-3 §25
+(a), (b) and (e), §AR 23; S4-4 §32
+(c)
+2-26 Mechanisms for seeking advice ESRS S1 S1-3 §AR 32 (d); ESRS
+and raising concerns S2 S2-3 §AR 27 (d); ESRS S3 S3-
+3 §AR 24 (d); ESRS S4 S4-3 §AR
+24 (d); ESRS G1 G1-1 §10 (a);
+G1-3 §18 (a)
+04-02 [draft] ESRS-GRI Interoperability SR TEG meeting 5 December
+2-27 Compliance with laws and ESRS 2 SMB-3 §48 (d); ESRS E2 (1a) GRI 2-27 covers all
+regulations E2-4 §AR 25 (b); ESRS S1 S1-17 significant non-compliance
+§103 (c) to (d) and §104 (b); with laws and regulations,
+ESRS G1 G1-4 §24 (a) and breakdowns by types
+of incidents of non-
+compliance. ESRS
+requirements cover
+information on current
+financial effects, non-
+compliance with regards to
+pollution, anti-corruption
+and anti-bribery, and
+severe human rights
+incidents, in a number of
+topical standards.
+2-28 Membership associations 'Political engagement' is a (2b)
+sustainability matter for G1
+covered by ESRS 1 §AR 16.
+Hence this GRI disclosure is
+covered by MDR-P, MDR-A,
+MDR-T, and/or as an entity-
+specific metric to be disclosed
+according to ESRS 1 §11 and
+pursuant to MDR-M.
+2-29 Approach to stakeholder ESRS 2 SMB-2 §45 (a) i to (a) iv;
+engagement ESRS S1 S1-1 §20 (b); S1-2 §25,
+§27 (e) and §28; ESRS S2 S2-1
+§17 (b); S2-2 §20, §22 (e) and
+§23; ESRS S3 S3-1 §16 (b); S3-2
+§19, §21 (d) and §22; ESRS S4
+S4-1 §16 (b); S4-2 §18, §20 (d)
+and §21
+2-30 Collective bargaining agreements ESRS S1 S1-8 §60 (a) and §61
+GRI 3: Material 3-1 Process to determine material ESRS 2 BP-1 §AR 1 (a); IRO-1
+Topics 2021 topics §53 (b) ii to (b) iv
+3-2 List of material topics ESRS 2 SBM-3 §48 (a) and (g)
+04-02 [draft] ESRS-GRI Interoperability SR TEG meeting 5 December
+3-3 Management of material topics ESRS 2 SBM-1§ 40 (e); SBM-3
+§48 (c) i and (c) iv; MDR-P, MDR-
+A, MDR-M, and MDR-T; ESRS S1
+S1-2 §27; S1-4 §39 and AR 40
+(a); S1-5 §47 (b) to (c); ESRS S2
+S2-2 §22; S2-4 §33, §AR 33 and
+§AR 36 (a); S2-5 §42 (b) to (c);
+ESRS S3 S3-2 §21; S3-4 §33,
+§AR 31, §AR 34 (a); S3-5 §42 (b)
+to (c); ESRS S4 S4-2 §20, S4-4
+§31, §AR 30, and §AR 33 (a); S4-
+5 §41 (b) to (c)
+See below for additional linkages
+to specific topics.
+GRI 201: Economic 201-1 Direct economic value generated This topic is not covered by the list
+Performance 2016 and distributed of sustainability matters in ESRS 1
+AR §16.
+201-2 Financial implications and other ESRS 2 SBM-3 §48 (a), and (d) to
+risks and opportunities due to climate (e); ESRS E1 §18; E1-3 §26; E1-9
+change §64
+201-3 Defined benefit plan obligations This topic is not covered by the list
+and other retirement plans of sustainability matters in ESRS 1
+AR §16.
+201-4 Financial assistance received This topic is not covered by the list
+from government of sustainability matters in ESRS 1
+AR §16.
+GRI 202: Market 202-1 Ratios of standard entry level ESRS S1 S1-10 §67-71 and §AR (2b) GRI 202-1 requires
+Presence 2016 wage by gender compared to local 72 to 73 information on the ratio of
+minimum wage the entry level wage by
+gender at significant
+locations of operation to the
+minimum wage. ESRS S1-
+10 requires information on
+whether all its employees
+are paid an adequate wage,
+in line with European Union
+regulation and applicable
+benchmarks.
+04-02 [draft] ESRS-GRI Interoperability SR TEG meeting 5 December
+202-2 Proportion of senior 'Communities’ economic, social (2b)
+management hired from the local and cultural rights' is a
+community sustainability matter for S3
+covered by ESRS 1 §AR 16.
+Hence this GRI disclosure is
+covered by MDR-P, MDR-A,
+MDR-T, and/or as an entity-
+specific metric to be disclosed
+according to ESRS 1 §11 and
+pursuant to MDR-M.
+GRI 203: Indirect 203-1 Infrastructure investments and 'Communities’ economic, social (2b)
+Economic Impacts services supported and cultural rights' is a
+2016 sustainability matter for S3
+covered by ESRS 1 §AR 16.
+Hence this GRI disclosure is
+covered by MDR-P, MDR-A,
+MDR-T, and/or as an entity-
+specific metric to be disclosed
+according to ESRS 1 §11 and
+pursuant to MDR-M.
+203-2 Significant indirect economic ESRS S1 S1-4 §AR 41; ESRS S2
+impacts S2-4 §AR 37; ESRS S3 S3-4 §AR
+36
+GRI 204: 3-3 Management of material topics ESRS G1 G1-2 §12
+Procurement 204-1 Proportion of spending on local 'Communities’ economic, social (2b)
+Practices 2016 suppliers and cultural rights' is a
+sustainability matter for S3
+covered by ESRS 1 §AR 16.
+Hence this GRI disclosure is
+covered by MDR-P, MDR-A,
+MDR-T, and/or as an entity-
+specific metric to be disclosed
+according to ESRS 1 §11 and
+pursuant to MDR-M.
+GRI 205: Anti- 3-3 Management of material topics ESRS G1 G1-1 §7; G1-3 §16 and
+corruption 2016 §18 (a) and §24 (b)
+205-1 Operations assessed for risks ESRS G1 G1-3 §AR 5 (1b) GRI 205-1 requires
+related to corruption quantitative data on the
+04-02 [draft] ESRS-GRI Interoperability SR TEG meeting 5 December
+extent of the risk
+assessment. ESRS G1-3
+§AR 5 is a narrative
+disclosure.
+205-2 Communication and training ESRS G1 G1-3 §20, §21 (b) and (1b) See GRI 205-1.
+about anti-corruption policies and (c) and §AR 7 and 8
+procedures
+205-3 Confirmed incidents of ESRS G1 G1-4 §25
+corruption and actions taken
+GRI 206: Anti- 206-1 Legal actions for anti-competitive This topic is not covered by the list
+competitive behavior, anti-trust, and monopoly of sustainability matters in ESRS 1
+Behavior 2016 practices AR §16.
+GRI 207: Tax 2019 207-1 Approach to tax This topic is not covered by the list
+of sustainability matters in ESRS 1
+AR §16.
+207-2 Tax governance, control, and This topic is not covered by the list
+risk management of sustainability matters in ESRS 1
+AR §16.
+207-3 Stakeholder engagement and This topic is not covered by the list
+management of concerns related to tax of sustainability matters in ESRS 1
+AR §16.
+207-4 Country-by-country reporting This topic is not covered by the list
+of sustainability matters in ESRS 1
+AR §16.
+GRI 301: Materials 3-3 Management of material topics ESRS E5 E5-1 §12; E5-2 §17; E5-
+2016 3 §21
+301-1 Materials used by weight or ESRS E5 E5-4 §31 (a) (1a) GRI 301-1 requires a
+volume breakdown by non-
+renewable and renewable
+materials used.
+301-2 Recycled input materials used ESRS E5 E5-4 §31 (c)
+04-02 [draft] ESRS-GRI Interoperability SR TEG meeting 5 December
+301-3 Reclaimed products and their 'Resource outflows related to (2b)
+packaging materials products and services' and 'Waste'
+are sustainability matters for E5
+covered by ESRS 1 §AR 16.
+Hence this GRI disclosure is
+covered by MDR-P, MDR-A,
+MDR-T, and/or as an entity-
+specific metric to be disclosed
+according to ESRS 1 §11 and
+pursuant to MDR-M.
+GRI 302: Energy 3-3 Management of material topics ESRS E1 E1-2 §25 (c) to (d); E1-3
+2016 §26; E1-4 §33
+302-1 Energy consumption within the ESRS E1 E1-5 §37; §38; §AR 32 (2b) Differences exist between
+organization (a), (c), (e) and (f) the two in how energy
+(302-1-a, b, c, e and g) consumption data is
+aggregated and
+disaggregated.
+302-2 Energy consumption outside of 'Energy' is a sustainability matter (2b)
+the organization for E1 covered by ESRS 1 §AR
+16. Hence this GRI disclosure is
+covered by MDR-P, MDR-A,
+MDR-T, and/or as an entity-
+specific metric to be disclosed
+according to ESRS 1 §11 and
+pursuant to MDR-M.
+302-3 Energy intensity ESRS E1 E1-5 §40 to §42
+302-4 Reduction of energy 'Energy' is a sustainability matter (2a)
+consumption for E1 covered by ESRS 1 §AR
+16. Hence this GRI disclosure is
+covered by MDR-P, MDR-A,
+MDR-T, and/or as an entity-
+specific metric to be disclosed
+according to ESRS 1 §11 and
+pursuant to MDR-M.
+04-02 [draft] ESRS-GRI Interoperability SR TEG meeting 5 December
+302-5 Reductions in energy 'Energy' is a sustainability matter (2a)
+requirements of products and services for E1 covered by ESRS 1 §AR
+16. Hence this GRI disclosure is
+covered by MDR-P, MDR-A,
+MDR-T, and/or as an entity-
+specific metric to be disclosed
+according to ESRS 1 §11 and
+pursuant to MDR-M.
+GRI 303: Water 3-3 Management of material topics ESRS E2 §AR 9 (b); E2-1 §12;
+and Effluents 2018 E2-2 §16 and §19; E2-3 §20;
+ESRS E3 E3-1 §9; E3-2 §15, §17
+to §18; E3-3 §20
+303-1 Interactions with water as a ESRS 2 SBM-3 §48 (a); MDR-T
+shared resource §80 (f); ESRS E3 §8 (a); §AR 15
+(a); E3-2 §15, §AR 20
+303-2 Management of water discharge- ESRS E2 E2-3 §24 (2b) GRI 303-2 refers to
+related impacts minimum standards in
+(303-2-iv) water quality discharges.
+ESRS E2-3 refers to the
+consideration of ecological
+thresholds in setting
+pollution targets.
+303-3 Water withdrawal 'Water withdrawals' is a (2b)
+sustainability matter for E3
+covered by ESRS 1 §AR 16.
+Hence this GRI disclosure is
+covered by MDR-P, MDR-A,
+MDR-T, and/or as an entity-
+specific metric to be disclosed
+according to ESRS 1 §11 and
+pursuant to MDR-M.
+303-4 Water discharge 'Water discharges' is a (2b)
+sustainability matter for E3
+covered by ESRS 1 §AR 16.
+Hence this GRI disclosure is
+covered by MDR-P, MDR-A,
+MDR-T, and/or as an entity-
+specific metric to be disclosed
+04-02 [draft] ESRS-GRI Interoperability SR TEG meeting 5 December
+according to ESRS 1 §11 and
+pursuant to MDR-M.
+303-5 Water consumption ESRS E3 E3-4 §28 (a), (b), (d)
+and (e)
+GRI 304: 3-3 Management of material topics ESRS E4 E4-1 §AR 1 (b) and (d);
+Biodiversity 2016 E4-2 §20 and §22; E4-3 §25 and
+§28 (a); E4-4 §29
+304-1 Operational sites owned, leased, ESRS E4 §16 (a) i; §19 (a); E4-5 (1a) GRI 304-1-a-v requires
+managed in, or adjacent to, protected §35 reporting the size for each
+areas and areas of high biodiversity operational site. ESRS E4-
+value outside protected areas 5 requires an aggregated
+(304-1-a-iv and v) figure for all sites.
+304-2 Significant impacts of activities, ESRS E4 E4-5 §35, §38, §39, §40
+products and services on biodiversity (a) and (c)
+(304-2-a-i, ii, iii, iv, v and vi; 304-2-b)
+304-3 Habitats protected or restored ESRS E4 E4-3 §28 (b) and §AR
+(304-3-a and b) 20 (e); E4-4 §AR 26 (a)
+304-4 IUCN Red List species and ESRS E4 E4-5 §40 (d) i (1b) GRI 304-4 requires
+national conservation list species with quantitative data on the
+habitats in areas affected by operations number of species affected
+by each level of extinction
+risk. ESRS E4-5 §40 (d) i is
+a narrative disclosure.
+GRI 305: 3-3 Management of material topics and ESRS E1 E1-2 §22; E1-3 §26; E1- (2a) GRI 305 requirement 1.2
+Emissions 2016 GRI 305 1.2 4 §33 and §34 (b); E1-7 §56 (b) requires reporting the type
+and §61 (c); ESRS E2 §AR 9 (b); and scheme of which
+E2-1 §12; E2-2 §16 and §19; E2-3 offsets are part.
+§20
+305-1 Direct (Scope 1) GHG emissions ESRS E1 E1-4 §34 (c); E1-6 §44
+(a); §46; §50; §AR 25 (b) and (c);
+§AR 39 (a) to (d); §AR 40; AR §43
+(c) to (d)
+04-02 [draft] ESRS-GRI Interoperability SR TEG meeting 5 December
+305-2 Energy indirect (Scope 2) GHG ESRS E1 E1-4 §34 (c); E1-6 §44
+emissions (b); §46; §49; §50; §AR 25 (b) and
+(c); §AR 39 (a) to (d); §AR 40;
+§AR 45 (a), (c), (d), and (f)
+305-3 Other indirect (Scope 3) GHG ESRS E1 E1-4 §34 (c); E1-6 §44
+emissions (c); §51; §AR 25 (b) and (c); §AR
+39 (a) to (d); §AR 46 (a) (i) to (k)
+305-4 GHG emissions intensity ESRS E1 E1-6 §53; §54; §AR 39 (1a) GRI 305-4 requires
+(c); §AR 53 (a) reporting the intensity ratio
+for Scope 3 GHG emissions
+separately from Scope 1
+and Scope 2. ESRS
+requires reporting the
+intensity ratio for the total
+GHG emissions.
+305-5 Reduction of GHG emissions ESRS E1 E1-3 §29 (b); E1-4 §34
+(305-5-a, c and 2.9.5) (c); §AR 25 (b) and (c); E1-7 §56
+305-6 Emissions of ozone-depleting 'Pollution of air' is a sustainability (2b)
+substances (ODS) matter for E2 covered by ESRS 1
+§AR 16. Hence this GRI
+disclosure is covered by MDR-P,
+MDR-A, MDR-T, and/or as an
+entity-specific metric to be
+disclosed according to ESRS 1
+§11 and pursuant to MDR-M.
+305-7 Nitrogen oxides (NOx), sulfur ESRS E2 E2-4 §28 (a); §30 (b)
+oxides (SOx), and other significant air and (c); §31; §AR 21; §AR 26
+emissions
+GRI 306: Waste 3-3 Management of material topics ESRS E5 §AR 7 (a); E5-1 §12;
+2020 E5-2 §17; E5-3 §21
+306-1 Waste generation and significant ESRS 2 SBM-3 §48 (a), (c) ii and
+waste-related impacts iv; ESRS E5 E5-4 §30
+306-2 Management of significant ESRS E5 E5-2 §17 and §20 (e)
+waste-related impacts and (f); E5-5 §40 and §AR 33 (c)
+(306-2-a and c)
+04-02 [draft] ESRS-GRI Interoperability SR TEG meeting 5 December
+306-3 Waste generated ESRS E5 E5-5 §37 (a), §38 to §40 (1b) GRI 306-3 requires
+quantitative data (i.e, a
+breakdown of the
+composition of the waste in
+metric tons). ESRS E5-5
+§38 requires a narrative
+disclosure.
+306-4 Waste diverted from disposal ESRS E5 E5-5 §37 (b), §38 and (1b) See GRI 306-3.
+(306-4-a, b, c, e) §40
+306-5 Waste directed to disposal ESRS E5 E5-5 §37 (c), §38 and (1a) GRI 306-4 requires a
+(306-5-a, b, c, e) §40 (1b) breakdown between
+incineration with energy
+recovery and incineration
+without energy recovery.
+See also GRI 306-3.
+GRI 306: Effluents 306-3 Significant spills 'Pollution of air', 'Pollution of (2b)
+and Waste 2016 water', and 'Pollution of soil' are
+sustainability matters for E2
+covered by ESRS 1 §AR 16.
+Hence this GRI disclosure is
+covered by MDR-P, MDR-A,
+MDR-T, and/or as an entity-
+specific metric to be disclosed
+according to ESRS 1 §11 and
+pursuant to MDR-M.
+GRI 308: Supplier 3-3 Management of material topics ESRS G1 G1-2 §12 and §15 (a)
+Environmental
+Assessment 2016
+308-1 New suppliers that were ESRS G1 G1-2 §15 (b) (1b) GRI 308-1 requires
+screened using environmental criteria quantitative data on the
+extent of new suppliers
+screened based on
+environmental criteria.
+ESRS G1-2 requires a
+narrative disclosure.
+308-2 Negative environmental impacts ESRS 2 SBM-3 §48 (c) i and iv
+in the supply chain and actions taken
+(308-2-c)
+04-02 [draft] ESRS-GRI Interoperability SR TEG meeting 5 December
+GRI 401: 3-3 Management of material topics ESRS S1 S1-1 §17; §20 (c); S1-2
+Employment 2016 §27; S1-4 §38; §39; §AR 40 (a);
+S1-5 §44; §47 (b) and (c); ESRS
+S2 §11 (c); S2-1 §14; §17 (c); S2-
+2 §22; S2-4 §32; §33 (a) and (b);
+§36; §AR 33; §AR 36 (a); S2-5
+§39, §42 (b) and (c)
+401-1 New employee hires and ESRS S1 S1-6 §50 (c) (1a) GRI 401-1-b requires
+employee turnover breakdowns by age group,
+(401-1-b) gender, and region.
+401-2 Benefits provided to full-time ESRS S1 S1-11 §74; §75; §AR 75
+employees that are not provided to
+temporary or part-time employees
+(401-2-a-ii, a-iii, a-iv, a-v and b)
+401-3 Parental leave ESRS S1 S1-15 §93 (1a) GRI 401-3 covers parental
+(401-3-a and b) leave. ESRS S1-15 covers
+family-related leave.
+Parental leave is one of the
+types of family-related
+leave. GRI 401-3-a requires
+a breakdown by gender for
+the parental leave.
+GRI 402: 3-3 Management of material topics ESRS S1 S1-1 §17; §20 (c); S1-2
+Labor/Management §27; S1-4 §38; §39; §AR 40 (a);
+Relations 2016 S1-5 §44; §47 (b) and (c); ESRS
+S2 §11 (c); S2-1 §14; §17 (c); S2-
+2 §22; S2-4 §32; §33 (a) and (b);
+§36; §AR 33; §AR 36 (a); S2-5
+§39, §42 (b) and (c)
+402-1 Minimum notice periods 'Social dialogue' and 'Collective (2b)
+regarding operational changes bargaining' are sustainability
+matters for S1 covered by ESRS 1
+§AR 16. Hence this GRI
+disclosure is covered by MDR-P,
+MDR-A, MDR-T, and/or as an
+entity-specific metric to be
+disclosed according to ESRS 1
+§11 and pursuant to MDR-M.
+04-02 [draft] ESRS-GRI Interoperability SR TEG meeting 5 December
+GRI 403: 3-3 Management of material topics ESRS S1 S1-1 §17; §20 (c); S1-2
+Occupational §27; S1-4 §38; §39; §AR 40 (a);
+Health and Safety S1-5 §44; §47 (b) and (c); ESRS
+2018 S2 §11 (c); S2-1 §14; §17 (c); S2-
+2 §22; S2-4 §32; §33 (a) and (b);
+§36; §AR 33; §AR 36 (a); S2-5
+§39, §42 (b) and (c)
+403-1 Occupational health and safety ESRS S1 S1-1 §23 (1a) GRI 403-1-a requires
+management system reporting the legal
+(403-1-a) requirements and
+management system
+standards on which the
+system is based. This
+information is not required
+in ESRS as this is regulated
+within the European Union.
+403-2 Hazard identification, risk ESRS S1 S1-3 §32 (b) and §33
+assessment, and incident investigation
+(403-2-b)
+403-3 Occupational health services 'Health and safety' and 'Training (2b)
+and skills development' are
+403-4 Worker participation,
+sustainability matters for S1
+consultation, and communication on
+covered by ESRS 1 §AR 16.
+occupational health and safety
+Hence this GRI disclosure is
+403-5 Worker training on occupational
+covered by MDR-P, MDR-A,
+health and safety
+MDR-T, and/or as an entity-
+specific metric to be disclosed
+according to ESRS 1 §11 and
+pursuant to MDR-M.
+403-6 Promotion of worker health 'Social protection' is a (2b)
+sustainability matter for S1
+covered by ESRS 1 §AR 16.
+Hence this GRI disclosure is
+covered by MDR-P, MDR-A,
+MDR-T, and/or as an entity-
+specific metric to be disclosed
+according to ESRS 1 §11 and
+pursuant to MDR-M.
+04-02 [draft] ESRS-GRI Interoperability SR TEG meeting 5 December
+403-7 Prevention and mitigation of ESRS S2 S2-4 §32 (a)
+occupational health and safety impacts
+directly linked by business
+relationships
+403-8 Workers covered by an ESRS S1 S1-14 §88 (a); §90 (2c)
+occupational health and safety
+management system
+(403-8-a and b)
+403-9 Work-related injuries ESRS S1 S1-4, §38 (a); S1-14 (1a) GRI 403-9-c-iii and d
+(403-9-a-i, a-iii, b-i, b-iii, c-iii, d, e) §88 (b) and (c); §AR 82 (2c) require reporting on the use
+of the hierarchy of controls.
+403-10 Work-related ill health ESRS S1 S1-4, §38 (a); S1-14 (1a) See GRI 403-9.
+(403-10-a-i, a-ii, b-i, b-ii, c-iii) §88 (b) and (d); §89; §AR 82 (2c)
+GRI 404: Training 3-3 Management of material topics ESRS S1 S1-1 §17; §20 (c); S1-2
+and Education §27; S1-4 §38; §39; §AR 40 (a);
+2016 S1-5 §44; §47 (b) and (c); ESRS
+S2 §11 (c); S2-1 §14; §17 (c); S2-
+2 §22; S2-4 §32; §33 (a) and (b);
+§36; §AR 33; §AR 36 (a); S2-5
+§39, §42 (b) and (c)
+404-1 Average hours of training per ESRS S1 S1-13 §83 (b) and §84
+year per employee
+404-2 Programs for upgrading ESRS S1 S1-1 §AR 17 (h)
+employee skills and transition
+assistance programs
+(404-2-a)
+404-3 Percentage of employees ESRS S1 S1-13 §83 (a) and §84
+receiving regular performance and
+career development reviews
+04-02 [draft] ESRS-GRI Interoperability SR TEG meeting 5 December
+GRI 405: Diversity 3-3 Management of material topics ESRS S1 S1-1 §17; §20 (c); S1-2
+and Equal §27; S1-4 §38; §39; §AR 40 (a);
+Opportunity 2016 S1-5 §44; §47 (b) and (c); ESRS
+S2 §11 (c); S2-1 §14; §17 (c); S2-
+2 §22; S2-4 §32; §33 (a) and (b);
+§36; §AR 33; §AR 36 (a); S2-5
+§39, §42 (b) and (c)
+3-3 Management of material topics ESRS S1 §24 (a)
+405-1 Diversity of governance bodies ESRS 2 GOV-1 §21 (d); ESRS S1 (1a) GRI 405-1-b requires
+and employees S1-6 §50 (a); S1-9 §66 (a) to (b); breakdowns by employee
+(405-1-a-i and iii, 405-1-b) S1-12 §79 category.
+405-2 Ratio of basic salary and ESRS S1 S1-16 §97 and §98
+remuneration of women to men
+GRI 406: Non- 3-3 Management of material topics ESRS S1 S1-1 §17; §20 (c); §24
+discrimination (a) and (d); S1-2 §27; S1-4 §38;
+2016 §39; §AR 40 (a); S1-5 §44; §47
+(b) and (c); ESRS S2 §11 (c); S2-
+1 §14; §17 (c); S2-2 §22; S2-4
+§32; §33 (a) and (b); §36; §AR 33;
+§AR 36 (a); S2-5 §39, §42 (b) and
+(c); ESRS S4 §10 (b); S4-1 §13;
+§16 (c); S4-2 §20; S4-4 §31; §32
+(a) and (b); §35; §AR 30; §AR 33
+(a); S4-5 §38; §41 (b) and (c)
+406-1 Incidents of discrimination and ESRS S1 S1-17 §97, §103 (a),
+corrective actions taken §AR 103
+GRI 407: Freedom 3-3 Management of material topics ESRS S1 S1-1 §17; §20 (c); S1-2
+of Association and §27; S1-4 §38; §39; §AR 40 (a);
+Collective S1-5 §44; §47 (b) and (c); ESRS
+Bargaining 2016 S2 §11 (c); S2-1 §14; §17 (c); S2-
+2 §22; S2-4 §32; §33 (a) and (b);
+§36; §AR 33; §AR 36 (a); S2-5
+§39, §42 (b) and (c)
+04-02 [draft] ESRS-GRI Interoperability SR TEG meeting 5 December
+407-1 Operations and suppliers in 'Freedom of association' and (2b)
+which the right to freedom of 'Collective bargaining' are
+association and collective bargaining sustainability matters for S1 and
+may be at risk S2 covered by ESRS 1 §AR 16.
+Hence this GRI disclosure is
+covered by MDR-P, MDR-A,
+MDR-T, and/or as an entity-
+specific metric to be disclosed
+according to ESRS 1 §11 and
+pursuant to MDR-M.
+GRI 408: Child 3-3 Management of material topics ESRS S1 S1-1 §17; §20 (c); §22;
+Labor 2016 S1-2 §27; S1-4 §38; §39; §AR 40
+(a); S1-5 §44; §47 (b) and (c);
+ESRS S2 §11 (c); S2-1 §14; §17
+(c); §18; S2-2 §22; S2-4 §32; §33
+(a) and (b); §36; §AR 33; §AR 36
+(a); S2-5 §39, §42 (b) and (c)
+408-1 Operations and suppliers at ESRS S1 §14 (g); S1-1 §22 ESRS (2a) GRI 408-1-b-i requires
+significant risk for incidents of child S2 §11 (b); S2-1 §18 reporting the types of
+labor suppliers at risk.
+(408-1-a-i, b, c)
+GRI 409: Forced or 3-3 Management of material topics ESRS S1 S1-1 §17; §20 (c); §22;
+Compulsory Labor S1-2 §27; S1-4 §38; §39; §AR 40
+2016 (a); S1-5 §44; §47 (b) and (c);
+ESRS S2 §11 (c); S2-1 §14; §17
+(c); §18; S2-2 §22; S2-4 §32; §33
+(a) and (b); §36; §AR 33; §AR 36
+(a); S2-5 §39, §42 (b) and (c)
+409-1 Operations and suppliers at ESRS S1 §14 (f); S1-1 §22 ESRS (2a) See GRI 408-1.
+significant risk for incidents of forced or S2 §11 (b); S2-1 §18
+compulsory labor
+GRI 410: Security 3-3 Management of material topics ESRS S3 §9 (b); S3-1 §12, and
+Practices 2016 §16 (c); S3-2 §21; S3-4 §32 (a) to
+(d), §33 (a) and (b), §35, 36; §AR
+31, §AR 34 (a); S3-5 §39, §43
+04-02 [draft] ESRS-GRI Interoperability SR TEG meeting 5 December
+410-1 Security personnel trained in 'Security-related impacts' is a (2b)
+human rights policies or procedures sustainability matter covered for
+S3 covered by ESRS 1 §AR 16.
+Hence this GRI disclosure is
+covered by MDR-P, MDR-A,
+MDR-T, and/or as an entity-
+specific metric to be disclosed
+according to ESRS 1 §11 and
+pursuant to MDR-M.
+GRI 411: Rights of 3-3 Management of material topics ESRS S3 §9 (b); S3-1 §12, §15
+Indigenous and §16 (c); S3-2 §21; S3-4 §32
+Peoples 2016 (a) to (d), §33 (a) and (b), §35, 36;
+§AR 31, §AR 34 (a); S3-5 §39,
+§43
+411-1 Incidents of violations involving ESRS S3 S3-1 §16 (c), AR 12; (1b) GRI 411-1 requires
+rights of indigenous peoples S3-4 §30, §32 (b), §33 (b), §36 quantitative data on the
+number of incidents. ESRS
+S3 requires narrative
+disclosures.
+GRI 413: Local 3-3 Management of material topics ESRS S3 §9 (b); S3-1 §12, and
+Communities 2016 §16 (c); S3-2 §21; S3-4 §32 (a) to
+(d), §33 (a) and (b), §35, 36; §AR
+31, §AR 34 (a); S3-5 §39, §43
+413-1 Operations with local community ESRS S3 S3-2 §19; S3-3 §25; S3- (1b) GRI 413-1 requires
+engagement, impact assessments, and 4 §AR 34 (c) quantitative data on
+development programs operations with
+implemented local
+community engagement,
+impact assessments,
+and/or development
+programs. ESRS S3
+includes narrative
+disclosures.
+413-2 Operations with significant actual ESRS 2 SBM-3 48 (c); ESRS S3
+and potential negative impacts on local §9 (a) i and (b)
+communities
+(413-2-a-ii)
+3-3 Management of material topics ESRS G1 G1-2 §12 and §15 (a)
+04-02 [draft] ESRS-GRI Interoperability SR TEG meeting 5 December
+414-1 New suppliers that were ESRS G1 G1-2 §15 (b) (1b) GRI 414-1 requires
+screened using social criteria quantitative data on the
+extent of new suppliers
+screened based on social
+GRI 414: Supplier criteria. ESRS G1-2
+Social Assessment requires a narrative
+2016 disclosure.
+414-2 Negative social impacts in the ESRS 2 SBM-3 §48 (c) i and iv
+supply chain and actions taken
+(414-2-c)
+GRI 415: Public 3-3 Management of material topics ESRS G1 G1-5 §27
+Policy 2016
+415-1 Political contributions ESRS G1 G1-5 §29 (b)
+GRI 416: Customer 3-3 Management of material topics ESRS S4 §10 (b); S4-1 §13, §16
+Health and Safety (c); S4-2 §20; S4-4 §31; §32 (a)
+2016 and (b), §35, §AR 30, §AR 33 (a);
+S4-5 §38, §41 (b) and (c)
+416-1 Assessment of the health and 'Personal safety of consumers and (2b)
+safety impacts of product and service end-users' is a sustainability
+categories matter for S4 covered by ESRS 1
+§AR 16. Hence this GRI
+disclosure is covered by MDR-P,
+MDR-A, MDR-T, and/or as an
+entity-specific metric to be
+disclosed according to ESRS 1
+§11 and pursuant to MDR-M.
+416-2 Incidents of non-compliance ESRS S4 S4-4 §35 (1b) GRI 416-2 requires
+concerning the health and safety quantitative data on the
+impacts of products and services number of incidents and
+breakdowns by types of
+incidents of non-
+compliance. ESRS S4-4
+requires a narrative
+disclosure.
+04-02 [draft] ESRS-GRI Interoperability SR TEG meeting 5 December
+GRI 417: Marketing 3-3 Management of material topics ESRS S4 §10 (b); S4-1 §13, §16
+and Labeling 2016 (c); S4-2 §20; S4-4 §31; §32 (a)
+and (b), §35, §AR 30, §AR 33 (a);
+S4-5 §38, §41 (b) and (c)
+417-1 Requirements for product and 'Information-related impacts for (2b)
+service information and labeling consumers and end-users' is a
+sustainability matter for S4
+covered by ESRS 1 §AR 16.
+Hence this GRI disclosure is
+covered by MDR-P, MDR-A,
+MDR-T, and/or as an entity-
+specific metric to be disclosed
+according to ESRS 1 §11 and
+pursuant to MDR-M.
+417-2 Incidents of non-compliance ESRS S4 S4-4 §35 (1b) GRI 417-2 requires
+concerning product and service quantitative data on the
+information and labeling number of incidents and
+breakdowns by types of
+incidents of non-
+compliance. ESRS S4-4
+requires a narrative
+disclosure.
+417-3 Incidents of non-compliance ESRS S4 S4-4 §35 (1b) See GRI 417-2.
+concerning marketing communications
+GRI 418: Customer 3-3 Management of material topics ESRS S4 §10 (b); S4-1 §13 and
+Privacy 2016 §16 (c); S4-2 §20; S4-4 §31, §32
+(a) and (b), §35, §AR 30, §AR 33
+(a); S4-5 §38, §41 (b) and (c)
+418-1 Substantiated complaints ESRS S4 S4-3 §AR 23; S4-4 §35 (1a) GRI 418-1 requires further
+concerning breaches of customer granularity on the type of
+privacy and losses of customer data complaints and the number
+of identified leaks, thefts, or
+losses of customer data.
+04-02 [draft] ESRS-GRI Interoperability SR TEG meeting 5 December
+Notes legend
+(1a) Differences in granularity: GRI requires further breakdowns or granularity.
+(1b) Differences in data type: GRI requires quantitative disclosure and ESRS requires qualitative disclosure.
+(2a) Differences in scope: GRI disclosure is broader and/or more specific than ESRS.
+(2b) Differences in scope: GRI and ESRS disclosures have the same disclosure objective but differ in how data points are formulated.
+(2c) Differences in scope: GRI 403 covers employees and workers who are not employees but whose work and/or workplace is controlled
+by the organization. ESRS S1-14 covers employees and non-employee workers (people with contracts with the undertaking to supply
+labour (“self-employed people”) or people provided by undertakings primarily engaged in “employment activities” (NACE Code N78)). For
+fatalities, ESRS S1-14 covers workers working on the undertaking’s sites.
+(3) Difference in definition of non-employees: GRI 2-8 covers workers who are not employees and whose work is controlled by the
+organization. ESRS S1-7 covers non-employee workers (people with contracts with the undertaking to supply labour (“self-employed
+people”) or people provided by undertakings primarily engaged in “employment activities” (NACE Code N78)).
+04-02 [draft] ESRS-GRI Interoperability SR TEG meeting 5 December
