@@ -9,6 +9,7 @@ app = FastAPI()
 # Hämta API-nycklar och miljövariabler från Render
 PINECONE_API_KEY = os.getenv("PINECONE_API_KEY")
 PINECONE_INDEX_NAME = os.getenv("PINECONE_INDEX_NAME")
+VECTOR_DIMENSION = int(os.getenv("VECTOR_DIMENSION", 1536))  # Använd miljövariabel eller standardvärde
 
 # Initiera Pinecone med den nya metoden
 pc = Pinecone(api_key=PINECONE_API_KEY)
@@ -20,7 +21,9 @@ if PINECONE_INDEX_NAME not in pc.list_indexes().names():
         spec=ServerlessSpec(
             cloud="aws",  # Justera om du använder en annan molnleverantör
             region="us-east-1"  # Justera efter din Pinecone-konfiguration
-        )
+        ),
+        dimension=VECTOR_DIMENSION,  # Ange dimensionen här
+        metric="cosine"  # Ange metrik här
     )
 
 # Endpoint för att verifiera att API:t fungerar
