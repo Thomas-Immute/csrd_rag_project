@@ -3,3 +3,5 @@ flask-cors
 openai
 pinecone-client
 gunicorn
+fastapi
+uvicorn
