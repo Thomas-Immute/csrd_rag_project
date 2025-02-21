@@ -1,6 +1,7 @@
 import os
 from fastapi import FastAPI
 from pinecone import Pinecone
+from pinecone import ServerlessSpec
 
 # Skapa en instans av FastAPI
 app = FastAPI()
@@ -16,8 +17,10 @@ pc = Pinecone(api_key=PINECONE_API_KEY)
 if PINECONE_INDEX_NAME not in pc.list_indexes().names():
     pc.create_index(
         name=PINECONE_INDEX_NAME,
-        dimension=1536,  # Anpassa detta beroende på din embedding-modell
-        metric="cosine"
+        spec=ServerlessSpec(
+            cloud="aws",  # Justera om du använder en annan molnleverantör
+            region="us-east-1"  # Justera efter din Pinecone-konfiguration
+        )
     )
 
 # Endpoint för att verifiera att API:t fungerar
