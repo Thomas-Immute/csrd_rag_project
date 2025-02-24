@@ -25,7 +25,7 @@ app = FastAPI()
 # Lägg till CORS-stöd
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["https://finch-penguin-z9kz.squarespace.com"],  # ✅ Ta bort extra "/"
+    allow_origins=["*"],  
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
