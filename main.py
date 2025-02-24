@@ -7,7 +7,7 @@ from pydantic import BaseModel
 # Skapa en instans av FastAPI
 app = FastAPI()
 
-load_dotenv()
+load_dotenv(".env")
 
 # Hämta API-nycklar och miljövariabler från Render
 PINECONE_API_KEY = os.getenv("PINECONE_API_KEY")
@@ -48,7 +48,7 @@ def read_root():
 class Vector(BaseModel):
     id: str
     values: list[float]
-    
+
 # Endpoint för att lägga till en vektor i Pinecone
 @app.post("/add-vector/")
 def add_vector(vector: Vector):
@@ -68,3 +68,7 @@ def search_vector(values: list[float], top_k: int = 5):
         return result
     except Exception as e:
         raise HTTPException(status_code=500, detail=f"Fel vid sökning: {str(e)}")
+
+print("PINECONE_API_KEY:", PINECONE_API_KEY)
+print("PINECONE_INDEX_NAME:", PINECONE_INDEX_NAME)
+print("VECTOR_DIMENSION:", VECTOR_DIMENSION)
