@@ -3,16 +3,15 @@ from fastapi import FastAPI, HTTPException
 from pinecone import Pinecone, ServerlessSpec
 from dotenv import load_dotenv
 from pydantic import BaseModel
+from fastapi.middleware.cors import CORSMiddleware
 
-# Skapa en instans av FastAPI
-app = FastAPI()
-
+# Ladda miljövariabler från .env
 load_dotenv(".env")
 
 # Hämta API-nycklar och miljövariabler från Render
 PINECONE_API_KEY = os.getenv("PINECONE_API_KEY")
 PINECONE_INDEX_NAME = os.getenv("PINECONE_INDEX_NAME")
-VECTOR_DIMENSION = int(os.getenv("VECTOR_DIMENSION", 1536))  # Använd standardvärde om ingen är satt
+VECTOR_DIMENSION = int(os.getenv("VECTOR_DIMENSION", 1536))  # Standardvärde
 PINECONE_ENVIRONMENT = os.getenv("PINECONE_ENVIRONMENT")
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
 
@@ -20,33 +19,44 @@ OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
 if not PINECONE_API_KEY or not PINECONE_INDEX_NAME:
     raise RuntimeError("Pinecone API-nyckel eller indexnamn saknas. Kontrollera dina miljövariabler.")
 
+# Skapa en instans av FastAPI
+app = FastAPI()
+
+# Lägg till CORS-stöd
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["https://finch-penguin-z9kz.squarespace.com"],  # ✅ Ta bort extra "/"
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
+
 # Initiera Pinecone
 pc = Pinecone(api_key=PINECONE_API_KEY)
 
-# Kontrollera om indexet finns, annars skapa det
-if PINECONE_INDEX_NAME not in pc.list_indexes().names():
-    pc.create_index(
-        name=PINECONE_INDEX_NAME,
-        dimension=VECTOR_DIMENSION,  # Viktigt att dimension anges här
-        metric="cosine",
-        spec=ServerlessSpec(
-            cloud="aws",  # Justera vid behov
-            region="us-east-1"  # Justera vid behov
-        ),
-    )
+# Funktion för att hämta eller skapa indexet
+def get_or_create_index():
+    if PINECONE_INDEX_NAME not in pc.list_indexes().names():
+        pc.create_index(
+            name=PINECONE_INDEX_NAME,
+            dimension=VECTOR_DIMENSION,  
+            metric="cosine",
+            spec=ServerlessSpec(
+                cloud="aws",  
+                region="us-east-1"
+            ),
+        )
+    return pc.Index(PINECONE_INDEX_NAME)
 
-# Funktion för att hämta indexet
-def get_index():
-    try:
-        return pc.Index(PINECONE_INDEX_NAME)
-    except Exception as e:
-        raise HTTPException(status_code=500, detail=f"Fel vid anslutning till Pinecone-index: {str(e)}")
+# Hämta indexet en gång vid start
+index = get_or_create_index()
 
 # Endpoint för att verifiera att API:t fungerar
 @app.get("/")
 def read_root():
     return {"message": "API fungerar!"}
 
+# Definiera en modell för vektor-data
 class Vector(BaseModel):
     id: str
     values: list[float]
@@ -55,7 +65,6 @@ class Vector(BaseModel):
 @app.post("/add-vector/")
 def add_vector(vector: Vector):
     try:
-        index = get_index()
         index.upsert(vectors=[{"id": vector.id, "values": vector.values}])
         return {"message": f"Vektor {vector.id} har lagts till."}
     except Exception as e:
@@ -65,12 +74,12 @@ def add_vector(vector: Vector):
 @app.post("/search/")
 def search_vector(values: list[float], top_k: int = 5):
     try:
-        index = get_index()
         result = index.query(vector=values, top_k=top_k, include_metadata=True)
         return result
     except Exception as e:
         raise HTTPException(status_code=500, detail=f"Fel vid sökning: {str(e)}")
 
+# Skriv ut viktiga variabler vid start (för debugging)
 print("PINECONE_API_KEY:", PINECONE_API_KEY)
 print("PINECONE_INDEX_NAME:", PINECONE_INDEX_NAME)
 print("VECTOR_DIMENSION:", VECTOR_DIMENSION)
