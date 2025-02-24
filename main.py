@@ -2,6 +2,7 @@ import os
 from fastapi import FastAPI, HTTPException
 from pinecone import Pinecone, ServerlessSpec
 from dotenv import load_dotenv
+from pydantic import BaseModel
 
 # Skapa en instans av FastAPI
 app = FastAPI()
@@ -44,13 +45,17 @@ def get_index():
 def read_root():
     return {"message": "API fungerar!"}
 
+class Vector(BaseModel):
+    id: str
+    values: list[float]
+    
 # Endpoint för att lägga till en vektor i Pinecone
 @app.post("/add-vector/")
-def add_vector(id: str, values: list[float]):
+def add_vector(vector: Vector):
     try:
         index = get_index()
-        index.upsert(vectors=[{"id": id, "values": values}])
-        return {"message": f"Vektor {id} har lagts till."}
+        index.upsert(vectors=[{"id": vector.id, "values": vector.values}])
+        return {"message": f"Vektor {vector.id} har lagts till."}
     except Exception as e:
         raise HTTPException(status_code=500, detail=f"Fel vid tillägg av vektor: {str(e)}")
 
