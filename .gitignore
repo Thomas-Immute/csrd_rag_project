@@ -12,3 +12,5 @@ __pycache__/
 # Ignorera OS-specifika filer
 .DS_Store
 Thumbs.db
+
+test.http
