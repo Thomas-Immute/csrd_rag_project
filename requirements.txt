@@ -2,7 +2,7 @@ flask
 flask-cors
 openai
 python-multipart
-pinecone-client
+pinecone
 gunicorn
 fastapi
 uvicorn
