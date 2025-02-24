@@ -13,6 +13,8 @@ load_dotenv(".env")
 PINECONE_API_KEY = os.getenv("PINECONE_API_KEY")
 PINECONE_INDEX_NAME = os.getenv("PINECONE_INDEX_NAME")
 VECTOR_DIMENSION = int(os.getenv("VECTOR_DIMENSION", 1536))  # Använd standardvärde om ingen är satt
+PINECONE_ENVIRONMENT = os.getenv("PINECONE_ENVIRONMENT")
+OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
 
 # Kontrollera att API-nycklar finns
 if not PINECONE_API_KEY or not PINECONE_INDEX_NAME:
