@@ -1,9 +1,12 @@
 import os
 from fastapi import FastAPI, HTTPException
 from pinecone import Pinecone, ServerlessSpec
+from dotenv import load_dotenv
 
 # Skapa en instans av FastAPI
 app = FastAPI()
+
+load_dotenv()
 
 # Hämta API-nycklar och miljövariabler från Render
 PINECONE_API_KEY = os.getenv("PINECONE_API_KEY")
