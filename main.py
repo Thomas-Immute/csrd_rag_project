@@ -1,5 +1,5 @@
 import os
-from fastapi import FastAPI, HTTPException
+from fastapi import FastAPI, HTTPException, Request
 from pinecone import Pinecone, ServerlessSpec
 from dotenv import load_dotenv
 from pydantic import BaseModel
@@ -79,7 +79,13 @@ def search_vector(values: list[float], top_k: int = 5):
     except Exception as e:
         raise HTTPException(status_code=500, detail=f"Fel vid sökning: {str(e)}")
 
-# Skriv ut viktiga variabler vid start (för debugging)
-print("PINECONE_API_KEY:", PINECONE_API_KEY)
-print("PINECONE_INDEX_NAME:", PINECONE_INDEX_NAME)
-print("VECTOR_DIMENSION:", VECTOR_DIMENSION)
+@app.post("/add-vector/")
+async def add_vector(request: Request):
+    # Hämta data från Squarespace-förfrågan
+    data = await request.json()
+
+    # Logga inkommande data i terminalen
+    print("Mottagen data från Squarespace:", data)
+
+    # Returnera ett test-svar för att se om API:et fungerar
+    return {"status": "ok"}
