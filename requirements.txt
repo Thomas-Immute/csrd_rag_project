@@ -6,3 +6,4 @@ pinecone
 gunicorn
 fastapi
 uvicorn
+python-dotenv
