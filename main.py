@@ -64,30 +64,31 @@ async def add_vector(data: MessageInput):
 # Endpoint för att söka i Pinecone
 @app.post("/search/")
 async def search_vector(data: SearchInput):
+    print(f"Mottagen data: {data}")
     try:
-        # Skapa en embedding från sökfrågan
         response = openai.Embedding.create(
             input=data.message,
             model="text-embedding-ada-002"
         )
         query_vector = response["data"][0]["embedding"]
+        print(f"Embedding skapad: {query_vector[:5]}...")
 
-        # Sök i Pinecone
         search_results = index.query(vector=query_vector, top_k=1, include_metadata=True)
+        print(f"Pinecone-resultat: {search_results}")
 
-        # Om vi hittar en match, returnera den
         if search_results["matches"] and search_results["matches"][0]["score"] > 0.8:
             best_match = search_results["matches"][0]
+            print(f"Bästa matchning: {best_match}")
             return {"response": best_match["metadata"]["text"], "source": "database"}
 
-        # Om ingen bra match hittas, använd GPT-4
         gpt_response = openai.ChatCompletion.create(
             model="gpt-4",
             messages=[{"role": "system", "content": "Du är en expert på CSRD och ESRS."},
                       {"role": "user", "content": data.message}]
         )
-
+        print(f"GPT-4-svar: {gpt_response}")
         return {"response": gpt_response["choices"][0]["message"]["content"], "source": "gpt-4"}
 
     except Exception as e:
+        print(f"Fel vid sökning: {str(e)}")
         raise HTTPException(status_code=500, detail=f"Fel vid sökning: {str(e)}")
