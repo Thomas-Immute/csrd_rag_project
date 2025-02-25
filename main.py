@@ -85,6 +85,9 @@ async def add_vector(request: Request):
         print("Mottagen data från Squarespace:", data)  # Logga inkommande data
 
         # Kontrollera att nödvändiga fält finns i datan
+        if not isinstance(data, dict):
+            raise HTTPException(status_code=400, detail="Felaktigt format: Data måste vara ett JSON-objekt.")
+
         if "id" not in data or "vector" not in data:
             raise HTTPException(status_code=400, detail="Felaktigt format: 'id' och 'vector' krävs.")
 
@@ -92,8 +95,8 @@ async def add_vector(request: Request):
         vector_values = data["vector"]
 
         # Kontrollera vektorns dimension
-        expected_dimension = 1536  # Justera efter ditt index
-        if len(vector_values) != expected_dimension:
+        expected_dimension = 1536  # Anpassa efter ditt index
+        if not isinstance(vector_values, list) or len(vector_values) != expected_dimension:
             raise HTTPException(status_code=400, detail=f"Felaktig vektordimension: {len(vector_values)} istället för {expected_dimension}.")
 
         # Lägg till vektorn i Pinecone
@@ -102,18 +105,9 @@ async def add_vector(request: Request):
         return {"status": "success", "message": f"Vektor {vector_id} har lagts till."}
 
     except HTTPException as e:
-        raise e  # Låt FastAPI hantera HTTP-fel korrekt
+        print(f"HTTP-fel: {e.detail}")
+        raise e
     except Exception as e:
         print(f"Fel vid tillägg av vektor: {e}")
         raise HTTPException(status_code=500, detail=f"Internt serverfel: {str(e)}")
-    
-@app.post("/add-vector/")
-async def add_vector(request: Request):
-    # Hämta data från Squarespace-förfrågan
-    data = await request.json()
 
-    # Logga inkommande data i terminalen
-    print("Mottagen data från Squarespace:", data)
-
-    # Returnera ett test-svar för att se om API:et fungerar
-    return {"status": "ok"}
