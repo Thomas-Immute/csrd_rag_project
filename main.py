@@ -4,6 +4,7 @@ from pinecone import Pinecone
 from dotenv import load_dotenv
 from pydantic import BaseModel
 import openai
+from fastapi.middleware.cors import CORSMiddleware
 
 # Ladda miljövariabler
 load_dotenv()
@@ -78,3 +79,12 @@ async def search_vector(data: SearchInput):
 
     except Exception as e:
         raise HTTPException(status_code=500, detail=f"Fel vid sökning: {str(e)}")
+
+# Lägg till CORS-stöd och tillåt endast din domän
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["https://www.csrd-guiden.net"],  # Tillåt endast din frontend-domän
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
