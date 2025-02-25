@@ -5,6 +5,7 @@ from dotenv import load_dotenv
 from pydantic import BaseModel
 import openai
 from fastapi.middleware.cors import CORSMiddleware
+import uvicorn
 
 # Ladda miljövariabler
 load_dotenv()
@@ -66,7 +67,7 @@ async def search_vector(data: SearchInput):
         # Om vi hittar en match, returnera den
         if search_results["matches"] and search_results["matches"][0]["score"] > 0.8:
             best_match = search_results["matches"][0]
-            return {"response": best_match["metadata"]["text"]}
+            return {"response": best_match["metadata"]["text"], "source": "database"}
 
         # Om ingen bra match hittas, använd GPT-4
         gpt_response = openai.ChatCompletion.create(
@@ -75,7 +76,7 @@ async def search_vector(data: SearchInput):
                       {"role": "user", "content": data.message}]
         )
 
-        return {"response": gpt_response["choices"][0]["message"]["content"]}
+        return {"response": gpt_response["choices"][0]["message"]["content"], "source": "gpt-4"}
 
     except Exception as e:
         raise HTTPException(status_code=500, detail=f"Fel vid sökning: {str(e)}")
@@ -83,8 +84,12 @@ async def search_vector(data: SearchInput):
 # Lägg till CORS-stöd och tillåt endast din domän
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["https://www.csrd-guiden.net"],  # Tillåt endast din frontend-domän
+    allow_origins=["*"],  # Testa med detta först, ändra sedan tillbaka till ["https://www.csrd-guiden.net"]
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
 )
+
+if __name__ == "__main__":
+    port = int(os.environ.get("PORT", 8000))  # Render brukar använda 8000
+    uvicorn.run(app, host="0.0.0.0", port=port)
