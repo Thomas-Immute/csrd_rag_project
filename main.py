@@ -1,102 +1,80 @@
 import os
-from fastapi import FastAPI, HTTPException, Request
-from pinecone import Pinecone, ServerlessSpec
+from fastapi import FastAPI, HTTPException
+from pinecone import Pinecone
 from dotenv import load_dotenv
 from pydantic import BaseModel
-from fastapi.middleware.cors import CORSMiddleware
-import uvicorn
+import openai
 
-# Ladda miljövariabler från .env
-load_dotenv(".env")
+# Ladda miljövariabler
+load_dotenv()
 
-# Hämta API-nycklar och miljövariabler från Render
+OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
 PINECONE_API_KEY = os.getenv("PINECONE_API_KEY")
 PINECONE_INDEX_NAME = os.getenv("PINECONE_INDEX_NAME")
-VECTOR_DIMENSION = int(os.getenv("VECTOR_DIMENSION", 1536))  # Standardvärde
-PINECONE_ENVIRONMENT = os.getenv("PINECONE_ENVIRONMENT")
-OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
 
-# Kontrollera att API-nycklar finns
-if not PINECONE_API_KEY or not PINECONE_INDEX_NAME:
-    raise RuntimeError("Pinecone API-nyckel eller indexnamn saknas. Kontrollera dina miljövariabler.")
+# Initiera API:er
+openai.api_key = OPENAI_API_KEY
+pc = Pinecone(api_key=PINECONE_API_KEY)
+index = pc.Index(PINECONE_INDEX_NAME)
 
-# Skapa en instans av FastAPI
+# Skapa FastAPI-app
 app = FastAPI()
 
-# Lägg till CORS-stöd
-app.add_middleware(
-    CORSMiddleware,
-    allow_origins=["*"],  
-    allow_credentials=True,
-    allow_methods=["*"],
-    allow_headers=["*"],
-)
-
-# Initiera Pinecone
-pc = Pinecone(api_key=PINECONE_API_KEY)
-
-# Funktion för att hämta eller skapa indexet
-def get_or_create_index():
-    if PINECONE_INDEX_NAME not in pc.list_indexes().names():
-        pc.create_index(
-            name=PINECONE_INDEX_NAME,
-            dimension=VECTOR_DIMENSION,  
-            metric="cosine",
-            spec=ServerlessSpec(
-                cloud="aws",  
-                region="us-east-1"
-            ),
-        )
-    return pc.Index(PINECONE_INDEX_NAME)
-
-# Hämta indexet en gång vid start
-index = get_or_create_index()
-
-# Endpoint för att verifiera att API:t fungerar
-@app.get("/")
-def read_root():
-    return {"message": "API fungerar!"}
-
-# Definiera en modell för vektor-data
-class Vector(BaseModel):
+# Modell för att ta emot data
+class MessageInput(BaseModel):
     id: str
-    vector: list[float]
+    message: str
 
-# Endpoint för att lägga till en vektor i Pinecone
+# Modell för sökning
+class SearchInput(BaseModel):
+    message: str
+
+# Endpoint för att lägga till vektor i Pinecone
 @app.post("/add-vector/")
-async def add_vector(request: Request):
-    """ Tar emot JSON-data från Squarespace och lägger till en vektor i Pinecone """
+async def add_vector(data: MessageInput):
     try:
-        data = await request.json()
-        print("Mottagen data från Squarespace:", data)  # Logga inkommande data
+        # Skapa en embedding från meddelandet
+        response = openai.Embedding.create(
+            input=data.message,
+            model="text-embedding-ada-002"
+        )
+        vector = response["data"][0]["embedding"]
 
-        # Kontrollera att nödvändiga fält finns i datan
-        if not isinstance(data, dict):
-            raise HTTPException(status_code=400, detail="Felaktigt format: Data måste vara ett JSON-objekt.")
+        # Lagra vektorn i Pinecone
+        index.upsert([{"id": data.id, "values": vector, "metadata": {"text": data.message}}])
 
-        if "id" not in data or "vector" not in data:
-            raise HTTPException(status_code=400, detail="Felaktigt format: 'id' och 'vector' krävs.")
+        return {"status": "success", "message": f"Vektor för '{data.message}' har lagts till."}
 
-        vector_id = data["id"]
-        vector_values = data["vector"]
-
-        # Kontrollera vektorns dimension
-        expected_dimension = VECTOR_DIMENSION  # Anpassa efter ditt index
-        if not isinstance(vector_values, list) or len(vector_values) != expected_dimension:
-            raise HTTPException(status_code=400, detail=f"Felaktig vektordimension: {len(vector_values)} istället för {expected_dimension}.")
-
-        # Lägg till vektorn i Pinecone
-        index.upsert([(vector_id, vector_values)])
-
-        return {"status": "success", "message": f"Vektor {vector_id} har lagts till."}
-
-    except HTTPException as e:
-        print(f"HTTP-fel: {e.detail}")
-        raise e
     except Exception as e:
-        print(f"Fel vid tillägg av vektor: {e}")
-        raise HTTPException(status_code=500, detail=f"Internt serverfel: {str(e)}")
+        raise HTTPException(status_code=500, detail=f"Fel: {str(e)}")
 
-if __name__ == "__main__":
-    port = int(os.getenv("PORT", 8000))  # Render sätter PORT, fallback till 8000
-    uvicorn.run(app, host="0.0.0.0", port=port)
+# Endpoint för att söka i Pinecone
+@app.post("/search/")
+async def search_vector(data: SearchInput):
+    try:
+        # Skapa en embedding från sökfrågan
+        response = openai.Embedding.create(
+            input=data.message,
+            model="text-embedding-ada-002"
+        )
+        query_vector = response["data"][0]["embedding"]
+
+        # Sök i Pinecone
+        search_results = index.query(vector=query_vector, top_k=1, include_metadata=True)
+
+        # Om vi hittar en match, returnera den
+        if search_results["matches"] and search_results["matches"][0]["score"] > 0.8:
+            best_match = search_results["matches"][0]
+            return {"response": best_match["metadata"]["text"]}
+
+        # Om ingen bra match hittas, använd GPT-4
+        gpt_response = openai.ChatCompletion.create(
+            model="gpt-4",
+            messages=[{"role": "system", "content": "Du är en expert på CSRD och ESRS."},
+                      {"role": "user", "content": data.message}]
+        )
+
+        return {"response": gpt_response["choices"][0]["message"]["content"]}
+
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=f"Fel vid sökning: {str(e)}")
