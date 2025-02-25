@@ -4,6 +4,7 @@ from pinecone import Pinecone, ServerlessSpec
 from dotenv import load_dotenv
 from pydantic import BaseModel
 from fastapi.middleware.cors import CORSMiddleware
+import uvicorn
 
 # Ladda miljövariabler från .env
 load_dotenv(".env")
@@ -56,6 +57,10 @@ index = get_or_create_index()
 def read_root():
     return {"message": "API fungerar!"}
 
+if __name__ == "__main__":
+    port = int(os.getenv("PORT", 8000))  # Render sätter PORT, fallback till 8000
+    uvicorn.run(app, host="0.0.0.0", port=port)
+
 # Definiera en modell för vektor-data
 class Vector(BaseModel):
     id: str
@@ -70,15 +75,38 @@ def add_vector(vector: Vector):
     except Exception as e:
         raise HTTPException(status_code=500, detail=f"Fel vid tillägg av vektor: {str(e)}")
 
-# Endpoint för att söka efter en vektor i Pinecone
-@app.post("/search/")
-def search_vector(values: list[float], top_k: int = 5):
-    try:
-        result = index.query(vector=values, top_k=top_k, include_metadata=True)
-        return result
-    except Exception as e:
-        raise HTTPException(status_code=500, detail=f"Fel vid sökning: {str(e)}")
 
+# Endpoint för att söka efter en vektor i Pinecone
+@app.post("/add-vector/")
+async def add_vector(request: Request):
+    """ Tar emot JSON-data från Squarespace och lägger till en vektor i Pinecone """
+    try:
+        data = await request.json()
+        print("Mottagen data från Squarespace:", data)  # Logga inkommande data
+
+        # Kontrollera att nödvändiga fält finns i datan
+        if "id" not in data or "vector" not in data:
+            raise HTTPException(status_code=400, detail="Felaktigt format: 'id' och 'vector' krävs.")
+
+        vector_id = data["id"]
+        vector_values = data["vector"]
+
+        # Kontrollera vektorns dimension
+        expected_dimension = 1536  # Justera efter ditt index
+        if len(vector_values) != expected_dimension:
+            raise HTTPException(status_code=400, detail=f"Felaktig vektordimension: {len(vector_values)} istället för {expected_dimension}.")
+
+        # Lägg till vektorn i Pinecone
+        index.upsert([(vector_id, vector_values)])
+
+        return {"status": "success", "message": f"Vektor {vector_id} har lagts till."}
+
+    except HTTPException as e:
+        raise e  # Låt FastAPI hantera HTTP-fel korrekt
+    except Exception as e:
+        print(f"Fel vid tillägg av vektor: {e}")
+        raise HTTPException(status_code=500, detail=f"Internt serverfel: {str(e)}")
+    
 @app.post("/add-vector/")
 async def add_vector(request: Request):
     # Hämta data från Squarespace-förfrågan
