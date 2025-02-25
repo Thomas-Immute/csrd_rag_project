@@ -70,7 +70,7 @@ async def search_vector(data: SearchInput):
             input=data.message,
             model="text-embedding-ada-002"
         )
-        query_vector = response["data"][0]["embedding"]
+        query_vector = response.data[0].embedding
         print(f"Embedding skapad: {query_vector[:5]}...")
 
         search_results = index.query(vector=query_vector, top_k=1, include_metadata=True)
