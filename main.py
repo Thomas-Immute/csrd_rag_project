@@ -57,26 +57,12 @@ index = get_or_create_index()
 def read_root():
     return {"message": "API fungerar!"}
 
-if __name__ == "__main__":
-    port = int(os.getenv("PORT", 8000))  # Render sätter PORT, fallback till 8000
-    uvicorn.run(app, host="0.0.0.0", port=port)
-
 # Definiera en modell för vektor-data
 class Vector(BaseModel):
     id: str
-    values: list[float]
+    vector: list[float]
 
 # Endpoint för att lägga till en vektor i Pinecone
-@app.post("/add-vector/")
-def add_vector(vector: Vector):
-    try:
-        index.upsert(vectors=[{"id": vector.id, "values": vector.values}])
-        return {"message": f"Vektor {vector.id} har lagts till."}
-    except Exception as e:
-        raise HTTPException(status_code=500, detail=f"Fel vid tillägg av vektor: {str(e)}")
-
-
-# Endpoint för att söka efter en vektor i Pinecone
 @app.post("/add-vector/")
 async def add_vector(request: Request):
     """ Tar emot JSON-data från Squarespace och lägger till en vektor i Pinecone """
@@ -95,7 +81,7 @@ async def add_vector(request: Request):
         vector_values = data["vector"]
 
         # Kontrollera vektorns dimension
-        expected_dimension = 1536  # Anpassa efter ditt index
+        expected_dimension = VECTOR_DIMENSION  # Anpassa efter ditt index
         if not isinstance(vector_values, list) or len(vector_values) != expected_dimension:
             raise HTTPException(status_code=400, detail=f"Felaktig vektordimension: {len(vector_values)} istället för {expected_dimension}.")
 
@@ -111,3 +97,6 @@ async def add_vector(request: Request):
         print(f"Fel vid tillägg av vektor: {e}")
         raise HTTPException(status_code=500, detail=f"Internt serverfel: {str(e)}")
 
+if __name__ == "__main__":
+    port = int(os.getenv("PORT", 8000))  # Render sätter PORT, fallback till 8000
+    uvicorn.run(app, host="0.0.0.0", port=port)
