@@ -2,7 +2,7 @@ import os
 from fastapi import FastAPI, HTTPException
 from pinecone import Pinecone
 from pydantic import BaseModel
-import openai
+from openai import OpenAI
 from fastapi.middleware.cors import CORSMiddleware
 import uvicorn
 
@@ -12,7 +12,7 @@ PINECONE_API_KEY = os.getenv("PINECONE_API_KEY")
 PINECONE_INDEX_NAME = os.getenv("PINECONE_INDEX_NAME")
 
 # Initiera API:er
-openai.api_key = OPENAI_API_KEY
+client = OpenAI(api_key=OPENAI_API_KEY) 
 pc = Pinecone(api_key=PINECONE_API_KEY)
 index = pc.Index(PINECONE_INDEX_NAME)
 
@@ -47,7 +47,7 @@ class SearchInput(BaseModel):
 async def add_vector(data: MessageInput):
     try:
         # Skapa en embedding från meddelandet
-        response = openai.Embedding.create(
+        response = client.embeddings.create(
             input=data.message,
             model="text-embedding-ada-002"
         )
@@ -66,7 +66,7 @@ async def add_vector(data: MessageInput):
 async def search_vector(data: SearchInput):
     print(f"Mottagen data: {data}")
     try:
-        response = openai.Embedding.create(
+        response = client.embeddings.create(
             input=data.message,
             model="text-embedding-ada-002"
         )
@@ -81,7 +81,7 @@ async def search_vector(data: SearchInput):
             print(f"Bästa matchning: {best_match}")
             return {"response": best_match["metadata"]["text"], "source": "database"}
 
-        gpt_response = openai.ChatCompletion.create(
+        gpt_response = client.chat.completions.create(
             model="gpt-4",
             messages=[{"role": "system", "content": "Du är en expert på CSRD och ESRS."},
                       {"role": "user", "content": data.message}]
