@@ -1,15 +1,12 @@
 import os
 from fastapi import FastAPI, HTTPException
 from pinecone import Pinecone
-from dotenv import load_dotenv
 from pydantic import BaseModel
 import openai
 from fastapi.middleware.cors import CORSMiddleware
 import uvicorn
 
-# Ladda miljövariabler
-load_dotenv()
-
+# Hämta miljövariabler från Render
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
 PINECONE_API_KEY = os.getenv("PINECONE_API_KEY")
 PINECONE_INDEX_NAME = os.getenv("PINECONE_INDEX_NAME")
@@ -21,6 +18,20 @@ index = pc.Index(PINECONE_INDEX_NAME)
 
 # Skapa FastAPI-app
 app = FastAPI()
+
+# Lägg till CORS-stöd och tillåt endast din domän
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["https://www.csrd-guiden.net"],  # Ändra till din domän
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
+
+# Rot-endpoint
+@app.get("/")
+async def read_root():
+    return {"message": "API fungerar!"}
 
 # Modell för att ta emot data
 class MessageInput(BaseModel):
@@ -80,16 +91,3 @@ async def search_vector(data: SearchInput):
 
     except Exception as e:
         raise HTTPException(status_code=500, detail=f"Fel vid sökning: {str(e)}")
-
-# Lägg till CORS-stöd och tillåt endast din domän
-app.add_middleware(
-    CORSMiddleware,
-    allow_origins=["*"],  # Testa med detta först, ändra sedan tillbaka till ["https://www.csrd-guiden.net"]
-    allow_credentials=True,
-    allow_methods=["*"],
-    allow_headers=["*"],
-)
-
-if __name__ == "__main__":
-    port = int(os.environ.get("PORT", 8000))  # Render brukar använda 8000
-    uvicorn.run(app, host="0.0.0.0", port=port)
