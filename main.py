@@ -79,15 +79,28 @@ async def search_vector(data: SearchInput):
         if search_results["matches"] and search_results["matches"][0]["score"] > 0.8:
             best_match = search_results["matches"][0]
             print(f"Bästa matchning: {best_match}")
-            return {"response": best_match["metadata"]["text"], "source": "database"}
 
+            # GPT-4 tolkar databasens svar
+            gpt_response = client.chat.completions.create(
+                model="gpt-4",
+                messages=[
+                    {"role": "system", "content": f"Du är en expert på CSRD och ESRS. Svara på användarens fråga baserat på följande kontext: {best_match['metadata']['text']}"},
+                    {"role": "user", "content": data.message}
+                ]
+            )
+            print(f"GPT-4-svar: {gpt_response}")
+            return {"response": gpt_response.choices[0].message.content, "source": "database"}
+
+        # Ingen matchning hittades, använd GPT-4 direkt
         gpt_response = client.chat.completions.create(
             model="gpt-4",
-            messages=[{"role": "system", "content": "Du är en expert på CSRD och ESRS."},
-                      {"role": "user", "content": data.message}]
+            messages=[
+                {"role": "system", "content": "Du är en expert på CSRD och ESRS. Svara på användarens fråga."},
+                {"role": "user", "content": data.message}
+            ]
         )
         print(f"GPT-4-svar: {gpt_response}")
-        return {"response": gpt_response["choices"][0]["message"]["content"], "source": "gpt-4"}
+        return {"response": gpt_response.choices[0].message.content, "source": "gpt-4"}
 
     except Exception as e:
         print(f"Fel vid sökning: {str(e)}")
