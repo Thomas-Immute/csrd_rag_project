@@ -73,18 +73,30 @@ async def search_vector(data: SearchInput):
         query_vector = response.data[0].embedding
         print(f"Embedding skapad: {query_vector[:5]}...")
 
-        search_results = index.query(vector=query_vector, top_k=1, include_metadata=True)
+        search_results = index.query(vector=query_vector, top_k=3, include_metadata=True)
         print(f"Pinecone-resultat: {search_results}")
 
-        if search_results["matches"] and search_results["matches"][0]["score"] > 0.8:
+        if search_results["matches"] and search_results["matches"][0]["score"] > 0.7:
             best_match = search_results["matches"][0]
-            print(f"Bästa matchning: {best_match}")
+            best_match_chunk_id = int(best_match["metadata"]["chunk_id"])
+            best_match_document_id = best_match["metadata"]["document_id"]
+
+            context = best_match["metadata"]["text"] + "\n"
+
+            # Hämta angränsande vektorer
+            for match in search_results["matches"]:
+                if match["metadata"]["document_id"] == best_match_document_id:
+                    match_chunk_id = int(match["metadata"]["chunk_id"])
+                    if match_chunk_id == best_match_chunk_id - 1:
+                        context = match["metadata"]["text"] + "\n" + context
+                    elif match_chunk_id == best_match_chunk_id + 1:
+                        context = context + match["metadata"]["text"] + "\n"
 
             # GPT-4 tolkar databasens svar
             gpt_response = client.chat.completions.create(
                 model="gpt-4",
                 messages=[
-                    {"role": "system", "content": f"Du är en expert på CSRD och ESRS. Svara på användarens fråga baserat på följande kontext: {best_match['metadata']['text']}"},
+                    {"role": "system", "content": f"Du är en expert på CSRD och ESRS. Svara på användarens fråga baserat på följande kontext: {context}"},
                     {"role": "user", "content": data.message}
                 ]
             )
